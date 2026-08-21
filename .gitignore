@@ -1,0 +1,4 @@
+*.zip
+*.tmp
+__MACOSX/
+.DS_Store
