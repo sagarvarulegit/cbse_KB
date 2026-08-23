@@ -34,7 +34,10 @@ def validate_pdf(file_path: str) -> tuple[bool, int, str]:
     try:
         doc = fitz.open(file_path)
         pages = len(doc)
+        is_enc = doc.is_encrypted
         doc.close()
+        if pages == 0:
+            return False, size, "Document has 0 pages (empty or password-locked)"
         return True, pages, f"OK ({pages} pages, {size // 1024} KB)"
     except Exception as e:
         return False, size, f"Corrupted PDF: {e}"
