@@ -1,0 +1,718 @@
+{
+  "subjectCode": "086",
+  "year": 2026,
+  "paperSet": "31/2/2",
+  "totalQuestions": 39,
+  "totalMarksCalculated": 80.0,
+  "questions": [
+    {
+      "qNo": 1,
+      "section": "General",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(C) / Asexual reproduction by breaking up of Spirogyra filaments\ninto smaller parts",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        13
+      ]
+    },
+    {
+      "qNo": 2,
+      "section": "General",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(D) / 1 : 2 : 1",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        13
+      ]
+    },
+    {
+      "qNo": 3,
+      "section": "General",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(C) / Chemotropism",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        13
+      ]
+    },
+    {
+      "qNo": 4,
+      "section": "General",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(D) / The guard cells have swelled due to inflow of water",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        13
+      ]
+    },
+    {
+      "qNo": 5,
+      "section": "General",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(C) / Decrease in energy at higher levels.",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        13
+      ]
+    },
+    {
+      "qNo": 6,
+      "section": "General",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(B) / (ii) and (iii)",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        13
+      ]
+    },
+    {
+      "qNo": 7,
+      "section": "General",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(B) / T5",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        13
+      ]
+    },
+    {
+      "qNo": 8,
+      "section": "General",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(B) / Both Assertion (A) and Reason (R) are true, but Reason (R) is\nnot the correct explanation of Assertion (A).",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        13
+      ]
+    },
+    {
+      "qNo": 9,
+      "section": "General",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": true,
+      "mainAnswer": "(A) / Both Assertion (A) and Reason (R) are true and (R) is the\ncorrect explanation of (A).",
+      "orAnswer": "(C)/ Assertion (A) is true but Reason (R) is false.",
+      "examinerNotes": [],
+      "sourcePages": [
+        13
+      ]
+    },
+    {
+      "qNo": 10,
+      "section": "General",
+      "questionType": "short_answer_2m",
+      "totalMarks": 2.0,
+      "stepMarksAllocated": [
+        2.0,
+        1.0,
+        1.0
+      ],
+      "hasOrChoice": true,
+      "mainAnswer": "(a) The timing and amount of hormone released are regulated by\nfeedback mechanism. For example, if the sugar levels in the blood\nrise, they are detected by the cells of the pancreas which respond\nby producing more insulin. As the blood sugar level falls, insulin\nsecretion is reduced. (Any other suitable example)",
+      "orAnswer": "(b)\n• Electrical impulse reaches only those cells that are\nconnected by nervous tissue, not each and every cell in\nthe animal body.\n• Once an electrical impulse is generated in the cell and\ntransmitted, the cell will take some time to reset its\nmechanism before it can generate and transmit a new\nimpulse. / Transmission of electrical impulses is not a\ncontinuous process.",
+      "examinerNotes": [
+        "secretion is reduced. (Any other suitable example"
+      ],
+      "sourcePages": [
+        13
+      ]
+    },
+    {
+      "qNo": 11,
+      "section": "General",
+      "questionType": "short_answer_2m",
+      "totalMarks": 2.0,
+      "stepMarksAllocated": [
+        0.5,
+        10.5
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "• No\n• Different variations give different advantages to organisms\nand only those which are beneficial to the organisms for\nsurvival are passed on to their progeny. Example- if there\nwere a population of bacteria living in temperate waters\nand if water temperature increased by global warming,\nmost of these bacteria would die but the few variants\nresistant to heat would survive and grow further.",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        13,
+        14
+      ]
+    },
+    {
+      "qNo": 12,
+      "section": "General",
+      "questionType": "short_answer_2m",
+      "totalMarks": 2.0,
+      "stepMarksAllocated": [
+        1.0,
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "• Kitchen wastes can be converted into manure/compost.\n• Newspapers, magazines, etc. can be recycled.\n• Metals/glass/plastic wastes can be recycled.\n(Any two ways or any other)",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        14
+      ]
+    },
+    {
+      "qNo": 13,
+      "section": "General",
+      "questionType": "short_answer_3m",
+      "totalMarks": 3.0,
+      "stepMarksAllocated": [
+        0.5,
+        1.0,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(a)\n• Case P- Change occurs extremely slow / No change.\n• Case Q- Limewater will turn milky because exhaled air\ncontains high concentration of carbon dioxide.\n• Case R- Fermentation occurs in sugar solution / limewater\nmay turn milky.\n(b) (i) Case Q\n(ii) Case R",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        14
+      ]
+    },
+    {
+      "qNo": 14,
+      "section": "General",
+      "questionType": "short_answer_3m",
+      "totalMarks": 3.0,
+      "stepMarksAllocated": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(a)\n• In a few reptiles, the temperature at which fertilised\neggs are kept determine whether the animal\ndeveloping from the eggs will be male or female.\n• In snails, individuals can change sex.\n(Any other example)\n(b)\nMale sex Female sex chromosome\nchromosome\nMale has a mismatched pair Female has a perfect pair\ni.e. 'XY' chromosomes. i.e. 'XX' chromosomes.\nY chromosome is smaller Both X chromosomes are of\nthan X chromosome same size\n(Any one difference, Any other difference)",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        14
+      ]
+    },
+    {
+      "qNo": 15,
+      "section": "General",
+      "questionType": "long_answer",
+      "totalMarks": 5.0,
+      "stepMarksAllocated": [
+        1.0,
+        1.0,
+        2.0,
+        1.0,
+        2.0,
+        2.0,
+        0.5,
+        0.5
+      ],
+      "hasOrChoice": true,
+      "mainAnswer": "(a) (i)\n• Organ - Testes\n• Conditions - Requires a lower temperature than the normal\nbody temperature/Secretion of testosterone.\n(ii) The sperms formed in the testes are carried by Vas deferens\nand delivered to urethra (Common passage for both sperms\n/\nand urine).\nFemale sex chromosome\nFemale has a perfect pair\ni.e. 'XX' chromosomes.\nBoth X chromosomes are of\nsame size\nTestes →Vas deferens → Urethra\n(iii) Long tail of sperms.",
+      "orAnswer": "(b)(i)\n• Mechanical barrier / Female condom (Diaphragm)/ or\nsimilar covering worn in vagina\n• Oral contraceptives/ Oral pills\n• Copper - T / loops.\n(Any two methods, Any other method)\n(ii) Surgical methods\n• Vas deferens in the male is blocked / Vasectomy\n• Fallopian tube in the female is blocked /Tubectomy\n(iii)\nBacteria - Gonorrhoea / Syphilis (any other example)\nVirus - Warts / AIDS (any other example)",
+      "examinerNotes": [],
+      "sourcePages": [
+        14,
+        15
+      ]
+    },
+    {
+      "qNo": 16,
+      "section": "General",
+      "questionType": "case_study",
+      "totalMarks": 4.0,
+      "stepMarksAllocated": [
+        1.0,
+        1.0,
+        2.0,
+        2.0
+      ],
+      "hasOrChoice": true,
+      "mainAnswer": "(a) Actions which are controlled by forebrain / Actions which are\nunder our control and are performed according to our will.\n(b) Cerebellum.\n(c) (i) Regulates involuntary functions like heart rate/ blood\npressure/ Breathing / sneezing/ vomiting.",
+      "orAnswer": "(c) (ii) Animal muscles are made up of special proteins, that\nchange both shape and arrangement in response to nervous\nelectrical impulses, new arrangements of these proteins give the\nmuscle cells a shorter form so, muscle cells move which help\nanimals to move.",
+      "examinerNotes": [],
+      "sourcePages": [
+        15
+      ]
+    },
+    {
+      "qNo": 17,
+      "section": "SECTION – B Chemistry",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(B) / Tartaric Acid",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        15
+      ]
+    },
+    {
+      "qNo": 18,
+      "section": "SECTION – B Chemistry",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(D) /pH falls below 5.6",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        15
+      ]
+    },
+    {
+      "qNo": 19,
+      "section": "SECTION – B Chemistry",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(D) / (ii)and (iii)",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        15
+      ]
+    },
+    {
+      "qNo": 20,
+      "section": "SECTION – B Chemistry",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(C) / X-Hydrochloric acid, Y-Carbon dioxide",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        15
+      ]
+    },
+    {
+      "qNo": 21,
+      "section": "SECTION – B Chemistry",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(B) / Mg reacts with water to produce H gas which helps in\n2\nFloating",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        15
+      ]
+    },
+    {
+      "qNo": 22,
+      "section": "SECTION – B Chemistry",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(B) / The jewellery comes in contact with air, moisture and acids\nand corrodes.",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        15
+      ]
+    },
+    {
+      "qNo": 23,
+      "section": "SECTION – B Chemistry",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(C) / The green colour of the salt fades and a gas with the smell of\nburning sulphur is evolved.",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        15
+      ]
+    },
+    {
+      "qNo": 24,
+      "section": "SECTION – B Chemistry",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(C) / Assertion (A) is true, but Reason (R) is false.",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        16
+      ]
+    },
+    {
+      "qNo": 25,
+      "section": "SECTION – B Chemistry",
+      "questionType": "short_answer_2m",
+      "totalMarks": 2.0,
+      "stepMarksAllocated": [
+        1.0,
+        0.5,
+        0.5
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(a)To follow the law of conservation of mass\n(b) Oxidising agent - O /Oxygen\n2\nReducing agent - Na/ Sodium",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        16
+      ]
+    },
+    {
+      "qNo": 26,
+      "section": "SECTION – B Chemistry",
+      "questionType": "short_answer_3m",
+      "totalMarks": 3.0,
+      "stepMarksAllocated": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(a)Highly reactive metals have more affinity for oxygen than\ncarbon.\n(b)Because a considerable amount of energy is required to break\nthe strong inter-ionic attraction /Because of strong forces of\nattraction between oppositely charged ions.\n(c) Because of its low melting point.",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        16
+      ]
+    },
+    {
+      "qNo": 27,
+      "section": "SECTION – B Chemistry",
+      "questionType": "short_answer_3m",
+      "totalMarks": 3.0,
+      "stepMarksAllocated": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "hasOrChoice": true,
+      "mainAnswer": "(a)\n(i)\n• Lithium(Li) / Sodium(Na) / Potassium(K) (anyone)\n• Graphite\n(ii)",
+      "orAnswer": "(b)\n(i) It is easier to obtain metal from its metal oxide / It is easier to\nreduce metal oxide to metal.\n(ii) Aluminium Oxide can react with both acids as well as bases to\nform salt and water.\n/\n(iii)As they are highly reactive metals so exist in combined state.",
+      "examinerNotes": [],
+      "sourcePages": [
+        16
+      ]
+    },
+    {
+      "qNo": 28,
+      "section": "SECTION – B Chemistry",
+      "questionType": "case_study",
+      "totalMarks": 4.0,
+      "stepMarksAllocated": [
+        0.5,
+        0.5,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "hasOrChoice": true,
+      "mainAnswer": "(a) X- Chlorine gas\nY- Hydrogen gas\n(b)\n(deduct ½ marks for no/incorrect balancing)\n(c) (i)\n(I) Red litmus solution will turn blue.\n(II) Sodium hydrogen carbonate and Ammonium chloride\nwill be formed/ NaHCO and NH Cl will be formed\n3 4\n/\n(award marks even if only equation is given)",
+      "orAnswer": "(c) (ii)\n• Bleaching Powder / CaOCl / Ca(ClO)\n2 2\n• Ca(OH)2 + Cl2 → CaOCl2 + H2O /\n2Ca(OH) +2Cl →Ca(ClO) +CaCl +H O\n2 2 2 2 2\n(deduct ½ marks for no/incorrect balancing)",
+      "examinerNotes": [
+        "deduct ½ marks for no/incorrect balancing",
+        "deduct ½ marks for no/incorrect balancing"
+      ],
+      "sourcePages": [
+        16,
+        17
+      ]
+    },
+    {
+      "qNo": 29,
+      "section": "SECTION – B Chemistry",
+      "questionType": "long_answer",
+      "totalMarks": 5.0,
+      "stepMarksAllocated": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "hasOrChoice": true,
+      "mainAnswer": "(a)\n(i) P- Ethanol /C H OH / CH CH OH\n2 5 3 2\n(ii)\n(I)\n(II) Dehydrating agent / Catalyst\n(iii)\n• Sweet smelling compound/ester is formed.\n•",
+      "orAnswer": "(b) (i) (any other resonating structure)\n(ii)\nC4+\nCarbon cannot form cation because removal of\nfour electrons is energetically not possible. Carbon\nC4−\ncannot form anion because nucleus with six\nprotons cannot hold ten electrons.\n(iii) Covalent bond\n(iv)\n/\nEthanol is converted to Ethanoic Acid by adding\nAlkaline KMnO /Acidified K Cr O as oxidising agent.\n4 2 2 7\n(v)\nSection C\nPhysics",
+      "examinerNotes": [],
+      "sourcePages": [
+        17,
+        18
+      ]
+    },
+    {
+      "qNo": 30,
+      "section": "SECTION – B Chemistry",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(B) / Red, Yellow, Green, Blue, Violet",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        18
+      ]
+    },
+    {
+      "qNo": 31,
+      "section": "SECTION – B Chemistry",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(A) / Concave mirror; Nature of the image – real",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        18
+      ]
+    },
+    {
+      "qNo": 32,
+      "section": "SECTION – B Chemistry",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(C) / Assertion (A) is true, but Reason (R) is false",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        18
+      ]
+    },
+    {
+      "qNo": 33,
+      "section": "SECTION – B Chemistry",
+      "questionType": "short_answer_2m",
+      "totalMarks": 2.0,
+      "stepMarksAllocated": [
+        0.5,
+        1.0,
+        0.5
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "Sin i\n=n\nSin r\nr = 900 − 600 = 300\nSin i = n Sin r\nSin i = √3 Sin 300\n1\nSin i = 3\n2\ni = 60",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        18
+      ]
+    },
+    {
+      "qNo": 34,
+      "section": "SECTION – B Chemistry",
+      "questionType": "short_answer_2m",
+      "totalMarks": 2.0,
+      "stepMarksAllocated": [
+        1.0,
+        1.0,
+        2.0
+      ],
+      "hasOrChoice": true,
+      "mainAnswer": "(a)\n• If the distance of the object from the eye is increased,\nciliary muscles relax, lens becomes thin and so the focal\nlength increases\n• If the distance between the object from the eye is\ndecreased, the ciliary muscles contract, lens becomes thick\nand the focal length decreases.",
+      "orAnswer": "(b) In myopic eye image is formed in front of the retina. A\nconcave lens / diverging lens of suitable power will bring\nthe image back on to the retina.",
+      "examinerNotes": [],
+      "sourcePages": [
+        18,
+        19
+      ]
+    },
+    {
+      "qNo": 35,
+      "section": "SECTION – B Chemistry",
+      "questionType": "short_answer_3m",
+      "totalMarks": 3.0,
+      "stepMarksAllocated": [
+        1.0,
+        1.0,
+        0.5,
+        0.5
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(a)\n• Angle of incidence is equal to angle of reflection.\n• The incident ray, the normal to the mirror at the point of\nincidence and the reflected ray, all lie in the same plane.\n(b) i = 900 − 400 = 500\nr = i = 500",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        19
+      ]
+    },
+    {
+      "qNo": 36,
+      "section": "SECTION – B Chemistry",
+      "questionType": "short_answer_3m",
+      "totalMarks": 3.0,
+      "stepMarksAllocated": [
+        2.0,
+        0.5,
+        0.5
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "Resistance = Slope of V – I graph\nBC\nR =\nAC\n6.0 − 1.2\nR =\n2.0 − 0.4\nR = 3 Ω",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        19
+      ]
+    },
+    {
+      "qNo": 37,
+      "section": "SECTION – B Chemistry",
+      "questionType": "short_answer_3m",
+      "totalMarks": 3.0,
+      "stepMarksAllocated": [
+        1.0,
+        2.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "• The phenomenon of spreading light in different directions\non interaction with particles of the medium.\n• Light bounces back in a fixed direction after reflection\nwhile in scattering of light, it spreads in different\n/\ndirections. Reflection of light is independent of the size of\nreflecting particles whereas the colour of the scattered light\ndepends upon the size of scattering particles.",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        19
+      ]
+    },
+    {
+      "qNo": 38,
+      "section": "SECTION – B Chemistry",
+      "questionType": "case_study",
+      "totalMarks": 4.0,
+      "stepMarksAllocated": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "hasOrChoice": true,
+      "mainAnswer": "(a) A part of current is consumed into useful work and rest is\nexpended in heat to raise the temperature of gadget.\n(any other suitable explanation)\n(b)\nW=V x Q= VIt = IR x It\nH = I2Rt / 𝑉2 t\n𝑅\n(c) (i) Electric heater, Oven, Electric iron (Any two, Any other)",
+      "orAnswer": "(c) (ii) When 1 kilowatt of power is used for 1 hour then energy\nconsumed is 1 kWh\n1 kWh = 3.6×106J",
+      "examinerNotes": [
+        "any other suitable explanation"
+      ],
+      "sourcePages": [
+        19,
+        20
+      ]
+    },
+    {
+      "qNo": 39,
+      "section": "SECTION – B Chemistry",
+      "questionType": "long_answer",
+      "totalMarks": 5.0,
+      "stepMarksAllocated": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        0.5,
+        0.5,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "hasOrChoice": true,
+      "mainAnswer": "(a) (i)\n(I) Imagine that you are holding a current carrying straight\nconductor in your right hand such that the thumb points towards\nthe direction of current. Then your fingers will wrap around the\nconductor in the direction of the field lines of the magnetic field.\n(II) Stretch the thumb, fore finger and middle finger of your left\nhand such that they are mutually perpendicular. If the first\nfinger (forefinger) points in the direction of the magnetic\nfield and the middle finger (second finger) in the direction of\nthe current, then the thumb will point in the direction of\nmotion or the force acting on the conductor.\n(ii) (I)\nDiagram\nDirection of current and magnetic field\n(II) Maximum- At point A\nMinimum- At point B",
+      "orAnswer": "(b) (i)\n(I)To study the magnetic effect of current.\n(II) It shows that a magnetic field is produced around the\ncurrent carrying conductor.\n(ii)\n(I) The magnetic field of a solenoid is similar to that of a bar\nmagnet in which the field lines emerge from one end\n(North pole) showing divergence and merge at the other\nend (South pole) showing convergence.\n(II) The current carrying solenoid behaves like a bar magnet\nwhich aligns itself along a particular direction (N-S) due to\nearth's magnetic field.\n(III) If a fuse of higher rating is used, it will not be able to\n/\nprevent the damage due to overloading.\nIf a fuse of lower rating is used, it will melt and break the\ncircuit.\n- o O o -",
+      "examinerNotes": [],
+      "sourcePages": [
+        20,
+        21
+      ]
+    }
+  ]
+}

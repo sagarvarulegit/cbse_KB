@@ -1,0 +1,917 @@
+{
+  "chapterNumber": 1,
+  "subject": "science",
+  "totalQuestions": 43,
+  "questions": [
+    {
+      "qNo": 1,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "Which of the following is not a physical change?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Boiling of water to give water vapour"
+        },
+        {
+          "key": "b",
+          "text": "Melting of ice to give water"
+        },
+        {
+          "key": "c",
+          "text": "Dissolution of salt in water"
+        },
+        {
+          "key": "d",
+          "text": "Combustion of Liquefied Petroleum Gas (LPG)"
+        }
+      ],
+      "fullText": "Which of the following is not a physical change?\n(a) Boiling of water to give water vapour\n(b) Melting of ice to give water\n(c) Dissolution of salt in water\n(d) Combustion of Liquefied Petroleum Gas (LPG)"
+    },
+    {
+      "qNo": 2,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "The following reaction is an example of a\n4NH3(g) + 5O2(g) → 4NO(g) + 6H2O(g)\n(i) displacement reaction\n(ii) combination reaction\n(iii) redox reaction\n(iv) neutralisation reaction",
+      "options": [
+        {
+          "key": "a",
+          "text": "(i) and (iv)"
+        },
+        {
+          "key": "b",
+          "text": "(ii) and (iii)"
+        },
+        {
+          "key": "c",
+          "text": "(i) and (iii)"
+        },
+        {
+          "key": "d",
+          "text": "(iii) and (iv)"
+        }
+      ],
+      "fullText": "The following reaction is an example of a\n4NH3(g) + 5O2(g) → 4NO(g) + 6H2O(g)\n(i) displacement reaction\n(ii) combination reaction\n(iii) redox reaction\n(iv) neutralisation reaction\n(a) (i) and (iv)\n(b) (ii) and (iii)\n(c) (i) and (iii)\n(d) (iii) and (iv)"
+    },
+    {
+      "qNo": 3,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "Which of the following statements about the given reaction are correct?\n3Fe(s) + 4H2O(g) → Fe3O4(s) + 4H2(g)\n(i) Iron metal is getting oxidised\n(ii) Water is getting reduced\n(iii) Water is acting as reducing agent\n(iv) Water is acting as oxidising agent",
+      "options": [
+        {
+          "key": "a",
+          "text": "(i), (ii) and (iii)"
+        },
+        {
+          "key": "b",
+          "text": "(iii) and (iv)"
+        },
+        {
+          "key": "c",
+          "text": "(i), (ii) and (iv)"
+        },
+        {
+          "key": "d",
+          "text": "(ii) and (iv)"
+        }
+      ],
+      "fullText": "Which of the following statements about the given reaction are correct?\n3Fe(s) + 4H2O(g) → Fe3O4(s) + 4H2(g)\n(i) Iron metal is getting oxidised\n(ii) Water is getting reduced\n(iii) Water is acting as reducing agent\n(iv) Water is acting as oxidising agent\n(a) (i), (ii) and (iii)\n(b) (iii) and (iv)\n(c) (i), (ii) and (iv)\n(d) (ii) and (iv)"
+    },
+    {
+      "qNo": 4,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "Which of the following are exothermic processes?\n(i) Reaction of water with quick lime\n(ii) Dilution of an acid\n(iii) Evaporation of water\n(iv) Sublimation of camphor (crystals)",
+      "options": [
+        {
+          "key": "a",
+          "text": "(i) and (ii)"
+        },
+        {
+          "key": "b",
+          "text": "(ii) and (iii)"
+        },
+        {
+          "key": "c",
+          "text": "(i) and (iv)"
+        },
+        {
+          "key": "d",
+          "text": "(iii) and (iv)\n%JGOKECN 4GCEVKQPU\nCPF 'SWCVKQPU\n%*#26'4"
+        }
+      ],
+      "fullText": "Which of the following are exothermic processes?\n(i) Reaction of water with quick lime\n(ii) Dilution of an acid\n(iii) Evaporation of water\n(iv) Sublimation of camphor (crystals)\n(a) (i) and (ii)\n(b) (ii) and (iii)\n(c) (i) and (iv)\n(d) (iii) and (iv)\n%JGOKECN 4GCEVKQPU\nCPF 'SWCVKQPU\n%*#26'4"
+    },
+    {
+      "qNo": 5,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "Three beakers labelled as A, B and C each containing 25 mL\nof water were taken. A small amount of NaOH, anhydrous\nCuSO4 and NaCl were added to the beakers A, B and C\nrespectively. It was observed that there was an increase in\nthe temperature of the solutions contained in beakers A and\nB, whereas in case of beaker C, the temperature of the\nsolution falls. Which one of the following statement(s) is(are)\ncorrect?\n(i) In beakers A and B, exothermic process has occurred.\n(ii) In beakers A and B, endothermic process has occurred.\n(iii) In beaker C exothermic process has occurred.\n(iv) In beaker C endothermic process has occurred.",
+      "options": [
+        {
+          "key": "a",
+          "text": "(i) only"
+        },
+        {
+          "key": "b",
+          "text": "(ii) only"
+        },
+        {
+          "key": "c",
+          "text": "(i) and (iv)"
+        },
+        {
+          "key": "d",
+          "text": "(ii) and (iii)"
+        }
+      ],
+      "fullText": "Three beakers labelled as A, B and C each containing 25 mL\nof water were taken. A small amount of NaOH, anhydrous\nCuSO4 and NaCl were added to the beakers A, B and C\nrespectively. It was observed that there was an increase in\nthe temperature of the solutions contained in beakers A and\nB, whereas in case of beaker C, the temperature of the\nsolution falls. Which one of the following statement(s) is(are)\ncorrect?\n(i) In beakers A and B, exothermic process has occurred.\n(ii) In beakers A and B, endothermic process has occurred.\n(iii) In beaker C exothermic process has occurred.\n(iv) In beaker C endothermic process has occurred.\n(a) (i) only\n(b) (ii) only\n(c) (i) and (iv)\n(d) (ii) and (iii)"
+    },
+    {
+      "qNo": 6,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "A dilute ferrous sulphate solution was gradually added to the\nbeaker containing acidified permanganate solution. The light\npurple colour of the solution fades and finally disappears.\nWhich of the following is the correct explanation for the\nobservation?",
+      "options": [
+        {
+          "key": "a",
+          "text": "KMnO4 is an oxidising agent, it oxidises  FeSO4"
+        },
+        {
+          "key": "b",
+          "text": "FeSO4  acts as an oxidising agent and oxidises KMnO4"
+        },
+        {
+          "key": "c",
+          "text": "The colour disappears due to dilution; no reaction is involved"
+        },
+        {
+          "key": "d",
+          "text": "KMnO4 is an unstable compound and decomposes in presence\nof FeSO4 to a colourless compound."
+        }
+      ],
+      "fullText": "A dilute ferrous sulphate solution was gradually added to the\nbeaker containing acidified permanganate solution. The light\npurple colour of the solution fades and finally disappears.\nWhich of the following is the correct explanation for the\nobservation?\n(a) KMnO4 is an oxidising agent, it oxidises  FeSO4\n(b) FeSO4  acts as an oxidising agent and oxidises KMnO4\n(c) The colour disappears due to dilution; no reaction is involved\n(d) KMnO4 is an unstable compound and decomposes in presence\nof FeSO4 to a colourless compound."
+    },
+    {
+      "qNo": 7,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "Which among the following is(are) double displacement\nreaction(s)?\n(i) Pb + CuCl2 → PbCl2 + Cu\n(ii) Na2SO4 + BaCl2 → BaSO4 + 2NaCl\n(iii) C + O2 → CO2\n(iv) CH4 + 2O2 → CO2 + 2H2O",
+      "options": [
+        {
+          "key": "a",
+          "text": "(i) and (iv)"
+        },
+        {
+          "key": "b",
+          "text": "(ii) only"
+        },
+        {
+          "key": "c",
+          "text": "(i) and (ii)"
+        },
+        {
+          "key": "d",
+          "text": "(iii) and (iv)"
+        }
+      ],
+      "fullText": "Which among the following is(are) double displacement\nreaction(s)?\n(i) Pb + CuCl2 → PbCl2 + Cu\n(ii) Na2SO4 + BaCl2 → BaSO4 + 2NaCl\n(iii) C + O2 → CO2\n(iv) CH4 + 2O2 → CO2 + 2H2O\n(a) (i) and (iv)\n(b) (ii) only\n(c) (i) and (ii)\n(d) (iii) and (iv)"
+    },
+    {
+      "qNo": 8,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "Which among the following statement(s) is(are) true? Exposure of\nsilver chloride  to sunlight for a long duration turns grey due to\n(i) the formation of silver by decomposition of silver chloride\n(ii)  sublimation of silver chloride\n(iii) decomposition of chlorine gas from silver chloride\n(iv) oxidation of silver chloride",
+      "options": [
+        {
+          "key": "a",
+          "text": "(i) only"
+        },
+        {
+          "key": "b",
+          "text": "(i) and (iii)"
+        },
+        {
+          "key": "c",
+          "text": "(ii) and (iii)"
+        },
+        {
+          "key": "d",
+          "text": "(iv) only"
+        }
+      ],
+      "fullText": "Which among the following statement(s) is(are) true? Exposure of\nsilver chloride  to sunlight for a long duration turns grey due to\n(i) the formation of silver by decomposition of silver chloride\n(ii)  sublimation of silver chloride\n(iii) decomposition of chlorine gas from silver chloride\n(iv) oxidation of silver chloride\n(a) (i) only\n(b) (i) and (iii)\n(c) (ii) and (iii)\n(d) (iv) only"
+    },
+    {
+      "qNo": 9,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "Solid calcium oxide  reacts vigorously with water to form calcium\nhydroxide  accompanied by liberation of heat. This process is\ncalled slaking of lime.  Calcium hydroxide dissolves in water to\nform its solution called lime water. Which among the following is\n(are) true about slaking of lime and the solution formed?\n(i) It is an endothermic reaction\n(ii) It is an exothermic reaction\n(iii) The pH of the resulting solution will be more than seven\n(iv) The pH of the resulting solution will be less than seven",
+      "options": [
+        {
+          "key": "a",
+          "text": "(i) and (ii)"
+        },
+        {
+          "key": "b",
+          "text": "(ii) and (iii)"
+        },
+        {
+          "key": "c",
+          "text": "(i) and (iv)"
+        },
+        {
+          "key": "d",
+          "text": "(iii) and (iv)"
+        }
+      ],
+      "fullText": "Solid calcium oxide  reacts vigorously with water to form calcium\nhydroxide  accompanied by liberation of heat. This process is\ncalled slaking of lime.  Calcium hydroxide dissolves in water to\nform its solution called lime water. Which among the following is\n(are) true about slaking of lime and the solution formed?\n(i) It is an endothermic reaction\n(ii) It is an exothermic reaction\n(iii) The pH of the resulting solution will be more than seven\n(iv) The pH of the resulting solution will be less than seven\n(a) (i) and (ii)\n(b) (ii) and (iii)\n(c) (i) and (iv)\n(d) (iii) and (iv)"
+    },
+    {
+      "qNo": 10,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "Barium chloride on reacting with ammonium sulphate forms\nbarium sulphate and ammonium chloride. Which of the following\ncorrectly represents the type of the reaction involved?\n(i) Displacement reaction\n(ii) Precipitation reaction\n(iii) Combination reaction\n(iv) Double displacement reaction",
+      "options": [
+        {
+          "key": "a",
+          "text": "(i) only"
+        },
+        {
+          "key": "b",
+          "text": "(ii) only"
+        },
+        {
+          "key": "c",
+          "text": "(iv) only"
+        },
+        {
+          "key": "d",
+          "text": "(ii) and (iv)"
+        }
+      ],
+      "fullText": "Barium chloride on reacting with ammonium sulphate forms\nbarium sulphate and ammonium chloride. Which of the following\ncorrectly represents the type of the reaction involved?\n(i) Displacement reaction\n(ii) Precipitation reaction\n(iii) Combination reaction\n(iv) Double displacement reaction\n(a) (i) only\n(b) (ii) only\n(c) (iv) only\n(d) (ii) and (iv)"
+    },
+    {
+      "qNo": 11,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "Electrolysis of water is a decomposition reaction. The mole ratio of\nhydrogen and oxygen gases liberated during electrolysis of water is",
+      "options": [
+        {
+          "key": "a",
+          "text": "1:1"
+        },
+        {
+          "key": "b",
+          "text": "2:1"
+        },
+        {
+          "key": "c",
+          "text": "4:1"
+        },
+        {
+          "key": "d",
+          "text": "1:2"
+        }
+      ],
+      "fullText": "Electrolysis of water is a decomposition reaction. The mole ratio of\nhydrogen and oxygen gases liberated during electrolysis of water is\n(a) 1:1\n(b) 2:1\n(c) 4:1\n(d) 1:2"
+    },
+    {
+      "qNo": 12,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "Which of the following is(are) an endothermic process(es)?\n(i) Dilution of sulphuric acid\n(ii) Sublimation of dry ice\n(iii) Condensation of water vapours\n(iv) Evaporation of water",
+      "options": [
+        {
+          "key": "a",
+          "text": "(i) and (iii)"
+        },
+        {
+          "key": "b",
+          "text": "(ii) only"
+        },
+        {
+          "key": "c",
+          "text": "(iii) only"
+        },
+        {
+          "key": "d",
+          "text": "(ii) and (iv)"
+        }
+      ],
+      "fullText": "Which of the following is(are) an endothermic process(es)?\n(i) Dilution of sulphuric acid\n(ii) Sublimation of dry ice\n(iii) Condensation of water vapours\n(iv) Evaporation of water\n(a) (i) and (iii)\n(b) (ii) only\n(c) (iii) only\n(d) (ii) and (iv)"
+    },
+    {
+      "qNo": 13,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "In the double displacement reaction between aqueous potassium\niodide and aqueous lead nitrate, a yellow precipitate of lead iodide\nis formed. While performing the activity if lead nitrate is not\navailable, which of the following can be used in place of lead\nnitrate?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Lead sulphate (insoluble)"
+        },
+        {
+          "key": "b",
+          "text": "Lead acetate"
+        },
+        {
+          "key": "c",
+          "text": "Ammonium nitrate"
+        },
+        {
+          "key": "d",
+          "text": "Potassium sulphate"
+        }
+      ],
+      "fullText": "In the double displacement reaction between aqueous potassium\niodide and aqueous lead nitrate, a yellow precipitate of lead iodide\nis formed. While performing the activity if lead nitrate is not\navailable, which of the following can be used in place of lead\nnitrate?\n(a) Lead sulphate (insoluble)\n(b) Lead acetate\n(c) Ammonium nitrate\n(d) Potassium sulphate"
+    },
+    {
+      "qNo": 14,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "Which of the following gases can be used for storage of fresh\nsample of an oil for a long time?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Carbon  dioxide or oxygen"
+        },
+        {
+          "key": "b",
+          "text": "Nitrogen or oxygen"
+        },
+        {
+          "key": "c",
+          "text": "Carbon dioxide or helium"
+        },
+        {
+          "key": "d",
+          "text": "Helium or nitrogen"
+        }
+      ],
+      "fullText": "Which of the following gases can be used for storage of fresh\nsample of an oil for a long time?\n(a) Carbon  dioxide or oxygen\n(b) Nitrogen or oxygen\n(c) Carbon dioxide or helium\n(d) Helium or nitrogen"
+    },
+    {
+      "qNo": 15,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "The following reaction is used for the preparation of oxygen gas\nin the laboratory\n2KClO3 (s)\nHeat\nt\nCatalys\n⎯⎯⎯⎯⎯→ 2KCl (s) + 3O2 (g)\nWhich of the following statement(s) is(are) correct about the\nreaction?",
+      "options": [
+        {
+          "key": "a",
+          "text": "It is a decomposition reaction and endothermic in nature"
+        },
+        {
+          "key": "b",
+          "text": "It is a combination reaction"
+        },
+        {
+          "key": "c",
+          "text": "It is a decomposition reaction and accompanied by release of\nheat"
+        },
+        {
+          "key": "d",
+          "text": "It is a photochemical decomposition reaction and exothermic\nin nature"
+        }
+      ],
+      "fullText": "The following reaction is used for the preparation of oxygen gas\nin the laboratory\n2KClO3 (s)\nHeat\nt\nCatalys\n⎯⎯⎯⎯⎯→ 2KCl (s) + 3O2 (g)\nWhich of the following statement(s) is(are) correct about the\nreaction?\n(a) It is a decomposition reaction and endothermic in nature\n(b) It is a combination reaction\n(c) It is a decomposition reaction and accompanied by release of\nheat\n(d) It is a photochemical decomposition reaction and exothermic\nin nature"
+    },
+    {
+      "qNo": 16,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "Which one of the following processes involve chemical reactions?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Storing of oxygen gas under pressure in a gas cylinder"
+        },
+        {
+          "key": "b",
+          "text": "Liquefaction of air"
+        },
+        {
+          "key": "c",
+          "text": "Keeping petrol in a china dish in the open"
+        },
+        {
+          "key": "d",
+          "text": "Heating copper wire in presence of air at high temperature"
+        }
+      ],
+      "fullText": "Which one of the following processes involve chemical reactions?\n(a) Storing of oxygen gas under pressure in a gas cylinder\n(b) Liquefaction of air\n(c) Keeping petrol in a china dish in the open\n(d) Heating copper wire in presence of air at high temperature"
+    },
+    {
+      "qNo": 17,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "In which of the following chemical equations, the abbreviations\nrepresent the correct states of the reactants and products involved\nat reaction temperature?",
+      "options": [
+        {
+          "key": "a",
+          "text": "2H2(l) + O2(l) → 2H2O(g)"
+        },
+        {
+          "key": "b",
+          "text": "2H2(g) + O2(l) → 2H2O(l)"
+        },
+        {
+          "key": "c",
+          "text": "2H2(g) + O2(g) → 2H2O(l)"
+        },
+        {
+          "key": "d",
+          "text": "2H2(g) + O2(g) → 2H2O(g)"
+        }
+      ],
+      "fullText": "In which of the following chemical equations, the abbreviations\nrepresent the correct states of the reactants and products involved\nat reaction temperature?\n(a) 2H2(l) + O2(l) → 2H2O(g)\n(b) 2H2(g) + O2(l) → 2H2O(l)\n(c) 2H2(g) + O2(g) → 2H2O(l)\n(d) 2H2(g) + O2(g) → 2H2O(g)"
+    },
+    {
+      "qNo": 18,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "Which of the following are combination reactions?\n(i) 2KClO3\nHeat\n⎯⎯⎯⎯→ 2KCl  + 3O2\n(ii) MgO + H2O  ⎯→ Mg(OH)2\n(iii) 4Al + 3O2   ⎯→ 2Al2 O3\n(iv) Zn + FeSO4   ⎯→ ZnSO4 + Fe",
+      "options": [
+        {
+          "key": "a",
+          "text": "(i) and (iii)"
+        },
+        {
+          "key": "b",
+          "text": "(iii) and (iv)"
+        },
+        {
+          "key": "c",
+          "text": "(ii) and (iv)"
+        },
+        {
+          "key": "d",
+          "text": "(ii) and (iii)\n5JQTV #PUYGT 3WGUVKQPU"
+        }
+      ],
+      "fullText": "Which of the following are combination reactions?\n(i) 2KClO3\nHeat\n⎯⎯⎯⎯→ 2KCl  + 3O2\n(ii) MgO + H2O  ⎯→ Mg(OH)2\n(iii) 4Al + 3O2   ⎯→ 2Al2 O3\n(iv) Zn + FeSO4   ⎯→ ZnSO4 + Fe\n(a) (i) and (iii)\n(b) (iii) and (iv)\n(c) (ii) and (iv)\n(d) (ii) and (iii)\n5JQTV #PUYGT 3WGUVKQPU"
+    },
+    {
+      "qNo": 19,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "Write the balanced chemical equations for the following reactions\nand identify the type of reaction in each case.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Nitrogen gas is treated with hydrogen gas in the presence of a\ncatalyst at 773K to form ammonia gas."
+        },
+        {
+          "key": "b",
+          "text": "Sodium hydroxide solution is treated with acetic acid to form\nsodium acetate and water."
+        },
+        {
+          "key": "c",
+          "text": "Ethanol is warmed with ethanoic acid to form ethyl acetate in\nthe presence of concentrated H2SO4 ."
+        },
+        {
+          "key": "d",
+          "text": "Ethene is burnt in the presence of oxygen to form carbon\ndioxide, water and releases heat and light."
+        }
+      ],
+      "fullText": "Write the balanced chemical equations for the following reactions\nand identify the type of reaction in each case.\n(a) Nitrogen gas is treated with hydrogen gas in the presence of a\ncatalyst at 773K to form ammonia gas.\n(b) Sodium hydroxide solution is treated with acetic acid to form\nsodium acetate and water.\n(c) Ethanol is warmed with ethanoic acid to form ethyl acetate in\nthe presence of concentrated H2SO4 .\n(d) Ethene is burnt in the presence of oxygen to form carbon\ndioxide, water and releases heat and light."
+    },
+    {
+      "qNo": 20,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "Write the balanced chemical equations for the following reactions\nand identify the type of reaction in each case.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Thermit reaction, iron (III) oxide reacts with aluminium and\ngives molten iron and aluminium oxide."
+        },
+        {
+          "key": "b",
+          "text": "Magnesium ribbon is burnt in an atmosphere of nitrogen gas\nto form solid magnesium nitride."
+        },
+        {
+          "key": "c",
+          "text": "Chlorine gas is passed in an aqueous potassium iodide\nsolution to form potassium chloride solution and solid iodine."
+        },
+        {
+          "key": "d",
+          "text": "Ethanol is burnt in air to form carbon dioxide, water and\nreleases heat."
+        }
+      ],
+      "fullText": "Write the balanced chemical equations for the following reactions\nand identify the type of reaction in each case.\n(a) Thermit reaction, iron (III) oxide reacts with aluminium and\ngives molten iron and aluminium oxide.\n(b) Magnesium ribbon is burnt in an atmosphere of nitrogen gas\nto form solid magnesium nitride.\n(c) Chlorine gas is passed in an aqueous potassium iodide\nsolution to form potassium chloride solution and solid iodine.\n(d) Ethanol is burnt in air to form carbon dioxide, water and\nreleases heat."
+    },
+    {
+      "qNo": 21,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "Complete the missing components/variables given as x and y in\nthe following reactions",
+      "options": [
+        {
+          "key": "a",
+          "text": "Pb(NO3)2 (aq) + 2KI(aq) ⎯→ PbI2 (x) + 2KNO3(y)"
+        },
+        {
+          "key": "b",
+          "text": "Cu(s) + 2Ag NO3(aq) ⎯→ Cu(NO3)2(aq) + x(s)"
+        },
+        {
+          "key": "c",
+          "text": "Zn(s) + H2SO4(aq) ⎯→ ZnSO4(x) + H2(y)"
+        },
+        {
+          "key": "d",
+          "text": "CaCO3(s)\nx\n⎯⎯⎯\n→ CaO(s) + CO2(g)"
+        }
+      ],
+      "fullText": "Complete the missing components/variables given as x and y in\nthe following reactions\n(a) Pb(NO3)2 (aq) + 2KI(aq) ⎯→ PbI2 (x) + 2KNO3(y)\n(b) Cu(s) + 2Ag NO3(aq) ⎯→ Cu(NO3)2(aq) + x(s)\n(c) Zn(s) + H2SO4(aq) ⎯→ ZnSO4(x) + H2(y)\n(d) CaCO3(s)\nx\n⎯⎯⎯\n→ CaO(s) + CO2(g)"
+    },
+    {
+      "qNo": 22,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "Which among the following changes are exothermic or\nendothermic in nature?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Decomposition of ferrous sulphate"
+        },
+        {
+          "key": "b",
+          "text": "Dilution of sulphuric acid"
+        },
+        {
+          "key": "c",
+          "text": "Dissolution of sodium hydroxide in water"
+        },
+        {
+          "key": "d",
+          "text": "Dissolution of ammonium chloride in water\n23. Identify the reducing agent in the following reactions"
+        },
+        {
+          "key": "a",
+          "text": "4NH3 + 5O2  ⎯→ 4NO + 6H2O"
+        },
+        {
+          "key": "b",
+          "text": "H2O + F2  ⎯→ HF  + HOF"
+        },
+        {
+          "key": "c",
+          "text": "Fe2O3 + 3CO ⎯→ 2Fe + 3CO2"
+        },
+        {
+          "key": "d",
+          "text": "2H2 + O2 ⎯→ 2H2O"
+        }
+      ],
+      "fullText": "Which among the following changes are exothermic or\nendothermic in nature?\n(a) Decomposition of ferrous sulphate\n(b) Dilution of sulphuric acid\n(c) Dissolution of sodium hydroxide in water\n(d) Dissolution of ammonium chloride in water\n23. Identify the reducing agent in the following reactions\n(a) 4NH3 + 5O2  ⎯→ 4NO + 6H2O\n(b) H2O + F2  ⎯→ HF  + HOF\n(c) Fe2O3 + 3CO ⎯→ 2Fe + 3CO2\n(d) 2H2 + O2 ⎯→ 2H2O"
+    },
+    {
+      "qNo": 24,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "Identify the oxidising agent (oxidant) in the following reactions",
+      "options": [
+        {
+          "key": "a",
+          "text": "Pb3O4 + 8HCl ⎯→ 3PbCl2 + Cl2 + 4H2O"
+        },
+        {
+          "key": "b",
+          "text": "2Mg + O2 ⎯→ 2MgO"
+        },
+        {
+          "key": "c",
+          "text": "CuSO4  + Zn ⎯→ Cu + ZnSO4"
+        },
+        {
+          "key": "d",
+          "text": "V2O5 + 5Ca ⎯→ 2V + 5CaO\n(e) 3Fe + 4H2O ⎯→ Fe3O4 + 4H2\n(f) CuO + H2  ⎯→ Cu + H2O"
+        }
+      ],
+      "fullText": "Identify the oxidising agent (oxidant) in the following reactions\n(a) Pb3O4 + 8HCl ⎯→ 3PbCl2 + Cl2 + 4H2O\n(b) 2Mg + O2 ⎯→ 2MgO\n(c) CuSO4  + Zn ⎯→ Cu + ZnSO4\n(d) V2O5 + 5Ca ⎯→ 2V + 5CaO\n(e) 3Fe + 4H2O ⎯→ Fe3O4 + 4H2\n(f) CuO + H2  ⎯→ Cu + H2O"
+    },
+    {
+      "qNo": 25,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "Write the balanced chemical equations for the following reactions",
+      "options": [
+        {
+          "key": "a",
+          "text": "Sodium carbonate on reaction with hydrochloric acid in equal\nmolar concentrations gives sodium chloride and sodium\nhydrogencarbonate."
+        },
+        {
+          "key": "b",
+          "text": "Sodium hydrogencarbonate on reaction with hydrochloric acid\ngives sodium chloride, water and liberates carbon dioxide."
+        },
+        {
+          "key": "c",
+          "text": "Copper sulphate on treatment with potassium iodide\nprecipitates cuprous iodide (Cu2 I2), liberates iodine gas and\nalso forms potassium sulphate."
+        }
+      ],
+      "fullText": "Write the balanced chemical equations for the following reactions\n(a) Sodium carbonate on reaction with hydrochloric acid in equal\nmolar concentrations gives sodium chloride and sodium\nhydrogencarbonate.\n(b) Sodium hydrogencarbonate on reaction with hydrochloric acid\ngives sodium chloride, water and liberates carbon dioxide.\n(c) Copper sulphate on treatment with potassium iodide\nprecipitates cuprous iodide (Cu2 I2), liberates iodine gas and\nalso forms potassium sulphate."
+    },
+    {
+      "qNo": 26,
+      "section": "Subjective Questions",
+      "type": "subjective",
+      "stem": "A solution of potassium chloride when mixed with silver nitrate\nsolution,  an insoluble white substance is formed. Write the chemical\nreaction involved and also mention the type of the chemical reaction?",
+      "options": [],
+      "fullText": "A solution of potassium chloride when mixed with silver nitrate\nsolution,  an insoluble white substance is formed. Write the chemical\nreaction involved and also mention the type of the chemical reaction?"
+    },
+    {
+      "qNo": 27,
+      "section": "Subjective Questions",
+      "type": "subjective",
+      "stem": "Ferrous sulphate decomposes with the evolution of a gas having\na characteristic odour of burning sulphur. Write the chemical\nreaction involved and identify the type of reaction.",
+      "options": [],
+      "fullText": "Ferrous sulphate decomposes with the evolution of a gas having\na characteristic odour of burning sulphur. Write the chemical\nreaction involved and identify the type of reaction."
+    },
+    {
+      "qNo": 28,
+      "section": "Subjective Questions",
+      "type": "subjective",
+      "stem": "Why do fire flies glow at night?",
+      "options": [],
+      "fullText": "Why do fire flies glow at night?"
+    },
+    {
+      "qNo": 29,
+      "section": "Subjective Questions",
+      "type": "subjective",
+      "stem": "Grapes hanging on the plant do not ferment but after being\nplucked from the plant can be fermented. Under what conditions\ndo these grapes ferment? Is it a chemical or a physical change?",
+      "options": [],
+      "fullText": "Grapes hanging on the plant do not ferment but after being\nplucked from the plant can be fermented. Under what conditions\ndo these grapes ferment? Is it a chemical or a physical change?"
+    },
+    {
+      "qNo": 30,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "Which among the following are physical or chemical changes?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Evaporation of petrol"
+        },
+        {
+          "key": "b",
+          "text": "Burning of Liquefied Petroleum Gas (LPG)"
+        },
+        {
+          "key": "c",
+          "text": "Heating of an iron rod to red hot."
+        },
+        {
+          "key": "d",
+          "text": "Curdling of milk\n(e) Sublimation of solid ammonium chloride"
+        }
+      ],
+      "fullText": "Which among the following are physical or chemical changes?\n(a) Evaporation of petrol\n(b) Burning of Liquefied Petroleum Gas (LPG)\n(c) Heating of an iron rod to red hot.\n(d) Curdling of milk\n(e) Sublimation of solid ammonium chloride"
+    },
+    {
+      "qNo": 31,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "During the reaction of some metals with dilute hydrochloric acid,\nfollowing observations were made.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Silver metal does not show any change"
+        },
+        {
+          "key": "b",
+          "text": "The temperature of the reaction mixture rises when aluminium\n(Al) is added."
+        },
+        {
+          "key": "c",
+          "text": "The reaction of sodium metal is found to be highly explosive"
+        },
+        {
+          "key": "d",
+          "text": "Some bubbles of a gas are seen when lead (Pb) is reacted with\nthe acid.\nExplain these observations giving suitable reasons."
+        }
+      ],
+      "fullText": "During the reaction of some metals with dilute hydrochloric acid,\nfollowing observations were made.\n(a) Silver metal does not show any change\n(b) The temperature of the reaction mixture rises when aluminium\n(Al) is added.\n(c) The reaction of sodium metal is found to be highly explosive\n(d) Some bubbles of a gas are seen when lead (Pb) is reacted with\nthe acid.\nExplain these observations giving suitable reasons."
+    },
+    {
+      "qNo": 32,
+      "section": "Subjective Questions",
+      "type": "subjective",
+      "stem": "A substance  X, which is an oxide of a group 2 element, is used\nintensively in the cement industry. This element is present in bones\nalso. On treatment with water it forms a solution which turns red\nlitmus blue. Identify X and also write the chemical reactions involved.",
+      "options": [],
+      "fullText": "A substance  X, which is an oxide of a group 2 element, is used\nintensively in the cement industry. This element is present in bones\nalso. On treatment with water it forms a solution which turns red\nlitmus blue. Identify X and also write the chemical reactions involved."
+    },
+    {
+      "qNo": 33,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "Write a balanced chemical equation for each of the following\nreactions and also classify them.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Lead acetate solution is treated with dilute hydrochloric acid\nto form lead chloride and acetic acid solution."
+        },
+        {
+          "key": "b",
+          "text": "A piece of sodium metal is added to absolute ethanol to form\nsodium ethoxide and hydrogen gas."
+        },
+        {
+          "key": "c",
+          "text": "Iron (III) oxide on heating  with carbon monoxide gas reacts\nto form solid iron and liberates carbon dioxide gas."
+        },
+        {
+          "key": "d",
+          "text": "Hydrogen sulphide gas reacts with oxygen gas to form solid\nsulphur and liquid water."
+        }
+      ],
+      "fullText": "Write a balanced chemical equation for each of the following\nreactions and also classify them.\n(a) Lead acetate solution is treated with dilute hydrochloric acid\nto form lead chloride and acetic acid solution.\n(b) A piece of sodium metal is added to absolute ethanol to form\nsodium ethoxide and hydrogen gas.\n(c) Iron (III) oxide on heating  with carbon monoxide gas reacts\nto form solid iron and liberates carbon dioxide gas.\n(d) Hydrogen sulphide gas reacts with oxygen gas to form solid\nsulphur and liquid water."
+    },
+    {
+      "qNo": 34,
+      "section": "Subjective Questions",
+      "type": "subjective",
+      "stem": "Why do we store silver chloride in dark coloured bottles?",
+      "options": [],
+      "fullText": "Why do we store silver chloride in dark coloured bottles?"
+    },
+    {
+      "qNo": 35,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "Balance the following chemical equations and identify the type of\nchemical reaction.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Mg(s) + Cl2(g) ⎯→ MgCl2(s)"
+        },
+        {
+          "key": "b",
+          "text": "HgO(s)\nHeat\n⎯⎯⎯⎯→ Hg(l) + O2(g)"
+        },
+        {
+          "key": "c",
+          "text": "Na(s) + S(s)\nuse\nF\n⎯⎯⎯⎯→ Na2S(s)"
+        },
+        {
+          "key": "d",
+          "text": "TiCl4(l) + Mg(s) ⎯→ Ti(s) + MgCl2(s)\n(e) CaO(s) + SiO2(s) ⎯→ CaSiO3(s)\n(f) H2O2(l)\nU V\n⎯⎯⎯⎯→ H2O(l) + O2(g)"
+        }
+      ],
+      "fullText": "Balance the following chemical equations and identify the type of\nchemical reaction.\n(a) Mg(s) + Cl2(g) ⎯→ MgCl2(s)\n(b) HgO(s)\nHeat\n⎯⎯⎯⎯→ Hg(l) + O2(g)\n(c) Na(s) + S(s)\nuse\nF\n⎯⎯⎯⎯→ Na2S(s)\n(d) TiCl4(l) + Mg(s) ⎯→ Ti(s) + MgCl2(s)\n(e) CaO(s) + SiO2(s) ⎯→ CaSiO3(s)\n(f) H2O2(l)\nU V\n⎯⎯⎯⎯→ H2O(l) + O2(g)"
+    },
+    {
+      "qNo": 36,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "A magnesium ribbon is burnt in oxygen to give a white compound\nX accompanied by emission of light. If the burning ribbon is now\nplaced in an atmosphere of nitrogen, it continues to burn and\nforms a compound Y.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Write the chemical formulae of X and Y."
+        },
+        {
+          "key": "b",
+          "text": "Write a balanced chemical equation, when X is dissolved in\nwater."
+        }
+      ],
+      "fullText": "A magnesium ribbon is burnt in oxygen to give a white compound\nX accompanied by emission of light. If the burning ribbon is now\nplaced in an atmosphere of nitrogen, it continues to burn and\nforms a compound Y.\n(a) Write the chemical formulae of X and Y.\n(b) Write a balanced chemical equation, when X is dissolved in\nwater."
+    },
+    {
+      "qNo": 37,
+      "section": "Subjective Questions",
+      "type": "subjective",
+      "stem": "Zinc liberates hydrogen gas when reacted with dilute hydrochloric\nacid, whereas copper does not. Explain why?",
+      "options": [],
+      "fullText": "Zinc liberates hydrogen gas when reacted with dilute hydrochloric\nacid, whereas copper does not. Explain why?"
+    },
+    {
+      "qNo": 38,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "A silver article generally turns black when kept in the open for a few\ndays. The article when rubbed with toothpaste again starts shining.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Why do silver articles turn black when kept in the open for a\nfew days? Name the phenomenon involved."
+        },
+        {
+          "key": "b",
+          "text": "Name the black substance formed and give its chemical\nformula.\n.QPI #PUYGT 3WGUVKQPU"
+        }
+      ],
+      "fullText": "A silver article generally turns black when kept in the open for a few\ndays. The article when rubbed with toothpaste again starts shining.\n(a) Why do silver articles turn black when kept in the open for a\nfew days? Name the phenomenon involved.\n(b) Name the black substance formed and give its chemical\nformula.\n.QPI #PUYGT 3WGUVKQPU"
+    },
+    {
+      "qNo": 39,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "On heating blue coloured powder of copper (II) nitrate in a boiling\ntube, copper oxide (black), oxygen gas and a brown gas X is formed",
+      "options": [
+        {
+          "key": "a",
+          "text": "Write a balanced chemical equation of the reaction."
+        },
+        {
+          "key": "b",
+          "text": "Identity the brown gas X evolved."
+        },
+        {
+          "key": "c",
+          "text": "Identity the type of reaction."
+        },
+        {
+          "key": "d",
+          "text": "What could be the pH range of aqueous solution of the gas X?"
+        }
+      ],
+      "fullText": "On heating blue coloured powder of copper (II) nitrate in a boiling\ntube, copper oxide (black), oxygen gas and a brown gas X is formed\n(a) Write a balanced chemical equation of the reaction.\n(b) Identity the brown gas X evolved.\n(c) Identity the type of reaction.\n(d) What could be the pH range of aqueous solution of the gas X?"
+    },
+    {
+      "qNo": 40,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "Give the characteristic tests for the following gases",
+      "options": [
+        {
+          "key": "a",
+          "text": "CO2"
+        },
+        {
+          "key": "b",
+          "text": "SO2"
+        },
+        {
+          "key": "c",
+          "text": "O2"
+        },
+        {
+          "key": "d",
+          "text": "H2"
+        }
+      ],
+      "fullText": "Give the characteristic tests for the following gases\n(a) CO2\n(b) SO2\n(c) O2\n(d) H2"
+    },
+    {
+      "qNo": 41,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "What happens when a piece of",
+      "options": [
+        {
+          "key": "a",
+          "text": "zinc metal is added to copper sulphate solution?"
+        },
+        {
+          "key": "b",
+          "text": "aluminium metal is added to dilute hydrochloric acid?"
+        },
+        {
+          "key": "c",
+          "text": "silver metal is added to copper sulphate solution?\nAlso, write the balanced chemical equation if the reaction\noccurs"
+        }
+      ],
+      "fullText": "What happens when a piece of\n(a) zinc metal is added to copper sulphate solution?\n(b) aluminium metal is added to dilute hydrochloric acid?\n(c) silver metal is added to copper sulphate solution?\nAlso, write the balanced chemical equation if the reaction\noccurs"
+    },
+    {
+      "qNo": 42,
+      "section": "Subjective Questions",
+      "type": "subjective",
+      "stem": "What happens when zinc granules are treated with dilute solution\nof H2SO4, HCl, HNO3, NaCl and NaOH, also write the chemical\nequations if reaction occurs.",
+      "options": [],
+      "fullText": "What happens when zinc granules are treated with dilute solution\nof H2SO4, HCl, HNO3, NaCl and NaOH, also write the chemical\nequations if reaction occurs."
+    },
+    {
+      "qNo": 43,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "On adding a drop of barium chloride solution to an aqueous\nsolution of sodium sulphite, white precipitate is obtained.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Write a balanced chemical equation of the reaction involved"
+        },
+        {
+          "key": "b",
+          "text": "What other name can be given to this precipitation reaction?"
+        },
+        {
+          "key": "c",
+          "text": "On adding dilute hydrochloric acid to the reaction mixture,\nwhite precipitate disappears. Why?"
+        }
+      ],
+      "fullText": "On adding a drop of barium chloride solution to an aqueous\nsolution of sodium sulphite, white precipitate is obtained.\n(a) Write a balanced chemical equation of the reaction involved\n(b) What other name can be given to this precipitation reaction?\n(c) On adding dilute hydrochloric acid to the reaction mixture,\nwhite precipitate disappears. Why?"
+    },
+    {
+      "qNo": 44,
+      "section": "Subjective Questions",
+      "type": "subjective",
+      "stem": "You are provided with two containers made up of copper and\naluminium. You are also provided with solutions of dilute HCl,\ndilute HNO3, ZnCl2 and H2O. In which of the above containers\nthese solutions can be kept?",
+      "options": [],
+      "fullText": "You are provided with two containers made up of copper and\naluminium. You are also provided with solutions of dilute HCl,\ndilute HNO3, ZnCl2 and H2O. In which of the above containers\nthese solutions can be kept?"
+    }
+  ]
+}

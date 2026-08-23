@@ -1,0 +1,702 @@
+{
+  "chapterNumber": 15,
+  "subject": "science",
+  "totalQuestions": 38,
+  "questions": [
+    {
+      "qNo": 1,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "Which one of the following is an artificial ecosystem?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Pond"
+        },
+        {
+          "key": "b",
+          "text": "Crop field"
+        },
+        {
+          "key": "c",
+          "text": "Lake"
+        },
+        {
+          "key": "d",
+          "text": "Forest"
+        }
+      ],
+      "fullText": "Which one of the following is an artificial ecosystem?\n(a) Pond\n(b) Crop field\n(c) Lake\n(d) Forest"
+    },
+    {
+      "qNo": 2,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "In a food chain, the third trophic level is always occupied by",
+      "options": [
+        {
+          "key": "a",
+          "text": "carnivores"
+        },
+        {
+          "key": "b",
+          "text": "herbivores"
+        },
+        {
+          "key": "c",
+          "text": "decomposers"
+        },
+        {
+          "key": "d",
+          "text": "producers"
+        }
+      ],
+      "fullText": "In a food chain, the third trophic level is always occupied by\n(a) carnivores\n(b) herbivores\n(c) decomposers\n(d) producers"
+    },
+    {
+      "qNo": 3,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "An ecosystem includes",
+      "options": [
+        {
+          "key": "a",
+          "text": "all living organisms"
+        },
+        {
+          "key": "b",
+          "text": "non-living objects"
+        },
+        {
+          "key": "c",
+          "text": "both living organisms and non-living objects"
+        },
+        {
+          "key": "d",
+          "text": "sometimes living organisms and sometimes non-living objects"
+        }
+      ],
+      "fullText": "An ecosystem includes\n(a) all living organisms\n(b) non-living objects\n(c) both living organisms and non-living objects\n(d) sometimes living organisms and sometimes non-living objects"
+    },
+    {
+      "qNo": 4,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "In the given food chain, suppose the amount of energy at fourth\ntrophic level is 5 kJ, what will be the energy available at the\nproducer level?\nGrass → Grasshopper → Frog → Snake → Hawk",
+      "options": [
+        {
+          "key": "a",
+          "text": "5 k J"
+        },
+        {
+          "key": "b",
+          "text": "50 k J"
+        },
+        {
+          "key": "c",
+          "text": "500 k J"
+        },
+        {
+          "key": "d",
+          "text": "5000 k J"
+        }
+      ],
+      "fullText": "In the given food chain, suppose the amount of energy at fourth\ntrophic level is 5 kJ, what will be the energy available at the\nproducer level?\nGrass → Grasshopper → Frog → Snake → Hawk\n(a) 5 k J\n(b) 50 k J\n(c) 500 k J\n(d) 5000 k J"
+    },
+    {
+      "qNo": 5,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "Accumulation of non-biodegradable pesticides in the food chain\nin increasing amount at each higher trophic level is known as",
+      "options": [
+        {
+          "key": "a",
+          "text": "eutrophication"
+        },
+        {
+          "key": "b",
+          "text": "pollution"
+        },
+        {
+          "key": "c",
+          "text": "biomagnification"
+        },
+        {
+          "key": "d",
+          "text": "accumulation\n1WT 'PXKTQPOGPV\n%*#26'4"
+        }
+      ],
+      "fullText": "Accumulation of non-biodegradable pesticides in the food chain\nin increasing amount at each higher trophic level is known as\n(a) eutrophication\n(b) pollution\n(c) biomagnification\n(d) accumulation\n1WT 'PXKTQPOGPV\n%*#26'4"
+    },
+    {
+      "qNo": 6,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "Depletion of ozone is mainly due to",
+      "options": [
+        {
+          "key": "a",
+          "text": "chlorofluorocarbon compounds"
+        },
+        {
+          "key": "b",
+          "text": "carbon monoxide"
+        },
+        {
+          "key": "c",
+          "text": "methane"
+        },
+        {
+          "key": "d",
+          "text": "pesticides"
+        }
+      ],
+      "fullText": "Depletion of ozone is mainly due to\n(a) chlorofluorocarbon compounds\n(b) carbon monoxide\n(c) methane\n(d) pesticides"
+    },
+    {
+      "qNo": 7,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "Organisms which synthesise carbohydrates from inorganic\ncompounds using radiant energy are called",
+      "options": [
+        {
+          "key": "a",
+          "text": "decomposers"
+        },
+        {
+          "key": "b",
+          "text": "producers"
+        },
+        {
+          "key": "c",
+          "text": "herbivores"
+        },
+        {
+          "key": "d",
+          "text": "carnivores"
+        }
+      ],
+      "fullText": "Organisms which synthesise carbohydrates from inorganic\ncompounds using radiant energy are called\n(a) decomposers\n(b) producers\n(c) herbivores\n(d) carnivores"
+    },
+    {
+      "qNo": 8,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "In an ecosystem, the 10% of energy available for transfer from one\ntrophic level to the next is in the form of",
+      "options": [
+        {
+          "key": "a",
+          "text": "heat energy"
+        },
+        {
+          "key": "b",
+          "text": "light energy"
+        },
+        {
+          "key": "c",
+          "text": "chemical energy"
+        },
+        {
+          "key": "d",
+          "text": "mechanical energy"
+        }
+      ],
+      "fullText": "In an ecosystem, the 10% of energy available for transfer from one\ntrophic level to the next is in the form of\n(a) heat energy\n(b) light energy\n(c) chemical energy\n(d) mechanical energy"
+    },
+    {
+      "qNo": 9,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "Organisms of a higher trophic level which feed on several types of\norganisms belonging to a lower trophic level constitute the",
+      "options": [
+        {
+          "key": "a",
+          "text": "food web"
+        },
+        {
+          "key": "b",
+          "text": "ecological pyramid"
+        },
+        {
+          "key": "c",
+          "text": "ecosystem"
+        },
+        {
+          "key": "d",
+          "text": "food chain"
+        }
+      ],
+      "fullText": "Organisms of a higher trophic level which feed on several types of\norganisms belonging to a lower trophic level constitute the\n(a) food web\n(b) ecological pyramid\n(c) ecosystem\n(d) food chain"
+    },
+    {
+      "qNo": 10,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "Flow of energy in an ecosystem is always",
+      "options": [
+        {
+          "key": "a",
+          "text": "unidirectional"
+        },
+        {
+          "key": "b",
+          "text": "bidirectional"
+        },
+        {
+          "key": "c",
+          "text": "multi directional"
+        },
+        {
+          "key": "d",
+          "text": "no specific direction"
+        }
+      ],
+      "fullText": "Flow of energy in an ecosystem is always\n(a) unidirectional\n(b) bidirectional\n(c) multi directional\n(d) no specific direction"
+    },
+    {
+      "qNo": 11,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "Excessive exposure of humans to U V-rays results in\n(i) damage to immune system\n(ii) damage to lungs\n(iii) skin cancer\n(iv) peptic ulcers",
+      "options": [
+        {
+          "key": "a",
+          "text": "(i) and (ii)"
+        },
+        {
+          "key": "b",
+          "text": "(ii) and (iv)"
+        },
+        {
+          "key": "c",
+          "text": "(i)  and (iii)"
+        },
+        {
+          "key": "d",
+          "text": "(iii) and (iv)"
+        }
+      ],
+      "fullText": "Excessive exposure of humans to U V-rays results in\n(i) damage to immune system\n(ii) damage to lungs\n(iii) skin cancer\n(iv) peptic ulcers\n(a) (i) and (ii)\n(b) (ii) and (iv)\n(c) (i)  and (iii)\n(d) (iii) and (iv)"
+    },
+    {
+      "qNo": 12,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "In the following groups of materials, which group (s) contains only\nnon-biodegradable items?\n(i) Wood, paper, leather\n(ii) Polythene, detergent, PVC\n(iii) Plastic, detergent, grass\n(iv) Plastic, bakelite, DDT",
+      "options": [
+        {
+          "key": "a",
+          "text": "(iii)"
+        },
+        {
+          "key": "b",
+          "text": "(iv)"
+        },
+        {
+          "key": "c",
+          "text": "(i) and (iii)"
+        },
+        {
+          "key": "d",
+          "text": "(ii) and (iv)"
+        }
+      ],
+      "fullText": "In the following groups of materials, which group (s) contains only\nnon-biodegradable items?\n(i) Wood, paper, leather\n(ii) Polythene, detergent, PVC\n(iii) Plastic, detergent, grass\n(iv) Plastic, bakelite, DDT\n(a) (iii)\n(b) (iv)\n(c) (i) and (iii)\n(d) (ii) and (iv)"
+    },
+    {
+      "qNo": 13,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "Which of the following limits the number of trophic levels in a food\nchain?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Decrease in energy at higher trophic levels"
+        },
+        {
+          "key": "b",
+          "text": "Dufficient food supply"
+        },
+        {
+          "key": "c",
+          "text": "Polluted air"
+        },
+        {
+          "key": "d",
+          "text": "Water"
+        }
+      ],
+      "fullText": "Which of the following limits the number of trophic levels in a food\nchain?\n(a) Decrease in energy at higher trophic levels\n(b) Dufficient food supply\n(c) Polluted air\n(d) Water"
+    },
+    {
+      "qNo": 14,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "Which of the statement is incorrect?",
+      "options": [
+        {
+          "key": "a",
+          "text": "All green plants and blue green algae are producers"
+        },
+        {
+          "key": "b",
+          "text": "Green plants get their food from organic compounds"
+        },
+        {
+          "key": "c",
+          "text": "Producers prepare their own food from inorganic compounds"
+        },
+        {
+          "key": "d",
+          "text": "Plants convert solar energy into chemical energy"
+        }
+      ],
+      "fullText": "Which of the statement is incorrect?\n(a) All green plants and blue green algae are producers\n(b) Green plants get their food from organic compounds\n(c) Producers prepare their own food from inorganic compounds\n(d) Plants convert solar energy into chemical energy"
+    },
+    {
+      "qNo": 15,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "Which group of organisms are not constituents of a food chain?\n(i) Grass, lion, rabbit, wolf\n(ii) Plankton, man, fish, grasshopper\n(iii) Wolf, grass, snake, tiger\n(iv) Frog, snake, eagle, grass, grasshopper",
+      "options": [
+        {
+          "key": "a",
+          "text": "(i) and (iii)"
+        },
+        {
+          "key": "b",
+          "text": "(iii) and (iv)"
+        },
+        {
+          "key": "c",
+          "text": "(ii) and (iii)"
+        },
+        {
+          "key": "d",
+          "text": "(i) and (iv)"
+        }
+      ],
+      "fullText": "Which group of organisms are not constituents of a food chain?\n(i) Grass, lion, rabbit, wolf\n(ii) Plankton, man, fish, grasshopper\n(iii) Wolf, grass, snake, tiger\n(iv) Frog, snake, eagle, grass, grasshopper\n(a) (i) and (iii)\n(b) (iii) and (iv)\n(c) (ii) and (iii)\n(d) (i) and (iv)"
+    },
+    {
+      "qNo": 16,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "The percentage of solar radiation absorbed by all the green plants\nfor the process of photosynthesis is about",
+      "options": [
+        {
+          "key": "a",
+          "text": "1 %"
+        },
+        {
+          "key": "b",
+          "text": "5 %"
+        },
+        {
+          "key": "c",
+          "text": "8 %"
+        },
+        {
+          "key": "d",
+          "text": "10 %"
+        }
+      ],
+      "fullText": "The percentage of solar radiation absorbed by all the green plants\nfor the process of photosynthesis is about\n(a) 1 %\n(b) 5 %\n(c) 8 %\n(d) 10 %"
+    },
+    {
+      "qNo": 17,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "In the given Figure 15.1 the various trophic levels are shown in a\npyramid. At which trophic level is maximum energy available?",
+      "options": [
+        {
+          "key": "a",
+          "text": "T4"
+        },
+        {
+          "key": "b",
+          "text": "T2"
+        },
+        {
+          "key": "c",
+          "text": "T1"
+        },
+        {
+          "key": "d",
+          "text": "T3\nFig. 15.1"
+        }
+      ],
+      "fullText": "In the given Figure 15.1 the various trophic levels are shown in a\npyramid. At which trophic level is maximum energy available?\n(a) T4\n(b) T2\n(c) T1\n(d) T3\nFig. 15.1"
+    },
+    {
+      "qNo": 18,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "What will happen if  deer is missing in the  food chain given below?\nGrass →  Deer → Tiger",
+      "options": [
+        {
+          "key": "a",
+          "text": "The population of tiger increases"
+        },
+        {
+          "key": "b",
+          "text": "The population of grass decreases"
+        },
+        {
+          "key": "c",
+          "text": "Tiger will start eating grass"
+        },
+        {
+          "key": "d",
+          "text": "The population of tiger decreases and the population of grass\nincreases"
+        }
+      ],
+      "fullText": "What will happen if  deer is missing in the  food chain given below?\nGrass →  Deer → Tiger\n(a) The population of tiger increases\n(b) The population of grass decreases\n(c) Tiger will start eating grass\n(d) The population of tiger decreases and the population of grass\nincreases"
+    },
+    {
+      "qNo": 19,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "The decomposers in an ecosystem",
+      "options": [
+        {
+          "key": "a",
+          "text": "convert inorganic material, to simpler forms"
+        },
+        {
+          "key": "b",
+          "text": "convert organic material to inorganic forms"
+        },
+        {
+          "key": "c",
+          "text": "convert inorganic materials into organic compounds"
+        },
+        {
+          "key": "d",
+          "text": "do not breakdown organic compounds"
+        }
+      ],
+      "fullText": "The decomposers in an ecosystem\n(a) convert inorganic material, to simpler forms\n(b) convert organic material to inorganic forms\n(c) convert inorganic materials into organic compounds\n(d) do not breakdown organic compounds"
+    },
+    {
+      "qNo": 20,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "If a grass hopper is eaten by a frog, then the energy transfer will\nbe from",
+      "options": [
+        {
+          "key": "a",
+          "text": "producer to decomposer"
+        },
+        {
+          "key": "b",
+          "text": "producer to primary consumer"
+        },
+        {
+          "key": "c",
+          "text": "primary consumer to secondary consumer"
+        },
+        {
+          "key": "d",
+          "text": "secondary consumer to primary consumer"
+        }
+      ],
+      "fullText": "If a grass hopper is eaten by a frog, then the energy transfer will\nbe from\n(a) producer to decomposer\n(b) producer to primary consumer\n(c) primary consumer to secondary consumer\n(d) secondary consumer to primary consumer"
+    },
+    {
+      "qNo": 21,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "Disposable plastic plates should not be used because",
+      "options": [
+        {
+          "key": "a",
+          "text": "they are made of materials with light weight"
+        },
+        {
+          "key": "b",
+          "text": "they are made of toxic materials"
+        },
+        {
+          "key": "c",
+          "text": "they are made of biodegradable materials"
+        },
+        {
+          "key": "d",
+          "text": "they are made of non-biodegradable materials\n5JQTV #PUYGT 3WGUVKQPU"
+        }
+      ],
+      "fullText": "Disposable plastic plates should not be used because\n(a) they are made of materials with light weight\n(b) they are made of toxic materials\n(c) they are made of biodegradable materials\n(d) they are made of non-biodegradable materials\n5JQTV #PUYGT 3WGUVKQPU"
+    },
+    {
+      "qNo": 22,
+      "section": "Subjective Questions",
+      "type": "subjective",
+      "stem": "Why is improper disposal of waste a curse to environment?",
+      "options": [],
+      "fullText": "Why is improper disposal of waste a curse to environment?"
+    },
+    {
+      "qNo": 23,
+      "section": "Subjective Questions",
+      "type": "subjective",
+      "stem": "Write the common food chain of a pond ecosystem.",
+      "options": [],
+      "fullText": "Write the common food chain of a pond ecosystem."
+    },
+    {
+      "qNo": 24,
+      "section": "Subjective Questions",
+      "type": "subjective",
+      "stem": "What are the advantages of cloth bags over plastic bags during\nshopping?",
+      "options": [],
+      "fullText": "What are the advantages of cloth bags over plastic bags during\nshopping?"
+    },
+    {
+      "qNo": 25,
+      "section": "Subjective Questions",
+      "type": "subjective",
+      "stem": "Why are crop fields known as artificial ecosystems?",
+      "options": [],
+      "fullText": "Why are crop fields known as artificial ecosystems?"
+    },
+    {
+      "qNo": 26,
+      "section": "Subjective Questions",
+      "type": "subjective",
+      "stem": "Differentiate between biodegradable and non-biodegradable\nsubstances. Cite examples.",
+      "options": [],
+      "fullText": "Differentiate between biodegradable and non-biodegradable\nsubstances. Cite examples."
+    },
+    {
+      "qNo": 27,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "Suggest one word for each of the following statements/ definitions",
+      "options": [
+        {
+          "key": "a",
+          "text": "The physical and biological world where we live in"
+        },
+        {
+          "key": "b",
+          "text": "Each level of food chain where transfer of energy takes place"
+        },
+        {
+          "key": "c",
+          "text": "The physical factors like temperature, rainfall, wind and soil\nof an ecosystem"
+        },
+        {
+          "key": "d",
+          "text": "Organisms which depend on the producers either directly or\nindirectly for food"
+        }
+      ],
+      "fullText": "Suggest one word for each of the following statements/ definitions\n(a) The physical and biological world where we live in\n(b) Each level of food chain where transfer of energy takes place\n(c) The physical factors like temperature, rainfall, wind and soil\nof an ecosystem\n(d) Organisms which depend on the producers either directly or\nindirectly for food"
+    },
+    {
+      "qNo": 28,
+      "section": "Subjective Questions",
+      "type": "subjective",
+      "stem": "Explain the role of  decomposers in the environment?",
+      "options": [],
+      "fullText": "Explain the role of  decomposers in the environment?"
+    },
+    {
+      "qNo": 29,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "Select the mis-matched pair in the following and correct it.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Biomagnification\n—     Accumulation of chemicals at\nthe successive trophic levels of\na food chain"
+        },
+        {
+          "key": "b",
+          "text": "Ecosystem\n—     Biotic components of\nenvironment"
+        },
+        {
+          "key": "c",
+          "text": "Aquarium\n—     A man-made ecosystem"
+        },
+        {
+          "key": "d",
+          "text": "Parasites\n—    Organisms which obtain food\nfrom other living organisms"
+        }
+      ],
+      "fullText": "Select the mis-matched pair in the following and correct it.\n(a) Biomagnification\n—     Accumulation of chemicals at\nthe successive trophic levels of\na food chain\n(b) Ecosystem\n—     Biotic components of\nenvironment\n(c) Aquarium\n—     A man-made ecosystem\n(d) Parasites\n—    Organisms which obtain food\nfrom other living organisms"
+    },
+    {
+      "qNo": 30,
+      "section": "Subjective Questions",
+      "type": "subjective",
+      "stem": "We do not clean ponds or lakes, but an aquarium needs to be\ncleaned. Why?\n.QPI #PUYGT 3WGUVKQPU",
+      "options": [],
+      "fullText": "We do not clean ponds or lakes, but an aquarium needs to be\ncleaned. Why?\n.QPI #PUYGT 3WGUVKQPU"
+    },
+    {
+      "qNo": 31,
+      "section": "Subjective Questions",
+      "type": "subjective",
+      "stem": "Indicate the flow of energy in an ecosystem. Why is it unidirectional?\nJustify.",
+      "options": [],
+      "fullText": "Indicate the flow of energy in an ecosystem. Why is it unidirectional?\nJustify."
+    },
+    {
+      "qNo": 32,
+      "section": "Subjective Questions",
+      "type": "subjective",
+      "stem": "What are decomposers? What will be the consequence of their\nabsence in an ecosystem?",
+      "options": [],
+      "fullText": "What are decomposers? What will be the consequence of their\nabsence in an ecosystem?"
+    },
+    {
+      "qNo": 33,
+      "section": "Subjective Questions",
+      "type": "subjective",
+      "stem": "Suggest any four activities in daily life which are eco-friendly.",
+      "options": [],
+      "fullText": "Suggest any four activities in daily life which are eco-friendly."
+    },
+    {
+      "qNo": 34,
+      "section": "Subjective Questions",
+      "type": "subjective",
+      "stem": "Give two differences between food chain and food web.",
+      "options": [],
+      "fullText": "Give two differences between food chain and food web."
+    },
+    {
+      "qNo": 35,
+      "section": "Subjective Questions",
+      "type": "subjective",
+      "stem": "Name the wastes which are generated in your house daily. What\nmeasures would you take for their disposal?",
+      "options": [],
+      "fullText": "Name the wastes which are generated in your house daily. What\nmeasures would you take for their disposal?"
+    },
+    {
+      "qNo": 36,
+      "section": "Subjective Questions",
+      "type": "subjective",
+      "stem": "Suggest suitable mechanism (s) for waste management in fertiliser\nindustries.",
+      "options": [],
+      "fullText": "Suggest suitable mechanism (s) for waste management in fertiliser\nindustries."
+    },
+    {
+      "qNo": 37,
+      "section": "Subjective Questions",
+      "type": "subjective",
+      "stem": "What are the by-products of fertiliser industries? How do they affect\nthe environment?",
+      "options": [],
+      "fullText": "What are the by-products of fertiliser industries? How do they affect\nthe environment?"
+    },
+    {
+      "qNo": 38,
+      "section": "Subjective Questions",
+      "type": "subjective",
+      "stem": "Explain some harmful effects of agricultural practices on the\nenvironment.",
+      "options": [],
+      "fullText": "Explain some harmful effects of agricultural practices on the\nenvironment."
+    }
+  ]
+}

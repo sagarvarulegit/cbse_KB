@@ -1,0 +1,736 @@
+{
+  "subjectCode": "086",
+  "year": 2026,
+  "paperSet": "31/1/1",
+  "totalQuestions": 39,
+  "totalMarksCalculated": 80.0,
+  "questions": [
+    {
+      "qNo": 1,
+      "section": "SECTION – A (Biology)",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(B) / Stomata",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        3
+      ]
+    },
+    {
+      "qNo": 2,
+      "section": "SECTION – A (Biology)",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(D) / Binary Fission",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        3
+      ]
+    },
+    {
+      "qNo": 3,
+      "section": "SECTION – A (Biology)",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(D) / they reproduce asexually",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        3
+      ]
+    },
+    {
+      "qNo": 4,
+      "section": "SECTION – A (Biology)",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(B) / Cerebellum",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        3
+      ]
+    },
+    {
+      "qNo": 5,
+      "section": "SECTION – A (Biology)",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(B) / Trypsin digests proteins and lipase digests emulsified fats.",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        3
+      ]
+    },
+    {
+      "qNo": 6,
+      "section": "SECTION – A (Biology)",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(A) / (ii) and (iii)",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        3
+      ]
+    },
+    {
+      "qNo": 7,
+      "section": "SECTION – A (Biology)",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(C) / Polythene bag, rubber band, ball pen",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        3
+      ]
+    },
+    {
+      "qNo": 8,
+      "section": "SECTION – A (Biology)",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(A) / Both, Assertion (A) and Reason (R) are true and Reason (R) is\nthe correct explanation of the Assertion (A).",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        3
+      ]
+    },
+    {
+      "qNo": 9,
+      "section": "SECTION – A (Biology)",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(C) / Assertion (A) is true, but Reason (R) is false.",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        3
+      ]
+    },
+    {
+      "qNo": 10,
+      "section": "SECTION – A (Biology)",
+      "questionType": "short_answer_2m",
+      "totalMarks": 2.0,
+      "stepMarksAllocated": [
+        1.0,
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "• The main function of the diaphragm is to flatten during inhalation,\nwhich expands the chest cavity and draws the air into the lungs\n/ helps in breathing.\n• It is located at the base of chest cavity.",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        3
+      ]
+    },
+    {
+      "qNo": 11,
+      "section": "SECTION – A (Biology)",
+      "questionType": "short_answer_2m",
+      "totalMarks": 2.0,
+      "stepMarksAllocated": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "hasOrChoice": true,
+      "mainAnswer": "(a)\nChewing of food Salivation on sight of food\ni) It is a reflex/involuntary\ni) It is a voluntary action.\naction.\nii) It is controlled by forebrain. ii) It is controlled by medulla in\nthe hind brain.\n(any other suitable difference)",
+      "orAnswer": "(b)\nPollination Fertilization\ni) It is the fusion of male gamete\ni) It is the transfer of pollen\nwith the female gamete.\ngrains from anther to the\nsuitable stigma.\nii) It occurs in plants. ii) It occurs in both plants and\nanimals.\n(any other suitable difference)\nSalivation on sight of food\ni) It is a reflex/involuntary\naction.\nii) It is controlled by medulla in\nthe hind brain.\nFertilization\ni) It is the fusion of male gamete\nwith the female gamete.\nii) It occurs in both plants and\nanimals.",
+      "examinerNotes": [
+        "any other suitable difference",
+        "any other suitable difference"
+      ],
+      "sourcePages": [
+        3
+      ]
+    },
+    {
+      "qNo": 12,
+      "section": "SECTION – A (Biology)",
+      "questionType": "short_answer_2m",
+      "totalMarks": 2.0,
+      "stepMarksAllocated": [
+        1.0,
+        0.5,
+        0.5
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "Diagram\n(a) Stigma\n(b) Pollen Tube",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        4
+      ]
+    },
+    {
+      "qNo": 13,
+      "section": "SECTION – A (Biology)",
+      "questionType": "short_answer_3m",
+      "totalMarks": 3.0,
+      "stepMarksAllocated": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(a) (i) Grass\n(ii) Deer, Rabbit\n(iii) Snake, Lion\n(iv) Lion\n(b) Primary consumers feed on green plants which have large amount\nof energy. Only 10% of its energy is available/passed for the next\nsecondary consumer /trophic level.\n(c) The base is broad as the number/energy/mass of producers is\nusually the highest in comparison to other trophic levels of the\npyramid.",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        4
+      ]
+    },
+    {
+      "qNo": 14,
+      "section": "SECTION – A (Biology)",
+      "questionType": "short_answer_3m",
+      "totalMarks": 3.0,
+      "stepMarksAllocated": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(a)\nNephron Neuron\n(i) Filtration/Structural/ (i) Structural/ Functional unit\nFunctional unit of the kidney. of the nervous system.\n(ii) Filters nitrogenous wastes (ii) Transmits information\nfrom the blood. from one part of the body\nto another.\n(any one, any other suitable difference)\n(b)\nSensory Nerve Motor Nerve\n(i) Carries impulse from receptors (i) Carries impulse from\nCNS/Brain and Spinal cord\nto CNS/ Brain and Spinal cord.\nto the motor area/ effector\norgan.\n(any other suitable difference)\nNeuron\n(i) Structural/ Functional unit\nof the nervous system.\n(ii) Transmits information\nfrom one part of the body\nto another.\nMotor Nerve\n(i) Carries impulse from\nCNS/Brain and Spinal cord\nto the motor area/ effector\norgan.\n(c)\nConsumers Decomposers\n(i) Organisms that feed on (i) Organisms that breakdown\nproducers and other dead organic matter into\nconsumers. simpler inorganic\nsubstances.\n(ii) Transfer energy through the (ii) Recycle nutrients back into\nfood chain. the environment.\n(any one, any other suitable difference)",
+      "orAnswer": null,
+      "examinerNotes": [
+        "any one, any other suitable difference",
+        "any other suitable difference",
+        "any one, any other suitable difference"
+      ],
+      "sourcePages": [
+        4,
+        5
+      ]
+    },
+    {
+      "qNo": 15,
+      "section": "SECTION – A (Biology)",
+      "questionType": "case_study",
+      "totalMarks": 4.0,
+      "stepMarksAllocated": [
+        1.0,
+        1.0,
+        2.0,
+        1.0,
+        1.0
+      ],
+      "hasOrChoice": true,
+      "mainAnswer": "(a) In F progeny, pea plants have 'Tt' where 'T' is dominant over 't'\n1\n/\nso all the plants of F progeny were tall. Tall height is dominant\n1\ntrait over short height.\n(b) Self-pollination\n(c) (i)\nDominant trait Recessive trait\ni) Unable to express itself in\ni) Expresses itself over\npresence of a dominant trait.\nrecessive trait.\nii) Expresses in both ii) Expresses itself only when it\nconditions-TT and Tt. is 'tt' or in pure condition.\n(any one, any other suitable difference)",
+      "orAnswer": "(c) (ii) Mendel's observations:\n• All plants of F progeny were tall.\n1\n• No medium/ no short height plants observed in F\n1\nprogeny.\n• F progeny resembled one parent only.\n1\n(any two observations)",
+      "examinerNotes": [
+        "any one, any other suitable difference"
+      ],
+      "sourcePages": [
+        5
+      ]
+    },
+    {
+      "qNo": 16,
+      "section": "SECTION – A (Biology)",
+      "questionType": "long_answer",
+      "totalMarks": 5.0,
+      "stepMarksAllocated": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "hasOrChoice": true,
+      "mainAnswer": "(a)\n(i) Most of these bacteria would die, but the few variants resistant to\nheat would survive and grow further.\n(ii) Fertilization occurs to form a zygote.\n/\n(iii) Cross pollination may occur leading to fruit formation. No\n/\nfertilization. No fruit formation.\n(iv) If the egg is not fertilised, the thick and spongy lining of the uterus\nbreaks and comes out through vagina as blood and mucus, known\n/\nas menstruation. Menstruation will take place.\n/\n(v) The seed will develop into a seedling. Germination will take place.",
+      "orAnswer": "(b)\n(i) When spores land on a substance and get adequate moisture and\ntemperature, it will develop into new Rhizopus.\nDecomposers\n(i) Organisms that breakdown\ndead organic matter into\nsimpler inorganic\nsubstances.\n(ii) Recycle nutrients back into\nthe environment.\nRecessive trait\ni) Unable to express itself in\npresence of a dominant trait.\nii) Expresses itself only when it\nis 'tt' or in pure condition.\n(ii) New plants grow from the buds located in the notches of the leaf.\n(iii) The pollen tube will not be formed. / No fertilisation will take place.\n/\n(iv) Fertilization Pregnancy will be prevented.\n(v) Each fragment or piece grows into a new individual organism.",
+      "examinerNotes": [],
+      "sourcePages": [
+        5,
+        6
+      ]
+    },
+    {
+      "qNo": 17,
+      "section": "SECTION – B (Chemistry)",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(C) / Both, (i) and (ii) are double displacement reactions and\nprecipitation reactions.",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        6
+      ]
+    },
+    {
+      "qNo": 18,
+      "section": "SECTION – B (Chemistry)",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(B) / Vanilla essence",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        6
+      ]
+    },
+    {
+      "qNo": 19,
+      "section": "SECTION – B (Chemistry)",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(D) / NO and O\n2 2",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        6
+      ]
+    },
+    {
+      "qNo": 20,
+      "section": "SECTION – B (Chemistry)",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(B) / -CHO",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        6
+      ]
+    },
+    {
+      "qNo": 21,
+      "section": "SECTION – B (Chemistry)",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(A) / Pb",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        6
+      ]
+    },
+    {
+      "qNo": 22,
+      "section": "SECTION – B (Chemistry)",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(A) / tomato, curd, ant-sting",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        6
+      ]
+    },
+    {
+      "qNo": 23,
+      "section": "SECTION – B (Chemistry)",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(B) / Calcium",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        6
+      ]
+    },
+    {
+      "qNo": 24,
+      "section": "SECTION – B (Chemistry)",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(A) / Both, Assertion (A) and Reason (R) are true and Reason (R) is the\ncorrect explanation of the Assertion (A).",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        6
+      ]
+    },
+    {
+      "qNo": 25,
+      "section": "SECTION – B (Chemistry)",
+      "questionType": "short_answer_2m",
+      "totalMarks": 2.0,
+      "stepMarksAllocated": [
+        1.0,
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(a) Metal oxides which can react with both acids as well as bases to\nproduce salt and water.\n(b) ZnO – Amphoteric oxide\nNa O – Basic oxide\n2\nCO – Acidic oxide\n2",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        6
+      ]
+    },
+    {
+      "qNo": 26,
+      "section": "SECTION – B (Chemistry)",
+      "questionType": "short_answer_3m",
+      "totalMarks": 3.0,
+      "stepMarksAllocated": [
+        0.5,
+        0.5,
+        1.0,
+        0.5,
+        0.5
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(a)\n• Substance oxidised - C\n• Substance reduced - ZnO\n(b) Pb(NO ) + 2 KI → PbI + 2 KNO\n3 2 2 3\n(c)\nelectricity\n• 2H O → 2H + O\n2 2 2\nsunlight\n• 2AgCl→ 2Ag + Cl\n2\n(any other example in each case)",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        6
+      ]
+    },
+    {
+      "qNo": 27,
+      "section": "SECTION – B (Chemistry)",
+      "questionType": "short_answer_3m",
+      "totalMarks": 3.0,
+      "stepMarksAllocated": [
+        1.0,
+        1.0,
+        0.5,
+        0.5,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "hasOrChoice": true,
+      "mainAnswer": "(a)\n• When electricity is passed through brine, it decomposes to form\nsodium hydroxide (alkali) and chlorine, hence this process is\ncalled chlor-alkali process.\nElectricity\n2NaCl(aq) + 2H O(l) → 2NaOH(aq) + H (g) + Cl (g)\n2 2 2\n• At anode: Cl\n2\n• At cathode: H\n2",
+      "orAnswer": "(b)\n(i) NaCl + H 2O + NH + CO → NaHCO + NH 4Cl\n3 2 3\n(ii) Ca(OH) + Cl → CaOCl + 𝐻 2𝑂\n2 2 2\n/\n2Ca(OH) + 2Cl → Ca(ClO) + CaCl + 2H O\n2 2 2 2 2\n373K 1 1\n(iii) CaSO .2H O → CaSO . H O + 1 H O\n4 2 4 2 2\n2 2\n(deduct ½ mark for no / incorrect balancing)",
+      "examinerNotes": [
+        "deduct ½ mark for no / incorrect balancing"
+      ],
+      "sourcePages": [
+        6,
+        7
+      ]
+    },
+    {
+      "qNo": 28,
+      "section": "SECTION – B (Chemistry)",
+      "questionType": "case_study",
+      "totalMarks": 4.0,
+      "stepMarksAllocated": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "hasOrChoice": true,
+      "mainAnswer": "/\n(a) Because it is easier to obtain metal from its oxide.\nBecause it is easier to reduce metal oxide to metal\n(b)\nFe O (s)+ 2Al(s) → 2Fe(l) + Al O (s) + Heat\n2 3 2 3\n3MnO (s) + 4Al(s) → 3Mn(l) + 2Al O (s) + Heat\n2 2 3\n(balancing is optional) (any one equation)\nHeat\n(c) (i) 2Cu S + 3O (g) → 2Cu O(s) + 2SO (g)\n2 2 2 2\nHeat\n2Cu O + Cu S → 6Cu(s) + SO (g)\n2 2 2",
+      "orAnswer": "(c)(ii) (I) Because highly reactive metals have more affinity for\noxygen than carbon.\n(II) Because of its low melting point.",
+      "examinerNotes": [],
+      "sourcePages": [
+        7
+      ]
+    },
+    {
+      "qNo": 29,
+      "section": "SECTION – B (Chemistry)",
+      "questionType": "long_answer",
+      "totalMarks": 5.0,
+      "stepMarksAllocated": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        1.0,
+        0.5,
+        1.0,
+        0.5
+      ],
+      "hasOrChoice": true,
+      "mainAnswer": "(a) (i)\n(I) They do not give rise to charged particles/ ions.\n(II) Soap reacts with calcium and magnesium salts present in\nhard water and forms insoluble substances called Scum.\n(III) C-C bonds are strong and stable whereas Si-Si bonds are\nrelatively weak.\nacidified K 2Cr 2O7+heat\n(ii) (I) CH CH OH → CH COOH\n3 2 3\nNi\n(II) CH 2=CH + H 2→ CH 3-CH\n2 3",
+      "orAnswer": "(b) (i) X - CH COOH/ethanoic acid /acetic acid\n3\nY - CH COOC H /CH COOCH CH / ester/ ethyl ethanoate\n3 2 5 3 2 3\nZ - CH COONa/sodium ethanoate/sodium acetate\n3\n(ii) Catalyst/ dehydrating agent\n(iii)\n•\n• Esterification reaction\n• CH 3COOC 2H + NaOH → CH 3COONa +C 2H 5OH\n5\n• Saponification reaction/ De-esterification reaction",
+      "examinerNotes": [],
+      "sourcePages": [
+        7,
+        8
+      ]
+    },
+    {
+      "qNo": 30,
+      "section": "SECTION – C (Physics)",
+      "questionType": "very_short_answer",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "/\n(C) - 30 cm and + 30 cm from lens",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        8
+      ]
+    },
+    {
+      "qNo": 31,
+      "section": "SECTION – C (Physics)",
+      "questionType": "very_short_answer",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "/\n(A) Ciliary muscles of your eye contract and the eye lens become thick",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        8
+      ]
+    },
+    {
+      "qNo": 32,
+      "section": "SECTION – C (Physics)",
+      "questionType": "very_short_answer",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "/\n(C) Assertion (A) is true, but Reason (R) is false.",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        8
+      ]
+    },
+    {
+      "qNo": 33,
+      "section": "SECTION – C (Physics)",
+      "questionType": "short_answer_2m",
+      "totalMarks": 2.0,
+      "stepMarksAllocated": [
+        1.0,
+        0.5,
+        0.5
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "/\n(a) Convex lens Converging lens\n(b) m = - 2, v= 30 cm\nν\nm =\nu\nν\nu =\nm\n30\nu =\n−2\nu = -15cm / The object was placed at 15 cm in front of the lens.",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        8
+      ]
+    },
+    {
+      "qNo": 34,
+      "section": "SECTION – C (Physics)",
+      "questionType": "short_answer_2m",
+      "totalMarks": 2.0,
+      "stepMarksAllocated": [
+        0.5,
+        1.0,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "hasOrChoice": true,
+      "mainAnswer": "(a) r = 0.01 cm=1 x 10-4 m\n𝑙 = 1 cm = 0.01 m\n𝑙\nR=\nA\nRA 𝑅 x 𝜋𝑟2\n = =\n𝑙 𝑙\n7 x 22 x 10−8\n =\n7 x 0.01\n = 22 x 10-8 x 102\n = 22 x 10-6 Ωm =2.2 x 10-5 Ωm",
+      "orAnswer": "V\n(b) Resistance of electric heater R =\nI\n220\nR =\n11\nR = 20 Ω\nV2\nP =\nR\n200 x 200\nP =\n20\nP = 2000W/ 2 kW",
+      "examinerNotes": [],
+      "sourcePages": [
+        8
+      ]
+    },
+    {
+      "qNo": 35,
+      "section": "SECTION – C (Physics)",
+      "questionType": "short_answer_3m",
+      "totalMarks": 3.0,
+      "stepMarksAllocated": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "• Hypermetropia/ Far sightedness\n•\n•\n(deduct ½ mark for not showing the direction of ray of light)",
+      "orAnswer": null,
+      "examinerNotes": [
+        "deduct ½ mark for not showing the direction of ray of light"
+      ],
+      "sourcePages": [
+        9
+      ]
+    },
+    {
+      "qNo": 36,
+      "section": "SECTION – C (Physics)",
+      "questionType": "short_answer_3m",
+      "totalMarks": 3.0,
+      "stepMarksAllocated": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(a) Procedure\nTake a small aluminium rod AB and using two connecting wires\nsuspend it horizontally from a stand.\nPlace a strong horse-shoe magnet in such a way that the rod lies\nbetween the two poles perpendicularly.\nConnect the aluminium rod in series with a battery and a key. Now\npass a current through the aluminium rod from one end to another.\n/\n(Procedure can also be explained with a Diagram)\nObservation\nIt is observed that the rod is displaced on passing current though it.\n(b) Magnetic field will be vertically downwards.",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        9
+      ]
+    },
+    {
+      "qNo": 37,
+      "section": "SECTION – C (Physics)",
+      "questionType": "short_answer_3m",
+      "totalMarks": 3.0,
+      "stepMarksAllocated": [
+        1.0,
+        1.0,
+        0.5,
+        0.5
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(a)\n(any two cases)\n/\n• Magnetic field pattern for a current carrying straight conductor-\nconcentric circles.\n• Magnetic field pattern for a current carrying solenoid- magnetic\nfield lines similar to that of a bar magnet.\n• Magnetic field pattern for a current carrying circular loop- a pair\nof concentric circles with parallel straight lines at the centre.\n(any two cases)\n(b)\n• At X.\n• Magnetic field decreases as the distance from the conducting\nwire increases.",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        10
+      ]
+    },
+    {
+      "qNo": 38,
+      "section": "SECTION – C (Physics)",
+      "questionType": "case_study",
+      "totalMarks": 4.0,
+      "stepMarksAllocated": [
+        0.5,
+        0.5,
+        1.0,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        1.0,
+        1.0
+      ],
+      "hasOrChoice": true,
+      "mainAnswer": "(a)\n• Position - Image will form at 40 cm / 2F / C\n• Nature – Real and inverted\n/\nAlternate answer\nf = +20 cm, u = -40 cm\nUsing Lens Formula,\n1 1 1\n− =\nv u f\n1 1 1\n− =\nv −40 20\n1 1 1\n= +\nv 20 −40\nv = + 40 cm\nPosition - 40 cm on the other side of the lens\nNature - Real and inverted\n(b)\n(c) (i)\nf = 30 cm = 0.3 m, f = -15cm = -0.15 m\n1 2\n1\nP =\nf\n+1 −1\nP = D ; P = D\n1 2\n0.3 0.15\nEquivalent power, P = P +P\n1 2\nP = - 3.33D\n1\nEquivalent focal length, f =\nP\n− 1\nf = = - 0.3 m = - 30 cm\n3.33",
+      "orAnswer": "(c) (ii)\n• Combination Lens will behave like convex lens\n• f = - 2 m, f = 1.5 m\n1 2\n1\nP =\nf\n−1 +1\nP = D , P = D\n1 2\n2 1.5\nP = P +P\n1 2\n1\nP=\n6\nf = + 6m\nThe focal length of combination is positive.\n/\nAlternate answer\n• Combination Lens will behave like convex lens.\n• Convex lens - Less 'f', More 'P '\n1\nConcave lens - More 'f', Less 'P '\n2\nCombined Power = P +P , which will be positive.\n1 2",
+      "examinerNotes": [],
+      "sourcePages": [
+        10,
+        11
+      ]
+    },
+    {
+      "qNo": 39,
+      "section": "SECTION – C (Physics)",
+      "questionType": "long_answer",
+      "totalMarks": 5.0,
+      "stepMarksAllocated": [
+        1.0,
+        1.0,
+        2.0,
+        1.0,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "hasOrChoice": true,
+      "mainAnswer": "(a)\n𝑙\n(i) As Resistance, R =  , it changes with change in length and\nA\narea of cross section of conductor.\nBut resistivity of conductor is the characteristic property of\nmaterial and hence it does not change.\n(ii) The resistivity of an alloy is generally higher than that of its\n/\nconstituent metals.\nAlloys do not oxidise (burn) readily at high temperatures.\n(iii) 1 Ampere is constituted by the flow of 1 Coulomb of\n/\ncharge per second.\n1A= 1C/1s",
+      "orAnswer": "(b)\n(i) V= 4V, I= 2A\nV\nResistance of circuit R =\nI\n4\nR =\n2\nR = 2Ω\nLet 'n' be the number of bulbs\n1 1 1 1 1\n= + + + + − − −n\nR 8 8 8 8\n1 n\n=\nR 8\n1 n\n=\n2 8\nn = 4\nTherefore, 4 bulbs of resistance 8 Ω should be connected in parallel.\n(ii)\n• Ammeter\n• In series\n(iii) Heat generated through a current carrying conductor is directly\nproportional to square of current, resistance of conductor and time\nfor which current flows in conductor.\n/\n2\nH = I R t",
+      "examinerNotes": [],
+      "sourcePages": [
+        11,
+        12
+      ]
+    }
+  ]
+}

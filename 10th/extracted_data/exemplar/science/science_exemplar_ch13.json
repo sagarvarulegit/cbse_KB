@@ -1,0 +1,443 @@
+{
+  "chapterNumber": 13,
+  "subject": "science",
+  "totalQuestions": 29,
+  "questions": [
+    {
+      "qNo": 1,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "Choose the incorrect statement from the following  regarding",
+      "options": [
+        {
+          "key": "a",
+          "text": "The direction of magnetic field at a point is taken to be the\ndirection in which the north pole of a magnetic compass needle\npoints"
+        },
+        {
+          "key": "b",
+          "text": "Magnetic field lines are closed curves"
+        },
+        {
+          "key": "c",
+          "text": "If magnetic field lines are parallel and\nequidistant, they represent zero field strength"
+        },
+        {
+          "key": "d",
+          "text": "Relative strength of magnetic field is shown by\nthe degree of closeness of the field lines"
+        }
+      ],
+      "fullText": "Choose the incorrect statement from the following  regarding\n(a) The direction of magnetic field at a point is taken to be the\ndirection in which the north pole of a magnetic compass needle\npoints\n(b) Magnetic field lines are closed curves\n(c) If magnetic field lines are parallel and\nequidistant, they represent zero field strength\n(d) Relative strength of magnetic field is shown by\nthe degree of closeness of the field lines"
+    },
+    {
+      "qNo": 2,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "If the key in the arrangement (Figure 13.1) is taken\nout (the circuit is made open) and magnetic field\nlines are drawn over the horizontal plane ABCD,\nthe lines are",
+      "options": [
+        {
+          "key": "a",
+          "text": "concentric circles"
+        },
+        {
+          "key": "b",
+          "text": "elliptical in shape"
+        },
+        {
+          "key": "c",
+          "text": "straight lines parallel to each other"
+        },
+        {
+          "key": "d",
+          "text": "concentric circles near the point O but of elliptical\nshapes  as we go away from it"
+        }
+      ],
+      "fullText": "If the key in the arrangement (Figure 13.1) is taken\nout (the circuit is made open) and magnetic field\nlines are drawn over the horizontal plane ABCD,\nthe lines are\n(a) concentric circles\n(b) elliptical in shape\n(c) straight lines parallel to each other\n(d) concentric circles near the point O but of elliptical\nshapes  as we go away from it"
+    },
+    {
+      "qNo": 3,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "A circular loop placed in a plane perpendicular to the\nplane of paper carries a current when the key is ON.\nThe current as seen from points A and B (in the plane\nof paper and on the axis of the coil) is anti clockwise\nand clockwise respectively. The magnetic field lines\npoint from B to A. The N-pole of the resultant magnet\nis on the face close to",
+      "options": [
+        {
+          "key": "a",
+          "text": "A"
+        },
+        {
+          "key": "b",
+          "text": "B"
+        },
+        {
+          "key": "c",
+          "text": "A if the current is small, and B if the current is large"
+        },
+        {
+          "key": "d",
+          "text": "B if the current is small and A if the current is large\n/CIPGVKE 'HHGEVU QH\n'NGEVTKE %WTTGPV\n%*#26'4"
+        }
+      ],
+      "fullText": "A circular loop placed in a plane perpendicular to the\nplane of paper carries a current when the key is ON.\nThe current as seen from points A and B (in the plane\nof paper and on the axis of the coil) is anti clockwise\nand clockwise respectively. The magnetic field lines\npoint from B to A. The N-pole of the resultant magnet\nis on the face close to\n(a) A\n(b) B\n(c) A if the current is small, and B if the current is large\n(d) B if the current is small and A if the current is large\n/CIPGVKE 'HHGEVU QH\n'NGEVTKE %WTTGPV\n%*#26'4"
+    },
+    {
+      "qNo": 4,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "For a current in a long straight solenoid N- and S-poles are created\nat the two ends. Among the following statements, the incorrect\nstatement is",
+      "options": [
+        {
+          "key": "a",
+          "text": "The field lines inside the solenoid are in the form of straight\nlines which indicates that the magnetic field is the same at all\npoints inside the solenoid"
+        },
+        {
+          "key": "b",
+          "text": "The strong magnetic field produced inside the solenoid can\nbe used to magnetise a piece of magnetic material like soft\niron, when placed inside the coil"
+        },
+        {
+          "key": "c",
+          "text": "The pattern of the magnetic field associated with the solenoid\nis different from the pattern of the magnetic field around a\nbar magnet"
+        },
+        {
+          "key": "d",
+          "text": "The N- and S-poles exchange position when the direction of\ncurrent through the solenoid is reversed"
+        }
+      ],
+      "fullText": "For a current in a long straight solenoid N- and S-poles are created\nat the two ends. Among the following statements, the incorrect\nstatement is\n(a) The field lines inside the solenoid are in the form of straight\nlines which indicates that the magnetic field is the same at all\npoints inside the solenoid\n(b) The strong magnetic field produced inside the solenoid can\nbe used to magnetise a piece of magnetic material like soft\niron, when placed inside the coil\n(c) The pattern of the magnetic field associated with the solenoid\nis different from the pattern of the magnetic field around a\nbar magnet\n(d) The N- and S-poles exchange position when the direction of\ncurrent through the solenoid is reversed"
+    },
+    {
+      "qNo": 6,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "Commercial electric motors do not use",
+      "options": [
+        {
+          "key": "a",
+          "text": "an electromagnet to rotate the armature"
+        },
+        {
+          "key": "b",
+          "text": "effectively large number of turns of conducting\nwire in the current carrying coil"
+        },
+        {
+          "key": "c",
+          "text": "a permanent magnet to rotate the armature"
+        },
+        {
+          "key": "d",
+          "text": "a soft iron core on which the coil is wound"
+        }
+      ],
+      "fullText": "Commercial electric motors do not use\n(a) an electromagnet to rotate the armature\n(b) effectively large number of turns of conducting\nwire in the current carrying coil\n(c) a permanent magnet to rotate the armature\n(d) a soft iron core on which the coil is wound"
+    },
+    {
+      "qNo": 5,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "A uniform magnetic field exists in the plane of\npaper pointing from left to right as shown in\nFigure 13.3. In the field an electron and a proton\nmove as shown. The electron and the proton\nexperience",
+      "options": [
+        {
+          "key": "a",
+          "text": "forces both pointing into the plane of paper"
+        },
+        {
+          "key": "b",
+          "text": "forces both pointing out of the plane of paper"
+        },
+        {
+          "key": "c",
+          "text": "forces pointing into the plane of paper and\nout of the plane of paper, respectively"
+        },
+        {
+          "key": "d",
+          "text": "force pointing opposite and along the\ndirection of the uniform magnetic field\nrespectively"
+        }
+      ],
+      "fullText": "A uniform magnetic field exists in the plane of\npaper pointing from left to right as shown in\nFigure 13.3. In the field an electron and a proton\nmove as shown. The electron and the proton\nexperience\n(a) forces both pointing into the plane of paper\n(b) forces both pointing out of the plane of paper\n(c) forces pointing into the plane of paper and\nout of the plane of paper, respectively\n(d) force pointing opposite and along the\ndirection of the uniform magnetic field\nrespectively"
+    },
+    {
+      "qNo": 7,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "In the arrangement shown in Figure 13.4 there are\ntwo coils wound on a non-conducting cylindrical rod.\nInitially the key is not inserted. Then the key is\ninserted and later removed. Then",
+      "options": [
+        {
+          "key": "a",
+          "text": "the deflection in the galvanometer remains zero\nthroughout"
+        },
+        {
+          "key": "b",
+          "text": "there is a momentary deflection in the\ngalvanometer but it dies out shortly and there is\nno effect when the key is removed"
+        },
+        {
+          "key": "c",
+          "text": "there are momentary galvanometer deflections that die out\nshortly; the deflections are in the same direction"
+        },
+        {
+          "key": "d",
+          "text": "there are momentary galvanometer deflections that die out\nshortly; the deflections are in opposite directions"
+        }
+      ],
+      "fullText": "In the arrangement shown in Figure 13.4 there are\ntwo coils wound on a non-conducting cylindrical rod.\nInitially the key is not inserted. Then the key is\ninserted and later removed. Then\n(a) the deflection in the galvanometer remains zero\nthroughout\n(b) there is a momentary deflection in the\ngalvanometer but it dies out shortly and there is\nno effect when the key is removed\n(c) there are momentary galvanometer deflections that die out\nshortly; the deflections are in the same direction\n(d) there are momentary galvanometer deflections that die out\nshortly; the deflections are in opposite directions"
+    },
+    {
+      "qNo": 8,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "Choose the incorrect statement",
+      "options": [
+        {
+          "key": "a",
+          "text": "Fleming’s right-hand rule is a simple rule to know the direction\nof induced current"
+        },
+        {
+          "key": "b",
+          "text": "The right-hand thumb rule is used to find the direction of"
+        },
+        {
+          "key": "c",
+          "text": "The difference between the direct and alternating currents is\nthat the direct current always flows in one direction, whereas\nthe alternating current reverses its direction periodically"
+        },
+        {
+          "key": "d",
+          "text": "In India, the AC changes direction after every\n50  second"
+        }
+      ],
+      "fullText": "Choose the incorrect statement\n(a) Fleming’s right-hand rule is a simple rule to know the direction\nof induced current\n(b) The right-hand thumb rule is used to find the direction of\n(c) The difference between the direct and alternating currents is\nthat the direct current always flows in one direction, whereas\nthe alternating current reverses its direction periodically\n(d) In India, the AC changes direction after every\n50  second"
+    },
+    {
+      "qNo": 9,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "A constant current flows in a horizontal wire in the plane of the\npaper from east to west as shown in Figure 13.5. The direction\nof magnetic field at a point will be North to South",
+      "options": [
+        {
+          "key": "a",
+          "text": "directly above the wire"
+        },
+        {
+          "key": "b",
+          "text": "directly below the wire"
+        },
+        {
+          "key": "c",
+          "text": "at a point located in the plane of the paper, on the north side\nof the wire"
+        },
+        {
+          "key": "d",
+          "text": "at a point located in the plane of the paper, on the south\nside of the wire"
+        }
+      ],
+      "fullText": "A constant current flows in a horizontal wire in the plane of the\npaper from east to west as shown in Figure 13.5. The direction\nof magnetic field at a point will be North to South\n(a) directly above the wire\n(b) directly below the wire\n(c) at a point located in the plane of the paper, on the north side\nof the wire\n(d) at a point located in the plane of the paper, on the south\nside of the wire"
+    },
+    {
+      "qNo": 10,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "The strength of magnetic field inside a long current carrying\nstraight solenoid is",
+      "options": [
+        {
+          "key": "a",
+          "text": "more at the ends than at the centre"
+        },
+        {
+          "key": "b",
+          "text": "minimum in the middle"
+        },
+        {
+          "key": "c",
+          "text": "same at all points"
+        },
+        {
+          "key": "d",
+          "text": "found to increase from one end to the other"
+        }
+      ],
+      "fullText": "The strength of magnetic field inside a long current carrying\nstraight solenoid is\n(a) more at the ends than at the centre\n(b) minimum in the middle\n(c) same at all points\n(d) found to increase from one end to the other"
+    },
+    {
+      "qNo": 11,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "To convert an AC generator into DC generator",
+      "options": [
+        {
+          "key": "a",
+          "text": "split-ring type commutator must be used"
+        },
+        {
+          "key": "b",
+          "text": "slip rings and brushes must be used"
+        },
+        {
+          "key": "c",
+          "text": "a stronger magnetic field has to be used"
+        },
+        {
+          "key": "d",
+          "text": "a rectangular wire loop has to be used"
+        }
+      ],
+      "fullText": "To convert an AC generator into DC generator\n(a) split-ring type commutator must be used\n(b) slip rings and brushes must be used\n(c) a stronger magnetic field has to be used\n(d) a rectangular wire loop has to be used"
+    },
+    {
+      "qNo": 12,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "The most important safety method used for protecting home\nappliances from short circuiting or overloading is",
+      "options": [
+        {
+          "key": "a",
+          "text": "earthing"
+        },
+        {
+          "key": "b",
+          "text": "use of fuse"
+        },
+        {
+          "key": "c",
+          "text": "use of stabilizers"
+        },
+        {
+          "key": "d",
+          "text": "use of electric meter\n5JQTV #PUYGT 3WGUVKQPU"
+        }
+      ],
+      "fullText": "The most important safety method used for protecting home\nappliances from short circuiting or overloading is\n(a) earthing\n(b) use of fuse\n(c) use of stabilizers\n(d) use of electric meter\n5JQTV #PUYGT 3WGUVKQPU"
+    },
+    {
+      "qNo": 13,
+      "section": "Subjective Questions",
+      "type": "subjective",
+      "stem": "A magnetic compass needle is placed in the plane of paper near\npoint A  as shown in Figure 13.6. In which plane should a straight\ncurrent carrying conductor be placed so that it passes through A\nand there is no change in the deflection of the compass? Under\nwhat condition is the deflection maximum and why?",
+      "options": [],
+      "fullText": "A magnetic compass needle is placed in the plane of paper near\npoint A  as shown in Figure 13.6. In which plane should a straight\ncurrent carrying conductor be placed so that it passes through A\nand there is no change in the deflection of the compass? Under\nwhat condition is the deflection maximum and why?"
+    },
+    {
+      "qNo": 14,
+      "section": "Subjective Questions",
+      "type": "subjective",
+      "stem": "Under what conditions permanent electromagnet is obtained if a\ncurrent carrying solenoid is used? Support your answer with the\nhelp of a labelled circuit diagram.\n15. AB is a current carrying conductor in the plane of the paper as\nshown in Figure 13.7. What are the directions of magnetic fields\nproduced by it at points P and Q? Given r1 > r2, where will the\nstrength of the magnetic field be larger?\n16. A magnetic compass shows a deflection when placed near a\ncurrent carrying wire. How will the deflection of the compass get\naffected if the current in the wire is increased? Support your\nanswer with a reason.\n17. It is established that an electric current through a metallic\nconductor produces a magnetic field around it. Is there a similar\nparticles, (ii) neutrons? Justify your answer.",
+      "options": [],
+      "fullText": "Under what conditions permanent electromagnet is obtained if a\ncurrent carrying solenoid is used? Support your answer with the\nhelp of a labelled circuit diagram.\n15. AB is a current carrying conductor in the plane of the paper as\nshown in Figure 13.7. What are the directions of magnetic fields\nproduced by it at points P and Q? Given r1 > r2, where will the\nstrength of the magnetic field be larger?\n16. A magnetic compass shows a deflection when placed near a\ncurrent carrying wire. How will the deflection of the compass get\naffected if the current in the wire is increased? Support your\nanswer with a reason.\n17. It is established that an electric current through a metallic\nconductor produces a magnetic field around it. Is there a similar\nparticles, (ii) neutrons? Justify your answer."
+    },
+    {
+      "qNo": 18,
+      "section": "Subjective Questions",
+      "type": "subjective",
+      "stem": "What does the direction of thumb indicate in the right-hand thumb\nrule. In what way this rule is different from Fleming’s left-hand\nrule?",
+      "options": [],
+      "fullText": "What does the direction of thumb indicate in the right-hand thumb\nrule. In what way this rule is different from Fleming’s left-hand\nrule?"
+    },
+    {
+      "qNo": 19,
+      "section": "Subjective Questions",
+      "type": "subjective",
+      "stem": "Meena draws magnetic field lines of field close to the axis of a\ncurrent carrying circular loop. As she moves away from the centre\nof the circular loop she observes that the lines keep on diverging.\nHow will you explain her observation.",
+      "options": [],
+      "fullText": "Meena draws magnetic field lines of field close to the axis of a\ncurrent carrying circular loop. As she moves away from the centre\nof the circular loop she observes that the lines keep on diverging.\nHow will you explain her observation."
+    },
+    {
+      "qNo": 20,
+      "section": "Subjective Questions",
+      "type": "subjective",
+      "stem": "What does the divergence of magnetic field lines near the ends of\na current carrying straight solenoid indicate?",
+      "options": [],
+      "fullText": "What does the divergence of magnetic field lines near the ends of\na current carrying straight solenoid indicate?"
+    },
+    {
+      "qNo": 21,
+      "section": "Subjective Questions",
+      "type": "subjective",
+      "stem": "Name four appliances wherein an electric motor, a rotating device\nthat converts electrical energy to mechanical energy, is used as\nan important component. In what respect motors are different\nfrom generators?",
+      "options": [],
+      "fullText": "Name four appliances wherein an electric motor, a rotating device\nthat converts electrical energy to mechanical energy, is used as\nan important component. In what respect motors are different\nfrom generators?"
+    },
+    {
+      "qNo": 22,
+      "section": "Subjective Questions",
+      "type": "subjective",
+      "stem": "What is the role of the two conducting stationary brushes in a\nsimple electric motor?",
+      "options": [],
+      "fullText": "What is the role of the two conducting stationary brushes in a\nsimple electric motor?"
+    },
+    {
+      "qNo": 23,
+      "section": "Subjective Questions",
+      "type": "subjective",
+      "stem": "What is the difference between a direct current and an alternating\ncurrent? How many times does AC used in India change direction\nin one second?",
+      "options": [],
+      "fullText": "What is the difference between a direct current and an alternating\ncurrent? How many times does AC used in India change direction\nin one second?"
+    },
+    {
+      "qNo": 24,
+      "section": "Subjective Questions",
+      "type": "subjective",
+      "stem": "What is the role of fuse, used in series with any electrical\nappliance? Why should a fuse with defined rating not be replaced\nby one with a larger rating?\n.QPI #PUYGT 3WGUVKQPU",
+      "options": [],
+      "fullText": "What is the role of fuse, used in series with any electrical\nappliance? Why should a fuse with defined rating not be replaced\nby one with a larger rating?\n.QPI #PUYGT 3WGUVKQPU"
+    },
+    {
+      "qNo": 25,
+      "section": "Subjective Questions",
+      "type": "subjective",
+      "stem": "Why does a magnetic compass needle pointing North and South\nin the absence of a nearby magnet get deflected when a bar magnet\nor a current carrying loop is brought near it. Describe some salient\nfeatures of magnetic lines of field concept.",
+      "options": [],
+      "fullText": "Why does a magnetic compass needle pointing North and South\nin the absence of a nearby magnet get deflected when a bar magnet\nor a current carrying loop is brought near it. Describe some salient\nfeatures of magnetic lines of field concept."
+    },
+    {
+      "qNo": 26,
+      "section": "Subjective Questions",
+      "type": "subjective",
+      "stem": "With the help of a labelled circuit diagram illustrate the pattern\nof field lines of the magnetic field around a current carrying\nstraight long conducting wire. How is the right hand thumb rule\nuseful to find direction of magnetic field associated with a current\ncarrying conductor?",
+      "options": [],
+      "fullText": "With the help of a labelled circuit diagram illustrate the pattern\nof field lines of the magnetic field around a current carrying\nstraight long conducting wire. How is the right hand thumb rule\nuseful to find direction of magnetic field associated with a current\ncarrying conductor?"
+    },
+    {
+      "qNo": 27,
+      "section": "Subjective Questions",
+      "type": "subjective",
+      "stem": "Explain with the help of a labelled diagram the distribution of\nthat if a current carrying coil has n turns the field produced at\nany point is n times as large as that produced by a single turn?",
+      "options": [],
+      "fullText": "Explain with the help of a labelled diagram the distribution of\nthat if a current carrying coil has n turns the field produced at\nany point is n times as large as that produced by a single turn?"
+    },
+    {
+      "qNo": 28,
+      "section": "Subjective Questions",
+      "type": "subjective",
+      "stem": "Describe the activity that shows that a current-carrying conductor\nexperiences a force perpendicular to its length and the external\nthe direction of the force acting on the current carrying conductor?",
+      "options": [],
+      "fullText": "Describe the activity that shows that a current-carrying conductor\nexperiences a force perpendicular to its length and the external\nthe direction of the force acting on the current carrying conductor?"
+    },
+    {
+      "qNo": 29,
+      "section": "Subjective Questions",
+      "type": "subjective",
+      "stem": "Draw a labelled circuit diagram of a simple electric motor and\nexplain its working. In what way these simple electric motors are\ndiffferent from commercial motors?",
+      "options": [],
+      "fullText": "Draw a labelled circuit diagram of a simple electric motor and\nexplain its working. In what way these simple electric motors are\ndiffferent from commercial motors?"
+    },
+    {
+      "qNo": 30,
+      "section": "Subjective Questions",
+      "type": "subjective",
+      "stem": "Explain the phenomenon of electromagnetic induction. Describe\nan experiment to show that a current is set up in a closed loop\nwhen an external magnetic field passing through the loop\nincreases or decreases.",
+      "options": [],
+      "fullText": "Explain the phenomenon of electromagnetic induction. Describe\nan experiment to show that a current is set up in a closed loop\nwhen an external magnetic field passing through the loop\nincreases or decreases."
+    },
+    {
+      "qNo": 31,
+      "section": "Subjective Questions",
+      "type": "subjective",
+      "stem": "Describe the working of an AC generator with the help of a labelled\ncircuit diagram. What changes must be made in the arrangement\nto convert it to a DC generator?",
+      "options": [],
+      "fullText": "Describe the working of an AC generator with the help of a labelled\ncircuit diagram. What changes must be made in the arrangement\nto convert it to a DC generator?"
+    },
+    {
+      "qNo": 32,
+      "section": "Subjective Questions",
+      "type": "subjective",
+      "stem": "Draw an appropriate schematic diagram showing common\ndomestic circuits and discuss the importance of fuse. Why is it\nthat a burnt out fuse should be replaced by another fuse of\nidentical rating?",
+      "options": [],
+      "fullText": "Draw an appropriate schematic diagram showing common\ndomestic circuits and discuss the importance of fuse. Why is it\nthat a burnt out fuse should be replaced by another fuse of\nidentical rating?"
+    }
+  ]
+}

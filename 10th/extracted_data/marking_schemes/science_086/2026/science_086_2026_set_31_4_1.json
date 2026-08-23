@@ -1,0 +1,728 @@
+{
+  "subjectCode": "086",
+  "year": 2026,
+  "paperSet": "31/4/1",
+  "totalQuestions": 39,
+  "totalMarksCalculated": 80.0,
+  "questions": [
+    {
+      "qNo": 1,
+      "section": "SECTION – A BIOLOGY",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(C) / By breaking down the nutrients of bread outside the body and then\nabsorbing them.",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        3
+      ]
+    },
+    {
+      "qNo": 2,
+      "section": "SECTION – A BIOLOGY",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(C) / Formation of fruit.",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        3
+      ]
+    },
+    {
+      "qNo": 3,
+      "section": "SECTION – A BIOLOGY",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(B) / (iv)",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        3
+      ]
+    },
+    {
+      "qNo": 4,
+      "section": "SECTION – A BIOLOGY",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(B) / (i) and (iv)",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        3
+      ]
+    },
+    {
+      "qNo": 5,
+      "section": "SECTION – A BIOLOGY",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(A) / (i), (ii) and (iii)",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        3
+      ]
+    },
+    {
+      "qNo": 6,
+      "section": "SECTION – A BIOLOGY",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(B) / (i) and (iv)",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        3
+      ]
+    },
+    {
+      "qNo": 7,
+      "section": "SECTION – A BIOLOGY",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(D) / Contraction of Left Ventricle.",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        3
+      ]
+    },
+    {
+      "qNo": 8,
+      "section": "SECTION – A BIOLOGY",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(C) / Assertion (A) is true but Reason (R) is false.",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        3
+      ]
+    },
+    {
+      "qNo": 9,
+      "section": "SECTION – A BIOLOGY",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(A) / Both Assertion(A) and Reason(R) are true, and Reason (R) is correct\nexplanation of Assertion(A).",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        3
+      ]
+    },
+    {
+      "qNo": 10,
+      "section": "SECTION – A BIOLOGY",
+      "questionType": "short_answer_2m",
+      "totalMarks": 2.0,
+      "stepMarksAllocated": [
+        1.0,
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "• Necessary- It helps in transport of water and minerals from roots to\nleaves/ helps in temperature regulation.\n• Evil- It results in loss of water.",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        3
+      ]
+    },
+    {
+      "qNo": 11,
+      "section": "SECTION – A BIOLOGY",
+      "questionType": "short_answer_2m",
+      "totalMarks": 2.0,
+      "stepMarksAllocated": [
+        1.0,
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "• Only 10% of the energy from one trophic level is transferred to the\nnext level. Most of the energy is lost as heat.\n• So very little usable energy will remain after four trophic levels./\n10% 10%\nGrass → Grasshoper → Frog\n(P 10ro 0d 0u kc Ce ar l.) (Primary ) (Secondary )\nconsumer 100k Cal. consumer 10k Cal.\n(Any other suitable food chain)",
+      "orAnswer": null,
+      "examinerNotes": [
+        "Any other suitable food chain"
+      ],
+      "sourcePages": [
+        3
+      ]
+    },
+    {
+      "qNo": 12,
+      "section": "SECTION – A BIOLOGY",
+      "questionType": "short_answer_2m",
+      "totalMarks": 2.0,
+      "stepMarksAllocated": [
+        1.0,
+        1.0,
+        0.5,
+        0.5,
+        1.0
+      ],
+      "hasOrChoice": true,
+      "mainAnswer": "(A)\n• As his pancreatic duct is blocked, enzymes for digestion will not be\n/\ntransported to small intestine The blockage will cause difficulty in\ndigestion of proteins, carbohydrates and fats.\n• Insulin secretion is already affected.",
+      "orAnswer": "(B)\n• Reflex action\n• An automatic and quick response to a stimulus which does not involve\nthinking.\n• Stimulus → Receptor → sensory neuron → relay neuron (spinal cord)\n→ Motor neuron → effector (muscle) response.",
+      "examinerNotes": [],
+      "sourcePages": [
+        3,
+        4
+      ]
+    },
+    {
+      "qNo": 13,
+      "section": "SECTION – A BIOLOGY",
+      "questionType": "short_answer_3m",
+      "totalMarks": 3.0,
+      "stepMarksAllocated": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(a) Because adrenal gland secretes adrenaline hormone that enables the\nanimal body to face a scary situation.\n(b) To prevent female foeticide.\n(c) Plants raised by vegetative propagation can bear flowers and fruits\n/\nearlier than those produced from seeds\nSuch methods also make possible the propagation of plants such as\nbanana, orange, rose and jasmine that have lost the capacity to\n/\nproduce seeds\nAll plants produced are genetically similar enough to the parent\nplant to have all its characteristics.",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        4
+      ]
+    },
+    {
+      "qNo": 14,
+      "section": "SECTION – A BIOLOGY",
+      "questionType": "short_answer_3m",
+      "totalMarks": 3.0,
+      "stepMarksAllocated": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(a) Parents : R R  r r\n(Red flowers) (White flowers)\nGametes :\nF : (All red)\n1\nRr  Rr\nGametes:\nF\n2\n(b)\nPhenotypic ratio/ Showing external look of plants : 33 : 11\n3 : 1\n(Red) (White)\nGenotypic Ratio : 1 : 2 : 1\nRR : Rr : rr",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        4
+      ]
+    },
+    {
+      "qNo": 15,
+      "section": "SECTION – A BIOLOGY",
+      "questionType": "case_study",
+      "totalMarks": 4.0,
+      "stepMarksAllocated": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "hasOrChoice": true,
+      "mainAnswer": "(a) Due to hydrotropism, the roots grow towards area of water\navailability so that they can absorb water and minerals.\n(b) Auxins promote cell elongation / Auxin regulates the tropic\nresponses like bending (growth) of stem towards light.\n(c)\nMovement by sensitive plants Tropic Movements by plants\nNon-directional Directional\nFast Slow\nGrowth independent movement Growth related\n(Any two points, any other difference)",
+      "orAnswer": "(c)\nMovement of Roots Movement of Shoots\nGravity: Grows towards gravity / Gravity: Grows away from gravity /\nPositive geotropism Negative geotropism\nLight: Grows away from light / Light: Grows towards light/ Positive\nNegative phototropism phototropism",
+      "examinerNotes": [],
+      "sourcePages": [
+        4,
+        5
+      ]
+    },
+    {
+      "qNo": 16,
+      "section": "SECTION – A BIOLOGY",
+      "questionType": "long_answer",
+      "totalMarks": 5.0,
+      "stepMarksAllocated": [
+        1.0,
+        1.0,
+        2.0,
+        1.0,
+        1.0,
+        0.5,
+        4.0,
+        1.0,
+        1.0
+      ],
+      "hasOrChoice": true,
+      "mainAnswer": "(A)\n(a)\n(b)\n• Absorption of light energy by chlorophyll.\n• Conversion of light energy to chemical energy and splitting of water\nmolecule into hydrogen and oxygen.\n• Reduction of carbon dioxide to carbohydrates.\n(c)",
+      "orAnswer": "Tropic Movements by plants\nDirectional\nSlow\nGrowth related\nMovement of Shoots\nGravity: Grows away from gravity /\nNegative geotropism\nLight: Grows towards light/ Positive\nphototropism\n(B)\n(a)\nDiagram\nLabelling of any 4 parts\n(b) Filtration of blood to remove wastes.\n(c) It is a process by which useful substances like glucose, amino acids,\nvitamins, salts and most of water are reabsorbed from filtrate, back\ninto the blood.",
+      "examinerNotes": [],
+      "sourcePages": [
+        5,
+        6
+      ]
+    },
+    {
+      "qNo": 17,
+      "section": "SECTION – B Chemistry",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(B)/ 2 : 1",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        6
+      ]
+    },
+    {
+      "qNo": 18,
+      "section": "SECTION – B Chemistry",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(C)/ Exothermic Reaction",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        6
+      ]
+    },
+    {
+      "qNo": 19,
+      "section": "SECTION – B Chemistry",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(B)/ Hydrochloric acid",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        6
+      ]
+    },
+    {
+      "qNo": 20,
+      "section": "SECTION – B Chemistry",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(A)/ The hydrophobic tail of the soap molecule is in the interior of the cluster,\nwhereas hydrophilic end is on the surface of the cluster.",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        6
+      ]
+    },
+    {
+      "qNo": 21,
+      "section": "SECTION – B Chemistry",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(D)/ Magnesium",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        6
+      ]
+    },
+    {
+      "qNo": 22,
+      "section": "SECTION – B Chemistry",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(D)/ Steel",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        6
+      ]
+    },
+    {
+      "qNo": 23,
+      "section": "SECTION – B Chemistry",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(A)/ By adding acid to water with constant stirring.",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        6
+      ]
+    },
+    {
+      "qNo": 24,
+      "section": "SECTION – B Chemistry",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(A)/ Both A and R is true and R is correct explanation of A.",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        6
+      ]
+    },
+    {
+      "qNo": 25,
+      "section": "SECTION – B Chemistry",
+      "questionType": "short_answer_2m",
+      "totalMarks": 2.0,
+      "stepMarksAllocated": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(a) A → Sodium hydrogen carbonate/ baking soda/ NaHCO\n3\nB → Sodium carbonate/ washing soda/ Na2CO3\n(b) • CaSO4  1 H2O\n2\n• 373K / 100C",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        6,
+        7
+      ]
+    },
+    {
+      "qNo": 26,
+      "section": "SECTION – B Chemistry",
+      "questionType": "short_answer_3m",
+      "totalMarks": 3.0,
+      "stepMarksAllocated": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(a) Decomposition of silver chloride (AgCl) to form silver (Ag)\n(b) Decomposition of lead nitrate releases NO2 / Nitrogen dioxide\n(c) To prevent the oxidation of fats in food items.",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        7
+      ]
+    },
+    {
+      "qNo": 27,
+      "section": "SECTION – B Chemistry",
+      "questionType": "short_answer_3m",
+      "totalMarks": 3.0,
+      "stepMarksAllocated": [
+        0.5,
+        0.5,
+        1.0,
+        0.5,
+        0.5,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "hasOrChoice": true,
+      "mainAnswer": "(A)\n(i) (a) Carbonate ore: Calcination\n(b) Sulphide ore : Roasting\n(ii)\n(iii)\n• Anode: Impure copper rod.\n• Cathode: Pure copper strip.",
+      "orAnswer": "(B)\n(i)\n(ii) Nitric acid is a strong oxidising agent and oxidises H2 gas produced to\nwater.",
+      "examinerNotes": [],
+      "sourcePages": [
+        7
+      ]
+    },
+    {
+      "qNo": 28,
+      "section": "SECTION – B Chemistry",
+      "questionType": "case_study",
+      "totalMarks": 4.0,
+      "stepMarksAllocated": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        0.5,
+        0.5
+      ],
+      "hasOrChoice": true,
+      "mainAnswer": "(a) Universal indicator\n(b) A/ (pH = 3)\n(c)\n• Strong acids give more H+ ions in water. / Strong acids pH 1-2\n• Weak acids give less H+ ions in water. / Weak acids pH 6-7",
+      "orAnswer": "(c) (i) When pH<5.6\n(ii) Weak acid: acetic acid, formic acid",
+      "examinerNotes": [],
+      "sourcePages": [
+        7,
+        8
+      ]
+    },
+    {
+      "qNo": 29,
+      "section": "SECTION – B Chemistry",
+      "questionType": "long_answer",
+      "totalMarks": 5.0,
+      "stepMarksAllocated": [
+        2.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "hasOrChoice": true,
+      "mainAnswer": "(A)\nC4+\n(i) Carbon cannot form cation because removal of four electrons is\nC4−\nenergetically not possible. Carbon cannot form anion because nucleus\nwith six protons cannot hold ten electrons.\n(ii)\n• A series of compounds in which the same functional group substitutes\nfor hydrogen in carbon chain is called a homologous series.\n• Because of higher molecular mass of C4H10 than C3H8 or C2H6.\n/ / /\n(iii) Ethanoic acid acetic acid CH3COOH is formed\nacidified K2Cr2O7 +Heat\nCH -CH OH → CH COOH\n3 2 3",
+      "orAnswer": "(B)\n(i) I. Propanal\nII. Propyne\n(ii) I. Ester group\nII.\n(iii) Soaps reacts with calcium and magnesium salts present in hard water\nto form scum (insoluble substance).",
+      "examinerNotes": [],
+      "sourcePages": [
+        8
+      ]
+    },
+    {
+      "qNo": 30,
+      "section": "SECTION – C Physics",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(A) / Iris and pupil",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        8
+      ]
+    },
+    {
+      "qNo": 31,
+      "section": "SECTION – C Physics",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(C) / Presbyopia",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        8
+      ]
+    },
+    {
+      "qNo": 32,
+      "section": "SECTION – C Physics",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(A) / Both Assertion (A) and Reason (R) both are true, and Reason (R) is the\ncorrect explanation of Assertion",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        8
+      ]
+    },
+    {
+      "qNo": 33,
+      "section": "SECTION – C Physics",
+      "questionType": "short_answer_2m",
+      "totalMarks": 2.0,
+      "stepMarksAllocated": [
+        0.5,
+        0.5,
+        1.0,
+        1.0,
+        0.5,
+        0.5
+      ],
+      "hasOrChoice": true,
+      "mainAnswer": "(A)\nP\n• I =\nV\n2000\nI =\n200\nI = 10 A\n• Current passing through electric heater is 10A which is much more\nthan rated value (4A) of fuse. Hence fuse will melt and break the\ncircuit. So, it cannot be used.",
+      "orAnswer": "(B)\n• An electromagnet is formed by wrapping a current carrying insulated\ncopper wire in the form of coil around a magnetic material like soft\niron core. /\nBy placing a magnetic material like soft iron as a core material inside\nthe current carrying solenoid.\n• Strength of electromagnet can be increased by increasing the\n(i) Number of turns of coil\n(ii) Current flowing through the coil.",
+      "examinerNotes": [],
+      "sourcePages": [
+        8,
+        9
+      ]
+    },
+    {
+      "qNo": 34,
+      "section": "SECTION – C Physics",
+      "questionType": "short_answer_2m",
+      "totalMarks": 2.0,
+      "stepMarksAllocated": [
+        1.0,
+        0.5,
+        0.5
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(a)\n1 Volt is the potential difference between two points in a current carrying\nconductor when one Joule work is done to move a charge of 1Coulomb from\n1 J\none point to the other. / 1V =\n1C\nW\n(b) V =\nQ\nW = Q x V\nW = 1 6  10−19  100\nW = 1 6  10−17 J",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        9
+      ]
+    },
+    {
+      "qNo": 35,
+      "section": "SECTION – C Physics",
+      "questionType": "short_answer_3m",
+      "totalMarks": 3.0,
+      "stepMarksAllocated": [
+        0.5,
+        0.5,
+        2.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(a) (i) Speed of light in medium A > Speed of light in medium B.\n(ii) Media B and C both have same optical density.\n(b)",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        9
+      ]
+    },
+    {
+      "qNo": 36,
+      "section": "SECTION – C Physics",
+      "questionType": "short_answer_3m",
+      "totalMarks": 3.0,
+      "stepMarksAllocated": [
+        2.0,
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "Rainbow is caused by dispersion of sunlight by tiny water droplets, present in\nthe atmosphere. The water droplets act like small prisms. They refract and\ndisperse the incident sunlight, then reflect it internally, and finally refract it\nagain when it comes out of the raindrop.",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        9,
+        10
+      ]
+    },
+    {
+      "qNo": 37,
+      "section": "SECTION – C Physics",
+      "questionType": "short_answer_3m",
+      "totalMarks": 3.0,
+      "stepMarksAllocated": [
+        0.5,
+        0.5,
+        1.0,
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(a)\n• The rod AB gets displaced from its original position\n• Because it experiences a force when placed in external magnetic field\n(b)\n• Fleming's Left Hand Rule\n• Stretch the thumb, fore finger and middle finger of your left hand such\nthat they are mutually perpendicular. If forefinger points in the\ndirection of magnetic field, second finger in the direction of current,\nthen the thumb will point in the direction of motion or force acting on\nthe conductor.",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        10
+      ]
+    },
+    {
+      "qNo": 38,
+      "section": "SECTION – C Physics",
+      "questionType": "case_study",
+      "totalMarks": 4.0,
+      "stepMarksAllocated": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        2.0
+      ],
+      "hasOrChoice": true,
+      "mainAnswer": "(a) Real / magnified.\n(b) Converging / Concave mirror, Plane mirror\n(c)\n• Convex lens\n• It magnifies the image formed by the curved mirror",
+      "orAnswer": "(c) The plane mirror redirects/ reflects the light rays coming from the curved\nmirror towards eyepiece.",
+      "examinerNotes": [],
+      "sourcePages": [
+        10
+      ]
+    },
+    {
+      "qNo": 39,
+      "section": "SECTION – C Physics",
+      "questionType": "long_answer",
+      "totalMarks": 5.0,
+      "stepMarksAllocated": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        1.0,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        1.0,
+        1.0
+      ],
+      "hasOrChoice": true,
+      "mainAnswer": "(A) Let I be the total current flowing through the circuit and\nI and I be the currents flowing through 4 (R) and R resistors.\n1 2 2\n(i) (I) Potential difference across R is same as that of across 4 resistor\n2\nas they are connected in parallel.\n∴ V (across R ) = I R\n2 1\n= 1.5  4\n= 6V\n(II) Current flowing through I = I – I\n2 1\n= 2.0 – 1.5 = 0.5 A\nV\nR =\n2\nI2\n6\n𝑅 =\n2\n0.5\nR = 12 \n2\n(III) Potential difference across 2 resistor\nV = I R\nV = 2 x 2 = 4V\nPotential difference across R = 12 – (6 + 4) = 2V\n1\n𝑉\n𝑅 =\n1\n𝐼\n𝑅 = 2  R = 1 \n1 2 1\n(ii) Resistance of conductor depends on\n• Length of the conductor / R  l\n1\n• Area of cross section / R α\nA\n• R  l\n1\nR α\nA\n𝑙\nR α\nA\n𝑙\nR = ρ\nA\nWhere  = Resistivity (a proportionality constant)",
+      "orAnswer": "(B)\n𝑉\n(i) 𝐼 =\n𝑅\n220\n𝐼 =\n55\nI = 4 A\nPower of electric iron P = VI\nP = 220  4\nP = 880 W\n(ii) E = P x t\nEnergy (3 bulbs) = 3  100  5\n= 1500\n= 1.5 kWh\nEnergy (electric heater) = 1.0  0.5\n= 0.5 kWh\nTotal energy consumed (1 day) = 1.5 + 0.5 = 2 kWh\nTotal energy consumed (30 days) = 30  2\n= 60 kWh\n= 60 units\nTotal cost = Units  Rate\n= 60  3.60\n= ₹ 216\n(iii) The resistivity of an alloy is generally higher than that of its\nconstituent metals. / Alloys do not oxidise (burn) readily at high\ntemperatures.",
+      "examinerNotes": [],
+      "sourcePages": [
+        11,
+        12
+      ]
+    }
+  ]
+}

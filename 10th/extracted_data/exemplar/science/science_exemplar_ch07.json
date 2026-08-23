@@ -1,0 +1,679 @@
+{
+  "chapterNumber": 7,
+  "subject": "science",
+  "totalQuestions": 33,
+  "questions": [
+    {
+      "qNo": 1,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "Which of the following statements is correct about receptors?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Gustatory receptors detect taste while olfactory receptors detect smell"
+        },
+        {
+          "key": "b",
+          "text": "Both gustatory and olfactory receptors detect smell"
+        },
+        {
+          "key": "c",
+          "text": "Auditory receptors detect smell and olfactory receptors detect taste"
+        },
+        {
+          "key": "d",
+          "text": "Olfactory receptors detect taste and gustatory receptors smell"
+        }
+      ],
+      "fullText": "Which of the following statements is correct about receptors?\n(a) Gustatory receptors detect taste while olfactory receptors detect smell\n(b) Both gustatory and olfactory receptors detect smell\n(c) Auditory receptors detect smell and olfactory receptors detect taste\n(d) Olfactory receptors detect taste and gustatory receptors smell"
+    },
+    {
+      "qNo": 2,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "Electrical impulse travels in a neuron from",
+      "options": [
+        {
+          "key": "a",
+          "text": "Dendrite → axon  → axonal end  → cell body"
+        },
+        {
+          "key": "b",
+          "text": "Cell body  → dendrite  → axon  → axonal end"
+        },
+        {
+          "key": "c",
+          "text": "Dendrite  → cell body  → axon  → axonal end"
+        },
+        {
+          "key": "d",
+          "text": "Axonal end  → axon  → cell body  → dendrite"
+        }
+      ],
+      "fullText": "Electrical impulse travels in a neuron from\n(a) Dendrite → axon  → axonal end  → cell body\n(b) Cell body  → dendrite  → axon  → axonal end\n(c) Dendrite  → cell body  → axon  → axonal end\n(d) Axonal end  → axon  → cell body  → dendrite"
+    },
+    {
+      "qNo": 3,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "In a synapse, chemical signal is transmitted from",
+      "options": [
+        {
+          "key": "a",
+          "text": "dendritic end of one neuron to axonal end of another neuron"
+        },
+        {
+          "key": "b",
+          "text": "axon to cell body of the same neuron"
+        },
+        {
+          "key": "c",
+          "text": "cell body to axonal end of the same neuron"
+        },
+        {
+          "key": "d",
+          "text": "axonal end of one neuron to dendritic end  of another neuron"
+        }
+      ],
+      "fullText": "In a synapse, chemical signal is transmitted from\n(a) dendritic end of one neuron to axonal end of another neuron\n(b) axon to cell body of the same neuron\n(c) cell body to axonal end of the same neuron\n(d) axonal end of one neuron to dendritic end  of another neuron"
+    },
+    {
+      "qNo": 4,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "In a neuron, conversion of electrical signal to a chemical signal occurs at/in",
+      "options": [
+        {
+          "key": "a",
+          "text": "cell body"
+        },
+        {
+          "key": "b",
+          "text": "axonal end"
+        },
+        {
+          "key": "c",
+          "text": "dendritic end"
+        },
+        {
+          "key": "d",
+          "text": "axon"
+        }
+      ],
+      "fullText": "In a neuron, conversion of electrical signal to a chemical signal occurs at/in\n(a) cell body\n(b) axonal end\n(c) dendritic end\n(d) axon"
+    },
+    {
+      "qNo": 5,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "Which is the correct sequence of the components of a reflex arc?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Receptors→ Muscles→ Sensory neuron→ Motor neuron→ Spinal cord"
+        },
+        {
+          "key": "b",
+          "text": "Receptors→ Motor neuron → Spinal cord → Sensory neuron → Muscle"
+        },
+        {
+          "key": "c",
+          "text": "Receptors → Spinal cord → Sensory neuron → Motor neuron →  Muscle"
+        },
+        {
+          "key": "d",
+          "text": "Receptors → Sensory neuron → Spinal cord → Motor neuron → Muscle\n%QPVTQN CPF\n%QQTFKPCVKQP\n%*#26'4"
+        }
+      ],
+      "fullText": "Which is the correct sequence of the components of a reflex arc?\n(a) Receptors→ Muscles→ Sensory neuron→ Motor neuron→ Spinal cord\n(b) Receptors→ Motor neuron → Spinal cord → Sensory neuron → Muscle\n(c) Receptors → Spinal cord → Sensory neuron → Motor neuron →  Muscle\n(d) Receptors → Sensory neuron → Spinal cord → Motor neuron → Muscle\n%QPVTQN CPF\n%QQTFKPCVKQP\n%*#26'4"
+    },
+    {
+      "qNo": 6,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "Which of the following statements are true?\n(i) Sudden action in response to something in the environment is\ncalled reflex action\n(ii) Sensory neurons carry signals from spinal cord to muscles\n(iii) Motor neurons carry signals from receptors to spinal cord\n(iv) The path through which signals are transmitted from a receptor\nto a muscle or a gland is called reflex arc",
+      "options": [
+        {
+          "key": "a",
+          "text": "(i) and (ii)"
+        },
+        {
+          "key": "b",
+          "text": "(i) and (iii)"
+        },
+        {
+          "key": "c",
+          "text": "(i) and (iv)"
+        },
+        {
+          "key": "d",
+          "text": "(i) , (ii) and (iii)"
+        }
+      ],
+      "fullText": "Which of the following statements are true?\n(i) Sudden action in response to something in the environment is\ncalled reflex action\n(ii) Sensory neurons carry signals from spinal cord to muscles\n(iii) Motor neurons carry signals from receptors to spinal cord\n(iv) The path through which signals are transmitted from a receptor\nto a muscle or a gland is called reflex arc\n(a) (i) and (ii)\n(b) (i) and (iii)\n(c) (i) and (iv)\n(d) (i) , (ii) and (iii)"
+    },
+    {
+      "qNo": 7,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "Which of the following statements are true about the brain?\n(i) The main thinking part of brain is hind brain\n(ii) Centres of hearing, smell, memory, sight etc are located in fore\nbrain.\n(iii) Involuntary actions like salivation, vomiting, blood pressure\nare controlled by the medulla in the hind brain\n(iv) Cerebellum does not control posture and balance of the body",
+      "options": [
+        {
+          "key": "a",
+          "text": "(i)  and (ii)"
+        },
+        {
+          "key": "b",
+          "text": "(i),  (ii) and (iii)"
+        },
+        {
+          "key": "c",
+          "text": "(ii) and (iii)"
+        },
+        {
+          "key": "d",
+          "text": "(iii) and (iv)"
+        }
+      ],
+      "fullText": "Which of the following statements are true about the brain?\n(i) The main thinking part of brain is hind brain\n(ii) Centres of hearing, smell, memory, sight etc are located in fore\nbrain.\n(iii) Involuntary actions like salivation, vomiting, blood pressure\nare controlled by the medulla in the hind brain\n(iv) Cerebellum does not control posture and balance of the body\n(a) (i)  and (ii)\n(b) (i),  (ii) and (iii)\n(c) (ii) and (iii)\n(d) (iii) and (iv)"
+    },
+    {
+      "qNo": 8,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "Posture and balance of the body is controlled by",
+      "options": [
+        {
+          "key": "a",
+          "text": "cerebrum"
+        },
+        {
+          "key": "b",
+          "text": "cerebellum"
+        },
+        {
+          "key": "c",
+          "text": "medulla"
+        },
+        {
+          "key": "d",
+          "text": "pons"
+        }
+      ],
+      "fullText": "Posture and balance of the body is controlled by\n(a) cerebrum\n(b) cerebellum\n(c) medulla\n(d) pons"
+    },
+    {
+      "qNo": 9,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "Spinal cord originates from",
+      "options": [
+        {
+          "key": "a",
+          "text": "cerebrum"
+        },
+        {
+          "key": "b",
+          "text": "medulla"
+        },
+        {
+          "key": "c",
+          "text": "pons"
+        },
+        {
+          "key": "d",
+          "text": "cerebellum"
+        }
+      ],
+      "fullText": "Spinal cord originates from\n(a) cerebrum\n(b) medulla\n(c) pons\n(d) cerebellum"
+    },
+    {
+      "qNo": 10,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "The movement of shoot towards light is",
+      "options": [
+        {
+          "key": "a",
+          "text": "geotropism"
+        },
+        {
+          "key": "b",
+          "text": "hydrotropism"
+        },
+        {
+          "key": "c",
+          "text": "chemotropism"
+        },
+        {
+          "key": "d",
+          "text": "phototropism"
+        }
+      ],
+      "fullText": "The movement of shoot towards light is\n(a) geotropism\n(b) hydrotropism\n(c) chemotropism\n(d) phototropism"
+    },
+    {
+      "qNo": 11,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "The main function of abscisic acid in plants is to",
+      "options": [
+        {
+          "key": "a",
+          "text": "increase the length of cells"
+        },
+        {
+          "key": "b",
+          "text": "promote cell division"
+        },
+        {
+          "key": "c",
+          "text": "inhibit growth"
+        },
+        {
+          "key": "d",
+          "text": "promote growth of stem\n&21752/  $1'  &225',1$7,21\n:KLFK RI WKH IROORZLQJ LV QRW DVVRFLDWHG ZLWK JURZWK RI SODQW\"\nD  $X[LQ\nE  *LEEHUHOOLQV\nF  &\\WRNLQLQV\nG  $EVFLVLF DFLG\n,RGLQH LV QHFHVVDU\\ IRU WKH V\\QWKHVLV RI ZKLFK KRUPRQH\"\nD  $GUHQDOLQH\nE  7K\\UR[LQ\nF  $X[LQ\nG  ,QVXOLQ\n&KRRVH WKH LQFRUUHFW VWDWHPHQW DERXW LQVXOLQ\nD  ,W LV SURGXFHG IURP SDQFUHDV\nE  ,W UHJXODWHV JURZWK DQG GHYHORSPHQW RI WKH ERG\\\nF  ,W UHJXODWHV EORRG VXJDU OHYHO\nG  ,QVXIILFLHQW VHFUHWLRQ RI LQVXOLQ ZLOO FDXVH GLDEHWHV\n6HOHFW WKH PLV PDWFKHG SDLU\nD  $GUHQDOLQH  3LWXLWDU\\ JODQG\nE  7HVWRVWHURQH 7HVWHV\nF  (VWURJHQ\n2YDU\\\nG  7K\\UR[LQ\n7K\\URLG JODQG\n7KH VKDSH RI JXDUG FHOOV FKDQJHV GXH WR FKDQJH LQ WKH\nD  SURWHLQ FRPSRVLWLRQ RI FHOOV\nE  WHPSHUDWXUH RI FHOOV\nF  DPRXQW RI ZDWHU LQ FHOOV\nG  SRVLWLRQ RI QXFOHXV LQ WKH FHOOV\n7KH JURZWK RI WHQGULO LQ SHD SODQWV LV GXH WR\nD  HIIHFW RI OLJKW\nE  HIIHFW RI JUDYLW\\\nF  UDSLG FHOO GLYLVLRQV LQ WHQGULOODU FHOOV WKDW DUH DZD\\ IURP WKH\nVXSSRUW\nG  UDSLG FHOO GLYLVLRQV LQ WHQGULOODU FHOOV LQ FRQWDFW ZLWK WKH VXSSRUW\n7KH JURZWK RI SROOHQ WXEHV WRZDUGV RYXOHV LV GXH WR\nD  K\\GURWURSLVP\nE  FKHPRWURSLVP\nF  JHRWURSLVP\nG  SKRWRWURSLVP"
+        }
+      ],
+      "fullText": "The main function of abscisic acid in plants is to\n(a) increase the length of cells\n(b) promote cell division\n(c) inhibit growth\n(d) promote growth of stem\n&21752/  $1'  &225',1$7,21\n:KLFK RI WKH IROORZLQJ LV QRW DVVRFLDWHG ZLWK JURZWK RI SODQW\"\nD  $X[LQ\nE  *LEEHUHOOLQV\nF  &\\WRNLQLQV\nG  $EVFLVLF DFLG\n,RGLQH LV QHFHVVDU\\ IRU WKH V\\QWKHVLV RI ZKLFK KRUPRQH\"\nD  $GUHQDOLQH\nE  7K\\UR[LQ\nF  $X[LQ\nG  ,QVXOLQ\n&KRRVH WKH LQFRUUHFW VWDWHPHQW DERXW LQVXOLQ\nD  ,W LV SURGXFHG IURP SDQFUHDV\nE  ,W UHJXODWHV JURZWK DQG GHYHORSPHQW RI WKH ERG\\\nF  ,W UHJXODWHV EORRG VXJDU OHYHO\nG  ,QVXIILFLHQW VHFUHWLRQ RI LQVXOLQ ZLOO FDXVH GLDEHWHV\n6HOHFW WKH PLV PDWFKHG SDLU\nD  $GUHQDOLQH  3LWXLWDU\\ JODQG\nE  7HVWRVWHURQH 7HVWHV\nF  (VWURJHQ\n2YDU\\\nG  7K\\UR[LQ\n7K\\URLG JODQG\n7KH VKDSH RI JXDUG FHOOV FKDQJHV GXH WR FKDQJH LQ WKH\nD  SURWHLQ FRPSRVLWLRQ RI FHOOV\nE  WHPSHUDWXUH RI FHOOV\nF  DPRXQW RI ZDWHU LQ FHOOV\nG  SRVLWLRQ RI QXFOHXV LQ WKH FHOOV\n7KH JURZWK RI WHQGULO LQ SHD SODQWV LV GXH WR\nD  HIIHFW RI OLJKW\nE  HIIHFW RI JUDYLW\\\nF  UDSLG FHOO GLYLVLRQV LQ WHQGULOODU FHOOV WKDW DUH DZD\\ IURP WKH\nVXSSRUW\nG  UDSLG FHOO GLYLVLRQV LQ WHQGULOODU FHOOV LQ FRQWDFW ZLWK WKH VXSSRUW\n7KH JURZWK RI SROOHQ WXEHV WRZDUGV RYXOHV LV GXH WR\nD  K\\GURWURSLVP\nE  FKHPRWURSLVP\nF  JHRWURSLVP\nG  SKRWRWURSLVP"
+    },
+    {
+      "qNo": 19,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "The movement of sunflower in accordance with the path of sun is\ndue to",
+      "options": [
+        {
+          "key": "a",
+          "text": "phototropism"
+        },
+        {
+          "key": "b",
+          "text": "geotropism"
+        },
+        {
+          "key": "c",
+          "text": "chemotropism"
+        },
+        {
+          "key": "d",
+          "text": "hydrotropism"
+        }
+      ],
+      "fullText": "The movement of sunflower in accordance with the path of sun is\ndue to\n(a) phototropism\n(b) geotropism\n(c) chemotropism\n(d) hydrotropism"
+    },
+    {
+      "qNo": 20,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "The substance that triggers the fall of mature leaves and fruits\nfrom plants is due to",
+      "options": [
+        {
+          "key": "a",
+          "text": "auxin"
+        },
+        {
+          "key": "b",
+          "text": "gibberellin"
+        },
+        {
+          "key": "c",
+          "text": "abscisic acid"
+        },
+        {
+          "key": "d",
+          "text": "cytokinin"
+        }
+      ],
+      "fullText": "The substance that triggers the fall of mature leaves and fruits\nfrom plants is due to\n(a) auxin\n(b) gibberellin\n(c) abscisic acid\n(d) cytokinin"
+    },
+    {
+      "qNo": 21,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "Which of the following statements about transmission of nerve\nimpulse is incorrect?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Nerve impulse travels from dendritic end towards axonal end"
+        },
+        {
+          "key": "b",
+          "text": "At the dendritic end electrical impulses bring about the release\nof some chemicals which generate an electrical impulse at the\naxonal end of another neuron"
+        },
+        {
+          "key": "c",
+          "text": "The chemicals released from the axonal end of one neuron cross\nthe synapse and generate a similar electrical impulse in a\ndendrite of another neuron"
+        },
+        {
+          "key": "d",
+          "text": "A neuron transmits electrical impulses not only to another\nneuron but also to muscle and gland cells"
+        }
+      ],
+      "fullText": "Which of the following statements about transmission of nerve\nimpulse is incorrect?\n(a) Nerve impulse travels from dendritic end towards axonal end\n(b) At the dendritic end electrical impulses bring about the release\nof some chemicals which generate an electrical impulse at the\naxonal end of another neuron\n(c) The chemicals released from the axonal end of one neuron cross\nthe synapse and generate a similar electrical impulse in a\ndendrite of another neuron\n(d) A neuron transmits electrical impulses not only to another\nneuron but also to muscle and gland cells"
+    },
+    {
+      "qNo": 22,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "Involuntary actions in the body are controlled by",
+      "options": [
+        {
+          "key": "a",
+          "text": "medulla in fore brain"
+        },
+        {
+          "key": "b",
+          "text": "medulla in mid brain"
+        },
+        {
+          "key": "c",
+          "text": "medulla in  hind brain"
+        },
+        {
+          "key": "d",
+          "text": "medulla in spinal cord"
+        }
+      ],
+      "fullText": "Involuntary actions in the body are controlled by\n(a) medulla in fore brain\n(b) medulla in mid brain\n(c) medulla in  hind brain\n(d) medulla in spinal cord"
+    },
+    {
+      "qNo": 23,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "Which of the following is not an involuntary action?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Vomiting"
+        },
+        {
+          "key": "b",
+          "text": "Salivation"
+        },
+        {
+          "key": "c",
+          "text": "Heart beat"
+        },
+        {
+          "key": "d",
+          "text": "Chewing"
+        }
+      ],
+      "fullText": "Which of the following is not an involuntary action?\n(a) Vomiting\n(b) Salivation\n(c) Heart beat\n(d) Chewing"
+    },
+    {
+      "qNo": 24,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "When a person is suffering from severe cold, he or she cannot",
+      "options": [
+        {
+          "key": "a",
+          "text": "differentiate the taste of an apple from that of an ice cream"
+        },
+        {
+          "key": "b",
+          "text": "differentiate the smell of a perfume from that of an agarbatti"
+        },
+        {
+          "key": "c",
+          "text": "differentiate red light from green light"
+        },
+        {
+          "key": "d",
+          "text": "differentiate a hot object from a cold object\n&21752/  $1'  &225',1$7,21\n:KDW LV WKH FRUUHFW GLUHFWLRQ RI IORZ RI HOHFWULFDO LPSXOVHV\"\nD\nE\nF\nG\n)LJ\n:KLFK VWDWHPHQW LV QRW WUXH DERXW WK\\UR[LQ\"\nD  ,URQ LV HVVHQWLDO IRU WKH V\\QWKHVLV RI WK\\UR[LQ\nE  ,W UHJXODWHV FDUERK\\GUDWHV SURWHLQ DQG IDW PHWDEROLVP LQ WKH ERG\\\nF  7K\\URLG JODQG UHTXLUHV LRGLQH WR V\\QWKHVLVH WK\\UR[LQ\nG  7K\\UR[LQ LV DOVR FDOOHG WK\\URLG KRUPRQH\n'ZDUILVP UHVXOWV GXH WR\nD  ([FHVV VHFUHWLRQ RI WK\\UR[LQ\nE  /HVV VHFUHWLRQ RI JURZWK KRUPRQH\nF  /HVV VHFUHWLRQ RI DGUHQDOLQH\nG  ([FHVV VHFUHWLRQ RI JURZWK KRUPRQH\n'UDPDWLF FKDQJHV RI ERG\\ IHDWXUHV DVVRFLDWHG ZLWK SXEHUW\\ DUH\nPDLQO\\ EHFDXVH RI VHFUHWLRQ RI\nD  RHVWURJHQ IURP WHVWHV DQG WHVWRVWHURQH IURP RYDU\\\nE  HVWURJHQ IURP DGUHQDO JODQG DQG WHVWRVWHURQH IURP SLWXLWDU\\ JODQG\nF  WHVWRVWHURQH IURP WHVWHV DQG HVWURJHQ IURP RYDU\\\nG  WHVWRVWHURQH IURP WK\\URLG JODQG DQG HVWURJHQ IURP SLWXLWDU\\ JODQG\n$ GRFWRU DGYLVHG D SHUVRQ WR WDNH DQ LQMHFWLRQ RI LQVXOLQ EHFDXVH\nD  KLV EORRG SUHVVXUH ZDV ORZ\nE  KLV KHDUW ZDV EHDWLQJ VORZO\\\nF  KH ZDV VXIIHULQJ IURP JRLWUH\nG  KLV VXJDU OHYHO LQ EORRG ZDV KLJK"
+        }
+      ],
+      "fullText": "When a person is suffering from severe cold, he or she cannot\n(a) differentiate the taste of an apple from that of an ice cream\n(b) differentiate the smell of a perfume from that of an agarbatti\n(c) differentiate red light from green light\n(d) differentiate a hot object from a cold object\n&21752/  $1'  &225',1$7,21\n:KDW LV WKH FRUUHFW GLUHFWLRQ RI IORZ RI HOHFWULFDO LPSXOVHV\"\nD\nE\nF\nG\n)LJ\n:KLFK VWDWHPHQW LV QRW WUXH DERXW WK\\UR[LQ\"\nD  ,URQ LV HVVHQWLDO IRU WKH V\\QWKHVLV RI WK\\UR[LQ\nE  ,W UHJXODWHV FDUERK\\GUDWHV SURWHLQ DQG IDW PHWDEROLVP LQ WKH ERG\\\nF  7K\\URLG JODQG UHTXLUHV LRGLQH WR V\\QWKHVLVH WK\\UR[LQ\nG  7K\\UR[LQ LV DOVR FDOOHG WK\\URLG KRUPRQH\n'ZDUILVP UHVXOWV GXH WR\nD  ([FHVV VHFUHWLRQ RI WK\\UR[LQ\nE  /HVV VHFUHWLRQ RI JURZWK KRUPRQH\nF  /HVV VHFUHWLRQ RI DGUHQDOLQH\nG  ([FHVV VHFUHWLRQ RI JURZWK KRUPRQH\n'UDPDWLF FKDQJHV RI ERG\\ IHDWXUHV DVVRFLDWHG ZLWK SXEHUW\\ DUH\nPDLQO\\ EHFDXVH RI VHFUHWLRQ RI\nD  RHVWURJHQ IURP WHVWHV DQG WHVWRVWHURQH IURP RYDU\\\nE  HVWURJHQ IURP DGUHQDO JODQG DQG WHVWRVWHURQH IURP SLWXLWDU\\ JODQG\nF  WHVWRVWHURQH IURP WHVWHV DQG HVWURJHQ IURP RYDU\\\nG  WHVWRVWHURQH IURP WK\\URLG JODQG DQG HVWURJHQ IURP SLWXLWDU\\ JODQG\n$ GRFWRU DGYLVHG D SHUVRQ WR WDNH DQ LQMHFWLRQ RI LQVXOLQ EHFDXVH\nD  KLV EORRG SUHVVXUH ZDV ORZ\nE  KLV KHDUW ZDV EHDWLQJ VORZO\\\nF  KH ZDV VXIIHULQJ IURP JRLWUH\nG  KLV VXJDU OHYHO LQ EORRG ZDV KLJK"
+    },
+    {
+      "qNo": 30,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "The hormone which increases the fertility in males is called",
+      "options": [
+        {
+          "key": "a",
+          "text": "oestrogen"
+        },
+        {
+          "key": "b",
+          "text": "testosterone"
+        },
+        {
+          "key": "c",
+          "text": "insulin"
+        },
+        {
+          "key": "d",
+          "text": "growth hormone"
+        }
+      ],
+      "fullText": "The hormone which increases the fertility in males is called\n(a) oestrogen\n(b) testosterone\n(c) insulin\n(d) growth hormone"
+    },
+    {
+      "qNo": 31,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "Which of the following endocrine glands is unpaired?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Adrenal"
+        },
+        {
+          "key": "b",
+          "text": "Testes"
+        },
+        {
+          "key": "c",
+          "text": "Pituitary"
+        },
+        {
+          "key": "d",
+          "text": "Ovary"
+        }
+      ],
+      "fullText": "Which of the following endocrine glands is unpaired?\n(a) Adrenal\n(b) Testes\n(c) Pituitary\n(d) Ovary"
+    },
+    {
+      "qNo": 32,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "Junction between two neurons is called",
+      "options": [
+        {
+          "key": "a",
+          "text": "cell junction"
+        },
+        {
+          "key": "b",
+          "text": "neuro muscular junction"
+        },
+        {
+          "key": "c",
+          "text": "neural joint"
+        },
+        {
+          "key": "d",
+          "text": "synapse"
+        }
+      ],
+      "fullText": "Junction between two neurons is called\n(a) cell junction\n(b) neuro muscular junction\n(c) neural joint\n(d) synapse"
+    },
+    {
+      "qNo": 33,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "In humans,  the life processes are controlled and regulated by",
+      "options": [
+        {
+          "key": "a",
+          "text": "reproductive and endocrine systems"
+        },
+        {
+          "key": "b",
+          "text": "respiratory and nervous systems"
+        },
+        {
+          "key": "c",
+          "text": "endocrine and digestive systems"
+        },
+        {
+          "key": "d",
+          "text": "nervous and endocrine systems\n5JQTV #PUYGT 3WGUVKQPU"
+        }
+      ],
+      "fullText": "In humans,  the life processes are controlled and regulated by\n(a) reproductive and endocrine systems\n(b) respiratory and nervous systems\n(c) endocrine and digestive systems\n(d) nervous and endocrine systems\n5JQTV #PUYGT 3WGUVKQPU"
+    },
+    {
+      "qNo": 34,
+      "section": "Subjective Questions",
+      "type": "subjective",
+      "stem": "Label the parts (a), (b), (c) and (d) and show the direction of flow of\nelectrical signals in Figure 7.2.\nFig. 7.2\n&21752/  $1'  &225',1$7,21\n1DPH WKH SODQW KRUPRQHV UHVSRQVLEOH IRU WKH IROORZLQJ\nD  HORQJDWLRQ RI FHOOV\nE  JURZWK RI VWHP\nF  SURPRWLRQ RI FHOO GLYLVLRQ\nG  IDOOLQJ RI VHQHVFHQW OHDYHV\n/DEHO WKH HQGRFULQH JODQGV LQ )LJXUH\n)LJ\n,Q )LJXUH D E DQG F ZKLFK DSSHDUV PRUH DFFXUDWH DQG ZK\\\"\n)LJ\n/DEHO WKH SDUWV RI D QHXURQ LQ )LJXUH\n)LJ\n0DWFK WKH WHUPV RI &ROXPQ $ ZLWK WKRVH RI &ROXPQ %\n&ROXPQ $\n&ROXPQ %\nD  2OIDFWRU\\ UHFHSWRUV\nL 7RQJXH\nE  7KHUPR UHFHSWRUV WHPSHUDWXUH UHFHSWRUV\nLL (\\H\nF  *XVWDWRUHFHSWRUV\nLLL 1RVH\nG  3KRWRUHFHSWRUV\nLY 6NLQ\n:KDW LV D WURSLF PRYHPHQW\" ([SODLQ ZLWK DQ H[DPSOH\n:KDW ZLOO KDSSHQ LI LQWDNH RI LRGLQH LQ RXU GLHW LV ORZ\"\n:KDW KDSSHQV DW WKH V\\QDSVH EHWZHHQ WZR QHXURQV\"",
+      "options": [],
+      "fullText": "Label the parts (a), (b), (c) and (d) and show the direction of flow of\nelectrical signals in Figure 7.2.\nFig. 7.2\n&21752/  $1'  &225',1$7,21\n1DPH WKH SODQW KRUPRQHV UHVSRQVLEOH IRU WKH IROORZLQJ\nD  HORQJDWLRQ RI FHOOV\nE  JURZWK RI VWHP\nF  SURPRWLRQ RI FHOO GLYLVLRQ\nG  IDOOLQJ RI VHQHVFHQW OHDYHV\n/DEHO WKH HQGRFULQH JODQGV LQ )LJXUH\n)LJ\n,Q )LJXUH D E DQG F ZKLFK DSSHDUV PRUH DFFXUDWH DQG ZK\\\"\n)LJ\n/DEHO WKH SDUWV RI D QHXURQ LQ )LJXUH\n)LJ\n0DWFK WKH WHUPV RI &ROXPQ $ ZLWK WKRVH RI &ROXPQ %\n&ROXPQ $\n&ROXPQ %\nD  2OIDFWRU\\ UHFHSWRUV\nL 7RQJXH\nE  7KHUPR UHFHSWRUV WHPSHUDWXUH UHFHSWRUV\nLL (\\H\nF  *XVWDWRUHFHSWRUV\nLLL 1RVH\nG  3KRWRUHFHSWRUV\nLY 6NLQ\n:KDW LV D WURSLF PRYHPHQW\" ([SODLQ ZLWK DQ H[DPSOH\n:KDW ZLOO KDSSHQ LI LQWDNH RI LRGLQH LQ RXU GLHW LV ORZ\"\n:KDW KDSSHQV DW WKH V\\QDSVH EHWZHHQ WZR QHXURQV\""
+    },
+    {
+      "qNo": 43,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "Answer the following :",
+      "options": [
+        {
+          "key": "a",
+          "text": "Which hormone is responsible for the changes noticed in\nfemales at puberty?"
+        },
+        {
+          "key": "b",
+          "text": "Dwarfism results due to deficiency of which hormone?"
+        },
+        {
+          "key": "c",
+          "text": "Blood sugar level rises due to deficiency of which hormone?"
+        },
+        {
+          "key": "d",
+          "text": "Iodine is necessary for the synthesis of which hormone?"
+        }
+      ],
+      "fullText": "Answer the following :\n(a) Which hormone is responsible for the changes noticed in\nfemales at puberty?\n(b) Dwarfism results due to deficiency of which hormone?\n(c) Blood sugar level rises due to deficiency of which hormone?\n(d) Iodine is necessary for the synthesis of which hormone?"
+    },
+    {
+      "qNo": 44,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "Answer the following :",
+      "options": [
+        {
+          "key": "a",
+          "text": "Name the endocrine gland associated with brain?"
+        },
+        {
+          "key": "b",
+          "text": "Which gland secretes digestive enzymes as well as hormones?"
+        },
+        {
+          "key": "c",
+          "text": "Name the endocrine gland associated with kidneys?"
+        },
+        {
+          "key": "d",
+          "text": "Which endocrine gland is present in males but not in females?\n.QPI #PUYGT 3WGUVKQPU"
+        }
+      ],
+      "fullText": "Answer the following :\n(a) Name the endocrine gland associated with brain?\n(b) Which gland secretes digestive enzymes as well as hormones?\n(c) Name the endocrine gland associated with kidneys?\n(d) Which endocrine gland is present in males but not in females?\n.QPI #PUYGT 3WGUVKQPU"
+    },
+    {
+      "qNo": 45,
+      "section": "Subjective Questions",
+      "type": "subjective",
+      "stem": "Draw the structure of a neuron and explain its function.",
+      "options": [],
+      "fullText": "Draw the structure of a neuron and explain its function."
+    },
+    {
+      "qNo": 46,
+      "section": "Subjective Questions",
+      "type": "subjective",
+      "stem": "What are the major parts of the brain? Mention the functions of\ndifferent parts.",
+      "options": [],
+      "fullText": "What are the major parts of the brain? Mention the functions of\ndifferent parts."
+    },
+    {
+      "qNo": 47,
+      "section": "Subjective Questions",
+      "type": "subjective",
+      "stem": "What constitutes the central and peripheral nervous systems? How\nare the components of central nervous system protected?",
+      "options": [],
+      "fullText": "What constitutes the central and peripheral nervous systems? How\nare the components of central nervous system protected?"
+    },
+    {
+      "qNo": 48,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "Mention one function for each of these hormones :",
+      "options": [
+        {
+          "key": "a",
+          "text": "Thyroxin"
+        },
+        {
+          "key": "b",
+          "text": "Insulin"
+        },
+        {
+          "key": "c",
+          "text": "Adrenaline"
+        },
+        {
+          "key": "d",
+          "text": "Growth hormone\n(e)  Testosterone."
+        }
+      ],
+      "fullText": "Mention one function for each of these hormones :\n(a) Thyroxin\n(b) Insulin\n(c) Adrenaline\n(d) Growth hormone\n(e)  Testosterone."
+    },
+    {
+      "qNo": 49,
+      "section": "Subjective Questions",
+      "type": "subjective",
+      "stem": "Name various plant hormones. Also give their physiological effects\non  plant growth and development.",
+      "options": [],
+      "fullText": "Name various plant hormones. Also give their physiological effects\non  plant growth and development."
+    },
+    {
+      "qNo": 50,
+      "section": "Subjective Questions",
+      "type": "subjective",
+      "stem": "What are reflex actions? Give two examples. Explain a reflex arc.",
+      "options": [],
+      "fullText": "What are reflex actions? Give two examples. Explain a reflex arc."
+    },
+    {
+      "qNo": 51,
+      "section": "Subjective Questions",
+      "type": "subjective",
+      "stem": "“Nervous and hormonal systems together perform the function of",
+      "options": [],
+      "fullText": "“Nervous and hormonal systems together perform the function of"
+    },
+    {
+      "qNo": 52,
+      "section": "Subjective Questions",
+      "type": "subjective",
+      "stem": "How does chemical coordination take place in animals?",
+      "options": [],
+      "fullText": "How does chemical coordination take place in animals?"
+    },
+    {
+      "qNo": 53,
+      "section": "Subjective Questions",
+      "type": "subjective",
+      "stem": "Why is the flow of signals in a synapse from axonal end of one\nneuron to dendritic end of another neuron but not the reverse?",
+      "options": [],
+      "fullText": "Why is the flow of signals in a synapse from axonal end of one\nneuron to dendritic end of another neuron but not the reverse?"
+    }
+  ]
+}

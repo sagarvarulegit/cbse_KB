@@ -1,0 +1,494 @@
+{
+  "chapterNumber": 14,
+  "subject": "science",
+  "totalQuestions": 29,
+  "questions": [
+    {
+      "qNo": 1,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "Which of the following is a non-renewable source of energy?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Wood"
+        },
+        {
+          "key": "b",
+          "text": "Sun"
+        },
+        {
+          "key": "c",
+          "text": "Fossil fuels"
+        },
+        {
+          "key": "d",
+          "text": "Wind"
+        }
+      ],
+      "fullText": "Which of the following is a non-renewable source of energy?\n(a) Wood\n(b) Sun\n(c) Fossil fuels\n(d) Wind"
+    },
+    {
+      "qNo": 2,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "Acid rain happens because",
+      "options": [
+        {
+          "key": "a",
+          "text": "sun leads to heating of upper layer of atmosphere"
+        },
+        {
+          "key": "b",
+          "text": "burning of fossil fuels release oxides of carbon, nitrogen and\nsulphur in the atmosphere"
+        },
+        {
+          "key": "c",
+          "text": "electrical charges are produced due to friction amongst clouds"
+        },
+        {
+          "key": "d",
+          "text": "earth atmosphere contains acids"
+        }
+      ],
+      "fullText": "Acid rain happens because\n(a) sun leads to heating of upper layer of atmosphere\n(b) burning of fossil fuels release oxides of carbon, nitrogen and\nsulphur in the atmosphere\n(c) electrical charges are produced due to friction amongst clouds\n(d) earth atmosphere contains acids"
+    },
+    {
+      "qNo": 3,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "Fuel used in thermal power plants is",
+      "options": [
+        {
+          "key": "a",
+          "text": "water"
+        },
+        {
+          "key": "b",
+          "text": "uranium"
+        },
+        {
+          "key": "c",
+          "text": "biomass"
+        },
+        {
+          "key": "d",
+          "text": "fossil fuels"
+        }
+      ],
+      "fullText": "Fuel used in thermal power plants is\n(a) water\n(b) uranium\n(c) biomass\n(d) fossil fuels"
+    },
+    {
+      "qNo": 4,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "In a hydro power plant",
+      "options": [
+        {
+          "key": "a",
+          "text": "Potential energy possessed by stored water is converted into"
+        },
+        {
+          "key": "b",
+          "text": "Kinetic energy possessed by stored water is converted into\npotential energy"
+        },
+        {
+          "key": "c",
+          "text": "Electricity is extracted from water"
+        },
+        {
+          "key": "d",
+          "text": "Water is converted into steam to produce electricity\n5QWTEGU QH\n'PGTI[\n%*#26'4"
+        }
+      ],
+      "fullText": "In a hydro power plant\n(a) Potential energy possessed by stored water is converted into\n(b) Kinetic energy possessed by stored water is converted into\npotential energy\n(c) Electricity is extracted from water\n(d) Water is converted into steam to produce electricity\n5QWTEGU QH\n'PGTI[\n%*#26'4"
+    },
+    {
+      "qNo": 5,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "Which is the ultimate source of energy?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Water"
+        },
+        {
+          "key": "b",
+          "text": "Sun"
+        },
+        {
+          "key": "c",
+          "text": "Uranium"
+        },
+        {
+          "key": "d",
+          "text": "Fossil fuels"
+        }
+      ],
+      "fullText": "Which is the ultimate source of energy?\n(a) Water\n(b) Sun\n(c) Uranium\n(d) Fossil fuels"
+    },
+    {
+      "qNo": 6,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "Which one of the following forms of energy leads to least environmental\npollution in the process of its harnessing and utilisation?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Nuclear energy"
+        },
+        {
+          "key": "b",
+          "text": "Thermal energy"
+        },
+        {
+          "key": "c",
+          "text": "Solar energy"
+        },
+        {
+          "key": "d",
+          "text": "Geothermal energy"
+        }
+      ],
+      "fullText": "Which one of the following forms of energy leads to least environmental\npollution in the process of its harnessing and utilisation?\n(a) Nuclear energy\n(b) Thermal energy\n(c) Solar energy\n(d) Geothermal energy"
+    },
+    {
+      "qNo": 7,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "Ocean thermal energy is due to",
+      "options": [
+        {
+          "key": "a",
+          "text": "energy stored by waves in the ocean"
+        },
+        {
+          "key": "b",
+          "text": "temperature difference at different levels in the ocean"
+        },
+        {
+          "key": "c",
+          "text": "pressure difference at different levels in the ocean"
+        },
+        {
+          "key": "d",
+          "text": "tides arising out in the ocean"
+        }
+      ],
+      "fullText": "Ocean thermal energy is due to\n(a) energy stored by waves in the ocean\n(b) temperature difference at different levels in the ocean\n(c) pressure difference at different levels in the ocean\n(d) tides arising out in the ocean"
+    },
+    {
+      "qNo": 8,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "The major problem in harnessing nuclear energy is how to",
+      "options": [
+        {
+          "key": "a",
+          "text": "split nuclei?"
+        },
+        {
+          "key": "b",
+          "text": "sustain the reaction?"
+        },
+        {
+          "key": "c",
+          "text": "dispose off spent fuel safely?"
+        },
+        {
+          "key": "d",
+          "text": "convert nuclear energy into electrical energy?"
+        }
+      ],
+      "fullText": "The major problem in harnessing nuclear energy is how to\n(a) split nuclei?\n(b) sustain the reaction?\n(c) dispose off spent fuel safely?\n(d) convert nuclear energy into electrical energy?"
+    },
+    {
+      "qNo": 9,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "Which part of the solar cooker is responsible for green house effect?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Coating with black colour inside the box"
+        },
+        {
+          "key": "b",
+          "text": "Mirror"
+        },
+        {
+          "key": "c",
+          "text": "Glass sheet"
+        },
+        {
+          "key": "d",
+          "text": "Outer cover of the solar cooker"
+        }
+      ],
+      "fullText": "Which part of the solar cooker is responsible for green house effect?\n(a) Coating with black colour inside the box\n(b) Mirror\n(c) Glass sheet\n(d) Outer cover of the solar cooker"
+    },
+    {
+      "qNo": 10,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "The main constituent of biogas is",
+      "options": [
+        {
+          "key": "a",
+          "text": "methane"
+        },
+        {
+          "key": "b",
+          "text": "carbon dioxide"
+        },
+        {
+          "key": "c",
+          "text": "hydrogen"
+        },
+        {
+          "key": "d",
+          "text": "hydrogen sulphide"
+        }
+      ],
+      "fullText": "The main constituent of biogas is\n(a) methane\n(b) carbon dioxide\n(c) hydrogen\n(d) hydrogen sulphide"
+    },
+    {
+      "qNo": 11,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "The power generated in a windmill",
+      "options": [
+        {
+          "key": "a",
+          "text": "is more in rainy season since damp air would mean more air\nmass hitting the blades"
+        },
+        {
+          "key": "b",
+          "text": "depends on the height of the tower"
+        },
+        {
+          "key": "c",
+          "text": "depends on wind velocity"
+        },
+        {
+          "key": "d",
+          "text": "can be increased by planting tall trees close to the tower"
+        }
+      ],
+      "fullText": "The power generated in a windmill\n(a) is more in rainy season since damp air would mean more air\nmass hitting the blades\n(b) depends on the height of the tower\n(c) depends on wind velocity\n(d) can be increased by planting tall trees close to the tower"
+    },
+    {
+      "qNo": 12,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "Choose the correct statement",
+      "options": [
+        {
+          "key": "a",
+          "text": "Sun can be taken as an inexhaustible source of energy"
+        },
+        {
+          "key": "b",
+          "text": "There is infinite storage of fossil fuel inside the earth"
+        },
+        {
+          "key": "c",
+          "text": "Hydro and wind energy plants are non polluting sources\nof energy"
+        },
+        {
+          "key": "d",
+          "text": "Waste from a nuclear power plant can be easily disposed off"
+        }
+      ],
+      "fullText": "Choose the correct statement\n(a) Sun can be taken as an inexhaustible source of energy\n(b) There is infinite storage of fossil fuel inside the earth\n(c) Hydro and wind energy plants are non polluting sources\nof energy\n(d) Waste from a nuclear power plant can be easily disposed off"
+    },
+    {
+      "qNo": 13,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "In a hydroelectric power plant more electrical power can be\ngenerated if water falls from a greater height because",
+      "options": [
+        {
+          "key": "a",
+          "text": "its temperature increases"
+        },
+        {
+          "key": "b",
+          "text": "larger amount of potential energy is converted into kinetic\nenergy"
+        },
+        {
+          "key": "c",
+          "text": "the electricity content of water increases with height"
+        },
+        {
+          "key": "d",
+          "text": "more water molecules dissociate into ions"
+        }
+      ],
+      "fullText": "In a hydroelectric power plant more electrical power can be\ngenerated if water falls from a greater height because\n(a) its temperature increases\n(b) larger amount of potential energy is converted into kinetic\nenergy\n(c) the electricity content of water increases with height\n(d) more water molecules dissociate into ions"
+    },
+    {
+      "qNo": 14,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "Choose the incorrect statement regarding wind power",
+      "options": [
+        {
+          "key": "a",
+          "text": "It is expected to harness wind power to minimum in open space"
+        },
+        {
+          "key": "b",
+          "text": "The potential energy content of wind blowing at high altitudes\nis the source of wind power"
+        },
+        {
+          "key": "c",
+          "text": "Wind hitting at the blades of a windmill causes them to rotate\nThe rotation thus achieved can be utilised further"
+        },
+        {
+          "key": "d",
+          "text": "One possible method of utilising the energy of rotational\nmotion of the blades of a windmill is to run the turbine of an\nelectric generator"
+        }
+      ],
+      "fullText": "Choose the incorrect statement regarding wind power\n(a) It is expected to harness wind power to minimum in open space\n(b) The potential energy content of wind blowing at high altitudes\nis the source of wind power\n(c) Wind hitting at the blades of a windmill causes them to rotate\nThe rotation thus achieved can be utilised further\n(d) One possible method of utilising the energy of rotational\nmotion of the blades of a windmill is to run the turbine of an\nelectric generator"
+    },
+    {
+      "qNo": 15,
+      "section": "Multiple Choice Questions",
+      "type": "mcq",
+      "stem": "Choose the incorrect statement",
+      "options": [
+        {
+          "key": "a",
+          "text": "We are encouraged to plant more trees so as to ensure clean\nenvironment and also provide bio-mass fuel"
+        },
+        {
+          "key": "b",
+          "text": "Gobar-gas is produced when crops, vegetable wastes etc.,\ndecompose in the absence of oxygen"
+        },
+        {
+          "key": "c",
+          "text": "The main ingredient of bio-gas is ethane and it gives a lot of\nsmoke and also produces a lot of residual ash"
+        },
+        {
+          "key": "d",
+          "text": "Bio-mass is a renewable source of energy\n5JQTV #PUYGT 3WGUVKQPU"
+        }
+      ],
+      "fullText": "Choose the incorrect statement\n(a) We are encouraged to plant more trees so as to ensure clean\nenvironment and also provide bio-mass fuel\n(b) Gobar-gas is produced when crops, vegetable wastes etc.,\ndecompose in the absence of oxygen\n(c) The main ingredient of bio-gas is ethane and it gives a lot of\nsmoke and also produces a lot of residual ash\n(d) Bio-mass is a renewable source of energy\n5JQTV #PUYGT 3WGUVKQPU"
+    },
+    {
+      "qNo": 16,
+      "section": "Subjective Questions",
+      "type": "subjective",
+      "stem": "Why is there a need to harness non-conventional sources of\nenergy? Give two main reasons.",
+      "options": [],
+      "fullText": "Why is there a need to harness non-conventional sources of\nenergy? Give two main reasons."
+    },
+    {
+      "qNo": 17,
+      "section": "Subjective Questions",
+      "type": "subjective",
+      "stem": "Write two different ways of harnessing energy from ocean.",
+      "options": [],
+      "fullText": "Write two different ways of harnessing energy from ocean."
+    },
+    {
+      "qNo": 18,
+      "section": "Subjective Questions",
+      "type": "subjective",
+      "stem": "What steps would you suggest to minimise environmental\npollution caused by burning of fossil fuels?",
+      "options": [],
+      "fullText": "What steps would you suggest to minimise environmental\npollution caused by burning of fossil fuels?"
+    },
+    {
+      "qNo": 19,
+      "section": "Subjective Questions",
+      "type": "subjective",
+      "stem": "What is the role of a plane mirror and a glass sheet in a\nsolar cooker?",
+      "options": [],
+      "fullText": "What is the role of a plane mirror and a glass sheet in a\nsolar cooker?"
+    },
+    {
+      "qNo": 20,
+      "section": "Subjective Questions",
+      "type": "subjective",
+      "stem": "Mention three advantages of a solar cell?",
+      "options": [],
+      "fullText": "Mention three advantages of a solar cell?"
+    },
+    {
+      "qNo": 21,
+      "section": "Subjective Questions",
+      "type": "subjective",
+      "stem": "What is biomass? What can be done to obtain bio-energy using\nbiomass?",
+      "options": [],
+      "fullText": "What is biomass? What can be done to obtain bio-energy using\nbiomass?"
+    },
+    {
+      "qNo": 22,
+      "section": "Subjective Questions",
+      "type": "subjective",
+      "stem": "What are the limitations in obtaining energy from wind?\n.QPI #PUYGT 3WGUVKQPU",
+      "options": [],
+      "fullText": "What are the limitations in obtaining energy from wind?\n.QPI #PUYGT 3WGUVKQPU"
+    },
+    {
+      "qNo": 23,
+      "section": "Subjective Questions",
+      "type": "subjective",
+      "stem": "Which is the process used to harness nuclear energy these days?\nExplain it briefly.",
+      "options": [],
+      "fullText": "Which is the process used to harness nuclear energy these days?\nExplain it briefly."
+    },
+    {
+      "qNo": 24,
+      "section": "Subjective Questions",
+      "type": "subjective",
+      "stem": "How can solar energy be harnessed? Mention any two limitations\nin using solar energy. How are these limitations overcome?",
+      "options": [],
+      "fullText": "How can solar energy be harnessed? Mention any two limitations\nin using solar energy. How are these limitations overcome?"
+    },
+    {
+      "qNo": 25,
+      "section": "Subjective Questions",
+      "type": "subjective",
+      "stem": "Make a list of conventional and non-conventional sources of\nenergy. Give a brief description of harnessing one non-\nconventional source of energy.",
+      "options": [],
+      "fullText": "Make a list of conventional and non-conventional sources of\nenergy. Give a brief description of harnessing one non-\nconventional source of energy."
+    },
+    {
+      "qNo": 26,
+      "section": "Subjective Questions",
+      "type": "subjective",
+      "stem": "Why is there a need for harnessing non-conventional sources\nof energy? How can energy be harnessed from the sea in\ndifferent ways?",
+      "options": [],
+      "fullText": "Why is there a need for harnessing non-conventional sources\nof energy? How can energy be harnessed from the sea in\ndifferent ways?"
+    },
+    {
+      "qNo": 27,
+      "section": "Subjective Questions",
+      "type": "subjective",
+      "stem": "What are the environmental consequences of using fossil fuels?\nSuggest the steps to minimise the pollution caused by various",
+      "options": [],
+      "fullText": "What are the environmental consequences of using fossil fuels?\nSuggest the steps to minimise the pollution caused by various"
+    },
+    {
+      "qNo": 28,
+      "section": "Subjective Questions",
+      "type": "subjective",
+      "stem": "Energy from various sources is considered to have been derived\nfrom the sun. Do you agree? Justify your answer.",
+      "options": [],
+      "fullText": "Energy from various sources is considered to have been derived\nfrom the sun. Do you agree? Justify your answer."
+    },
+    {
+      "qNo": 29,
+      "section": "Subjective Questions",
+      "type": "subjective",
+      "stem": "What is biomass? Explain the principle and working of a biogas\nplant using a labelled schematic diagram.",
+      "options": [],
+      "fullText": "What is biomass? Explain the principle and working of a biogas\nplant using a labelled schematic diagram."
+    }
+  ]
+}

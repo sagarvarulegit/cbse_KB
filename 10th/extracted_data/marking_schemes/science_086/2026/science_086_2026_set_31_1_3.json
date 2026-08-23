@@ -1,0 +1,733 @@
+{
+  "subjectCode": "086",
+  "year": 2026,
+  "paperSet": "31/1/3",
+  "totalQuestions": 39,
+  "totalMarksCalculated": 80.0,
+  "questions": [
+    {
+      "qNo": 1,
+      "section": "SECTION – A (Biology)",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(D) / they reproduce asexually",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        27
+      ]
+    },
+    {
+      "qNo": 2,
+      "section": "SECTION – A (Biology)",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(B) / Stomata",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        27
+      ]
+    },
+    {
+      "qNo": 3,
+      "section": "SECTION – A (Biology)",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(B) / Trypsin digests proteins and lipase digests emulsified fats.",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        27
+      ]
+    },
+    {
+      "qNo": 4,
+      "section": "SECTION – A (Biology)",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(A) / (i) and (iii) respectively",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        27
+      ]
+    },
+    {
+      "qNo": 5,
+      "section": "SECTION – A (Biology)",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(C) / Polythene bag, Rubber band, Ball pen",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        27
+      ]
+    },
+    {
+      "qNo": 6,
+      "section": "SECTION – A (Biology)",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(D) / (i), (ii) and (iii)",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        27
+      ]
+    },
+    {
+      "qNo": 7,
+      "section": "SECTION – A (Biology)",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(D) / Flowers can store some waste products",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        27
+      ]
+    },
+    {
+      "qNo": 8,
+      "section": "SECTION – A (Biology)",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(A) / Both, Assertion (A) and Reason (R) are true and Reason (R) is\nthe correct explanation of the Assertion (A).",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        27
+      ]
+    },
+    {
+      "qNo": 9,
+      "section": "SECTION – A (Biology)",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(A) / Both, Assertion (A) and Reason (R) are true and Reason (R) is\nthe correct explanation of the Assertion (A)",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        27
+      ]
+    },
+    {
+      "qNo": 10,
+      "section": "SECTION – A (Biology)",
+      "questionType": "short_answer_2m",
+      "totalMarks": 2.0,
+      "stepMarksAllocated": [
+        0.5,
+        0.5,
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(a)\n• Bile emulsifies fats for their digestion.\n• It makes medium alkaline for further digestion by pancreatic\nand small intestinal enzymes.\n(b) Glucose, water, salt, amino acid",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        27
+      ]
+    },
+    {
+      "qNo": 11,
+      "section": "SECTION – A (Biology)",
+      "questionType": "short_answer_2m",
+      "totalMarks": 2.0,
+      "stepMarksAllocated": [
+        1.0,
+        0.5,
+        0.5
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "Diagram\n(a) Stigma\n(b) Pollen Tube",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        27
+      ]
+    },
+    {
+      "qNo": 12,
+      "section": "SECTION – A (Biology)",
+      "questionType": "short_answer_2m",
+      "totalMarks": 2.0,
+      "stepMarksAllocated": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "hasOrChoice": true,
+      "mainAnswer": "(a)\nChewing of food Salivation on sight of food\ni) It is a reflex/involuntary\ni) It is a voluntary action.\naction.\nii) It is controlled by medulla in\nii) It is controlled by forebrain.\nthe hind brain.\n(any other suitable difference)\nSalivation on sight of food\ni) It is a reflex/involuntary\naction.\nii) It is controlled by medulla in\nthe hind brain.",
+      "orAnswer": "(b)\nPollination Fertilization\ni) It is the fusion of male gamete\ni) It is the transfer of pollen\nwith the female gamete.\ngrains from anther to the\nsuitable stigma.\nii) It occurs in both plants and\nii) It occurs in plants.\nanimals.\n(any other suitable difference)",
+      "examinerNotes": [
+        "any other suitable difference",
+        "any other suitable difference"
+      ],
+      "sourcePages": [
+        27,
+        28
+      ]
+    },
+    {
+      "qNo": 13,
+      "section": "SECTION – A (Biology)",
+      "questionType": "short_answer_3m",
+      "totalMarks": 3.0,
+      "stepMarksAllocated": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(a)\nNephron Neuron\n(i) Filtration/Structural/ (i) Structural/ Functional unit\nFunctional unit of the kidney. of the nervous system.\n(ii) Filters nitrogenous wastes (ii) Transmits information\nfrom the blood. from one part of the body\nto another.\n(any one, any other suitable difference)\n(b)\nSensory Nerve Motor Nerve\n(i) Carries impulse from receptors (i) Carries impulse from\nCNS/Brain and Spinal cord\nto CNS/ Brain and Spinal cord.\nto the motor area/ effector\norgan.\n(any other suitable difference)\n(c)\nConsumers Decomposers\n(i) Organisms that feed on (i) Organisms that breakdown\ndead organic matter into\nproducers and other\nsimpler inorganic\nconsumers.\nsubstances.\n(ii) Transfers energy through the (ii) Recycle nutrients back into\nfood chain. the environment.\n(any one, any other suitable difference)",
+      "orAnswer": null,
+      "examinerNotes": [
+        "any one, any other suitable difference",
+        "any other suitable difference",
+        "any one, any other suitable difference"
+      ],
+      "sourcePages": [
+        28
+      ]
+    },
+    {
+      "qNo": 14,
+      "section": "SECTION – A (Biology)",
+      "questionType": "short_answer_3m",
+      "totalMarks": 3.0,
+      "stepMarksAllocated": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(a) (i) Grass\n(ii) Deer, Rabbit\n(iii) Snake, Lion\n(iv) Lion\n(b) Primary consumers feed on green plants which have large amount\nof energy. Only 10% of its energy is available/passed for the next\nsecondary consumer /trophic level.\n(c) The base is broad as the number/energy/mass of producers is\nusually, the highest in comparison to other trophic levels of the\npyramid.\nFertilization\ni) It is the fusion of male gamete\nwith the female gamete.\nii) It occurs in both plants and\nanimals.\nNeuron\n(i) Structural/ Functional unit\nof the nervous system.\n(ii) Transmits information\nfrom one part of the body\nto another.\nMotor Nerve\n(i) Carries impulse from\nCNS/Brain and Spinal cord\nto the motor area/ effector\norgan.\nDecomposers\n(i) Organisms that breakdown\ndead organic matter into\nsimpler inorganic\nsubstances.\n(ii) Recycle nutrients back into\nthe environment.",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        28
+      ]
+    },
+    {
+      "qNo": 15,
+      "section": "SECTION – A (Biology)",
+      "questionType": "case_study",
+      "totalMarks": 4.0,
+      "stepMarksAllocated": [
+        1.0,
+        1.0,
+        2.0,
+        1.0,
+        1.0
+      ],
+      "hasOrChoice": true,
+      "mainAnswer": "(a) In F progeny, pea plants have 'Tt' where 'T' is dominant over 't'\n1\n/\nso all the plants of F progeny were tall. Tall height is dominant\n1\ntrait over short height.\n(b) Self-pollination\n(c) (i)\nDominant trait Recessive trait\ni) Unable to express itself\ni) Expresses itself over\nin presence of a\nrecessive trait.\ndominant trait.\nii) Expresses itself only\nii) Expresses in both\nwhen it is 'tt' or in pure\nconditions-TT and Tt.\ncondition.\n(any one, any other suitable difference)",
+      "orAnswer": "(c) (ii) Mendel's observations:\n• All plants of F progeny were- tall.\n1\n• No medium/ no short height plants observed in F\n1\nprogeny.\n• F progeny resembled one parent only.\n1\n(any two observations)",
+      "examinerNotes": [
+        "any one, any other suitable difference"
+      ],
+      "sourcePages": [
+        29
+      ]
+    },
+    {
+      "qNo": 16,
+      "section": "SECTION – A (Biology)",
+      "questionType": "long_answer",
+      "totalMarks": 5.0,
+      "stepMarksAllocated": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "hasOrChoice": true,
+      "mainAnswer": "(a)\n(i) Most of these bacteria would die, but the few variants resistant to\nheat would survive and grow further.\n(ii) Fertilization occurs to form a zygote.\n/\n(iii) Cross pollination may occur leading to fruit formation. No\n/\nfertilization. No fruit formation.\n(iv) If the egg is not fertilised, the thick and spongy lining of the uterus\nbreaks and comes out through vagina as blood and mucus, known\n/\nas menstruation. Menstruation will take place.\n/\n(v) The seed will develop into a seedling. Germination will take place.",
+      "orAnswer": "(b)\n(i) When spores land on a substance and get adequate moisture and\ntemperature, it will develop into new Rhizopus.\n(ii) New plants grow from the buds located in the notches of the leaf.\n(iii) The pollen tube will not be formed. / No fertilisation will take place.\n/\n(iv) Fertilization Pregnancy will be prevented.\n(v) Each fragment or piece grows into a new individual organism.\nRecessive trait\ni) Unable to express itself\nin presence of a\ndominant trait.\nii) Expresses itself only\nwhen it is 'tt' or in pure\ncondition.",
+      "examinerNotes": [],
+      "sourcePages": [
+        29
+      ]
+    },
+    {
+      "qNo": 17,
+      "section": "SECTION-B (Chemistry)",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(D) / NO and O\n2 2",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        30
+      ]
+    },
+    {
+      "qNo": 18,
+      "section": "SECTION-B (Chemistry)",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(C) / Both, (i) and (ii) are double displacement reactions and\nprecipitation reactions.",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        30
+      ]
+    },
+    {
+      "qNo": 19,
+      "section": "SECTION-B (Chemistry)",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(B) / Vanilla essence",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        30
+      ]
+    },
+    {
+      "qNo": 20,
+      "section": "SECTION-B (Chemistry)",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(B)/ alkene",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        30
+      ]
+    },
+    {
+      "qNo": 21,
+      "section": "SECTION-B (Chemistry)",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(B) / Calcium",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        30
+      ]
+    },
+    {
+      "qNo": 22,
+      "section": "SECTION-B (Chemistry)",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(A) / Pb",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        30
+      ]
+    },
+    {
+      "qNo": 23,
+      "section": "SECTION-B (Chemistry)",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(A) / tomato, curd, ant-sting",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        30
+      ]
+    },
+    {
+      "qNo": 24,
+      "section": "SECTION-B (Chemistry)",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(A)/ Both, Assertion(A) and Reason (R) are true and Reason (R) is the\ncorrect explanation of the Assertion (A).",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        30
+      ]
+    },
+    {
+      "qNo": 25,
+      "section": "SECTION-B (Chemistry)",
+      "questionType": "short_answer_2m",
+      "totalMarks": 2.0,
+      "stepMarksAllocated": [
+        1.0,
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "• Because honey bee-sting leaves an acid.\n• Being alkaline, baking soda neutralizes the acid.",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        30
+      ]
+    },
+    {
+      "qNo": 26,
+      "section": "SECTION-B (Chemistry)",
+      "questionType": "short_answer_3m",
+      "totalMarks": 3.0,
+      "stepMarksAllocated": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(a) Blue colour of copper sulphate solution changes to pale green\nFe(s) + CuSO (aq) → FeSO (aq) + Cu(s)\n4 4\n(b) Yellow precipitate is formed.\nPb(NO ) (aq) + 2KI(aq) → PbI (s) + 2KNO (aq)\n3 2 2 3\n(c) White colour of silver chloride changes to grey.\nsunlight\n2AgCl→ 2Ag + Cl\n2\n(award full marks even if only balanced chemical equation is written)",
+      "orAnswer": null,
+      "examinerNotes": [
+        "award full marks even if only balanced chemical equation is written"
+      ],
+      "sourcePages": [
+        30
+      ]
+    },
+    {
+      "qNo": 27,
+      "section": "SECTION-B (Chemistry)",
+      "questionType": "short_answer_3m",
+      "totalMarks": 3.0,
+      "stepMarksAllocated": [
+        1.0,
+        1.0,
+        0.5,
+        0.5,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "hasOrChoice": true,
+      "mainAnswer": "(a)\n• When electricity is passed through brine, it decomposes to form\nsodium hydroxide (alkali) and chlorine, hence this process is\ncalled chlor-alkali process.\nElectricity\n2NaCl(aq) + 2H O(l) → 2NaOH(aq) + H (g) + Cl (g)\n2 2 2\n• At anode: Cl\n2\n• At cathode: H\n2",
+      "orAnswer": "(b)\n(i) NaCl + H 2O + NH + CO → NaHCO + NH 4Cl\n3 2 3\n(ii) Ca(OH) + Cl → CaOCl + H 2O\n2 2 2\n/\n2Ca(OH) + 2Cl → Ca(ClO) + CaCl + 2H O\n2 2 2 2 2\n373K 1 1\n(iii) CaSO .2H O → CaSO . H O + 1 H O\n4 2 4 2 2\n2 2\n(deduct ½ mark for no / incorrect balancing)",
+      "examinerNotes": [
+        "deduct ½ mark for no / incorrect balancing"
+      ],
+      "sourcePages": [
+        30
+      ]
+    },
+    {
+      "qNo": 28,
+      "section": "SECTION-B (Chemistry)",
+      "questionType": "case_study",
+      "totalMarks": 4.0,
+      "stepMarksAllocated": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "hasOrChoice": true,
+      "mainAnswer": "/\n(a) Because it is easier to obtain metal from its oxide.\nBecause it is easier to reduce metal oxide to metal\nFe O (s)+ 2Al(s) → 2Fe(l) + Al O (s) + Heat\n(b) 2 3 2 3\n3MnO (s) + 4Al(s) → 3Mn(l) + 2Al O (s) + Heat\n2 2 3\n(Balancing is optional) (Any one equation)\nHeat\n(c) (i) 2Cu S + 3O (g) → 2Cu O(s) + 2SO (g)\n2 2 2 2\nHeat\n2Cu O + Cu S → 6Cu(s) + SO (g)\n2 2 2",
+      "orAnswer": "(c)(ii) (I) Because highly reactive metals have more affinity for\noxygen than carbon.\n(II) Because of its low melting point.",
+      "examinerNotes": [],
+      "sourcePages": [
+        31
+      ]
+    },
+    {
+      "qNo": 29,
+      "section": "SECTION-B (Chemistry)",
+      "questionType": "long_answer",
+      "totalMarks": 5.0,
+      "stepMarksAllocated": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        1.0,
+        0.5,
+        1.0,
+        0.5
+      ],
+      "hasOrChoice": true,
+      "mainAnswer": "(a) (i)\n(I) They do not give rise to charged particles/ ions.\n(II) Soap reacts with calcium and magnesium salts present in\nhard water and form insoluble substance called Scum.\n(III) C-C bonds are strong and stable whereas Si-Si bonds are\nrelatively weak.\nacidified K 2Cr 2O7+heat\n(ii) (I) C H OH → CH COOH\n2 5 3\nNi\n(II) CH 2=CH + H 2→ CH 3-CH\n2 3",
+      "orAnswer": "(b) (i) X - CH COOH/ethanoic acid /acetic acid\n3\nY - CH COOC H /CH COOCH CH / ester/ ethyl ethanoate\n3 2 5 3 2 3\nZ - CH COONa/sodium ethanoate/sodium acetate\n3\n(ii) Catalyst / dehydrating agent\n(iii)\n•\n• Esterification reaction\n• CH 3COOC 2H + NaOH → CH 3COONa + C 2H 5OH\n5\n• Saponification reaction/ De-esterification reaction",
+      "examinerNotes": [],
+      "sourcePages": [
+        31
+      ]
+    },
+    {
+      "qNo": 30,
+      "section": "SECTION-C (Physics)",
+      "questionType": "very_short_answer",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "/\n(C) - 30 cm and + 30 cm from lens",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        32
+      ]
+    },
+    {
+      "qNo": 31,
+      "section": "SECTION-C (Physics)",
+      "questionType": "very_short_answer",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "/\n(A) Ciliary muscles of your eye contract and the eye lens become thick",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        32
+      ]
+    },
+    {
+      "qNo": 32,
+      "section": "SECTION-C (Physics)",
+      "questionType": "very_short_answer",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "/\n(C) Assertion (A) is true, but Reason (R) is false.",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        32
+      ]
+    },
+    {
+      "qNo": 33,
+      "section": "SECTION-C (Physics)",
+      "questionType": "short_answer_2m",
+      "totalMarks": 2.0,
+      "stepMarksAllocated": [
+        2.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(size of the image is approximate)\n(½ mark to be deducted for not showing the direction of light)",
+      "orAnswer": null,
+      "examinerNotes": [
+        "½ mark to be deducted for not showing the direction of light"
+      ],
+      "sourcePages": [
+        32
+      ]
+    },
+    {
+      "qNo": 34,
+      "section": "SECTION-C (Physics)",
+      "questionType": "short_answer_2m",
+      "totalMarks": 2.0,
+      "stepMarksAllocated": [
+        0.5,
+        1.0,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "hasOrChoice": true,
+      "mainAnswer": "(a) r = 0.01 cm=1 x 10-4 m\n𝑙 = 1 cm = 0.01 m\n𝑙\nR=\nA\nRA R x πr2\n = =\n𝑙 𝑙\n7 x 22 x 10−8\n =\n7 x 0.01\n = 22 x 10-8 x 102\n = 22 x 10-6 Ωm =2.2 x 10-5 Ωm",
+      "orAnswer": "V\n(b) Resistance of electric heater R =\nI\n220\nR =\n11\nR = 20 Ω\nV2\nP =\nR\n200 x 200\nP =\n20\nP = 2000W/ 2 kW",
+      "examinerNotes": [],
+      "sourcePages": [
+        32
+      ]
+    },
+    {
+      "qNo": 35,
+      "section": "SECTION-C (Physics)",
+      "questionType": "short_answer_3m",
+      "totalMarks": 3.0,
+      "stepMarksAllocated": [
+        1.0,
+        1.0,
+        0.5,
+        0.5
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(a)\n(any two cases)\n/\n• Magnetic field pattern for a current carrying straight conductor-\nconcentric circles\n• Magnetic field pattern for a current carrying solenoid- magnetic\nfield lines similar to that of a bar magnet\n• Magnetic field pattern for a current carrying circular loop- a pair\nof concentric circles with parallel straight lines at the centre.\n(any two cases)\n(b) At X.\nMagnetic field decreases as the distance from the conducting wire\nincreases",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        32,
+        33
+      ]
+    },
+    {
+      "qNo": 36,
+      "section": "SECTION-C (Physics)",
+      "questionType": "short_answer_3m",
+      "totalMarks": 3.0,
+      "stepMarksAllocated": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(a) Procedure\nTake a small aluminium rod AB and using two connecting wires\nsuspend it horizontally from a stand.\nPlace a strong horse-shoe magnet in such a way that the rod lies\nbetween the two poles perpendicularly.\nConnect the aluminium rod in series with a battery and a key. Now\npass a current through the aluminium rod from one end to another.\n/\n(Procedure can also be explained with a Diagram)\nObservation\nIt is observed that the rod is displaced on passing current though it.\n(b) Magnetic field will be vertically downwards.",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        33
+      ]
+    },
+    {
+      "qNo": 37,
+      "section": "SECTION-C (Physics)",
+      "questionType": "short_answer_3m",
+      "totalMarks": 3.0,
+      "stepMarksAllocated": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(a) An eye defect in which a person can see distant objects clearly but\ncannot see nearby object clearly.\n/\n(b) The focal length of the eye lens is too long.\nThe eyeball has become too small.\n(c)",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        33
+      ]
+    },
+    {
+      "qNo": 38,
+      "section": "SECTION-C (Physics)",
+      "questionType": "case_study",
+      "totalMarks": 4.0,
+      "stepMarksAllocated": [
+        0.5,
+        0.5,
+        1.0,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        1.0,
+        1.0
+      ],
+      "hasOrChoice": true,
+      "mainAnswer": "(a)\n• Position - Image will form at 40 cm / 2F / C\n• Nature – Real, inverted\n/\nAlternate answer\nUsing Lens Formula\n1 1 1\n− =\nν u f\nf = + 20 cm, u = - 40 cm\n1 1 1\n− =\nν −40 20\n1 1 1\n= +\nν 20 − 40\nv = + 40 cm\nPosition - 40 cm on the other side of the lens\nNature - Real, inverted\n(b)\n(c) (i)\nf = 30 cm = 0.3 m , f = -15cm = -0.15 m\n1 2\n1\nP =\nf\n+1 −1\nP = D ; P = D\n1 2\n0.3 0.15\nEquivalent power, P = P +P\n1 2\nP = - 3.33D\n1\nEquivalent focal length, f =\nP\n−1\nf = = - 0.3 m = - 30 cm\n3.33",
+      "orAnswer": "(c) (ii)\n• Combination Lens will behave like convex lens\n• f = - 2m f = 1.5m\n1 2\n1\nP =\nf\n−1 +1\nP = D ; P = D\n1 2\n2 1.5\nP = P +P\n1 2\n1\nP=\n6\nf = + 6m\nThe focal length of the combination is positive.\n/\nAlternate answer\n• Combination Lens will behave like convex lens.\n• Convex lens – Less 'f', More 'P '\n1\nConcave lens- More 'f', Less 'P '\n2\nCombined Power = P +P , which will be positive.\n1 2",
+      "examinerNotes": [],
+      "sourcePages": [
+        34,
+        35
+      ]
+    },
+    {
+      "qNo": 39,
+      "section": "SECTION-C (Physics)",
+      "questionType": "long_answer",
+      "totalMarks": 5.0,
+      "stepMarksAllocated": [
+        3.0,
+        0.5,
+        0.5,
+        1.0,
+        0.5,
+        0.5,
+        1.0,
+        1.0,
+        1.0,
+        0.5,
+        0.5
+      ],
+      "hasOrChoice": true,
+      "mainAnswer": "(a)\n(i)\nDiagram- 1 mark\nLabelling – 2 marks\n(ii) Potential Difference across the battery for 4 Ω and 2 Ω resistors\nconnected in series,\nV= I R\nV = 2 x 6 = 12V\nCurrent through 4 Ω resistor in circuit shown in (i),\nV\nI =\nR\n12\nI =\n4\nI = 3A",
+      "orAnswer": "(b)\nV2\n(i) R =\nA\nP\nA\n220 x 220\nR =\nA\n50\nR = 968Ω\nA\nV2\nR =\nB\nP\nB\n220 x 220\nR =\nB\n100\nR = 484Ω\nB\nR 968\nA =\nR 484\nB\nR : R = 2 : 1\nA B\n(ii)\nAs in parallel combination, Potential difference applied across each\nresistor is same. Current flowing through each resistor R , R and\n1 2\nR is\n3\nV V V\nI = ; I = ; I =\n1 2 3\nR 1 R 2 R 3\nIf resistance of parallel combination is R then current drawn from\nP\nbattery is\nV\nI =\nR\nP\nCurrent I = I + I + I\n1 2 3\nV V V V\n= + +\nR R R R\nP 1 2 3\n1 1 1 1\n= + +\nR R R R\nP 1 2 3",
+      "examinerNotes": [],
+      "sourcePages": [
+        35,
+        36
+      ]
+    }
+  ]
+}

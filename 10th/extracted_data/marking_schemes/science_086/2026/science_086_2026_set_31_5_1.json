@@ -1,0 +1,737 @@
+{
+  "subjectCode": "086",
+  "year": 2026,
+  "paperSet": "31/5/1",
+  "totalQuestions": 39,
+  "totalMarksCalculated": 80.0,
+  "questions": [
+    {
+      "qNo": 1,
+      "section": "SECTION – A Biology",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(C)/ Guard cells",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        3
+      ]
+    },
+    {
+      "qNo": 2,
+      "section": "SECTION – A Biology",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(A)/ Pituitary gland",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        3
+      ]
+    },
+    {
+      "qNo": 3,
+      "section": "SECTION – A Biology",
+      "questionType": "very_short_answer",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "lack ofoxygen\n(D)/ Glucose → pyruvate→ Lactic acid + Εnergy",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        3
+      ]
+    },
+    {
+      "qNo": 4,
+      "section": "SECTION – A Biology",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(C)/ Uterus",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        3
+      ]
+    },
+    {
+      "qNo": 5,
+      "section": "SECTION – A Biology",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(C)/ 44 + XY",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        3
+      ]
+    },
+    {
+      "qNo": 6,
+      "section": "SECTION – A Biology",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(B)/ DDT",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        3
+      ]
+    },
+    {
+      "qNo": 7,
+      "section": "SECTION – A Biology",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(B)/ Breakdown complex organic material into simple inorganic\nsubstances.",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        3
+      ]
+    },
+    {
+      "qNo": 8,
+      "section": "SECTION – A Biology",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(A)/ Both A and R are true and R is the correct explanation of A.",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        3
+      ]
+    },
+    {
+      "qNo": 9,
+      "section": "SECTION – A Biology",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(A)/ Both A and R are true and R is the correct explanation of A.",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        3
+      ]
+    },
+    {
+      "qNo": 10,
+      "section": "SECTION – A Biology",
+      "questionType": "short_answer_2m",
+      "totalMarks": 2.0,
+      "stepMarksAllocated": [
+        2.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "[Diagram / Figure Solution in Marking Scheme]",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        3
+      ]
+    },
+    {
+      "qNo": 11,
+      "section": "SECTION – A Biology",
+      "questionType": "short_answer_2m",
+      "totalMarks": 2.0,
+      "stepMarksAllocated": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "hasOrChoice": true,
+      "mainAnswer": "(A) P – Receptor/Skin\nQ - Sensory Neuron\nR - Relay Neuron\nS – Effector/Muscles in arm.",
+      "orAnswer": "(B) (i) Cytokinin\n(ii) Abscisic acid/ ABA\n(iii) Auxin\n(iv) Abscisic acid/ ABA",
+      "examinerNotes": [],
+      "sourcePages": [
+        3
+      ]
+    },
+    {
+      "qNo": 12,
+      "section": "SECTION – A Biology",
+      "questionType": "short_answer_2m",
+      "totalMarks": 2.0,
+      "stepMarksAllocated": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "• Oxygenated blood from lungs comes to left atrium which\npushes it to left ventricle →\n• Left ventricle contracts to push blood into aorta, to be\nsent to body parts →\n• Deoxygenated blood from body parts is collected and\nsent to right atrium →\n• Right atrium pushes it to right ventricle, to be sent to\nlungs for oxygenation.",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        3,
+        4
+      ]
+    },
+    {
+      "qNo": 13,
+      "section": "SECTION – A Biology",
+      "questionType": "short_answer_3m",
+      "totalMarks": 3.0,
+      "stepMarksAllocated": [
+        1.0,
+        1.0,
+        0.5,
+        0.5
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "•\nRY Ry rY ry\nRY RRYY RRYy RrYY RrYy\nRy RRYy RRyy RrYy Rryy\nrY RrYY RrYy rrYY rrYy\nRy RrYy Rryy rrYy rryy\n•\n(i) RRYY – 1\n(ii) rryy – 1",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        4
+      ]
+    },
+    {
+      "qNo": 14,
+      "section": "SECTION – A Biology",
+      "questionType": "short_answer_3m",
+      "totalMarks": 3.0,
+      "stepMarksAllocated": [
+        0.5,
+        0.5,
+        1.0,
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(a)\n• Plastics being non - biodegradable persist in environment\nfor a long time.\n(any other harmful effect)\n• Alternative - Jute or cloth bag\n(any other suitable alternative)\n(b)\n• Pesticides and chemical fertilizers are not biodegradable.\nThey accumulate progressively at each trophic level. As\nhuman beings occupy the top level in any food chain the\nmaximum concentration of these chemicals get\naccumulated in our bodies.\n• This Phenomenon is biological magnification.",
+      "orAnswer": null,
+      "examinerNotes": [
+        "any other suitable alternative"
+      ],
+      "sourcePages": [
+        4
+      ]
+    },
+    {
+      "qNo": 15,
+      "section": "SECTION – A Biology",
+      "questionType": "case_study",
+      "totalMarks": 4.0,
+      "stepMarksAllocated": [
+        0.5,
+        0.5,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "hasOrChoice": true,
+      "mainAnswer": "(a)\n• Structure → Bowman's capsule is a cup shaped end of a\ncoiled tube (nephron)\n• Function → Bowman's capsule collects the filtrate from\nthe blood.\n(b) Most of the water, salt, glucose, amino acids are\nselectively reabsorbed from the filtrate into the blood as\nthe urine flows along the tubular part of nephron.\n(c)\n• Excretion is the process of removal of metabolic wastes/\nnitrogenous waste/ urea/uric acid from the body.\n• It is essential for survival of a living organism as the\nexcretory products are toxic and harmful to the organism.\nRRYy\nRRyy\nRrYy\nRryy",
+      "orAnswer": "(c)\n• Both lungs and kidneys remove metabolic waste /\nLungs remove carbon dioxide gas (CO )from the\n2\nblood while kidneys remove nitrogenous wastes like\nurea from the blood.\n• Both lungs and kidneys have thin-walled blood capillaries\ninvolved in exchange of gases and filtration of blood\nrespectively.",
+      "examinerNotes": [],
+      "sourcePages": [
+        4,
+        5
+      ]
+    },
+    {
+      "qNo": 16,
+      "section": "SECTION – A Biology",
+      "questionType": "long_answer",
+      "totalMarks": 5.0,
+      "stepMarksAllocated": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        0.5,
+        0.5,
+        1.0
+      ],
+      "hasOrChoice": true,
+      "mainAnswer": "(A)\n(i) (a) Zygote: It divides several times to form an embryo within\nthe ovule.\n(b) Ovule: It develops a tough coat and is gradually\nconverted into a seed.\n(c) Ovary: Grows rapidly and ripens to form a fruit.\n(d) Sepals: They shrivel and fall off.\n(ii) Germination is the process when the mature seed develops\ninto a seedling under appropriate conditions.",
+      "orAnswer": "(B)\n(i) Vegetative propagation.\n(ii) Advantages: -\n• Plants raised by vegetative propagation can bear flowers\nand fruits earlier than those produced from seeds.\n• Plants produced by vegetative propagation are genetically\nsimilar to the parent plant.\n• Plants that have lost the capacity to produce seed can\nreproduce by Vegetative propagation.\n(any two advantages)\n(iii) Roses, grapes, banana, orange, jasmine etc.\n(any other two examples)\n(iv) Regeneration is carried out by specialised cells. The\norganism which have those cells only can show\nregeneration.",
+      "examinerNotes": [],
+      "sourcePages": [
+        5
+      ]
+    },
+    {
+      "qNo": 17,
+      "section": "SECTION – B Chemistry",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(B)/ 2: 1",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        5
+      ]
+    },
+    {
+      "qNo": 18,
+      "section": "SECTION – B Chemistry",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(D)/ C4H8 and C5H12",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        5
+      ]
+    },
+    {
+      "qNo": 19,
+      "section": "SECTION – B Chemistry",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(D)/ Al2O3",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        5
+      ]
+    },
+    {
+      "qNo": 20,
+      "section": "SECTION – B Chemistry",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(D)/ CH3COONa | CH3COOH | NaOH | Basic",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        5
+      ]
+    },
+    {
+      "qNo": 21,
+      "section": "SECTION – B Chemistry",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(C)/ C3H8",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        5
+      ]
+    },
+    {
+      "qNo": 22,
+      "section": "SECTION – B Chemistry",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(D)/ hydrochloric acid and sodium hydroxide",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        5
+      ]
+    },
+    {
+      "qNo": 23,
+      "section": "SECTION – B Chemistry",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(C)/ Hydrogen",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        5
+      ]
+    },
+    {
+      "qNo": 24,
+      "section": "SECTION – B Chemistry",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(A)/ Both A and R are true, and R is the correct explanation of A.",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        5
+      ]
+    },
+    {
+      "qNo": 25,
+      "section": "SECTION – B Chemistry",
+      "questionType": "short_answer_2m",
+      "totalMarks": 2.0,
+      "stepMarksAllocated": [
+        1.0,
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(i) The substances whose odour changes in acidic or basic\nmedia.\n(ii) The fixed number of water molecules present in one\nformula unit of a salt.",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        6
+      ]
+    },
+    {
+      "qNo": 26,
+      "section": "SECTION – B Chemistry",
+      "questionType": "short_answer_3m",
+      "totalMarks": 3.0,
+      "stepMarksAllocated": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(i) Brown fumes of nitrogen dioxide are formed.\nHeat\n2Pb(NO ) (s)→ 2PbO(s) + 4ΝΟ (g) + Ο (g)\n3 2 2 2\n(ii) Smell of burning sulphur is observed/ Colour of crystal\nchanges.\nHeat\n2FeSO (s)→ Fe O (s) + SO (g) + SO (g)\n4 2 3 2 3\n(iii) White silver chloride turns grey.\nSunlight\n2AgCl (s)→ 2Ag(s) + Cl (g)\n2\n(Note: Award full marks if balanced chemical equation is written)",
+      "orAnswer": null,
+      "examinerNotes": [
+        "Note: Award full marks if balanced chemical equation is written"
+      ],
+      "sourcePages": [
+        6
+      ]
+    },
+    {
+      "qNo": 27,
+      "section": "SECTION – B Chemistry",
+      "questionType": "short_answer_3m",
+      "totalMarks": 3.0,
+      "stepMarksAllocated": [
+        0.5,
+        0.5,
+        1.0,
+        0.5,
+        0.5,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "hasOrChoice": true,
+      "mainAnswer": "(A)\n(a)\n• Calcium sulphate hemihydrate\n1\n• CaSO . H O\n4 2\n2\n373K 1 3\n(b) CaSO . 2H O→ CaSO . H O + H O\n4 2 4 2 2\n2 2\n(c) Plaster of Paris is used for\n• making toys\n• to support fractured bones in right position.\n(or any other two uses)",
+      "orAnswer": "(B)\n(a) Methanoic acid/ Formic acid/ HCOOH.\n(b) (i) When acid is added to water, it does not cause\nexcessive local heating/ does not cause splash out and\nburns.\n(ii) Baking soda, being alkaline in nature, neutralises\nexcess acid in stomach and provides relief.",
+      "examinerNotes": [],
+      "sourcePages": [
+        6
+      ]
+    },
+    {
+      "qNo": 28,
+      "section": "SECTION – B Chemistry",
+      "questionType": "case_study",
+      "totalMarks": 4.0,
+      "stepMarksAllocated": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        1.0,
+        1.0,
+        0.5,
+        0.5,
+        1.0
+      ],
+      "hasOrChoice": true,
+      "mainAnswer": "(a)\n• /\nCH −CH −CΗ −CΗ −ΟΗ\n3 2 2 2\n• Butanol\n(b)\n• Ethanol gets oxidised to form ethanoic acid.\nalkaline KMnO 4+heat\n• CH −CH −ΟΗ→ CH 3COOH\n3 2\n(c)\n•\n• Esterification reaction.",
+      "orAnswer": "(c)\n• Ethanol will get dehydrated to form ethene.\nConc.H 2SO 4 at 443K\n• C 2H 5OH→ CH = CH + H 2O\n2 2\n• Dehydrating agent/ Catalyst",
+      "examinerNotes": [],
+      "sourcePages": [
+        6,
+        7
+      ]
+    },
+    {
+      "qNo": 29,
+      "section": "SECTION – B Chemistry",
+      "questionType": "long_answer",
+      "totalMarks": 5.0,
+      "stepMarksAllocated": [
+        1.0,
+        1.0,
+        1.0,
+        0.5,
+        0.5,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "hasOrChoice": true,
+      "mainAnswer": "(A)\n(i) (I) A considerable amount of energy is required to break\nstrong inter-ionic attraction.\n(II) Solder has low melting point.\n(III) Because Na or Mg have more affinity for oxygen\nthan carbon.\n(ii) (I) Fe O / Iron (III) oxide\n2 3\n(II) Thermit reaction\n(III) Fe O (s) + 2Al(s) → 2Fe(l) + Al O (s) + Ηeat\n2 3 2 3\n(Deduct ½ mark if no/ incorrect balancing)",
+      "orAnswer": "(B) (i)\n(I) 2Cu O + Cu S → 6Cu(s) + SΟ (g)\n2 2 2\n(II) 2ZnS(s) + 3Ο (g) → 2ΖnΟ(s) + 2SΟ (g)\n2 2\n(Deduct ½ mark if no/ incorrect balancing)\n(ii) (I) PVC provides insulation on the current carrying wires.\n(II) Copper does not react with cold water, hot water and\n/\nsteam. Copper is a better conductor than steel.\n(iii)",
+      "examinerNotes": [
+        "Deduct ½ mark if no/ incorrect balancing",
+        "Deduct ½ mark if no/ incorrect balancing"
+      ],
+      "sourcePages": [
+        7
+      ]
+    },
+    {
+      "qNo": 30,
+      "section": "SECTION – C PHYSICS",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(A) / 20 cm",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        7
+      ]
+    },
+    {
+      "qNo": 31,
+      "section": "SECTION – C PHYSICS",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(A) / converging lens",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        7
+      ]
+    },
+    {
+      "qNo": 32,
+      "section": "SECTION – C PHYSICS",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(D) / Assertion (A) is false but Reason (R) is true.",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        7
+      ]
+    },
+    {
+      "qNo": 33,
+      "section": "SECTION – C PHYSICS",
+      "questionType": "short_answer_2m",
+      "totalMarks": 2.0,
+      "stepMarksAllocated": [
+        1.0,
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(a) In optically rarer medium speed of light is more and in\noptically denser medium speed of light is less.\n(b) A < C < B",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        7
+      ]
+    },
+    {
+      "qNo": 34,
+      "section": "SECTION – C PHYSICS",
+      "questionType": "short_answer_2m",
+      "totalMarks": 2.0,
+      "stepMarksAllocated": [
+        1.0,
+        1.0,
+        2.0
+      ],
+      "hasOrChoice": true,
+      "mainAnswer": "(A) (i) While looking at objects nearer to eye, the curvature of\nthe eye lens increases. Consequently, the focal length of\nthe eye lens decreases.\n(ii) From 25cm (near point) to infinity (far point)",
+      "orAnswer": "(B)\n(Deduct ½ mark for not showing the direction of light)",
+      "examinerNotes": [
+        "Deduct ½ mark for not showing the direction of light"
+      ],
+      "sourcePages": [
+        7,
+        8
+      ]
+    },
+    {
+      "qNo": 35,
+      "section": "SECTION – C PHYSICS",
+      "questionType": "short_answer_3m",
+      "totalMarks": 3.0,
+      "stepMarksAllocated": [
+        1.0,
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(a)\nDiagram\nLabelling\n(b)\n• Angle of deviation will not change.\n• The ray of light will retrace its original path.",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        8
+      ]
+    },
+    {
+      "qNo": 36,
+      "section": "SECTION – C PHYSICS",
+      "questionType": "short_answer_3m",
+      "totalMarks": 3.0,
+      "stepMarksAllocated": [
+        1.0,
+        1.0,
+        0.5,
+        0.5
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(a)\n(b)\n(i)\nVirtual Image formed by Virtual Image formed by\nConvex mirror Concave mirror\nImage is formed for all Image is formed when object\npositions of the object is placed between Pole and\nPrincipal Focus\nSmall/diminished Enlarged/magnified\n(Any one difference)\n(ii) 𝑚 = −2\nheight of image ℎ′\n𝑚 = =\nheight of object ℎ\nℎ′\nℎ =\n𝑚\n−20\nℎ =\n−2\nℎ = 10 cm\nVirtual Image formed by\nConcave mirror\nImage is formed when object\nis placed between Pole and\nPrincipal Focus\nEnlarged/magnified",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        8
+      ]
+    },
+    {
+      "qNo": 37,
+      "section": "SECTION – C PHYSICS",
+      "questionType": "short_answer_3m",
+      "totalMarks": 3.0,
+      "stepMarksAllocated": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(a) When the electric heater is switched on in a parallel circuit, it\ndraws a large amount of current. As a result, the current through\nthe bulb decreases, making the bulb glow dim.\n(b)\n•\n1 1 1\n• = +\n𝑅1 8 8\n𝑅 = 4Ω\n1\n𝑅 = 𝑅 + 8𝛺\neq 1\n𝑅 = 12𝛺\neq",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        9
+      ]
+    },
+    {
+      "qNo": 38,
+      "section": "SECTION – C PHYSICS",
+      "questionType": "case_study",
+      "totalMarks": 4.0,
+      "stepMarksAllocated": [
+        1.0,
+        1.0,
+        1.0,
+        0.5,
+        0.5,
+        1.0,
+        1.0
+      ],
+      "hasOrChoice": true,
+      "mainAnswer": "𝑋\n(a) Ammeter reading becomes / halved\n2\n(b) Ammeter reading becomes 2X / doubled\n(c)\n• Resistivity is equal to electrical resistance of a conductor\nof unit length and unit area of cross section.\n• SI unit=  m / ohm metre\n• Resistivity of an alloy is higher than its constituent\nmetals.",
+      "orAnswer": "(c) (i) It has high melting point.\n(ii) The resistivity of an alloy is generally higher than\nthat of its constituent metals. / Alloys do not oxidise (burn)\nreadily at high temperatures.",
+      "examinerNotes": [],
+      "sourcePages": [
+        9
+      ]
+    },
+    {
+      "qNo": 39,
+      "section": "SECTION – C PHYSICS",
+      "questionType": "long_answer",
+      "totalMarks": 5.0,
+      "stepMarksAllocated": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "hasOrChoice": true,
+      "mainAnswer": "(A) (i)\nCharacteristics:\n• The magnet field lines emerge from north pole and merge\nat south pole. Inside the magnet, the direction of field lines\nis from its south pole to its north pole. Thus, the magnetic\nfield lines are closed curves.\n• The relative strength of the magnetic field is shown by the\ndegree of closeness of the field lines.\n• No two field-lines are found to cross each other.\n(any two)\n(ii) Imagine that you are holding a current carrying straight\nconductor in your right hand such that the thumb points\ntowards the direction of current. Then your fingers will wrap\naround the conductor in the direction of field lines of the\nmagnetic field.\n(iii) As the concentric circles become larger and larger, the\nmagnetic field decreases.",
+      "orAnswer": "(B)\n(i)\nSalient features:\n• The pattern of the magnetic field lines in a solenoid is\nsimilar to that of a bar magnet.\n• Field lines inside the solenoid are in the form of parallel\nstraight lines.\n(ii)\n• A magnetic material which behaves like a magnet on\npassing electric current through it is called an\nelectromagnet.\n• It is made by wrapping a current carrying insulated\ncopper wire in the form of a coil around a magnetic\n/\nmaterial like soft iron By placing a magnetic material\nlike soft iron as a core material inside the current carrying\nsolenoid.",
+      "examinerNotes": [],
+      "sourcePages": [
+        9,
+        10
+      ]
+    }
+  ]
+}

@@ -1,0 +1,730 @@
+{
+  "subjectCode": "086",
+  "year": 2026,
+  "paperSet": "31/3/1",
+  "totalQuestions": 39,
+  "totalMarksCalculated": 80.0,
+  "questions": [
+    {
+      "qNo": 1,
+      "section": "SECTION – A (Biology)",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(B)/ (i) and (iii)",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        3
+      ]
+    },
+    {
+      "qNo": 2,
+      "section": "SECTION – A (Biology)",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(B)/ Both plants are covered with separate wooden bell-jars",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        3
+      ]
+    },
+    {
+      "qNo": 3,
+      "section": "SECTION – A (Biology)",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(C)/ Hind Brain-Cerebellum",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        3
+      ]
+    },
+    {
+      "qNo": 4,
+      "section": "SECTION – A (Biology)",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(D)/ Axonal end of one neuron to dendritic end of another neuron",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        3
+      ]
+    },
+    {
+      "qNo": 5,
+      "section": "SECTION – A (Biology)",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(A)/ Food Web",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        3
+      ]
+    },
+    {
+      "qNo": 6,
+      "section": "SECTION – A (Biology)",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(B)/ Human Beings",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        3
+      ]
+    },
+    {
+      "qNo": 7,
+      "section": "SECTION – A (Biology)",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(D)/ Rapid cell division in tendril cells that are away from the support",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        3
+      ]
+    },
+    {
+      "qNo": 8,
+      "section": "SECTION – A (Biology)",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(A)/ Both A and R are true, and R is the correct explanation of A",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        3
+      ]
+    },
+    {
+      "qNo": 9,
+      "section": "SECTION – A (Biology)",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(B)/ Both A and R are true but R is not the correct explanation of A",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        3
+      ]
+    },
+    {
+      "qNo": 10,
+      "section": "SECTION – A (Biology)",
+      "questionType": "short_answer_2m",
+      "totalMarks": 2.0,
+      "stepMarksAllocated": [
+        1.0,
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(i) To freeze the CFC production at 1986 levels.\n(ii) Ozone shields the earth's surface from harmful UV radiations.",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        3
+      ]
+    },
+    {
+      "qNo": 11,
+      "section": "SECTION – A (Biology)",
+      "questionType": "short_answer_2m",
+      "totalMarks": 2.0,
+      "stepMarksAllocated": [
+        1.0,
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "• Aerobic Respiration\n• Complete breakdown of glucose takes place in presence of oxygen\nreleasing more energy.",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        3
+      ]
+    },
+    {
+      "qNo": 12,
+      "section": "SECTION – A (Biology)",
+      "questionType": "short_answer_2m",
+      "totalMarks": 2.0,
+      "stepMarksAllocated": [
+        0.5,
+        3.0,
+        0.5
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "I. (i) 2-chambered\n(ii) Amphibians/Reptiles\n(iii) Double circulation\nII. Double circulation",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        3
+      ]
+    },
+    {
+      "qNo": 13,
+      "section": "SECTION – A (Biology)",
+      "questionType": "short_answer_3m",
+      "totalMarks": 3.0,
+      "stepMarksAllocated": [
+        0.5,
+        1.0,
+        0.5,
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "• Root pressure: Cells in the contact of the soil actively take up ions\nand creates a difference in concentration between roots and soil,\nwater moves from soil to root to eliminate this difference.\n• Transpirational pull: Water lost through transpiration from aerial\nparts of plants, creates a suction which pulls water column from\nxylem cells of roots.",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        3
+      ]
+    },
+    {
+      "qNo": 14,
+      "section": "SECTION – A (Biology)",
+      "questionType": "short_answer_3m",
+      "totalMarks": 3.0,
+      "stepMarksAllocated": [
+        0.5,
+        0.5,
+        1.0,
+        0.5,
+        0.5
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "Parents: TT x tt\n(Tall) (short)\nObservations:\n• No medium or short height plants were observed in F1\ngeneration.\n• All progeny resembles one of the parents.\n•\nAll plants were tall.\n(any two observations)",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        3,
+        4
+      ]
+    },
+    {
+      "qNo": 15,
+      "section": "SECTION – A (Biology)",
+      "questionType": "case_study",
+      "totalMarks": 4.0,
+      "stepMarksAllocated": [
+        2.0,
+        2.0,
+        1.0,
+        1.0,
+        2.0
+      ],
+      "hasOrChoice": true,
+      "mainAnswer": "(a) (i) Opening of stomata during the day is minimised to prevent loss\nof water by evaporation. / Transpiration (loss of water in the form\nof water vapour) is minimised.\n(ii) Stomata",
+      "orAnswer": "(b) (i)\n• Absorption of light energy by Chlorophyll.\n• Conversion of light energy to chemical energy and splitting of\nwater molecules into hydrogen and oxygen\n• Reduction of Carbon Dioxide into Carbohydrates\n(ii) At night.\n(iii) Diagram of Open stomatal pore.\nDiagram - 1 Mark\nLabelling - 1 Mark",
+      "examinerNotes": [],
+      "sourcePages": [
+        4
+      ]
+    },
+    {
+      "qNo": 16,
+      "section": "SECTION – A (Biology)",
+      "questionType": "long_answer",
+      "totalMarks": 5.0,
+      "stepMarksAllocated": [
+        0.5,
+        0.5,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        0.5,
+        0.5,
+        1.0,
+        0.5,
+        0.5,
+        1.0,
+        1.0
+      ],
+      "hasOrChoice": true,
+      "mainAnswer": "(a) (i)\n• Structure: Bryophyllum leaf\n• Type: Vegetative propagation / Asexual reproduction\n(ii)\n• Advantage: Genetically identical plants, maintaining\ndesirable traits of the parents. / Bear flowers and fruits\nearlier than those plants which are grown from seeds / Used\nfor the plants that have lost their capacity to produce seeds.\n(any one)\n• Disadvantage: No genetic variation.\n(iii) As DNA of single parent is involved without gamete fusion. /\nOffsprings are produced by mitosis hence similar genetic makeup\nthus, no variation.\n(iv) It creates genetic variation, enhances chances of survival in\nchanging environment and drives evolution.",
+      "orAnswer": "(b) (i) Name: Multiple Fission\nType: Asexual reproduction\n(ii) In stage P, many daughter cells are produced by multiple fission /\nRepeated nuclear divisions followed by cytoplasmic divisions.\n(iii) Plasmodium (any other)\n(iv)\n• Vegetative propagation\nAdvantages –\n• All the plants produced are genetically similar to the parent\nplant\n• Such plants can bear flowers and fruits earlier than those\nproduced from seeds.\n( any other advantage)",
+      "examinerNotes": [],
+      "sourcePages": [
+        4,
+        5
+      ]
+    },
+    {
+      "qNo": 17,
+      "section": "SECTION – B (Chemistry)",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(B)/ The reaction of a reactive metal with dilute acid.",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        5
+      ]
+    },
+    {
+      "qNo": 18,
+      "section": "SECTION – B (Chemistry)",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(C)/ Copper (II) chloride, which is blue-green in colour.",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        5
+      ]
+    },
+    {
+      "qNo": 19,
+      "section": "SECTION – B (Chemistry)",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(A)/ 2,2",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        5
+      ]
+    },
+    {
+      "qNo": 20,
+      "section": "SECTION – B (Chemistry)",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(D)/ (iii) and (iv)",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        5
+      ]
+    },
+    {
+      "qNo": 21,
+      "section": "SECTION – B (Chemistry)",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(C)/ Exothermic, but the heat evolved is not sufficient for the hydrogen to\ncatch fire.",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        5
+      ]
+    },
+    {
+      "qNo": 22,
+      "section": "SECTION – B (Chemistry)",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(D)/ Case (iii) only",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        5
+      ]
+    },
+    {
+      "qNo": 23,
+      "section": "SECTION – B (Chemistry)",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(C)/ Na ZnO\n2 2",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        5
+      ]
+    },
+    {
+      "qNo": 24,
+      "section": "SECTION – B (Chemistry)",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(A)/ Both Assertion (A) and Reason (R) are true and Reason (R) is the\ncorrect explanation of Assertion (A).",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        5
+      ]
+    },
+    {
+      "qNo": 25,
+      "section": "SECTION – B (Chemistry)",
+      "questionType": "short_answer_2m",
+      "totalMarks": 2.0,
+      "stepMarksAllocated": [
+        1.0,
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(i)\n(ii)",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        5,
+        6
+      ]
+    },
+    {
+      "qNo": 26,
+      "section": "SECTION – B (Chemistry)",
+      "questionType": "short_answer_3m",
+      "totalMarks": 3.0,
+      "stepMarksAllocated": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "• Thermal decomposition reaction\nheat\n• 2FeSO (s) → Fe O (s) + SO (g) + SO (g)\n4 2 3 2 3\n(deduct ½ mark if no / incorrect balancing)\n• Endothermic reaction",
+      "orAnswer": null,
+      "examinerNotes": [
+        "deduct ½ mark if no / incorrect balancing"
+      ],
+      "sourcePages": [
+        6
+      ]
+    },
+    {
+      "qNo": 27,
+      "section": "SECTION – B (Chemistry)",
+      "questionType": "short_answer_3m",
+      "totalMarks": 3.0,
+      "stepMarksAllocated": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "hasOrChoice": true,
+      "mainAnswer": "(a) (i) When acid is added to water, it does not cause excessive local\nheating/ does not splash out and cause burns.\n+\n(ii) Because dry HCl does not ionize/produce H ions whereas in\n+\ndilute HCl, H ions are present.\n(iii) Because of loss of 5 molecules of water of crystallisation.",
+      "orAnswer": "electricity\n(b) (i) 2NaCl(aq) + 2H O(l)→ 2NaOH(aq) + H (g) + Cl (g)\n2 2 2\n(ii) NaCl + H 2O + NH + CO 2→ NaHCO + NH 4Cl\n3 3\n373K 1 1\n(iii) CaSO .2H O → CaSO . H O + 1 H O\n4 2 4 2 2\n2 2\n(Deduct ½ mark if no/ incorrect balancing in each case)",
+      "examinerNotes": [
+        "Deduct ½ mark if no/ incorrect balancing in each case"
+      ],
+      "sourcePages": [
+        6
+      ]
+    },
+    {
+      "qNo": 28,
+      "section": "SECTION – B (Chemistry)",
+      "questionType": "case_study",
+      "totalMarks": 4.0,
+      "stepMarksAllocated": [
+        1.0,
+        0.5,
+        0.5,
+        1.0,
+        1.0,
+        2.0
+      ],
+      "hasOrChoice": true,
+      "mainAnswer": "(a) During electrolytic refining of a metal, the insoluble impurities\nwhich settle down at the bottom of the anode is called anode mud.\n(b) Anode: Impure copper rod\nCathode: Pure copper strip\nheat\n(c) (i) 2Cu S + 3O (g) → 2Cu O (s) + 2SO (g)\n2 2 2 2\nheat\n2Cu O + Cu S→ 6Cu(s) + SO (g)\n2 2 2",
+      "orAnswer": "(c) (ii)\n(Diagram- 1 mark, Labelling-1 mark)",
+      "examinerNotes": [],
+      "sourcePages": [
+        6
+      ]
+    },
+    {
+      "qNo": 29,
+      "section": "SECTION – B (Chemistry)",
+      "questionType": "long_answer",
+      "totalMarks": 5.0,
+      "stepMarksAllocated": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        0.5,
+        0.5,
+        1.0,
+        1.0,
+        1.0,
+        0.5,
+        0.5
+      ],
+      "hasOrChoice": true,
+      "mainAnswer": "(a) (i)\n• A series of compounds in which the same functional group\n/\nsubstitutes for hydrogen in a carbon chain. Can be\nrepresented by a single general formula and successive\nmembers differ by -CH unit or 14u.\n2\n• C 2H and C 4H belong to the same homologous series/ are\n4 8\nalkenes.\nAcid\n(ii) (I) CH 3CH 2OH + CH 3COOH → CH 3COOC 2H + H 2O\n5\nBurning\n(II) C 2H 5OH + 3O → 2CO + 3H 2O\n2 2\n(balancing may be ignored)\n(iii) The ionic end of soap interacts with water while the carbon chain\ninteracts with oil/dirt. The soap molecules thus form a structure\ncalled micelle.",
+      "orAnswer": "(b) (i) (I) Propanone/acetone\n(II) Propyne\n(ii) Hydrogenation/addition reaction.\n(iii) C H will have higher melting point, as it has a higher molecular\n4 10\nmass than C H and melting point increases with the increase in\n3 8\nmolecular mass.\n(iv) Sodium ethoxide (C H ONa) is formed and hydrogen gas is\n2 5\nevolved.\n/\n(balancing may be ignored)\n(v) CH COON C H + NaOH ⟶CH COONa + C H OH\n3 2 5 3 2 5",
+      "examinerNotes": [],
+      "sourcePages": [
+        7
+      ]
+    },
+    {
+      "qNo": 30,
+      "section": "SECTION – C (Physics)",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(C) /Ammeter in series and voltmeter in parallel.",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        7
+      ]
+    },
+    {
+      "qNo": 31,
+      "section": "SECTION – C (Physics)",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(C) /Colour of ray 1- Red; Colour of ray 2 - Violet",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        7
+      ]
+    },
+    {
+      "qNo": 32,
+      "section": "SECTION – C (Physics)",
+      "questionType": "mcq",
+      "totalMarks": 1.0,
+      "stepMarksAllocated": [
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(D)/Assertion (A) is false, but Reason (R) is true.",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        7
+      ]
+    },
+    {
+      "qNo": 33,
+      "section": "SECTION – C (Physics)",
+      "questionType": "short_answer_2m",
+      "totalMarks": 2.0,
+      "stepMarksAllocated": [
+        1.0,
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(a) Medium A is optically denser than B because light ray is going away\nfrom the normal NN'.\nn 𝑉𝐴\n(b) =\nBA\n𝑉𝐵",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        7
+      ]
+    },
+    {
+      "qNo": 34,
+      "section": "SECTION – C (Physics)",
+      "questionType": "short_answer_2m",
+      "totalMarks": 2.0,
+      "stepMarksAllocated": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "hasOrChoice": true,
+      "mainAnswer": "(a) (i) Mainly blue coloured light is scattered because very fine particles\nscatter shorter wavelength.\n(ii) Scattered light may appear white because very large size particles\nscatter light of all wavelengths.",
+      "orAnswer": "(b)\nA natural spectrum like rainbow is formed when sunlight passes through\ntiny water droplets present in the atmosphere. The water droplets disperse\nthe incident light ray, then reflect it internally and finally refract it again\nwhen it comes out of the raindrop.\n(any other phenomenon of spectrum in nature)",
+      "examinerNotes": [],
+      "sourcePages": [
+        7,
+        8
+      ]
+    },
+    {
+      "qNo": 35,
+      "section": "SECTION – C (Physics)",
+      "questionType": "short_answer_3m",
+      "totalMarks": 3.0,
+      "stepMarksAllocated": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(a)\n• Hypermetropia/ Far -Sightedness\n• Behind the retina.\n(b)\n• Focal length of the eye lens is too long.\n• The eye ball has become too small.\n(c)",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        8
+      ]
+    },
+    {
+      "qNo": 36,
+      "section": "SECTION – C (Physics)",
+      "questionType": "short_answer_3m",
+      "totalMarks": 3.0,
+      "stepMarksAllocated": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(a) (i) Battery / Electric cell\n(ii) Rheostat / Variable resistance\nV\n(b) Resistance of the heater, R =\nI\n110\nR =\n5\nR = 22 \nV′\nCurrent through the heater, I′ =\nR\n220\n=\n22\n= 10 A\n/\nAlternate answer for (b):\n• According to Ohm's law, potential difference is directly\nproportional to current.\n• When the potential difference is doubled, current will also be\ndoubled. So, value of current will be 10A.",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        8
+      ]
+    },
+    {
+      "qNo": 37,
+      "section": "SECTION – C (Physics)",
+      "questionType": "short_answer_3m",
+      "totalMarks": 3.0,
+      "stepMarksAllocated": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "hasOrChoice": false,
+      "mainAnswer": "(a) 4 Ω and 1 Ω are in series, R = 4Ω + 1 Ω = 5 Ω\ns\n1 1 1\nResistance across R and S, = +\nR 5 5\n1\n5\nR = Ω\n1 2\n2 Ω and 3 Ω are in series, R = 2Ω + 3 Ω = 5 Ω\ns1\n1 1 1\nResistance across P and Q, = +\nR 5 5\n2\n5\nR = Ω\n2\n2\nTotal resistance: R = R + R\n1 2\n5 5\n+\n=\n2 2\n= 5 \nV\n(b) I=\nR\n10\nI =\n5\nI = 2 A\n(c) V = I R\n5\nV =  \n2\nV = 5 V",
+      "orAnswer": null,
+      "examinerNotes": [],
+      "sourcePages": [
+        8,
+        9
+      ]
+    },
+    {
+      "qNo": 38,
+      "section": "SECTION – C (Physics)",
+      "questionType": "case_study",
+      "totalMarks": 4.0,
+      "stepMarksAllocated": [
+        1.0,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        2.0
+      ],
+      "hasOrChoice": true,
+      "mainAnswer": "(a) In observation no.3. The object distance is equal to image distance,\nwhich is only possible when the object is at 2F (C) =50 cm. Therefore, the\nfocal length is 25 cm.\n(b)\n• Observation no. 6\n• Because when object is kept between F and O, image formed by\nlens will be on same side of object. Hence, image distance(v)\nshould be negative.\nv\n(c) (i) m=\nu\n150\n=\n−30\nm = − 5\n• Nature of image: Image will be real and inverted\n• Reason: because the value of m is negative.\n.",
+      "orAnswer": "(c) (ii)\n(deduct ½ mark for no or incorrect direction of rays)",
+      "examinerNotes": [
+        "deduct ½ mark for no or incorrect direction of rays"
+      ],
+      "sourcePages": [
+        9,
+        10
+      ]
+    },
+    {
+      "qNo": 39,
+      "section": "SECTION – C (Physics)",
+      "questionType": "long_answer",
+      "totalMarks": 5.0,
+      "stepMarksAllocated": [
+        1.0,
+        2.0,
+        0.5,
+        0.5,
+        1.0,
+        10.5,
+        0.5,
+        0.5,
+        0.5,
+        1.0,
+        1.0
+      ],
+      "hasOrChoice": true,
+      "mainAnswer": "(a)\n(i) Solenoid – A coil of many circular turns of insulated copper wire,\nwrapped closely in the shape of cylinder.\n(ii)\n• Current flowing through the solenoid\n• No. of turns of the coil\n(iii)\nNote: Award marks if a different direction of current is shown with the\ncorrect corresponding direction of magnetic field.",
+      "orAnswer": "(b) (i) When current is passed through the conductor, it experiences a\nforce and gets displaced.\ndiagram\ndirection of current\ndirection of magnetic field\ndirection of force\n(ii) (I) Into the plane of paper\n(II) The direction of force will remain same.",
+      "examinerNotes": [],
+      "sourcePages": [
+        10,
+        11
+      ]
+    }
+  ]
+}
