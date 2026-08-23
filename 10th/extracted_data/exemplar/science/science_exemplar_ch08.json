@@ -673,285 +673,255 @@
         },
         {
           "key": "d",
-          "text": "Gonorrhoea\n5JQTV #PUYGT 3WGUVKQPU"
+          "text": "Gonorrhoea"
         }
       ],
-      "fullText": "Which among the following diseases is not sexually transmitted?\n(a) Syphillis\n(b) Hepatitis\n(c) HIV - AIDS\n(d) Gonorrhoea\n5JQTV #PUYGT 3WGUVKQPU"
+      "fullText": "Which among the following diseases is not sexually transmitted?\n(a) Syphillis\n(b) Hepatitis\n(c) HIV - AIDS\n(d) Gonorrhoea"
     },
     {
       "qNo": 28,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "In a bisexual flower inspite of the young stamens being removed\nartificially, the flower produces fruit. Provide a suitable explanation\nfor the above situation.",
       "options": [],
       "fullText": "In a bisexual flower inspite of the young stamens being removed\nartificially, the flower produces fruit. Provide a suitable explanation\nfor the above situation."
     },
     {
       "qNo": 29,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "Can you consider cell division as a type of reproduction in\nunicellular organism? Give one reason.",
       "options": [],
       "fullText": "Can you consider cell division as a type of reproduction in\nunicellular organism? Give one reason."
     },
     {
       "qNo": 30,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "What is a clone? Why do offsprings formed by asexual reproduction\nexhibit remarkable similarity?",
       "options": [],
       "fullText": "What is a clone? Why do offsprings formed by asexual reproduction\nexhibit remarkable similarity?"
     },
     {
       "qNo": 31,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "Explain how, offspring and parents of organisms reproducing\nsexually have the same number of chromosomes?",
       "options": [],
       "fullText": "Explain how, offspring and parents of organisms reproducing\nsexually have the same number of chromosomes?"
     },
     {
       "qNo": 32,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "Colonies of yeast fail to multiply in water, but multiply in sugar\nsolution. Give one reason for this.",
       "options": [],
       "fullText": "Colonies of yeast fail to multiply in water, but multiply in sugar\nsolution. Give one reason for this."
     },
     {
       "qNo": 33,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "Why does bread mould grow profusely on a moist slice of bread\nrather than on a dry slice of bread?",
       "options": [],
       "fullText": "Why does bread mould grow profusely on a moist slice of bread\nrather than on a dry slice of bread?"
     },
     {
       "qNo": 34,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "Give two reasons for the appearance of variations among the\nprogeny formed by sexual reproduction.",
       "options": [],
       "fullText": "Give two reasons for the appearance of variations among the\nprogeny formed by sexual reproduction."
     },
     {
       "qNo": 35,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "Would a Planaria cut vertically into two halves regenerate into two\nindividuals? Complete Figure 8.2  D and E by indicating the\nregenerated regions.\nFig. 8.2",
       "options": [],
       "fullText": "Would a Planaria cut vertically into two halves regenerate into two\nindividuals? Complete Figure 8.2  D and E by indicating the\nregenerated regions.\nFig. 8.2"
     },
     {
       "qNo": 36,
-      "section": "Multiple Choice Questions",
-      "type": "mcq",
-      "stem": "From the internet, gather information about the chromosome\nnumbers of five animals and five plants. Correlate the number with\nthe size of organism and answer the following questions.",
-      "options": [
-        {
-          "key": "a",
-          "text": "Do larger organisms have more number of chromosomes/cells?"
-        },
-        {
-          "key": "b",
-          "text": "Can organism with fewer chromosomes reproduce more easily\nthan organisms with more number of chromosomes?"
-        },
-        {
-          "key": "c",
-          "text": "More the number of chromosomes/cells greater is the DNA\ncontent. Justify."
-        }
-      ],
+      "section": "Short Answer Questions",
+      "type": "short_answer",
+      "stem": "From the internet, gather information about the chromosome\nnumbers of five animals and five plants. Correlate the number with\nthe size of organism and answer the following questions.\n(a) Do larger organisms have more number of chromosomes/cells?\n(b) Can organism with fewer chromosomes reproduce more easily\nthan organisms with more number of chromosomes?\n(c) More the number of chromosomes/cells greater is the DNA\ncontent. Justify.",
+      "options": [],
       "fullText": "From the internet, gather information about the chromosome\nnumbers of five animals and five plants. Correlate the number with\nthe size of organism and answer the following questions.\n(a) Do larger organisms have more number of chromosomes/cells?\n(b) Can organism with fewer chromosomes reproduce more easily\nthan organisms with more number of chromosomes?\n(c) More the number of chromosomes/cells greater is the DNA\ncontent. Justify."
     },
     {
       "qNo": 37,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "In tobacco plant, the male gametes have twenty four chromosomes.\nWhat is the number of chromosomes in the female gamete?\nWhat is the number of chromosomes in the zygote?",
       "options": [],
       "fullText": "In tobacco plant, the male gametes have twenty four chromosomes.\nWhat is the number of chromosomes in the female gamete?\nWhat is the number of chromosomes in the zygote?"
     },
     {
       "qNo": 38,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "Why cannot fertilisation take place in flowers if pollination does\nnot occur?",
       "options": [],
       "fullText": "Why cannot fertilisation take place in flowers if pollination does\nnot occur?"
     },
     {
       "qNo": 39,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "Is the chromosome number of zygote, embryonal cells and adult\nof a particular organism always constant? How is the constancy\nmaintained in these three stages?",
       "options": [],
       "fullText": "Is the chromosome number of zygote, embryonal cells and adult\nof a particular organism always constant? How is the constancy\nmaintained in these three stages?"
     },
     {
       "qNo": 40,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "Where is the zygote located in the flower after fertilization?",
       "options": [],
       "fullText": "Where is the zygote located in the flower after fertilization?"
     },
     {
       "qNo": 41,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "Reproduction is linked to stability of population of a species.\nJustify the statement.",
       "options": [],
       "fullText": "Reproduction is linked to stability of population of a species.\nJustify the statement."
     },
     {
       "qNo": 42,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "How are general growth and sexual maturation different from each\nother?",
       "options": [],
       "fullText": "How are general growth and sexual maturation different from each\nother?"
     },
     {
       "qNo": 43,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "Trace the path of sperm during ejaculation and mention the gland\nand their functions associated with the male reproductive system.",
       "options": [],
       "fullText": "Trace the path of sperm during ejaculation and mention the gland\nand their functions associated with the male reproductive system."
     },
     {
       "qNo": 44,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "What changes are observed in the uterus if fertilisation does not\noccur?",
       "options": [],
       "fullText": "What changes are observed in the uterus if fertilisation does not\noccur?"
     },
     {
       "qNo": 45,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "What changes are observed in the uterus subsequent to\nimplantation of young embryo?",
       "options": [],
       "fullText": "What changes are observed in the uterus subsequent to\nimplantation of young embryo?"
     },
     {
       "qNo": 46,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "What are the benefits of using mechanical barriers during sexual\nact?",
       "options": [],
       "fullText": "What are the benefits of using mechanical barriers during sexual\nact?"
     },
     {
       "qNo": 47,
-      "section": "Multiple Choice Questions",
-      "type": "mcq",
-      "stem": "In the given Figure 8.3 label the parts and mention their functions",
-      "options": [
-        {
-          "key": "a",
-          "text": "Production of egg"
-        },
-        {
-          "key": "b",
-          "text": "Site of fertilisation"
-        },
-        {
-          "key": "c",
-          "text": "Site of implantation"
-        },
-        {
-          "key": "d",
-          "text": "Entry of the sperms\nFig. 8.3"
-        }
-      ],
+      "section": "Short Answer Questions",
+      "type": "short_answer",
+      "stem": "In the given Figure 8.3 label the parts and mention their functions\n(a) Production of egg\n(b) Site of fertilisation\n(c) Site of implantation\n(d) Entry of the sperms\nFig. 8.3",
+      "options": [],
       "fullText": "In the given Figure 8.3 label the parts and mention their functions\n(a) Production of egg\n(b) Site of fertilisation\n(c) Site of implantation\n(d) Entry of the sperms\nFig. 8.3"
     },
     {
       "qNo": 48,
-      "section": "Subjective Questions",
-      "type": "subjective",
-      "stem": "What would be the ratio of chromosome number between an egg\nand its zygote? How is the sperm genetically different from the egg?\n.QPI #PUYGT 3WGUVKQPU",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
+      "stem": "What would be the ratio of chromosome number between an egg\nand its zygote? How is the sperm genetically different from the egg?",
       "options": [],
-      "fullText": "What would be the ratio of chromosome number between an egg\nand its zygote? How is the sperm genetically different from the egg?\n.QPI #PUYGT 3WGUVKQPU"
+      "fullText": "What would be the ratio of chromosome number between an egg\nand its zygote? How is the sperm genetically different from the egg?"
     },
     {
       "qNo": 49,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Long Answer Questions",
+      "type": "long_answer",
       "stem": "Why are budding, fragmentation and regeneration all considered\nas asexual types of reproduction? With neat diagrams explain the\nprocess of regeneration in Planaria.",
       "options": [],
       "fullText": "Why are budding, fragmentation and regeneration all considered\nas asexual types of reproduction? With neat diagrams explain the\nprocess of regeneration in Planaria."
     },
     {
       "qNo": 50,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Long Answer Questions",
+      "type": "long_answer",
       "stem": "Write two points of difference between asexual and sexual types of\nreproduction. Describe why variations are observed in the offspring\nformed by sexual reproduction.",
       "options": [],
       "fullText": "Write two points of difference between asexual and sexual types of\nreproduction. Describe why variations are observed in the offspring\nformed by sexual reproduction."
     },
     {
       "qNo": 51,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Long Answer Questions",
+      "type": "long_answer",
       "stem": "Distinguish between pollination and fertilisation. Mention the site\nand product of fertilisation in a flower.\nDraw a neat, labelled diagram of a pistil showing pollen tube\ngrowth and its entry into the ovule.",
       "options": [],
       "fullText": "Distinguish between pollination and fertilisation. Mention the site\nand product of fertilisation in a flower.\nDraw a neat, labelled diagram of a pistil showing pollen tube\ngrowth and its entry into the ovule."
     },
     {
       "qNo": 52,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Long Answer Questions",
+      "type": "long_answer",
       "stem": "Distinguish between a gamete and zygote. Explain their roles in\nsexual reproduction.",
       "options": [],
       "fullText": "Distinguish between a gamete and zygote. Explain their roles in\nsexual reproduction."
     },
     {
       "qNo": 53,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Long Answer Questions",
+      "type": "long_answer",
       "stem": "Draw the diagram of a flower and label the four whorls. Write the\nnames of gamete producing organs in the flower.",
       "options": [],
       "fullText": "Draw the diagram of a flower and label the four whorls. Write the\nnames of gamete producing organs in the flower."
     },
     {
       "qNo": 54,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Long Answer Questions",
+      "type": "long_answer",
       "stem": "What is placenta? Mention its role during pregnancy?",
       "options": [],
       "fullText": "What is placenta? Mention its role during pregnancy?"
     },
     {
       "qNo": 55,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Long Answer Questions",
+      "type": "long_answer",
       "stem": "What are various ways to avoid pregnancy? Elaborate any one\nmethod.",
       "options": [],
       "fullText": "What are various ways to avoid pregnancy? Elaborate any one\nmethod."
     },
     {
       "qNo": 56,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Long Answer Questions",
+      "type": "long_answer",
       "stem": "How does fertilisation take place? Fertilisation occurs once in a\nmonth. Comment.",
       "options": [],
       "fullText": "How does fertilisation take place? Fertilisation occurs once in a\nmonth. Comment."
     },
     {
       "qNo": 57,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Long Answer Questions",
+      "type": "long_answer",
       "stem": "Reproduction is essentially a phenomenon that is not for survival\nof an individual but for the stability of a species. Justify.",
       "options": [],
       "fullText": "Reproduction is essentially a phenomenon that is not for survival\nof an individual but for the stability of a species. Justify."
     },
     {
       "qNo": 58,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Long Answer Questions",
+      "type": "long_answer",
       "stem": "Describe sexually transmitted diseases and mention the ways to\nprevent them.\n",
       "options": [],
       "fullText": "Describe sexually transmitted diseases and mention the ways to\nprevent them.\n"

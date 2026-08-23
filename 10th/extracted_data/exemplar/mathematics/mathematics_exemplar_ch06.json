@@ -1,0 +1,663 @@
+{
+  "chapterNumber": 6,
+  "subject": "mathematics",
+  "totalQuestions": 57,
+  "questions": [
+    {
+      "qNo": 1,
+      "exercise": "EXERCISE 6.1",
+      "type": "mcq",
+      "stem": "In Fig. 6.2,  BAC = 90° and AD    BC. Then,\n03/05/18",
+      "options": [
+        {
+          "key": "a",
+          "text": "BD . CD = BC"
+        },
+        {
+          "key": "b",
+          "text": "AB . AC = BC"
+        },
+        {
+          "key": "c",
+          "text": "BD . CD = AD"
+        },
+        {
+          "key": "d",
+          "text": "AB . AC =  AD"
+        }
+      ],
+      "fullText": "In Fig. 6.2,  BAC = 90° and AD    BC. Then,\n03/05/18\n(A)\nBD . CD = BC\n(B)\nAB . AC = BC\n(C)\nBD . CD = AD\n(D)\nAB . AC =  AD"
+    },
+    {
+      "qNo": 2,
+      "exercise": "EXERCISE 6.1",
+      "type": "mcq",
+      "stem": "The lengths of the diagonals of a rhombus are 16 cm and 12 cm. Then, the\nlength of the side of the rhombus is",
+      "options": [
+        {
+          "key": "a",
+          "text": "9 cm"
+        },
+        {
+          "key": "b",
+          "text": "10 cm"
+        },
+        {
+          "key": "c",
+          "text": "8 cm            (D)  20 cm"
+        }
+      ],
+      "fullText": "The lengths of the diagonals of a rhombus are 16 cm and 12 cm. Then, the\nlength of the side of the rhombus is\n(A) 9 cm\n(B) 10 cm\n(C)  8 cm            (D)  20 cm"
+    },
+    {
+      "qNo": 3,
+      "exercise": "EXERCISE 6.1",
+      "type": "mcq",
+      "stem": "If    A B C ~   E D F and    A B C is not similar to   D E F, then which of\nthe following is not true?",
+      "options": [
+        {
+          "key": "a",
+          "text": "BC . EF   = A C. FD"
+        },
+        {
+          "key": "b",
+          "text": "AB . EF = AC . DE"
+        },
+        {
+          "key": "c",
+          "text": "BC . DE = AB . EF"
+        },
+        {
+          "key": "d",
+          "text": "BC . DE = AB . FD"
+        }
+      ],
+      "fullText": "If    A B C ~   E D F and    A B C is not similar to   D E F, then which of\nthe following is not true?\n(A)\nBC . EF   = A C. FD\n(B)\nAB . EF = AC . DE\n(C)\nBC . DE = AB . EF\n(D)\nBC . DE = AB . FD"
+    },
+    {
+      "qNo": 4,
+      "exercise": "EXERCISE 6.1",
+      "type": "mcq",
+      "stem": "If in two triangles ABC and PQR,\nAB\nBC\nCA\n=\n=\n,  then\nQR\nPR\nPQ",
+      "options": [
+        {
+          "key": "a",
+          "text": "PQR ~  CAB"
+        },
+        {
+          "key": "b",
+          "text": "PQR ~  ABC"
+        },
+        {
+          "key": "c",
+          "text": "CBA ~  PQR"
+        },
+        {
+          "key": "d",
+          "text": "BCA ~  PQR"
+        }
+      ],
+      "fullText": "If in two triangles ABC and PQR,\nAB\nBC\nCA\n=\n=\n,  then\nQR\nPR\nPQ\n(A)\nPQR ~  CAB\n(B)\nPQR ~  ABC\n(C)\nCBA ~  PQR\n(D)\nBCA ~  PQR"
+    },
+    {
+      "qNo": 5,
+      "exercise": "EXERCISE 6.1",
+      "type": "mcq",
+      "stem": "In Fig.6.3, two line segments AC and BD intersect each other at the point P\nsuch that  PA = 6 cm, PB = 3 cm, PC = 2.5 cm,  PD = 5 cm,   APB = 50°\nand   CDP = 30°. Then,   PBA is equal to",
+      "options": [
+        {
+          "key": "a",
+          "text": "50°"
+        },
+        {
+          "key": "b",
+          "text": "30°"
+        },
+        {
+          "key": "c",
+          "text": "60°           (D)  100°"
+        }
+      ],
+      "fullText": "In Fig.6.3, two line segments AC and BD intersect each other at the point P\nsuch that  PA = 6 cm, PB = 3 cm, PC = 2.5 cm,  PD = 5 cm,   APB = 50°\nand   CDP = 30°. Then,   PBA is equal to\n(A) 50°\n(B) 30°\n(C)  60°           (D)  100°"
+    },
+    {
+      "qNo": 6,
+      "exercise": "EXERCISE 6.1",
+      "type": "mcq",
+      "stem": "If in two triangles DEF and PQR,  D =  Q and  R =  E, then which of the\nfollowing is not true?",
+      "options": [
+        {
+          "key": "a",
+          "text": "EF\nDF\nPR\nPQ"
+        },
+        {
+          "key": "b",
+          "text": "DE\nEF\nPQ\nRP\n03/05/18"
+        },
+        {
+          "key": "c",
+          "text": "DE\nDF\nQR\nPQ"
+        },
+        {
+          "key": "d",
+          "text": "EF\nDE\nRP\nQR"
+        }
+      ],
+      "fullText": "If in two triangles DEF and PQR,  D =  Q and  R =  E, then which of the\nfollowing is not true?\n(A)\nEF\nDF\nPR\nPQ\n(B)\nDE\nEF\nPQ\nRP\n03/05/18\n(C)\nDE\nDF\nQR\nPQ\n(D)\nEF\nDE\nRP\nQR"
+    },
+    {
+      "qNo": 7,
+      "exercise": "EXERCISE 6.1",
+      "type": "mcq",
+      "stem": "In triangles ABC and DEF,  B =  E,  F =  C and AB = 3 DE. Then, the\ntwo triangles are",
+      "options": [
+        {
+          "key": "a",
+          "text": "congruent but not similar"
+        },
+        {
+          "key": "b",
+          "text": "similar but not congruent"
+        },
+        {
+          "key": "c",
+          "text": "neither congruent nor similar"
+        },
+        {
+          "key": "d",
+          "text": "congruent as well as similar"
+        }
+      ],
+      "fullText": "In triangles ABC and DEF,  B =  E,  F =  C and AB = 3 DE. Then, the\ntwo triangles are\n(A) congruent but not similar\n(B)  similar but not congruent\n(C) neither congruent nor similar\n(D)  congruent as well as similar"
+    },
+    {
+      "qNo": 8,
+      "exercise": "EXERCISE 6.1",
+      "type": "mcq",
+      "stem": "It is given that  ABC ~  PQR, with\nBC\nQR\n. Then,\nar (PRQ)\nar (BCA)  is equal to",
+      "options": [
+        {
+          "key": "a",
+          "text": "9"
+        },
+        {
+          "key": "b",
+          "text": "3"
+        },
+        {
+          "key": "c",
+          "text": "1"
+        },
+        {
+          "key": "d",
+          "text": "1"
+        }
+      ],
+      "fullText": "It is given that  ABC ~  PQR, with\nBC\nQR\n. Then,\nar (PRQ)\nar (BCA)  is equal to\n(A) 9\n(B)   3\n(C)  1\n(D)  1"
+    },
+    {
+      "qNo": 9,
+      "exercise": "EXERCISE 6.1",
+      "type": "mcq",
+      "stem": "It is given that   ABC ~  DFE,  A =30°,  C = 50°,  AB = 5 cm, AC = 8 cm\nand DF= 7.5 cm. Then, the following is true:",
+      "options": [
+        {
+          "key": "a",
+          "text": "DE = 12 cm,  F = 50°"
+        },
+        {
+          "key": "b",
+          "text": "DE = 12 cm,  F = 100°"
+        },
+        {
+          "key": "c",
+          "text": "EF = 12 cm,  D = 100°"
+        },
+        {
+          "key": "d",
+          "text": "EF = 12 cm,  D = 30°"
+        }
+      ],
+      "fullText": "It is given that   ABC ~  DFE,  A =30°,  C = 50°,  AB = 5 cm, AC = 8 cm\nand DF= 7.5 cm. Then, the following is true:\n(A) DE = 12 cm,  F = 50°\n(B)  DE = 12 cm,  F = 100°\n(C) EF = 12 cm,  D = 100°\n(D)  EF = 12 cm,  D = 30°"
+    },
+    {
+      "qNo": 10,
+      "exercise": "EXERCISE 6.1",
+      "type": "mcq",
+      "stem": "If in triangles ABC and DEF, A B\nBC\nDE\nFD\n, then they will be similar, when",
+      "options": [
+        {
+          "key": "a",
+          "text": "B =  E"
+        },
+        {
+          "key": "b",
+          "text": "A =  D"
+        },
+        {
+          "key": "c",
+          "text": "B =  D"
+        },
+        {
+          "key": "d",
+          "text": "A =  F"
+        }
+      ],
+      "fullText": "If in triangles ABC and DEF, A B\nBC\nDE\nFD\n, then they will be similar, when\n(A)  B =  E\n(B)  A =  D\n(C)  B =  D\n(D)\nA =  F"
+    },
+    {
+      "qNo": 11,
+      "exercise": "EXERCISE 6.1",
+      "type": "mcq",
+      "stem": "If   ABC ~   QRP,\nar (A BC)\nar (PQR)\n, AB = 18 cm and BC = 15 cm, then PR\nis equal to",
+      "options": [
+        {
+          "key": "a",
+          "text": "10 cm"
+        },
+        {
+          "key": "b",
+          "text": "12 cm"
+        },
+        {
+          "key": "c",
+          "text": "20 cm"
+        },
+        {
+          "key": "d",
+          "text": "8 cm"
+        }
+      ],
+      "fullText": "If   ABC ~   QRP,\nar (A BC)\nar (PQR)\n, AB = 18 cm and BC = 15 cm, then PR\nis equal to\n(A) 10 cm\n(B)   12 cm\n(C)  20 cm\n(D)  8 cm"
+    },
+    {
+      "qNo": 12,
+      "exercise": "EXERCISE 6.1",
+      "type": "mcq",
+      "stem": "If S is a point on side PQ of a   PQR such that PS = QS = RS, then",
+      "options": [
+        {
+          "key": "a",
+          "text": "PR . QR = RS"
+        },
+        {
+          "key": "b",
+          "text": "QS\n2 + RS\n2 = QR"
+        },
+        {
+          "key": "c",
+          "text": "PR\n2 + QR\n2 = PQ"
+        },
+        {
+          "key": "d",
+          "text": "PS\n2 + RS\n2 = PR\n03/05/18"
+        },
+        {
+          "key": "c",
+          "text": "Short Answer Questions with Reasoning\nSample Question 1:  In   ABC,  AB = 24 cm, BC = 10 cm and AC = 26 cm. Is this\ntriangle a right triangle? Give reasons for your answer.\nSolution :  Here AB\n2 = 576, BC\n2 = 100 and  AC\n2 = 676. So, AC\n2 = AB\n2 + BC\nHence, the given triangle is a right triangle.\nSample Question 2: P and Q are the points on the sides DE and DF of a triangle\nDEF such that DP = 5 cm, DE = 15 cm,  DQ= 6 cm and  QF = 18 cm. Is PQ  EF?\nGive reasons for your answer.\nSolution : Here,\nDP\nDQ\nand\nPE\nQF\nAs\nDP\nDQ\nPE\nQF\n, therefore PQ is not parallel to EF.\nSample Question 3: It is given that   FED ~   STU . Is it true to say that DE\nEF ?\nST\nTU\nWhy?\nSolution : No, because the correct correspondence is  F   S, E   T, D   U.\nWith this correspondence, EF\nDE .\nST\nTU"
+        }
+      ],
+      "fullText": "If S is a point on side PQ of a   PQR such that PS = QS = RS, then\n(A) PR . QR = RS\n(B)  QS\n2 + RS\n2 = QR\n(C) PR\n2 + QR\n2 = PQ\n(D)  PS\n2 + RS\n2 = PR\n03/05/18\n(C) Short Answer Questions with Reasoning\nSample Question 1:  In   ABC,  AB = 24 cm, BC = 10 cm and AC = 26 cm. Is this\ntriangle a right triangle? Give reasons for your answer.\nSolution :  Here AB\n2 = 576, BC\n2 = 100 and  AC\n2 = 676. So, AC\n2 = AB\n2 + BC\nHence, the given triangle is a right triangle.\nSample Question 2: P and Q are the points on the sides DE and DF of a triangle\nDEF such that DP = 5 cm, DE = 15 cm,  DQ= 6 cm and  QF = 18 cm. Is PQ  EF?\nGive reasons for your answer.\nSolution : Here,\nDP\nDQ\nand\nPE\nQF\nAs\nDP\nDQ\nPE\nQF\n, therefore PQ is not parallel to EF.\nSample Question 3: It is given that   FED ~   STU . Is it true to say that DE\nEF ?\nST\nTU\nWhy?\nSolution : No, because the correct correspondence is  F   S, E   T, D   U.\nWith this correspondence, EF\nDE .\nST\nTU"
+    },
+    {
+      "qNo": 1,
+      "exercise": "EXERCISE 6.2",
+      "type": "short_answer",
+      "stem": "Is the triangle with sides 25 cm, 5 cm and 24 cm a right triangle? Give reasons\nfor your answer.",
+      "options": [],
+      "fullText": "Is the triangle with sides 25 cm, 5 cm and 24 cm a right triangle? Give reasons\nfor your answer."
+    },
+    {
+      "qNo": 2,
+      "exercise": "EXERCISE 6.2",
+      "type": "short_answer",
+      "stem": "It is given that   DEF ~   RPQ. Is it true to say that  D =  R and\nF =  P? Why?",
+      "options": [],
+      "fullText": "It is given that   DEF ~   RPQ. Is it true to say that  D =  R and\nF =  P? Why?"
+    },
+    {
+      "qNo": 3,
+      "exercise": "EXERCISE 6.2",
+      "type": "short_answer",
+      "stem": "A and B are respectively the points on the sides PQ and PR of a triangle PQR\n03/05/18\nsuch that PQ = 12.5 cm, PA = 5 cm, BR= 6 cm and PB = 4 cm. Is AB  QR?\nGive reasons for your answer.",
+      "options": [],
+      "fullText": "A and B are respectively the points on the sides PQ and PR of a triangle PQR\n03/05/18\nsuch that PQ = 12.5 cm, PA = 5 cm, BR= 6 cm and PB = 4 cm. Is AB  QR?\nGive reasons for your answer."
+    },
+    {
+      "qNo": 4,
+      "exercise": "EXERCISE 6.2",
+      "type": "short_answer",
+      "stem": "In Fig 6.4, BD and CE intersect each other at the point P. Is    PBC ~  PDE?\nWhy?",
+      "options": [],
+      "fullText": "In Fig 6.4, BD and CE intersect each other at the point P. Is    PBC ~  PDE?\nWhy?"
+    },
+    {
+      "qNo": 5,
+      "exercise": "EXERCISE 6.2",
+      "type": "short_answer",
+      "stem": "In triangles PQR and MST,  P = 55°,  Q = 25°,  M = 100° and\nS = 25°. Is   QPR ~   TSM? Why?",
+      "options": [],
+      "fullText": "In triangles PQR and MST,  P = 55°,  Q = 25°,  M = 100° and\nS = 25°. Is   QPR ~   TSM? Why?"
+    },
+    {
+      "qNo": 6,
+      "exercise": "EXERCISE 6.2",
+      "type": "short_answer",
+      "stem": "Is the following statement true? Why?\n“Two quadrilaterals are similar, if their corresponding angles are equal”.",
+      "options": [],
+      "fullText": "Is the following statement true? Why?\n“Two quadrilaterals are similar, if their corresponding angles are equal”."
+    },
+    {
+      "qNo": 7,
+      "exercise": "EXERCISE 6.2",
+      "type": "short_answer",
+      "stem": "Two sides and the perimeter of one triangle are respectively three times the\ncorresponding sides and the perimeter of the other triangle. Are the two tri-\nangles similar? Why?",
+      "options": [],
+      "fullText": "Two sides and the perimeter of one triangle are respectively three times the\ncorresponding sides and the perimeter of the other triangle. Are the two tri-\nangles similar? Why?"
+    },
+    {
+      "qNo": 8,
+      "exercise": "EXERCISE 6.2",
+      "type": "short_answer",
+      "stem": "If in two right triangles, one of the acute angles of one triangle is equal to an\nacute angle of the other triangle, can you say that the two triangles will be\nsimilar? Why?",
+      "options": [],
+      "fullText": "If in two right triangles, one of the acute angles of one triangle is equal to an\nacute angle of the other triangle, can you say that the two triangles will be\nsimilar? Why?"
+    },
+    {
+      "qNo": 9,
+      "exercise": "EXERCISE 6.2",
+      "type": "short_answer",
+      "stem": "The ratio of the corresponding altitudes of two similar triangles is 3\n5 . Is it\ncorrect to say that ratio of their areas is 6\n5 ? Why?\n03/05/18",
+      "options": [],
+      "fullText": "The ratio of the corresponding altitudes of two similar triangles is 3\n5 . Is it\ncorrect to say that ratio of their areas is 6\n5 ? Why?\n03/05/18"
+    },
+    {
+      "qNo": 10,
+      "exercise": "EXERCISE 6.2",
+      "type": "short_answer",
+      "stem": "D is a point on side QR of  PQR such that PD   QR. Will it be correct to say\nthat  PQD ~  RPD? Why?",
+      "options": [],
+      "fullText": "D is a point on side QR of  PQR such that PD   QR. Will it be correct to say\nthat  PQD ~  RPD? Why?"
+    },
+    {
+      "qNo": 11,
+      "exercise": "EXERCISE 6.2",
+      "type": "short_answer",
+      "stem": "In Fig. 6.5, if   D =  C, then is it true that\nADE ~   ACB? Why?",
+      "options": [],
+      "fullText": "In Fig. 6.5, if   D =  C, then is it true that\nADE ~   ACB? Why?"
+    },
+    {
+      "qNo": 12,
+      "exercise": "EXERCISE 6.2",
+      "type": "short_answer",
+      "stem": "Is it true to say that if in two triangles, an angle of\none triangle is equal to an angle of another triangle\nand two sides of one triangle are proportional to the\ntwo sides of the other triangle, then the triangles\nare similar? Give reasons for your answer.\n(D)\nShort Answer Questions\nSample Question 1: Legs (sides other than the hypotenuse) of a right triangle are of\nlengths 16cm and 8 cm. Find the length of the side of the largest square that can be\ninscribed in the triangle.\nSolution:  Let ABC be a right triangle right angled at  B with AB = 16 cm and BC =\n8 cm. Then, the largest square BRSP which can be inscribed in this triangle will be as\nshown in Fig.6.6.\nLet PB = x cm. So., AP = (16–x) cm. In  APS and  ABC,  A =  A and\nAPS =  ABC (Each 90°)\nSo,  APS ~  ABC (AA similarity)\nTherefore, AP\nPS\nAB\nBC\nor\nx\nx\nor\n128 – 8x = 16x\nor\nx = 128\nThus, the side of the required square is of length 16\n3  cm.\n03/05/18\nSample Question 2: Hypotenuse of a right triangle is 25 cm and out of the remaining\ntwo sides, one is longer than the other by 5 cm. Find the lengths of the other two sides.\nSolution : Let one side be x cm. Then the other side will be (x + 5) cm.\nTherefore, from Pythagoras Theorem\nx\n2 + (x + 5)\n2 = (25)\nor\nx\n2 + x\n2 + 10 x + 25 = 625\nor\nx\n2 + 5 x – 300 = 0\nor\nx\n2 + 20 x – 15 x –300 = 0\nor\nx (x+20) –15 (x +20) = 0\nor\n(x–15) (x +20) = 0\nSo,\nx =15 or  x= –20\nRejecting x = – 20, we have length of one side = 15 cm\nand that of the other side = (15 + 5) cm = 20 cm\nSample Question 3:  In Fig 6.7,\n∠D = ∠E and AD\nAE\nDB\nEC\n=\n. Prove  that BAC is an\nisosceles triangle.\nSolution : AD\nAE\nDB\nEC\n=\n(Given)\nTherefore, DE  BC (Converse of Basic Proportionality Theorem)\nSo, ∠D = ∠B and ∠E = ∠C (Corresponding angles)    (1)\nBut ∠D = ∠E (Given)\nTherefore, ∠B = ∠C [ From (1)]\nSo, AB = AC (Sides opposite to equal angles)\ni.e., BAC is an isosceles triangle.",
+      "options": [],
+      "fullText": "Is it true to say that if in two triangles, an angle of\none triangle is equal to an angle of another triangle\nand two sides of one triangle are proportional to the\ntwo sides of the other triangle, then the triangles\nare similar? Give reasons for your answer.\n(D)\nShort Answer Questions\nSample Question 1: Legs (sides other than the hypotenuse) of a right triangle are of\nlengths 16cm and 8 cm. Find the length of the side of the largest square that can be\ninscribed in the triangle.\nSolution:  Let ABC be a right triangle right angled at  B with AB = 16 cm and BC =\n8 cm. Then, the largest square BRSP which can be inscribed in this triangle will be as\nshown in Fig.6.6.\nLet PB = x cm. So., AP = (16–x) cm. In  APS and  ABC,  A =  A and\nAPS =  ABC (Each 90°)\nSo,  APS ~  ABC (AA similarity)\nTherefore, AP\nPS\nAB\nBC\nor\nx\nx\nor\n128 – 8x = 16x\nor\nx = 128\nThus, the side of the required square is of length 16\n3  cm.\n03/05/18\nSample Question 2: Hypotenuse of a right triangle is 25 cm and out of the remaining\ntwo sides, one is longer than the other by 5 cm. Find the lengths of the other two sides.\nSolution : Let one side be x cm. Then the other side will be (x + 5) cm.\nTherefore, from Pythagoras Theorem\nx\n2 + (x + 5)\n2 = (25)\nor\nx\n2 + x\n2 + 10 x + 25 = 625\nor\nx\n2 + 5 x – 300 = 0\nor\nx\n2 + 20 x – 15 x –300 = 0\nor\nx (x+20) –15 (x +20) = 0\nor\n(x–15) (x +20) = 0\nSo,\nx =15 or  x= –20\nRejecting x = – 20, we have length of one side = 15 cm\nand that of the other side = (15 + 5) cm = 20 cm\nSample Question 3:  In Fig 6.7,\n∠D = ∠E and AD\nAE\nDB\nEC\n=\n. Prove  that BAC is an\nisosceles triangle.\nSolution : AD\nAE\nDB\nEC\n=\n(Given)\nTherefore, DE  BC (Converse of Basic Proportionality Theorem)\nSo, ∠D = ∠B and ∠E = ∠C (Corresponding angles)    (1)\nBut ∠D = ∠E (Given)\nTherefore, ∠B = ∠C [ From (1)]\nSo, AB = AC (Sides opposite to equal angles)\ni.e., BAC is an isosceles triangle."
+    },
+    {
+      "qNo": 1,
+      "exercise": "EXERCISE 6.3",
+      "type": "short_answer",
+      "stem": "In a ∆ PQR, PR\n2–PQ\n2 = QR\n2  and M is a point on side PR such that QM ⊥ PR.\nProve that\n03/05/18\nQM\n2 = PM × MR.",
+      "options": [],
+      "fullText": "In a ∆ PQR, PR\n2–PQ\n2 = QR\n2  and M is a point on side PR such that QM ⊥ PR.\nProve that\n03/05/18\nQM\n2 = PM × MR."
+    },
+    {
+      "qNo": 2,
+      "exercise": "EXERCISE 6.3",
+      "type": "short_answer",
+      "stem": "Find the value of x for which DE  AB in Fig. 6.8.",
+      "options": [],
+      "fullText": "Find the value of x for which DE  AB in Fig. 6.8."
+    },
+    {
+      "qNo": 3,
+      "exercise": "EXERCISE 6.3",
+      "type": "short_answer",
+      "stem": "In Fig. 6.9, if  1 = 2 and   NSQ     MTR, then prove that\nPTS ~   PRQ.",
+      "options": [],
+      "fullText": "In Fig. 6.9, if  1 = 2 and   NSQ     MTR, then prove that\nPTS ~   PRQ."
+    },
+    {
+      "qNo": 4,
+      "exercise": "EXERCISE 6.3",
+      "type": "short_answer",
+      "stem": "Diagonals of a trapezium PQRS intersect each other at the point O, PQ  RS\nand PQ = 3 RS. Find the ratio of the areas of triangles POQ and ROS.",
+      "options": [],
+      "fullText": "Diagonals of a trapezium PQRS intersect each other at the point O, PQ  RS\nand PQ = 3 RS. Find the ratio of the areas of triangles POQ and ROS."
+    },
+    {
+      "qNo": 5,
+      "exercise": "EXERCISE 6.3",
+      "type": "short_answer",
+      "stem": "In Fig. 6.10, if AB  DC and AC and PQ intersect each other at the point O, prove\nthat OA . CQ  = OC . AP.\n03/05/18",
+      "options": [],
+      "fullText": "In Fig. 6.10, if AB  DC and AC and PQ intersect each other at the point O, prove\nthat OA . CQ  = OC . AP.\n03/05/18"
+    },
+    {
+      "qNo": 6,
+      "exercise": "EXERCISE 6.3",
+      "type": "short_answer",
+      "stem": "Find the altitude of an equilateral triangle of side 8 cm.",
+      "options": [],
+      "fullText": "Find the altitude of an equilateral triangle of side 8 cm."
+    },
+    {
+      "qNo": 7,
+      "exercise": "EXERCISE 6.3",
+      "type": "short_answer",
+      "stem": "If ∆ ABC ~ ∆ DEF,  AB = 4 cm, DE = 6 cm, EF = 9 cm and FD = 12 cm,\nfind the perimeter of ∆ ABC.",
+      "options": [],
+      "fullText": "If ∆ ABC ~ ∆ DEF,  AB = 4 cm, DE = 6 cm, EF = 9 cm and FD = 12 cm,\nfind the perimeter of ∆ ABC."
+    },
+    {
+      "qNo": 8,
+      "exercise": "EXERCISE 6.3",
+      "type": "short_answer",
+      "stem": "In Fig. 6.11,  if DE  BC, find the ratio of ar (ADE) and ar (DECB).",
+      "options": [],
+      "fullText": "In Fig. 6.11,  if DE  BC, find the ratio of ar (ADE) and ar (DECB)."
+    },
+    {
+      "qNo": 9,
+      "exercise": "EXERCISE 6.3",
+      "type": "short_answer",
+      "stem": "ABCD is a trapezium in which AB  DC and P and Q are points on AD\nand BC, respectively such that PQ  DC. If PD = 18 cm, BQ = 35 cm and\nQC = 15 cm, find AD.",
+      "options": [],
+      "fullText": "ABCD is a trapezium in which AB  DC and P and Q are points on AD\nand BC, respectively such that PQ  DC. If PD = 18 cm, BQ = 35 cm and\nQC = 15 cm, find AD."
+    },
+    {
+      "qNo": 10,
+      "exercise": "EXERCISE 6.3",
+      "type": "short_answer",
+      "stem": "Corresponding sides of two similar triangles are in the ratio of 2 : 3. If the area\nof the smaller triangle is 48 cm\n2,  find the area of the larger triangle.",
+      "options": [],
+      "fullText": "Corresponding sides of two similar triangles are in the ratio of 2 : 3. If the area\nof the smaller triangle is 48 cm\n2,  find the area of the larger triangle."
+    },
+    {
+      "qNo": 11,
+      "exercise": "EXERCISE 6.3",
+      "type": "short_answer",
+      "stem": "In a triangle PQR, N is a point on PR such that Q N ⊥ PR . If PN. NR = QN\n2,\nprove that ∠PQR = 90° .\n03/05/18",
+      "options": [],
+      "fullText": "In a triangle PQR, N is a point on PR such that Q N ⊥ PR . If PN. NR = QN\n2,\nprove that ∠PQR = 90° .\n03/05/18"
+    },
+    {
+      "qNo": 12,
+      "exercise": "EXERCISE 6.3",
+      "type": "short_answer",
+      "stem": "of the larger triangle is 20 cm, find the length of the corresponding side of the\nsmaller triangle.",
+      "options": [],
+      "fullText": "of the larger triangle is 20 cm, find the length of the corresponding side of the\nsmaller triangle."
+    },
+    {
+      "qNo": 13,
+      "exercise": "EXERCISE 6.3",
+      "type": "short_answer",
+      "stem": "In Fig. 6.12,  if ∠ACB = ∠CDA, AC = 8 cm and AD = 3 cm, find BD.",
+      "options": [],
+      "fullText": "In Fig. 6.12,  if ∠ACB = ∠CDA, AC = 8 cm and AD = 3 cm, find BD."
+    },
+    {
+      "qNo": 14,
+      "exercise": "EXERCISE 6.3",
+      "type": "short_answer",
+      "stem": "A 15 metres high tower casts a shadow 24 metres long at a certain time and\nat the same time, a telephone pole casts a shadow 16 metres long. Find the\nheight of the telephone pole.",
+      "options": [],
+      "fullText": "A 15 metres high tower casts a shadow 24 metres long at a certain time and\nat the same time, a telephone pole casts a shadow 16 metres long. Find the\nheight of the telephone pole."
+    },
+    {
+      "qNo": 15,
+      "exercise": "EXERCISE 6.3",
+      "type": "short_answer",
+      "stem": "Foot of a 10 m long ladder leaning against a vertical wall is 6 m away from\nthe base of the wall. Find the height of the point on the wall where the top of\nthe ladder reaches.\n(E) Long Answer Questions\nSample Question 1:  In Fig 6.13,  OB is the perpendicular bisector of the line\nsegment DE, FA ⊥ OB and F E intersects OB at the point C. Prove that\nOA\nOB\nOC\n+\n=\n.\nSolution: In ∆ AOF and ∆ BOD.\n∠O = ∠O (Same angle) and ∠A = ∠B (each 90°)\nTherefore, ∆ AOF ~ ∆ BOD (AA similarity)\nSo,\nOA\nFA\nOB\nDB\n=\n(1)\n03/05/18\nAlso, in ∆ FAC and ∆ EBC, ∠A = ∠B (Each 90°)\nand ∠FCA = ∠ECB (Vertically opposite angles).\nTherefore, ∆ FAC ~ ∆ EBC (AA similarity).\nSo,\nFA\nAC\nEB\nBC\n=\nBut EB = DB (B is mid-point of DE)\nSo,\nFA\nAC\nDB\nBC\n=\n(2)\nTherefore, from (1) and (2), we have:\nAC\nOA\nBC\nOB\n=\ni.e.,\nOC–OA\nOA\nOB–OC\nOB\n=\nor\nOB . OC – OA . OB = OA . OB – OA . OC\nor\nOB . OC + OA . OC = 2 OA . OB\nor\n(OB + OA). OC = 2 OA . OB\nor\nOA\nOB\nOC\n+\n=\n[ Dividing both the sides by OA . OB . OC]\nSample Question 2: Prove that if in a triangle square on one side is equal to the sum\nof  the squares on the other two sides, then the angle opposite the first side is a right\nangle.\nSolution: See proof of Theorem 6.9 of Mathematics Textbook for Class X.\n03/05/18\nSample Question 3: An aeroplane leaves an Airport and flies due North at\n300 km/h. At the same time, another aeroplane leaves the same Airport and flies due\nWest at 400 km/h. How far apart the two aeroplanes would be after 1\n12  hours?\nSolution: Distance travelled by first aeroplane in 1\n12  hours = 300 × 3\n2  km = 450 km\nand that by second aeroplane = 400 × 3 km\n600 km\n=\nPosition of the two aeroplanes after 1\n12  hours would be A and B as shown in Fig. 6.14.\nThat is, OA = 450 km and OB = 600 km.\nFrom ∆ AOB, we have\nAB2 = OA2 + OB2\nor\nAB2\n= (450)2 + (600)2\n= (150)2 × 32 + (150)2 × 42\n= 1502  (32 + 42)\n= 1502 × 52\nor\nAB = 150 × 5 = 750\nThus, the two aeroplanes will be 750 km apart  after 1\n12  hours.\nSample Question 4: In Fig. 6.15, if  ∆ ABC ~ ∆ DEF and their sides are of lengths\n(in cm) as marked along them, then find the lengths of the sides of each triangle.\n03/05/18\nSolution:  ∆ ABC ~ ∆ DEF (Given)\nTherefore, AB\nBC\nCA\nDE\nEF\nFD\n=\n=\nSo,\nx\nx\nx\nx\nx\n−\n+\n=\n=\n+\nNow, taking 2\nx\nx\nx\n−=\n, we have\nx −=\nor\n4 x – 2 = 18\nor\nx = 5\nTherefore, AB = 2 × 5 –1= 9, BC = 2 × 5 + 2 = 12,\nCA = 3 × 5 = 15, DE = 18, EF = 3× 5 + 9 = 24 and FD =  6 × 5 = 30\nHence, AB = 9 cm,  BC = 12 cm, CA = 15 cm,\nDE = 18 cm, EF = 24 cm and FD = 30 cm.\n03/05/18",
+      "options": [],
+      "fullText": "Foot of a 10 m long ladder leaning against a vertical wall is 6 m away from\nthe base of the wall. Find the height of the point on the wall where the top of\nthe ladder reaches.\n(E) Long Answer Questions\nSample Question 1:  In Fig 6.13,  OB is the perpendicular bisector of the line\nsegment DE, FA ⊥ OB and F E intersects OB at the point C. Prove that\nOA\nOB\nOC\n+\n=\n.\nSolution: In ∆ AOF and ∆ BOD.\n∠O = ∠O (Same angle) and ∠A = ∠B (each 90°)\nTherefore, ∆ AOF ~ ∆ BOD (AA similarity)\nSo,\nOA\nFA\nOB\nDB\n=\n(1)\n03/05/18\nAlso, in ∆ FAC and ∆ EBC, ∠A = ∠B (Each 90°)\nand ∠FCA = ∠ECB (Vertically opposite angles).\nTherefore, ∆ FAC ~ ∆ EBC (AA similarity).\nSo,\nFA\nAC\nEB\nBC\n=\nBut EB = DB (B is mid-point of DE)\nSo,\nFA\nAC\nDB\nBC\n=\n(2)\nTherefore, from (1) and (2), we have:\nAC\nOA\nBC\nOB\n=\ni.e.,\nOC–OA\nOA\nOB–OC\nOB\n=\nor\nOB . OC – OA . OB = OA . OB – OA . OC\nor\nOB . OC + OA . OC = 2 OA . OB\nor\n(OB + OA). OC = 2 OA . OB\nor\nOA\nOB\nOC\n+\n=\n[ Dividing both the sides by OA . OB . OC]\nSample Question 2: Prove that if in a triangle square on one side is equal to the sum\nof  the squares on the other two sides, then the angle opposite the first side is a right\nangle.\nSolution: See proof of Theorem 6.9 of Mathematics Textbook for Class X.\n03/05/18\nSample Question 3: An aeroplane leaves an Airport and flies due North at\n300 km/h. At the same time, another aeroplane leaves the same Airport and flies due\nWest at 400 km/h. How far apart the two aeroplanes would be after 1\n12  hours?\nSolution: Distance travelled by first aeroplane in 1\n12  hours = 300 × 3\n2  km = 450 km\nand that by second aeroplane = 400 × 3 km\n600 km\n=\nPosition of the two aeroplanes after 1\n12  hours would be A and B as shown in Fig. 6.14.\nThat is, OA = 450 km and OB = 600 km.\nFrom ∆ AOB, we have\nAB2 = OA2 + OB2\nor\nAB2\n= (450)2 + (600)2\n= (150)2 × 32 + (150)2 × 42\n= 1502  (32 + 42)\n= 1502 × 52\nor\nAB = 150 × 5 = 750\nThus, the two aeroplanes will be 750 km apart  after 1\n12  hours.\nSample Question 4: In Fig. 6.15, if  ∆ ABC ~ ∆ DEF and their sides are of lengths\n(in cm) as marked along them, then find the lengths of the sides of each triangle.\n03/05/18\nSolution:  ∆ ABC ~ ∆ DEF (Given)\nTherefore, AB\nBC\nCA\nDE\nEF\nFD\n=\n=\nSo,\nx\nx\nx\nx\nx\n−\n+\n=\n=\n+\nNow, taking 2\nx\nx\nx\n−=\n, we have\nx −=\nor\n4 x – 2 = 18\nor\nx = 5\nTherefore, AB = 2 × 5 –1= 9, BC = 2 × 5 + 2 = 12,\nCA = 3 × 5 = 15, DE = 18, EF = 3× 5 + 9 = 24 and FD =  6 × 5 = 30\nHence, AB = 9 cm,  BC = 12 cm, CA = 15 cm,\nDE = 18 cm, EF = 24 cm and FD = 30 cm.\n03/05/18"
+    },
+    {
+      "qNo": 1,
+      "exercise": "EXERCISE 6.4",
+      "type": "long_answer",
+      "stem": "In Fig. 6.16, if ∠A = ∠C, AB = 6 cm, BP = 15 cm,\nAP = 12 cm and CP = 4 cm, then find the lengths of PD\nand CD.",
+      "options": [],
+      "fullText": "In Fig. 6.16, if ∠A = ∠C, AB = 6 cm, BP = 15 cm,\nAP = 12 cm and CP = 4 cm, then find the lengths of PD\nand CD."
+    },
+    {
+      "qNo": 2,
+      "exercise": "EXERCISE 6.4",
+      "type": "long_answer",
+      "stem": "It is given that ∆ ABC ~ ∆ EDF such that AB = 5 cm,\nAC = 7 cm, DF= 15 cm and DE = 12 cm. Find the lengths\nof the remaining sides of the triangles.",
+      "options": [],
+      "fullText": "It is given that ∆ ABC ~ ∆ EDF such that AB = 5 cm,\nAC = 7 cm, DF= 15 cm and DE = 12 cm. Find the lengths\nof the remaining sides of the triangles."
+    },
+    {
+      "qNo": 3,
+      "exercise": "EXERCISE 6.4",
+      "type": "long_answer",
+      "stem": "Prove that if a line is drawn parallel to one side of a triangle to intersect the other\ntwo sides, then the two sides are divided in the same ratio.",
+      "options": [],
+      "fullText": "Prove that if a line is drawn parallel to one side of a triangle to intersect the other\ntwo sides, then the two sides are divided in the same ratio."
+    },
+    {
+      "qNo": 4,
+      "exercise": "EXERCISE 6.4",
+      "type": "long_answer",
+      "stem": "In Fig 6.17, if PQRS is a parallelogram and AB  PS, then prove that OC  SR.",
+      "options": [],
+      "fullText": "In Fig 6.17, if PQRS is a parallelogram and AB  PS, then prove that OC  SR."
+    },
+    {
+      "qNo": 5,
+      "exercise": "EXERCISE 6.4",
+      "type": "long_answer",
+      "stem": "A 5 m long ladder is placed leaning towards a vertical wall such that it reaches\nthe wall at a point 4 m high. If the foot of the ladder is moved 1.6 m towards the\nwall, then find the distance by which the top of the ladder would slide upwards\non the wall.",
+      "options": [],
+      "fullText": "A 5 m long ladder is placed leaning towards a vertical wall such that it reaches\nthe wall at a point 4 m high. If the foot of the ladder is moved 1.6 m towards the\nwall, then find the distance by which the top of the ladder would slide upwards\non the wall."
+    },
+    {
+      "qNo": 6,
+      "exercise": "EXERCISE 6.4",
+      "type": "long_answer",
+      "stem": "For going to a city B from city A, there is a route via city C such that AC⊥CB,\nAC = 2 x km and CB = 2 (x + 7) km. It is proposed to construct a 26 km highway\nwhich directly connects the two cities A and B. Find how much distance will be\nsaved in reaching city B from city A after the construction of the highway.\n03/05/18",
+      "options": [],
+      "fullText": "For going to a city B from city A, there is a route via city C such that AC⊥CB,\nAC = 2 x km and CB = 2 (x + 7) km. It is proposed to construct a 26 km highway\nwhich directly connects the two cities A and B. Find how much distance will be\nsaved in reaching city B from city A after the construction of the highway.\n03/05/18"
+    },
+    {
+      "qNo": 7,
+      "exercise": "EXERCISE 6.4",
+      "type": "long_answer",
+      "stem": "A flag pole 18 m high casts a shadow 9.6 m long. Find the distance of the top of\nthe pole from the far end of the shadow.",
+      "options": [],
+      "fullText": "A flag pole 18 m high casts a shadow 9.6 m long. Find the distance of the top of\nthe pole from the far end of the shadow."
+    },
+    {
+      "qNo": 8,
+      "exercise": "EXERCISE 6.4",
+      "type": "long_answer",
+      "stem": "A street light bulb is fixed on a pole 6 m above the level of the street. If a woman\nof height 1.5 m  casts a shadow of 3m, find how far she is away from the base\nof the pole.",
+      "options": [],
+      "fullText": "A street light bulb is fixed on a pole 6 m above the level of the street. If a woman\nof height 1.5 m  casts a shadow of 3m, find how far she is away from the base\nof the pole."
+    },
+    {
+      "qNo": 9,
+      "exercise": "EXERCISE 6.4",
+      "type": "long_answer",
+      "stem": "In Fig. 6.18,  ABC is a triangle right angled at B and BD ⊥ AC. If AD = 4 cm,\nand CD = 5 cm, find BD and AB.",
+      "options": [],
+      "fullText": "In Fig. 6.18,  ABC is a triangle right angled at B and BD ⊥ AC. If AD = 4 cm,\nand CD = 5 cm, find BD and AB."
+    },
+    {
+      "qNo": 10,
+      "exercise": "EXERCISE 6.4",
+      "type": "long_answer",
+      "stem": "In Fig. 6.19,  PQR is a right triangle right angled at Q and  QS ⊥ PR . If\nPQ = 6 cm and PS = 4 cm, find QS, RS and QR.",
+      "options": [],
+      "fullText": "In Fig. 6.19,  PQR is a right triangle right angled at Q and  QS ⊥ PR . If\nPQ = 6 cm and PS = 4 cm, find QS, RS and QR."
+    },
+    {
+      "qNo": 11,
+      "exercise": "EXERCISE 6.4",
+      "type": "long_answer",
+      "stem": "In ∆ PQR, PD ⊥ QR such that D lies on QR . If PQ = a, PR = b, QD = c and\nDR = d, prove that (a + b) (a – b) = (c + d) (c – d).",
+      "options": [],
+      "fullText": "In ∆ PQR, PD ⊥ QR such that D lies on QR . If PQ = a, PR = b, QD = c and\nDR = d, prove that (a + b) (a – b) = (c + d) (c – d)."
+    },
+    {
+      "qNo": 12,
+      "exercise": "EXERCISE 6.4",
+      "type": "long_answer",
+      "stem": "In a quadrilateral ABCD, ∠A + ∠D = 90°. Prove that AC\n2 + BD\n2 = AD\n2 + BC\n[Hint: Produce AB and DC to meet at E.]\n03/05/18",
+      "options": [],
+      "fullText": "In a quadrilateral ABCD, ∠A + ∠D = 90°. Prove that AC\n2 + BD\n2 = AD\n2 + BC\n[Hint: Produce AB and DC to meet at E.]\n03/05/18"
+    },
+    {
+      "qNo": 13,
+      "exercise": "EXERCISE 6.4",
+      "type": "long_answer",
+      "stem": "In fig. 6.20, l    m and line segments AB, CD and EF are concurrent at point P.\nProve that AE\nAC\nCE\nBF\nBD\nFD\n=\n=\n.",
+      "options": [],
+      "fullText": "In fig. 6.20, l    m and line segments AB, CD and EF are concurrent at point P.\nProve that AE\nAC\nCE\nBF\nBD\nFD\n=\n=\n."
+    },
+    {
+      "qNo": 14,
+      "exercise": "EXERCISE 6.4",
+      "type": "long_answer",
+      "stem": "In Fig. 6.21, PA, QB, RC and SD are all perpendiculars to a line l, AB = 6 cm,\nBC = 9 cm, CD = 12 cm and SP = 36 cm. Find PQ, QR and RS.",
+      "options": [],
+      "fullText": "In Fig. 6.21, PA, QB, RC and SD are all perpendiculars to a line l, AB = 6 cm,\nBC = 9 cm, CD = 12 cm and SP = 36 cm. Find PQ, QR and RS."
+    },
+    {
+      "qNo": 15,
+      "exercise": "EXERCISE 6.4",
+      "type": "long_answer",
+      "stem": "O is the point of intersection of the diagonals AC and BD of a trapezium ABCD\nwith AB  DC. Through O, a line segment PQ is drawn parallel to AB meeting\nAD in P and BC in Q. Prove that PO = QO.",
+      "options": [],
+      "fullText": "O is the point of intersection of the diagonals AC and BD of a trapezium ABCD\nwith AB  DC. Through O, a line segment PQ is drawn parallel to AB meeting\nAD in P and BC in Q. Prove that PO = QO."
+    },
+    {
+      "qNo": 16,
+      "exercise": "EXERCISE 6.4",
+      "type": "long_answer",
+      "stem": "In Fig. 6.22, line segment DF intersect the side AC of a triangle ABC at the\npoint E such that E is the mid-point of CA and ∠AEF = ∠AFE . Prove that\nBD\nBF\nCD\nCE\n=\n.\n[Hint: Take point G on AB such that CG  DF.]\n03/05/18",
+      "options": [],
+      "fullText": "In Fig. 6.22, line segment DF intersect the side AC of a triangle ABC at the\npoint E such that E is the mid-point of CA and ∠AEF = ∠AFE . Prove that\nBD\nBF\nCD\nCE\n=\n.\n[Hint: Take point G on AB such that CG  DF.]\n03/05/18"
+    },
+    {
+      "qNo": 17,
+      "exercise": "EXERCISE 6.4",
+      "type": "long_answer",
+      "stem": "Prove that the area of the semicircle drawn on the hypotenuse of a right angled\ntriangle is equal to the sum of the areas of the semicircles drawn on the other\ntwo sides of the triangle.",
+      "options": [],
+      "fullText": "Prove that the area of the semicircle drawn on the hypotenuse of a right angled\ntriangle is equal to the sum of the areas of the semicircles drawn on the other\ntwo sides of the triangle."
+    },
+    {
+      "qNo": 18,
+      "exercise": "EXERCISE 6.4",
+      "type": "long_answer",
+      "stem": "Prove that the area of the equilateral triangle drawn on the hypotenuse of a right\nangled triangle is equal to the sum of the areas of the equilateral triangles drawn\non the other two sides of the triangle.\n03/05/18",
+      "options": [],
+      "fullText": "Prove that the area of the equilateral triangle drawn on the hypotenuse of a right\nangled triangle is equal to the sum of the areas of the equilateral triangles drawn\non the other two sides of the triangle.\n03/05/18"
+    }
+  ]
+}

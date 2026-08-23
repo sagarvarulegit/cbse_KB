@@ -232,15 +232,19 @@
       "options": [
         {
           "key": "a",
-          "text": ""
+          "text": "[Diagram / Visual Option]"
         },
         {
           "key": "b",
-          "text": ""
+          "text": "[Diagram / Visual Option]"
         },
         {
           "key": "c",
-          "text": "(d)"
+          "text": "[Diagram / Visual Option]"
+        },
+        {
+          "key": "d",
+          "text": "[Diagram / Visual Option]"
         }
       ],
       "fullText": "Which of the following is the correct representation of electron\ndot structure of nitrogen?\n(a)\n(b)\n(c)\n(d)"
@@ -261,7 +265,11 @@
         },
         {
           "key": "c",
-          "text": "(d)"
+          "text": "[Diagram / Visual Option]"
+        },
+        {
+          "key": "d",
+          "text": "[Diagram / Visual Option]"
         }
       ],
       "fullText": "Structural formula of ethyne is\n(a) H – C\nC – H\n≡\n(b)\nH – C\nC – H\n≡\n(c)\n(d)"
@@ -374,15 +382,19 @@
       "options": [
         {
           "key": "a",
-          "text": ""
+          "text": "[Diagram / Visual Option]"
         },
         {
           "key": "b",
-          "text": ""
+          "text": "[Diagram / Visual Option]"
         },
         {
           "key": "c",
-          "text": "(d)"
+          "text": "[Diagram / Visual Option]"
+        },
+        {
+          "key": "d",
+          "text": "[Diagram / Visual Option]"
         }
       ],
       "fullText": "Structural formula of benzene is\n(a)\n(b)\n(c)\n(d)"
@@ -420,15 +432,19 @@
       "options": [
         {
           "key": "a",
-          "text": ""
+          "text": "[Diagram / Visual Option]"
         },
         {
           "key": "b",
-          "text": ""
+          "text": "[Diagram / Visual Option]"
         },
         {
           "key": "c",
-          "text": "(d)"
+          "text": "[Diagram / Visual Option]"
+        },
+        {
+          "key": "d",
+          "text": "[Diagram / Visual Option]"
         }
       ],
       "fullText": "The correct structural formula of butanoic acid is\n(a)\n(b)\n(c)\n(d)"
@@ -516,15 +532,19 @@
       "options": [
         {
           "key": "a",
-          "text": ""
+          "text": "[Diagram / Visual Option]"
         },
         {
           "key": "b",
-          "text": ""
+          "text": "[Diagram / Visual Option]"
         },
         {
           "key": "c",
-          "text": "(d)"
+          "text": "[Diagram / Visual Option]"
+        },
+        {
+          "key": "d",
+          "text": "[Diagram / Visual Option]"
         }
       ],
       "fullText": "The correct electron dot structure of a water molecule is\n(a)\n(b)\n(c)\n(d)"
@@ -537,15 +557,19 @@
       "options": [
         {
           "key": "a",
-          "text": ""
+          "text": "[Diagram / Visual Option]"
         },
         {
           "key": "b",
-          "text": ""
+          "text": "[Diagram / Visual Option]"
         },
         {
           "key": "c",
-          "text": "(d)"
+          "text": "[Diagram / Visual Option]"
+        },
+        {
+          "key": "d",
+          "text": "[Diagram / Visual Option]"
         }
       ],
       "fullText": "Which of the following is not a straight chain hydrocarbon?\n(a)\n(b)\n(c)\n(d)"
@@ -695,374 +719,231 @@
         },
         {
           "key": "d",
-          "text": "methane\n5JQTV #PUYGT 3WGUVKQPU"
+          "text": "methane"
         }
       ],
-      "fullText": "The first member of alkyne homologous series is\n(a) ethyne\n(b) ethene\n(c) propyne\n(d) methane\n5JQTV #PUYGT 3WGUVKQPU"
+      "fullText": "The first member of alkyne homologous series is\n(a) ethyne\n(b) ethene\n(c) propyne\n(d) methane"
     },
     {
       "qNo": 30,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "Draw the electron dot structure of ethyne and also draw its\nstructural formula",
       "options": [],
       "fullText": "Draw the electron dot structure of ethyne and also draw its\nstructural formula"
     },
     {
       "qNo": 31,
-      "section": "Multiple Choice Questions",
-      "type": "mcq",
-      "stem": "Write the names of the following compounds",
-      "options": [
-        {
-          "key": "a",
-          "text": ""
-        },
-        {
-          "key": "b",
-          "text": ""
-        },
-        {
-          "key": "c",
-          "text": "(d)"
-        }
-      ],
+      "section": "Short Answer Questions",
+      "type": "short_answer",
+      "stem": "Write the names of the following compounds\n(a)\n(b)\n(c)\n(d)",
+      "options": [],
       "fullText": "Write the names of the following compounds\n(a)\n(b)\n(c)\n(d)"
     },
     {
       "qNo": 32,
-      "section": "Multiple Choice Questions",
-      "type": "mcq",
-      "stem": "Identify and name the functional groups present in the following\ncompounds.",
-      "options": [
-        {
-          "key": "a",
-          "text": ""
-        },
-        {
-          "key": "b",
-          "text": ""
-        },
-        {
-          "key": "c",
-          "text": "(d)"
-        }
-      ],
+      "section": "Short Answer Questions",
+      "type": "short_answer",
+      "stem": "Identify and name the functional groups present in the following\ncompounds.\n(a)\n(b)\n(c)\n(d)",
+      "options": [],
       "fullText": "Identify and name the functional groups present in the following\ncompounds.\n(a)\n(b)\n(c)\n(d)"
     },
     {
       "qNo": 33,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "A compound X is formed by the reaction of a carboxylic acid\nC2H4O2 and an alcohol in presence of a few drops of H2SO4. The\nalcohol on oxidation with alkaline KMnO4 followed by acidification\ngives the same carboxylic acid as used in this reaction. Give the\nnames and structures of (a) carboxylic acid, (b) alcohol and (c)\nthe compound X. Also write the reaction.",
       "options": [],
       "fullText": "A compound X is formed by the reaction of a carboxylic acid\nC2H4O2 and an alcohol in presence of a few drops of H2SO4. The\nalcohol on oxidation with alkaline KMnO4 followed by acidification\ngives the same carboxylic acid as used in this reaction. Give the\nnames and structures of (a) carboxylic acid, (b) alcohol and (c)\nthe compound X. Also write the reaction."
     },
     {
       "qNo": 34,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "Why detergents are better cleansing agents than soaps? Explain.",
       "options": [],
       "fullText": "Why detergents are better cleansing agents than soaps? Explain."
     },
     {
       "qNo": 35,
-      "section": "Multiple Choice Questions",
-      "type": "mcq",
-      "stem": "Name the functional groups present in the following compounds",
-      "options": [
-        {
-          "key": "a",
-          "text": "CH3 CO CH2 CH2 CH2 CH3"
-        },
-        {
-          "key": "b",
-          "text": "CH3 CH2 CH2 COOH"
-        },
-        {
-          "key": "c",
-          "text": "CH3  CH2  CH2 CH2 CHO"
-        },
-        {
-          "key": "d",
-          "text": "CH3  CH2  OH"
-        }
-      ],
+      "section": "Short Answer Questions",
+      "type": "short_answer",
+      "stem": "Name the functional groups present in the following compounds\n(a) CH3 CO CH2 CH2 CH2 CH3\n(b) CH3 CH2 CH2 COOH\n(c) CH3  CH2  CH2 CH2 CHO\n(d) CH3  CH2  OH",
+      "options": [],
       "fullText": "Name the functional groups present in the following compounds\n(a) CH3 CO CH2 CH2 CH2 CH3\n(b) CH3 CH2 CH2 COOH\n(c) CH3  CH2  CH2 CH2 CHO\n(d) CH3  CH2  OH"
     },
     {
       "qNo": 36,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "How is ethene prepared from ethanol? Give the reaction\ninvolved in it.",
       "options": [],
       "fullText": "How is ethene prepared from ethanol? Give the reaction\ninvolved in it."
     },
     {
       "qNo": 37,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "Intake of small quantity of methanol can be lethal. Comment.",
       "options": [],
       "fullText": "Intake of small quantity of methanol can be lethal. Comment."
     },
     {
       "qNo": 38,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "A gas is evolved when ethanol reacts with sodium. Name the gas\nevolved and also write the balanced chemical equation of  the reaction\ninvolved.",
       "options": [],
       "fullText": "A gas is evolved when ethanol reacts with sodium. Name the gas\nevolved and also write the balanced chemical equation of  the reaction\ninvolved."
     },
     {
       "qNo": 39,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "Ethene is formed when ethanol at 443 K is heated with excess of\nconcentrated sulphuric acid. What is the role of sulphuric acid in\nthis reaction? Write the balanced chemical equation of this\nreaction.",
       "options": [],
       "fullText": "Ethene is formed when ethanol at 443 K is heated with excess of\nconcentrated sulphuric acid. What is the role of sulphuric acid in\nthis reaction? Write the balanced chemical equation of this\nreaction."
     },
     {
       "qNo": 40,
-      "section": "Multiple Choice Questions",
-      "type": "mcq",
-      "stem": "form compounds with many elements.\nWrite an example of a compound formed with",
-      "options": [
-        {
-          "key": "a",
-          "text": "chlorine\n(Group 17 of Periodic Table)"
-        },
-        {
-          "key": "b",
-          "text": "oxgygen\n(Group 16 of Periodic Table)"
-        }
-      ],
+      "section": "Short Answer Questions",
+      "type": "short_answer",
+      "stem": "form compounds with many elements.\nWrite an example of a compound formed with\n(a) chlorine\n(Group 17 of Periodic Table)\n(b) oxgygen\n(Group 16 of Periodic Table)",
+      "options": [],
       "fullText": "form compounds with many elements.\nWrite an example of a compound formed with\n(a) chlorine\n(Group 17 of Periodic Table)\n(b) oxgygen\n(Group 16 of Periodic Table)"
     },
     {
       "qNo": 41,
-      "section": "Multiple Choice Questions",
-      "type": "mcq",
-      "stem": "In electron dot structure, the valence shell electrons are\nrepresented by crosses or dots.",
-      "options": [
-        {
-          "key": "a",
-          "text": "The atomic number of chlorine is 17. Write its electronic\nconfiguration"
-        },
-        {
-          "key": "b",
-          "text": "Draw the electron dot structure of chlorine molecule."
-        }
-      ],
+      "section": "Short Answer Questions",
+      "type": "short_answer",
+      "stem": "In electron dot structure, the valence shell electrons are\nrepresented by crosses or dots.\n(a) The atomic number of chlorine is 17. Write its electronic\nconfiguration\n(b) Draw the electron dot structure of chlorine molecule.",
+      "options": [],
       "fullText": "In electron dot structure, the valence shell electrons are\nrepresented by crosses or dots.\n(a) The atomic number of chlorine is 17. Write its electronic\nconfiguration\n(b) Draw the electron dot structure of chlorine molecule."
     },
     {
       "qNo": 42,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "Catenation is the ability of an atom to form bonds with other\natoms of the same element. It is exhibited by both carbon and\nsilicon. Compare the ability of catenation of the two elements.\nGive reasons.",
       "options": [],
       "fullText": "Catenation is the ability of an atom to form bonds with other\natoms of the same element. It is exhibited by both carbon and\nsilicon. Compare the ability of catenation of the two elements.\nGive reasons."
     },
     {
       "qNo": 43,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "Unsaturated hydrocarbons contain multiple bonds between the\ntwo C-atoms and show addition reactions. Give the test to\ndistinguish ethane from ethene.",
       "options": [],
       "fullText": "Unsaturated hydrocarbons contain multiple bonds between the\ntwo C-atoms and show addition reactions. Give the test to\ndistinguish ethane from ethene."
     },
     {
       "qNo": 44,
-      "section": "Multiple Choice Questions",
-      "type": "mcq",
-      "stem": "Match the reactions given in Column (A) with the names given\nin column (B).\nColumn (A)\nColumn (B)",
-      "options": [
-        {
-          "key": "a",
-          "text": "CH3OH + CH3COOH\nCH3COOCH3 + H2O\n(i)\nAddition reaction"
-        },
-        {
-          "key": "b",
-          "text": "CH2 = CH2 + H2\nCH3 — CH3\n(ii)\nSubstitution reaction"
-        },
-        {
-          "key": "c",
-          "text": "CH4 + Cl2\nCH3Cl + HCl\n(iii)\nNeutralisation reaction"
-        },
-        {
-          "key": "d",
-          "text": "CH3COOH+NaOH\nCH3COONa+H2O\n(iv)\nEsterification reaction"
-        }
-      ],
+      "section": "Short Answer Questions",
+      "type": "short_answer",
+      "stem": "Match the reactions given in Column (A) with the names given\nin column (B).\nColumn (A)\nColumn (B)\n(a) CH3OH + CH3COOH\nCH3COOCH3 + H2O\n(i)\nAddition reaction\n(b) CH2 = CH2 + H2\nCH3 — CH3\n(ii)\nSubstitution reaction\n(c) CH4 + Cl2\nCH3Cl + HCl\n(iii)\nNeutralisation reaction\n(d) CH3COOH+NaOH\nCH3COONa+H2O\n(iv)\nEsterification reaction",
+      "options": [],
       "fullText": "Match the reactions given in Column (A) with the names given\nin column (B).\nColumn (A)\nColumn (B)\n(a) CH3OH + CH3COOH\nCH3COOCH3 + H2O\n(i)\nAddition reaction\n(b) CH2 = CH2 + H2\nCH3 — CH3\n(ii)\nSubstitution reaction\n(c) CH4 + Cl2\nCH3Cl + HCl\n(iii)\nNeutralisation reaction\n(d) CH3COOH+NaOH\nCH3COONa+H2O\n(iv)\nEsterification reaction"
     },
     {
       "qNo": 45,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "Write the structural formulae of all the isomers of hexane.",
       "options": [],
       "fullText": "Write the structural formulae of all the isomers of hexane."
     },
     {
       "qNo": 46,
-      "section": "Multiple Choice Questions",
-      "type": "mcq",
-      "stem": "What is the role of metal or reagents written on arrows in the\ngiven chemical reactions?",
-      "options": [
-        {
-          "key": "a",
-          "text": ""
-        },
-        {
-          "key": "b",
-          "text": "CH3 COOH + CH3 CH2 OH\nCH3 COOC2 H5 + H2O"
-        },
-        {
-          "key": "c",
-          "text": "CH3 CH2 OH\nCH3  COOH\n.QPI #PUYGT 3WGUVKQPU"
-        }
-      ],
-      "fullText": "What is the role of metal or reagents written on arrows in the\ngiven chemical reactions?\n(a)\n(b) CH3 COOH + CH3 CH2 OH\nCH3 COOC2 H5 + H2O\n(c) CH3 CH2 OH\nCH3  COOH\n.QPI #PUYGT 3WGUVKQPU"
+      "section": "Short Answer Questions",
+      "type": "short_answer",
+      "stem": "What is the role of metal or reagents written on arrows in the\ngiven chemical reactions?\n(a)\n(b) CH3 COOH + CH3 CH2 OH\nCH3 COOC2 H5 + H2O\n(c) CH3 CH2 OH\nCH3  COOH",
+      "options": [],
+      "fullText": "What is the role of metal or reagents written on arrows in the\ngiven chemical reactions?\n(a)\n(b) CH3 COOH + CH3 CH2 OH\nCH3 COOC2 H5 + H2O\n(c) CH3 CH2 OH\nCH3  COOH"
     },
     {
       "qNo": 47,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Long Answer Questions",
+      "type": "long_answer",
       "stem": "A salt X is formed and a gas is evolved when ethanoic acid reacts\nwith sodium hydrogencarbonate. Name the salt X and the gas\nevolved. Describe an activity and draw the diagram of the\napparatus to prove that the evolved gas is the one which you\nhave named. Also, write chemical equation of the reaction involved.",
       "options": [],
       "fullText": "A salt X is formed and a gas is evolved when ethanoic acid reacts\nwith sodium hydrogencarbonate. Name the salt X and the gas\nevolved. Describe an activity and draw the diagram of the\napparatus to prove that the evolved gas is the one which you\nhave named. Also, write chemical equation of the reaction involved."
     },
     {
       "qNo": 48,
-      "section": "Multiple Choice Questions",
-      "type": "mcq",
-      "stem": "(a)  What are hydrocarbons? Give examples.",
-      "options": [
-        {
-          "key": "b",
-          "text": "Give the structural differences between saturated and\nunsaturated hydrocarbons with two examples each."
-        },
-        {
-          "key": "c",
-          "text": "What is a functional group? Give examples of four different\nfunctional groups."
-        }
-      ],
+      "section": "Long Answer Questions",
+      "type": "long_answer",
+      "stem": "(a)  What are hydrocarbons? Give examples.\n(b) Give the structural differences between saturated and\nunsaturated hydrocarbons with two examples each.\n(c) What is a functional group? Give examples of four different\nfunctional groups.",
+      "options": [],
       "fullText": "(a)  What are hydrocarbons? Give examples.\n(b) Give the structural differences between saturated and\nunsaturated hydrocarbons with two examples each.\n(c) What is a functional group? Give examples of four different\nfunctional groups."
     },
     {
       "qNo": 49,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Long Answer Questions",
+      "type": "long_answer",
       "stem": "Name the reaction which is commonly used in the conversion of\nvegetable oils to fats. Explain the reaction involved in detail.",
       "options": [],
       "fullText": "Name the reaction which is commonly used in the conversion of\nvegetable oils to fats. Explain the reaction involved in detail."
     },
     {
       "qNo": 50,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Long Answer Questions",
+      "type": "long_answer",
       "stem": "(a)  Write the  formula and draw electron dot structure of carbon\ntetrachloride.\n(b) What is saponification? Write the reaction involved in this\nprocess.",
       "options": [],
       "fullText": "(a)  Write the  formula and draw electron dot structure of carbon\ntetrachloride.\n(b) What is saponification? Write the reaction involved in this\nprocess."
     },
     {
       "qNo": 51,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Long Answer Questions",
+      "type": "long_answer",
       "stem": "Esters are sweet-smelling substances and are used in making\nperfumes. Suggest some activity and the reaction involved for the\npreparation of an ester with well labeled diagram.",
       "options": [],
       "fullText": "Esters are sweet-smelling substances and are used in making\nperfumes. Suggest some activity and the reaction involved for the\npreparation of an ester with well labeled diagram."
     },
     {
       "qNo": 52,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Long Answer Questions",
+      "type": "long_answer",
       "stem": "A compound C (molecular formula, C2H4O2) reacts with Na - metal\nto form a compound  R and evolves a gas which burns with a pop\nsound. Compound C on treatment with an alcohol A in presence\nof an acid forms a sweet smelling compound S (molecular formula,\nC3H6O2). On addition of NaOH to C, it also gives R and water. S on\ntreatment with NaOH solution gives back R and A.\nIdentify C, R, A, S and write down the reactions involved.",
       "options": [],
       "fullText": "A compound C (molecular formula, C2H4O2) reacts with Na - metal\nto form a compound  R and evolves a gas which burns with a pop\nsound. Compound C on treatment with an alcohol A in presence\nof an acid forms a sweet smelling compound S (molecular formula,\nC3H6O2). On addition of NaOH to C, it also gives R and water. S on\ntreatment with NaOH solution gives back R and A.\nIdentify C, R, A, S and write down the reactions involved."
     },
     {
       "qNo": 53,
-      "section": "Multiple Choice Questions",
-      "type": "mcq",
-      "stem": "Look at Figure 4.1 and answer the following questions",
-      "options": [
-        {
-          "key": "a",
-          "text": "What change would you\nobserve in the calcium\nhydroxide solution taken in\ntube B?"
-        },
-        {
-          "key": "b",
-          "text": "Write the reaction involved\nin test tubes A and B\nrespectively."
-        },
-        {
-          "key": "c",
-          "text": "If ethanol is given instead of\nethanoic acid, would you\nexpect the same change?"
-        },
-        {
-          "key": "d",
-          "text": "How can a solution of lime\nwater be prepared in the\nlaboratory?"
-        }
-      ],
+      "section": "Long Answer Questions",
+      "type": "long_answer",
+      "stem": "Look at Figure 4.1 and answer the following questions\n(a) What change would you\nobserve in the calcium\nhydroxide solution taken in\ntube B?\n(b) Write the reaction involved\nin test tubes A and B\nrespectively.\n(c) If ethanol is given instead of\nethanoic acid, would you\nexpect the same change?\n(d) How can a solution of lime\nwater be prepared in the\nlaboratory?",
+      "options": [],
       "fullText": "Look at Figure 4.1 and answer the following questions\n(a) What change would you\nobserve in the calcium\nhydroxide solution taken in\ntube B?\n(b) Write the reaction involved\nin test tubes A and B\nrespectively.\n(c) If ethanol is given instead of\nethanoic acid, would you\nexpect the same change?\n(d) How can a solution of lime\nwater be prepared in the\nlaboratory?"
     },
     {
       "qNo": 54,
-      "section": "Multiple Choice Questions",
-      "type": "mcq",
-      "stem": "How would you bring about the\nfollowing conversions? Name\nthe process and write the reaction involved.",
-      "options": [
-        {
-          "key": "a",
-          "text": "ethanol to ethene."
-        },
-        {
-          "key": "b",
-          "text": "propanol to propanoic acid.\nWrite the reactions."
-        }
-      ],
+      "section": "Long Answer Questions",
+      "type": "long_answer",
+      "stem": "How would you bring about the\nfollowing conversions? Name\nthe process and write the reaction involved.\n(a) ethanol to ethene.\n(b) propanol to propanoic acid.\nWrite the reactions.",
+      "options": [],
       "fullText": "How would you bring about the\nfollowing conversions? Name\nthe process and write the reaction involved.\n(a) ethanol to ethene.\n(b) propanol to propanoic acid.\nWrite the reactions."
     },
     {
       "qNo": 55,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Long Answer Questions",
+      "type": "long_answer",
       "stem": "Draw the possible isomers of the compound with molecular\nformula C3H6O and also give their electron dot structures.",
       "options": [],
       "fullText": "Draw the possible isomers of the compound with molecular\nformula C3H6O and also give their electron dot structures."
     },
     {
       "qNo": 56,
-      "section": "Multiple Choice Questions",
-      "type": "mcq",
-      "stem": "Explain the given reactions with the examples",
-      "options": [
-        {
-          "key": "a",
-          "text": "Hydrogenation reaction"
-        },
-        {
-          "key": "b",
-          "text": "Oxidation reaction"
-        },
-        {
-          "key": "c",
-          "text": "Substitution reaction"
-        },
-        {
-          "key": "d",
-          "text": "Saponification reaction\n(e) Combustion reaction"
-        }
-      ],
+      "section": "Long Answer Questions",
+      "type": "long_answer",
+      "stem": "Explain the given reactions with the examples\n(a) Hydrogenation reaction\n(b) Oxidation reaction\n(c) Substitution reaction\n(d) Saponification reaction\n(e) Combustion reaction",
+      "options": [],
       "fullText": "Explain the given reactions with the examples\n(a) Hydrogenation reaction\n(b) Oxidation reaction\n(c) Substitution reaction\n(d) Saponification reaction\n(e) Combustion reaction"
     },
     {
       "qNo": 57,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Long Answer Questions",
+      "type": "long_answer",
       "stem": "An organic compound A on heating with concentrated H2SO4 forms\na compound B which on addition of one mole of hydrogen in\npresence of Ni forms a compound C. One mole of compound C on\ncombustion forms two moles of CO2 and 3 moles of H2O. Identify\nthe compounds A, B and C and write the chemical equations of\nthe reactions involved.\nFig. 4.1",
       "options": [],
       "fullText": "An organic compound A on heating with concentrated H2SO4 forms\na compound B which on addition of one mole of hydrogen in\npresence of Ni forms a compound C. One mole of compound C on\ncombustion forms two moles of CO2 and 3 moles of H2O. Identify\nthe compounds A, B and C and write the chemical equations of\nthe reactions involved.\nFig. 4.1"

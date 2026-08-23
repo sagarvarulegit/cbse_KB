@@ -523,177 +523,143 @@
         },
         {
           "key": "d",
-          "text": "they are made of non-biodegradable materials\n5JQTV #PUYGT 3WGUVKQPU"
+          "text": "they are made of non-biodegradable materials"
         }
       ],
-      "fullText": "Disposable plastic plates should not be used because\n(a) they are made of materials with light weight\n(b) they are made of toxic materials\n(c) they are made of biodegradable materials\n(d) they are made of non-biodegradable materials\n5JQTV #PUYGT 3WGUVKQPU"
+      "fullText": "Disposable plastic plates should not be used because\n(a) they are made of materials with light weight\n(b) they are made of toxic materials\n(c) they are made of biodegradable materials\n(d) they are made of non-biodegradable materials"
     },
     {
       "qNo": 22,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "Why is improper disposal of waste a curse to environment?",
       "options": [],
       "fullText": "Why is improper disposal of waste a curse to environment?"
     },
     {
       "qNo": 23,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "Write the common food chain of a pond ecosystem.",
       "options": [],
       "fullText": "Write the common food chain of a pond ecosystem."
     },
     {
       "qNo": 24,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "What are the advantages of cloth bags over plastic bags during\nshopping?",
       "options": [],
       "fullText": "What are the advantages of cloth bags over plastic bags during\nshopping?"
     },
     {
       "qNo": 25,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "Why are crop fields known as artificial ecosystems?",
       "options": [],
       "fullText": "Why are crop fields known as artificial ecosystems?"
     },
     {
       "qNo": 26,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "Differentiate between biodegradable and non-biodegradable\nsubstances. Cite examples.",
       "options": [],
       "fullText": "Differentiate between biodegradable and non-biodegradable\nsubstances. Cite examples."
     },
     {
       "qNo": 27,
-      "section": "Multiple Choice Questions",
-      "type": "mcq",
-      "stem": "Suggest one word for each of the following statements/ definitions",
-      "options": [
-        {
-          "key": "a",
-          "text": "The physical and biological world where we live in"
-        },
-        {
-          "key": "b",
-          "text": "Each level of food chain where transfer of energy takes place"
-        },
-        {
-          "key": "c",
-          "text": "The physical factors like temperature, rainfall, wind and soil\nof an ecosystem"
-        },
-        {
-          "key": "d",
-          "text": "Organisms which depend on the producers either directly or\nindirectly for food"
-        }
-      ],
+      "section": "Short Answer Questions",
+      "type": "short_answer",
+      "stem": "Suggest one word for each of the following statements/ definitions\n(a) The physical and biological world where we live in\n(b) Each level of food chain where transfer of energy takes place\n(c) The physical factors like temperature, rainfall, wind and soil\nof an ecosystem\n(d) Organisms which depend on the producers either directly or\nindirectly for food",
+      "options": [],
       "fullText": "Suggest one word for each of the following statements/ definitions\n(a) The physical and biological world where we live in\n(b) Each level of food chain where transfer of energy takes place\n(c) The physical factors like temperature, rainfall, wind and soil\nof an ecosystem\n(d) Organisms which depend on the producers either directly or\nindirectly for food"
     },
     {
       "qNo": 28,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "Explain the role of  decomposers in the environment?",
       "options": [],
       "fullText": "Explain the role of  decomposers in the environment?"
     },
     {
       "qNo": 29,
-      "section": "Multiple Choice Questions",
-      "type": "mcq",
-      "stem": "Select the mis-matched pair in the following and correct it.",
-      "options": [
-        {
-          "key": "a",
-          "text": "Biomagnification\n—     Accumulation of chemicals at\nthe successive trophic levels of\na food chain"
-        },
-        {
-          "key": "b",
-          "text": "Ecosystem\n—     Biotic components of\nenvironment"
-        },
-        {
-          "key": "c",
-          "text": "Aquarium\n—     A man-made ecosystem"
-        },
-        {
-          "key": "d",
-          "text": "Parasites\n—    Organisms which obtain food\nfrom other living organisms"
-        }
-      ],
+      "section": "Short Answer Questions",
+      "type": "short_answer",
+      "stem": "Select the mis-matched pair in the following and correct it.\n(a) Biomagnification\n—     Accumulation of chemicals at\nthe successive trophic levels of\na food chain\n(b) Ecosystem\n—     Biotic components of\nenvironment\n(c) Aquarium\n—     A man-made ecosystem\n(d) Parasites\n—    Organisms which obtain food\nfrom other living organisms",
+      "options": [],
       "fullText": "Select the mis-matched pair in the following and correct it.\n(a) Biomagnification\n—     Accumulation of chemicals at\nthe successive trophic levels of\na food chain\n(b) Ecosystem\n—     Biotic components of\nenvironment\n(c) Aquarium\n—     A man-made ecosystem\n(d) Parasites\n—    Organisms which obtain food\nfrom other living organisms"
     },
     {
       "qNo": 30,
-      "section": "Subjective Questions",
-      "type": "subjective",
-      "stem": "We do not clean ponds or lakes, but an aquarium needs to be\ncleaned. Why?\n.QPI #PUYGT 3WGUVKQPU",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
+      "stem": "We do not clean ponds or lakes, but an aquarium needs to be\ncleaned. Why?",
       "options": [],
-      "fullText": "We do not clean ponds or lakes, but an aquarium needs to be\ncleaned. Why?\n.QPI #PUYGT 3WGUVKQPU"
+      "fullText": "We do not clean ponds or lakes, but an aquarium needs to be\ncleaned. Why?"
     },
     {
       "qNo": 31,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Long Answer Questions",
+      "type": "long_answer",
       "stem": "Indicate the flow of energy in an ecosystem. Why is it unidirectional?\nJustify.",
       "options": [],
       "fullText": "Indicate the flow of energy in an ecosystem. Why is it unidirectional?\nJustify."
     },
     {
       "qNo": 32,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Long Answer Questions",
+      "type": "long_answer",
       "stem": "What are decomposers? What will be the consequence of their\nabsence in an ecosystem?",
       "options": [],
       "fullText": "What are decomposers? What will be the consequence of their\nabsence in an ecosystem?"
     },
     {
       "qNo": 33,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Long Answer Questions",
+      "type": "long_answer",
       "stem": "Suggest any four activities in daily life which are eco-friendly.",
       "options": [],
       "fullText": "Suggest any four activities in daily life which are eco-friendly."
     },
     {
       "qNo": 34,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Long Answer Questions",
+      "type": "long_answer",
       "stem": "Give two differences between food chain and food web.",
       "options": [],
       "fullText": "Give two differences between food chain and food web."
     },
     {
       "qNo": 35,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Long Answer Questions",
+      "type": "long_answer",
       "stem": "Name the wastes which are generated in your house daily. What\nmeasures would you take for their disposal?",
       "options": [],
       "fullText": "Name the wastes which are generated in your house daily. What\nmeasures would you take for their disposal?"
     },
     {
       "qNo": 36,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Long Answer Questions",
+      "type": "long_answer",
       "stem": "Suggest suitable mechanism (s) for waste management in fertiliser\nindustries.",
       "options": [],
       "fullText": "Suggest suitable mechanism (s) for waste management in fertiliser\nindustries."
     },
     {
       "qNo": 37,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Long Answer Questions",
+      "type": "long_answer",
       "stem": "What are the by-products of fertiliser industries? How do they affect\nthe environment?",
       "options": [],
       "fullText": "What are the by-products of fertiliser industries? How do they affect\nthe environment?"
     },
     {
       "qNo": 38,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Long Answer Questions",
+      "type": "long_answer",
       "stem": "Explain some harmful effects of agricultural practices on the\nenvironment.",
       "options": [],
       "fullText": "Explain some harmful effects of agricultural practices on the\nenvironment."

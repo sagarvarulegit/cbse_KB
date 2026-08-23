@@ -877,335 +877,243 @@
       "options": [
         {
           "key": "a",
-          "text": ""
+          "text": "[Diagram / Visual Option]"
         },
         {
           "key": "b",
-          "text": "5JQTV #PUYGT 3WGUVKQPU"
+          "text": "[Diagram / Visual Option]"
         }
       ],
-      "fullText": "Which one of the following figures correctly describes the process\nof electrolytic refining?\n(a)\n(b)\n5JQTV #PUYGT 3WGUVKQPU"
+      "fullText": "Which one of the following figures correctly describes the process\nof electrolytic refining?\n(a)\n(b)"
     },
     {
       "qNo": 37,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "Iqbal treated a lustrous, divalent element M with sodium\nhydroxide. He observed the formation of bubbles in reaction\nmixture. He made the same observations when this element was\ntreated with hydrochloric acid. Suggest how can he identify the\nproduced gas. Write chemical equations for both the reactions.",
       "options": [],
       "fullText": "Iqbal treated a lustrous, divalent element M with sodium\nhydroxide. He observed the formation of bubbles in reaction\nmixture. He made the same observations when this element was\ntreated with hydrochloric acid. Suggest how can he identify the\nproduced gas. Write chemical equations for both the reactions."
     },
     {
       "qNo": 38,
-      "section": "Multiple Choice Questions",
-      "type": "mcq",
-      "stem": "During extraction of metals, electolytic refining is used to obtain\npure metals. (a) Which material will be used as anode and cathode\nfor refining of silver metal by this process? (b) Suggest a suitable\nelectrolyte also. (c) In this electrolytic cell, where do we get pure\nsilver after passing electric current?",
-      "options": [
-        {
-          "key": "c",
-          "text": ""
-        },
-        {
-          "key": "d",
-          "text": "Fig. 3.1"
-        }
-      ],
+      "section": "Short Answer Questions",
+      "type": "short_answer",
+      "stem": "During extraction of metals, electolytic refining is used to obtain\npure metals. (a) Which material will be used as anode and cathode\nfor refining of silver metal by this process? (b) Suggest a suitable\nelectrolyte also. (c) In this electrolytic cell, where do we get pure\nsilver after passing electric current?\n(c)\n(d)\nFig. 3.1",
+      "options": [],
       "fullText": "During extraction of metals, electolytic refining is used to obtain\npure metals. (a) Which material will be used as anode and cathode\nfor refining of silver metal by this process? (b) Suggest a suitable\nelectrolyte also. (c) In this electrolytic cell, where do we get pure\nsilver after passing electric current?\n(c)\n(d)\nFig. 3.1"
     },
     {
       "qNo": 39,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "Why should the metal sulphides and carbonates be converted to\nmetal oxides in the process of extraction of metal from them?",
       "options": [],
       "fullText": "Why should the metal sulphides and carbonates be converted to\nmetal oxides in the process of extraction of metal from them?"
     },
     {
       "qNo": 40,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "Generally, when metals are treated with mineral acids, hydrogen\ngas is liberated but when metals (except Mn and Mg), treated with\nHNO3, hydrogen is not liberated, why?",
       "options": [],
       "fullText": "Generally, when metals are treated with mineral acids, hydrogen\ngas is liberated but when metals (except Mn and Mg), treated with\nHNO3, hydrogen is not liberated, why?"
     },
     {
       "qNo": 41,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "Compound X and aluminium are used to join railway tracks. (a)\nIdentify the compound X (b) Name the reaction  (c) Write down its\nreaction.",
       "options": [],
       "fullText": "Compound X and aluminium are used to join railway tracks. (a)\nIdentify the compound X (b) Name the reaction  (c) Write down its\nreaction."
     },
     {
       "qNo": 42,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "When a metal X is treated with cold water, it gives a basic salt Y\nwith molecular formula XOH (Molecular mass = 40) and liberates\na gas Z which easily catches fire. Identify X, Y and Z and also write\nthe reaction involved.",
       "options": [],
       "fullText": "When a metal X is treated with cold water, it gives a basic salt Y\nwith molecular formula XOH (Molecular mass = 40) and liberates\na gas Z which easily catches fire. Identify X, Y and Z and also write\nthe reaction involved."
     },
     {
       "qNo": 43,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "A non-metal X exists in two different forms Y and Z. Y is the hardest\nnatural substance, whereas Z is a good conductor of electricity.\nIdentify X, Y and Z.",
       "options": [],
       "fullText": "A non-metal X exists in two different forms Y and Z. Y is the hardest\nnatural substance, whereas Z is a good conductor of electricity.\nIdentify X, Y and Z."
     },
     {
       "qNo": 44,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "The following reaction takes place when aluminium powder is\nheated with MnO2\n3 MnO2 (s) + 4 Al (s)  → 3 Mn (l) + 2 Al2O3 (l) + Heat\n(a) Is aluminium getting reduced? (b) Is MnO2 getting oxidised?",
       "options": [],
       "fullText": "The following reaction takes place when aluminium powder is\nheated with MnO2\n3 MnO2 (s) + 4 Al (s)  → 3 Mn (l) + 2 Al2O3 (l) + Heat\n(a) Is aluminium getting reduced? (b) Is MnO2 getting oxidised?"
     },
     {
       "qNo": 45,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "What are the constituents of solder alloy? Which property of solder\nmakes it suitable for welding electrical wires?",
       "options": [],
       "fullText": "What are the constituents of solder alloy? Which property of solder\nmakes it suitable for welding electrical wires?"
     },
     {
       "qNo": 46,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "A metal A, which is used in thermite process, when heated with\noxygen gives an oxide B, which is amphoteric in nature. Identify A\nand B. Write down the reactions of oxide B with HCl and NaOH.",
       "options": [],
       "fullText": "A metal A, which is used in thermite process, when heated with\noxygen gives an oxide B, which is amphoteric in nature. Identify A\nand B. Write down the reactions of oxide B with HCl and NaOH."
     },
     {
       "qNo": 47,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "A metal that exists as a liquid at room temperature is obtained by\nheating its sulphide in the presence of air. Identify the metal and\nits ore and give the reaction involved.",
       "options": [],
       "fullText": "A metal that exists as a liquid at room temperature is obtained by\nheating its sulphide in the presence of air. Identify the metal and\nits ore and give the reaction involved."
     },
     {
       "qNo": 48,
-      "section": "Multiple Choice Questions",
-      "type": "mcq",
-      "stem": "Give the formulae of the stable binary compounds that would be\nformed by the combination of following pairs of elements.",
-      "options": [
-        {
-          "key": "a",
-          "text": "Mg and N2"
-        },
-        {
-          "key": "b",
-          "text": "Li and O2"
-        },
-        {
-          "key": "c",
-          "text": "Al and Cl2"
-        },
-        {
-          "key": "d",
-          "text": "K and O2"
-        }
-      ],
+      "section": "Short Answer Questions",
+      "type": "short_answer",
+      "stem": "Give the formulae of the stable binary compounds that would be\nformed by the combination of following pairs of elements.\n(a) Mg and N2\n(b) Li and O2\n(c) Al and Cl2\n(d) K and O2",
+      "options": [],
       "fullText": "Give the formulae of the stable binary compounds that would be\nformed by the combination of following pairs of elements.\n(a) Mg and N2\n(b) Li and O2\n(c) Al and Cl2\n(d) K and O2"
     },
     {
       "qNo": 49,
-      "section": "Multiple Choice Questions",
-      "type": "mcq",
-      "stem": "What happens when",
-      "options": [
-        {
-          "key": "a",
-          "text": "ZnCO3 is heated in the absence of oxygen?"
-        },
-        {
-          "key": "b",
-          "text": "a mixture of Cu2O and Cu2S is heated?"
-        }
-      ],
+      "section": "Short Answer Questions",
+      "type": "short_answer",
+      "stem": "What happens when\n(a) ZnCO3 is heated in the absence of oxygen?\n(b) a mixture of Cu2O and Cu2S is heated?",
+      "options": [],
       "fullText": "What happens when\n(a) ZnCO3 is heated in the absence of oxygen?\n(b) a mixture of Cu2O and Cu2S is heated?"
     },
     {
       "qNo": 50,
-      "section": "Multiple Choice Questions",
-      "type": "mcq",
-      "stem": "A non-metal A is an important constituent of our food and forms two\noxides B and C. Oxide B is toxic whereas C causes global warming",
-      "options": [
-        {
-          "key": "a",
-          "text": "Identify A, B and C"
-        },
-        {
-          "key": "b",
-          "text": "To which Group of Periodic Table does A belong?"
-        }
-      ],
+      "section": "Short Answer Questions",
+      "type": "short_answer",
+      "stem": "A non-metal A is an important constituent of our food and forms two\noxides B and C. Oxide B is toxic whereas C causes global warming\n(a) Identify A, B and C\n(b) To which Group of Periodic Table does A belong?",
+      "options": [],
       "fullText": "A non-metal A is an important constituent of our food and forms two\noxides B and C. Oxide B is toxic whereas C causes global warming\n(a) Identify A, B and C\n(b) To which Group of Periodic Table does A belong?"
     },
     {
       "qNo": 51,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "Give two examples each of the metals that are good conductors\nand poor conductors of heat respectively.",
       "options": [],
       "fullText": "Give two examples each of the metals that are good conductors\nand poor conductors of heat respectively."
     },
     {
       "qNo": 52,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "Name one metal and one non-metal that exist in liquid state at\nroom temperature. Also name two metals having melting point\nless than 310 K (37°C)",
       "options": [],
       "fullText": "Name one metal and one non-metal that exist in liquid state at\nroom temperature. Also name two metals having melting point\nless than 310 K (37°C)"
     },
     {
       "qNo": 53,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "An element A reacts with water to form a compound B which is\nused in white washing. The compound B on heating forms an\noxide C which on treatment with water gives back B. Identify A, B\nand C and give the reactions involved.",
       "options": [],
       "fullText": "An element A reacts with water to form a compound B which is\nused in white washing. The compound B on heating forms an\noxide C which on treatment with water gives back B. Identify A, B\nand C and give the reactions involved."
     },
     {
       "qNo": 54,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "An alkali metal A gives a compound B (molecular mass = 40) on\nreacting with water. The compound B gives a soluble compound\nC on treatment with aluminium oxide.  Identify A, B and C and\ngive the reaction involved.",
       "options": [],
       "fullText": "An alkali metal A gives a compound B (molecular mass = 40) on\nreacting with water. The compound B gives a soluble compound\nC on treatment with aluminium oxide.  Identify A, B and C and\ngive the reaction involved."
     },
     {
       "qNo": 55,
-      "section": "Multiple Choice Questions",
-      "type": "mcq",
-      "stem": "Give the reaction involved during extraction of zinc  from its\nore by",
-      "options": [
-        {
-          "key": "a",
-          "text": "roasting of zinc ore"
-        },
-        {
-          "key": "b",
-          "text": "calcination of zinc ore"
-        }
-      ],
+      "section": "Short Answer Questions",
+      "type": "short_answer",
+      "stem": "Give the reaction involved during extraction of zinc  from its\nore by\n(a) roasting of zinc ore\n(b) calcination of zinc ore",
+      "options": [],
       "fullText": "Give the reaction involved during extraction of zinc  from its\nore by\n(a) roasting of zinc ore\n(b) calcination of zinc ore"
     },
     {
       "qNo": 56,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "A metal M does not liberate hydrogen from acids but reacts with\noxygen to give a black colour product. Identify M and black\ncoloured product and also explain the reaction of M with oxygen.",
       "options": [],
       "fullText": "A metal M does not liberate hydrogen from acids but reacts with\noxygen to give a black colour product. Identify M and black\ncoloured product and also explain the reaction of M with oxygen."
     },
     {
       "qNo": 57,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "An element forms an oxide A2O3 which is acidic in nature. Identify\nA as a metal or non-metal.",
       "options": [],
       "fullText": "An element forms an oxide A2O3 which is acidic in nature. Identify\nA as a metal or non-metal."
     },
     {
       "qNo": 58,
-      "section": "Subjective Questions",
-      "type": "subjective",
-      "stem": "A solution of CuSO4 was kept in an iron pot. After few days the iron\npot was found to have a number of holes in it. Explain the reason in\nterms of reactivity. Write the equation of the reaction involved.\n.QPI #PUYGT 3WGUVKQPU",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
+      "stem": "A solution of CuSO4 was kept in an iron pot. After few days the iron\npot was found to have a number of holes in it. Explain the reason in\nterms of reactivity. Write the equation of the reaction involved.",
       "options": [],
-      "fullText": "A solution of CuSO4 was kept in an iron pot. After few days the iron\npot was found to have a number of holes in it. Explain the reason in\nterms of reactivity. Write the equation of the reaction involved.\n.QPI #PUYGT 3WGUVKQPU"
+      "fullText": "A solution of CuSO4 was kept in an iron pot. After few days the iron\npot was found to have a number of holes in it. Explain the reason in\nterms of reactivity. Write the equation of the reaction involved."
     },
     {
       "qNo": 59,
-      "section": "Multiple Choice Questions",
-      "type": "mcq",
-      "stem": "A non-metal A which is the largest constituent of air, when heated\nwith H2 in 1:3 ratio in the presence of catalyst (Fe) gives a gas B.\nOn heating  with O2 it gives an oxide C. If this oxide is passed into\nwater in the presence of air it gives an acid D which acts as a\nstrong oxidising agent.",
-      "options": [
-        {
-          "key": "a",
-          "text": "Identify A, B, C and D"
-        },
-        {
-          "key": "b",
-          "text": "To which group of periodic table does this non-metal belong?"
-        }
-      ],
+      "section": "Long Answer Questions",
+      "type": "long_answer",
+      "stem": "A non-metal A which is the largest constituent of air, when heated\nwith H2 in 1:3 ratio in the presence of catalyst (Fe) gives a gas B.\nOn heating  with O2 it gives an oxide C. If this oxide is passed into\nwater in the presence of air it gives an acid D which acts as a\nstrong oxidising agent.\n(a) Identify A, B, C and D\n(b) To which group of periodic table does this non-metal belong?",
+      "options": [],
       "fullText": "A non-metal A which is the largest constituent of air, when heated\nwith H2 in 1:3 ratio in the presence of catalyst (Fe) gives a gas B.\nOn heating  with O2 it gives an oxide C. If this oxide is passed into\nwater in the presence of air it gives an acid D which acts as a\nstrong oxidising agent.\n(a) Identify A, B, C and D\n(b) To which group of periodic table does this non-metal belong?"
     },
     {
       "qNo": 60,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Long Answer Questions",
+      "type": "long_answer",
       "stem": "Give the steps involved in the extraction of metals of low and\nmedium reactivity from their respective sulphide ores.",
       "options": [],
       "fullText": "Give the steps involved in the extraction of metals of low and\nmedium reactivity from their respective sulphide ores."
     },
     {
       "qNo": 61,
-      "section": "Multiple Choice Questions",
-      "type": "mcq",
-      "stem": "Explain the following",
-      "options": [
-        {
-          "key": "a",
-          "text": "Reactivity of Al decreases if it is dipped in HNO3"
-        },
-        {
-          "key": "b",
-          "text": "Carbon cannot reduce the oxides of  Na or Mg"
-        },
-        {
-          "key": "c",
-          "text": "NaCl is not  a conductor of electricity in solid state whereas it\ndoes conduct electricity in aqueous solution as well as in\nmolten state"
-        },
-        {
-          "key": "d",
-          "text": "Iron articles are galvanised.\n(e) Metals like Na, K, Ca and Mg are never found in their free state\nin nature."
-        }
-      ],
+      "section": "Long Answer Questions",
+      "type": "long_answer",
+      "stem": "Explain the following\n(a) Reactivity of Al decreases if it is dipped in HNO3\n(b) Carbon cannot reduce the oxides of  Na or Mg\n(c) NaCl is not  a conductor of electricity in solid state whereas it\ndoes conduct electricity in aqueous solution as well as in\nmolten state\n(d) Iron articles are galvanised.\n(e) Metals like Na, K, Ca and Mg are never found in their free state\nin nature.",
+      "options": [],
       "fullText": "Explain the following\n(a) Reactivity of Al decreases if it is dipped in HNO3\n(b) Carbon cannot reduce the oxides of  Na or Mg\n(c) NaCl is not  a conductor of electricity in solid state whereas it\ndoes conduct electricity in aqueous solution as well as in\nmolten state\n(d) Iron articles are galvanised.\n(e) Metals like Na, K, Ca and Mg are never found in their free state\nin nature."
     },
     {
       "qNo": 62,
-      "section": "Multiple Choice Questions",
-      "type": "mcq",
-      "stem": "(i) Given below are the steps for extraction of copper from its ore.\nWrite the reaction involved.",
-      "options": [
-        {
-          "key": "a",
-          "text": "Roasting of copper (1) sulphide"
-        },
-        {
-          "key": "b",
-          "text": "Reduction of copper (1) oxide with copper (1) sulphide."
-        },
-        {
-          "key": "c",
-          "text": "Electrolytic refining\n(ii) Draw a neat  and well labelled diagram for electrolytic refining\nof copper"
-        }
-      ],
+      "section": "Long Answer Questions",
+      "type": "long_answer",
+      "stem": "(i) Given below are the steps for extraction of copper from its ore.\nWrite the reaction involved.\n(a) Roasting of copper (1) sulphide\n(b) Reduction of copper (1) oxide with copper (1) sulphide.\n(c) Electrolytic refining\n(ii) Draw a neat  and well labelled diagram for electrolytic refining\nof copper",
+      "options": [],
       "fullText": "(i) Given below are the steps for extraction of copper from its ore.\nWrite the reaction involved.\n(a) Roasting of copper (1) sulphide\n(b) Reduction of copper (1) oxide with copper (1) sulphide.\n(c) Electrolytic refining\n(ii) Draw a neat  and well labelled diagram for electrolytic refining\nof copper"
     },
     {
       "qNo": 63,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Long Answer Questions",
+      "type": "long_answer",
       "stem": "Of the three metals X, Y and Z.  X reacts with cold water, Y with hot\nwater and Z with steam only. Identify X, Y and Z and also arrange\nthem in order of increasing reactivity.",
       "options": [],
       "fullText": "Of the three metals X, Y and Z.  X reacts with cold water, Y with hot\nwater and Z with steam only. Identify X, Y and Z and also arrange\nthem in order of increasing reactivity."
     },
     {
       "qNo": 64,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Long Answer Questions",
+      "type": "long_answer",
       "stem": "An element A burns with golden flame in air. It reacts with another\nelement B, atomic number 17 to give a product C. An aqueous\nsolution of product C on electrolysis gives a compound D  and\nliberates hydrogen. Identify A, B, C and D. Also write down the\nequations for the reactions involved.",
       "options": [],
       "fullText": "An element A burns with golden flame in air. It reacts with another\nelement B, atomic number 17 to give a product C. An aqueous\nsolution of product C on electrolysis gives a compound D  and\nliberates hydrogen. Identify A, B, C and D. Also write down the\nequations for the reactions involved."
     },
     {
       "qNo": 65,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Long Answer Questions",
+      "type": "long_answer",
       "stem": "Two ores A and B were taken. On heating ore A gives CO2 whereas,\nore B gives SO2. What steps will you take to convert them into",
       "options": [],
       "fullText": "Two ores A and B were taken. On heating ore A gives CO2 whereas,\nore B gives SO2. What steps will you take to convert them into"

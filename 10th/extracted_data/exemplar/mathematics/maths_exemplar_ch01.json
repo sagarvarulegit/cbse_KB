@@ -1,0 +1,428 @@
+{
+  "chapterNumber": 1,
+  "subject": "mathematics",
+  "totalQuestions": 32,
+  "questions": [
+    {
+      "qNo": 1,
+      "exercise": "EXERCISE 1.1",
+      "type": "mcq",
+      "stem": "For some integer m, every even integer is of the form",
+      "options": [
+        {
+          "key": "a",
+          "text": "m"
+        },
+        {
+          "key": "b",
+          "text": "m + 1"
+        },
+        {
+          "key": "c",
+          "text": "2m"
+        },
+        {
+          "key": "d",
+          "text": "2m + 1"
+        }
+      ],
+      "fullText": "For some integer m, every even integer is of the form\n(A)\nm\n(B)\nm + 1\n(C)\n2m\n(D)\n2m + 1"
+    },
+    {
+      "qNo": 2,
+      "exercise": "EXERCISE 1.1",
+      "type": "mcq",
+      "stem": "For some integer q, every odd integer is of the form",
+      "options": [
+        {
+          "key": "a",
+          "text": "q"
+        },
+        {
+          "key": "b",
+          "text": "q + 1"
+        },
+        {
+          "key": "c",
+          "text": "2q"
+        },
+        {
+          "key": "d",
+          "text": "2q + 1\n03/05/18"
+        }
+      ],
+      "fullText": "For some integer q, every odd integer is of the form\n(A)\nq\n(B)\nq + 1\n(C)\n2q\n(D)\n2q + 1\n03/05/18"
+    },
+    {
+      "qNo": 3,
+      "exercise": "EXERCISE 1.1",
+      "type": "mcq",
+      "stem": "n2 – 1 is divisible by 8, if n is",
+      "options": [
+        {
+          "key": "a",
+          "text": "an integer"
+        },
+        {
+          "key": "b",
+          "text": "a natural number"
+        },
+        {
+          "key": "c",
+          "text": "an odd integer"
+        },
+        {
+          "key": "d",
+          "text": "an even integer"
+        }
+      ],
+      "fullText": "n2 – 1 is divisible by 8, if n is\n(A)\nan integer\n(B)\na natural number\n(C)\nan odd integer\n(D)\nan even integer"
+    },
+    {
+      "qNo": 4,
+      "exercise": "EXERCISE 1.1",
+      "type": "mcq",
+      "stem": "If the HCF of 65 and 117 is expressible in the form 65m – 117, then the value of m is",
+      "options": [
+        {
+          "key": "a",
+          "text": ""
+        },
+        {
+          "key": "b",
+          "text": ""
+        },
+        {
+          "key": "c",
+          "text": "(D)"
+        }
+      ],
+      "fullText": "If the HCF of 65 and 117 is expressible in the form 65m – 117, then the value of m is\n(A)\n(B)\n(C)\n(D)"
+    },
+    {
+      "qNo": 5,
+      "exercise": "EXERCISE 1.1",
+      "type": "mcq",
+      "stem": "The largest number which divides 70 and 125, leaving remainders 5 and 8,\nrespectively, is",
+      "options": [
+        {
+          "key": "a",
+          "text": ""
+        },
+        {
+          "key": "b",
+          "text": ""
+        },
+        {
+          "key": "c",
+          "text": "(D)"
+        }
+      ],
+      "fullText": "The largest number which divides 70 and 125, leaving remainders 5 and 8,\nrespectively, is\n(A)\n(B)\n(C)\n(D)"
+    },
+    {
+      "qNo": 6,
+      "exercise": "EXERCISE 1.1",
+      "type": "mcq",
+      "stem": "If two positive integers a and b are written as\na = x3y2 and b = xy3; x, y are prime numbers, then HCF (a, b) is",
+      "options": [
+        {
+          "key": "a",
+          "text": "xy"
+        },
+        {
+          "key": "b",
+          "text": "xy2"
+        },
+        {
+          "key": "c",
+          "text": "x3y3"
+        },
+        {
+          "key": "d",
+          "text": "x2y2"
+        }
+      ],
+      "fullText": "If two positive integers a and b are written as\na = x3y2 and b = xy3; x, y are prime numbers, then HCF (a, b) is\n(A)\nxy\n(B)\nxy2\n(C)\nx3y3\n(D)\nx2y2"
+    },
+    {
+      "qNo": 7,
+      "exercise": "EXERCISE 1.1",
+      "type": "mcq",
+      "stem": "If two positive integers p and q can be expressed as\np = ab2 and q = a3b; a, b being prime numbers, then LCM (p, q) is",
+      "options": [
+        {
+          "key": "a",
+          "text": "ab"
+        },
+        {
+          "key": "b",
+          "text": "a 2b2"
+        },
+        {
+          "key": "c",
+          "text": "a3b 2"
+        },
+        {
+          "key": "d",
+          "text": "a3b 3"
+        }
+      ],
+      "fullText": "If two positive integers p and q can be expressed as\np = ab2 and q = a3b; a, b being prime numbers, then LCM (p, q) is\n(A)\nab\n(B) a 2b2\n(C) a3b 2\n(D)\na3b 3"
+    },
+    {
+      "qNo": 8,
+      "exercise": "EXERCISE 1.1",
+      "type": "mcq",
+      "stem": "The product of a non-zero rational and an irrational number is",
+      "options": [
+        {
+          "key": "a",
+          "text": "always irrational"
+        },
+        {
+          "key": "b",
+          "text": "always rational"
+        },
+        {
+          "key": "c",
+          "text": "rational or irrational"
+        },
+        {
+          "key": "d",
+          "text": "one"
+        }
+      ],
+      "fullText": "The product of a non-zero rational and an irrational number is\n(A)\nalways irrational\n(B)\nalways rational\n(C)\nrational or irrational\n(D)\none"
+    },
+    {
+      "qNo": 9,
+      "exercise": "EXERCISE 1.1",
+      "type": "mcq",
+      "stem": "The least number that is divisible by all the numbers from 1 to 10 (both inclusive) is",
+      "options": [
+        {
+          "key": "a",
+          "text": ""
+        },
+        {
+          "key": "b",
+          "text": ""
+        },
+        {
+          "key": "c",
+          "text": ""
+        },
+        {
+          "key": "d",
+          "text": "10. The decimal expansion of the rational number 14587\n1250  will terminate after:"
+        },
+        {
+          "key": "a",
+          "text": "one decimal place"
+        },
+        {
+          "key": "b",
+          "text": "two decimal places"
+        },
+        {
+          "key": "c",
+          "text": "three decimal places"
+        },
+        {
+          "key": "d",
+          "text": "four decimal places"
+        },
+        {
+          "key": "c",
+          "text": "Short Answer Questions with Reasoning\nSample Question 1: The values of the remainder r, when a positive integer a is\ndivided by 3 are 0 and 1 only. Justify your answer.\nSolution : No.\n03/05/18\nAccording to Euclid’s division lemma,\na = 3q + r, where 0 ≤r < 3\nand r is an integer. Therefore, the values of r can be 0, 1 or 2.\nSample Question 2: Can the number 6n, n being a natural number, end with the\ndigit 5? Give reasons.\nSolution : No, because 6n = (2 × 3)n = 2n × 3n, so the only primes in the factorisation\nof 6n are 2 and 3, and not 5.\nHence, it cannot end with the digit 5."
+        }
+      ],
+      "fullText": "The least number that is divisible by all the numbers from 1 to 10 (both inclusive) is\n(A)\n(B)\n(C)\n(D)\n10. The decimal expansion of the rational number 14587\n1250  will terminate after:\n(A)\none decimal place\n(B)\ntwo decimal places\n(C)\nthree decimal places\n(D)\nfour decimal places\n(C) Short Answer Questions with Reasoning\nSample Question 1: The values of the remainder r, when a positive integer a is\ndivided by 3 are 0 and 1 only. Justify your answer.\nSolution : No.\n03/05/18\nAccording to Euclid’s division lemma,\na = 3q + r, where 0 ≤r < 3\nand r is an integer. Therefore, the values of r can be 0, 1 or 2.\nSample Question 2: Can the number 6n, n being a natural number, end with the\ndigit 5? Give reasons.\nSolution : No, because 6n = (2 × 3)n = 2n × 3n, so the only primes in the factorisation\nof 6n are 2 and 3, and not 5.\nHence, it cannot end with the digit 5."
+    },
+    {
+      "qNo": 1,
+      "exercise": "EXERCISE 1.2",
+      "type": "short_answer",
+      "stem": "Write whether every positive integer can be of the form 4q + 2, where q is an\ninteger. Justify your answer.",
+      "options": [],
+      "fullText": "Write whether every positive integer can be of the form 4q + 2, where q is an\ninteger. Justify your answer."
+    },
+    {
+      "qNo": 2,
+      "exercise": "EXERCISE 1.2",
+      "type": "short_answer",
+      "stem": "“The product of two consecutive positive integers is divisible by 2”. Is this statement\ntrue or false? Give reasons.",
+      "options": [],
+      "fullText": "“The product of two consecutive positive integers is divisible by 2”. Is this statement\ntrue or false? Give reasons."
+    },
+    {
+      "qNo": 3,
+      "exercise": "EXERCISE 1.2",
+      "type": "short_answer",
+      "stem": "“The product of three consecutive positive integers is divisible by 6”. Is this statement\ntrue or false”? Justify your answer.",
+      "options": [],
+      "fullText": "“The product of three consecutive positive integers is divisible by 6”. Is this statement\ntrue or false”? Justify your answer."
+    },
+    {
+      "qNo": 4,
+      "exercise": "EXERCISE 1.2",
+      "type": "short_answer",
+      "stem": "Write whether the square of any positive integer can be of the form 3m + 2, where\nm is a natural number. Justify your answer.",
+      "options": [],
+      "fullText": "Write whether the square of any positive integer can be of the form 3m + 2, where\nm is a natural number. Justify your answer."
+    },
+    {
+      "qNo": 5,
+      "exercise": "EXERCISE 1.2",
+      "type": "short_answer",
+      "stem": "A positive integer is of the form 3q + 1, q being a natural number. Can you write its\nsquare in any form other than 3m + 1, i.e., 3m or 3m + 2 for some integer m? Justify\nyour answer.",
+      "options": [],
+      "fullText": "A positive integer is of the form 3q + 1, q being a natural number. Can you write its\nsquare in any form other than 3m + 1, i.e., 3m or 3m + 2 for some integer m? Justify\nyour answer."
+    },
+    {
+      "qNo": 6,
+      "exercise": "EXERCISE 1.2",
+      "type": "short_answer",
+      "stem": "The numbers 525 and 3000 are both divisible only by 3, 5, 15, 25 and 75. What is\nHCF (525, 3000)? Justify your answer.",
+      "options": [],
+      "fullText": "The numbers 525 and 3000 are both divisible only by 3, 5, 15, 25 and 75. What is\nHCF (525, 3000)? Justify your answer."
+    },
+    {
+      "qNo": 7,
+      "exercise": "EXERCISE 1.2",
+      "type": "short_answer",
+      "stem": "Explain why 3 × 5 × 7 + 7 is a composite number.",
+      "options": [],
+      "fullText": "Explain why 3 × 5 × 7 + 7 is a composite number."
+    },
+    {
+      "qNo": 8,
+      "exercise": "EXERCISE 1.2",
+      "type": "short_answer",
+      "stem": "Can two numbers have 18 as their HCF and 380 as their LCM? Give reasons.",
+      "options": [],
+      "fullText": "Can two numbers have 18 as their HCF and 380 as their LCM? Give reasons."
+    },
+    {
+      "qNo": 9,
+      "exercise": "EXERCISE 1.2",
+      "type": "short_answer",
+      "stem": "Without actually performing the long division, find if 987\n10500  will have terminating\nor non-terminating (repeating) decimal expansion. Give reasons for your answer.\n10. A rational number in its decimal expansion is 327.7081. What can you say about\nthe prime factors of q, when this number is expressed in the form\np\nq ? Give reasons.\n03/05/18\n(D) Short Answer  Questions\nSample Question 1: Using Euclid’s division algorithm, find which of the following\npairs of numbers are co-prime:\n(i) 231, 396         (ii) 847, 2160\nSolution : Let us find the HCF of each pair of numbers.\n(i)\n396 = 231 × 1 + 165\n231 = 165 × 1 + 66\n165 = 66 × 2 + 33\n66 = 33 × 2 + 0\nTherefore, HCF = 33. Hence, numbers are not co-prime.\n(ii)\n2160 = 847 × 2 + 466\n847 = 466 × 1 + 381\n466 = 381 × 1 + 85\n381 = 85 × 4   + 41\n85   = 41 × 2   +  3\n41   =   3 × 13 +  2\n3     =   2 × 1  +  1\n2     =   1 × 2  +  0\nTherefore, the HCF = 1. Hence, the numbers are co-prime.\nSample Question 2: Show that the square of an odd positive integer is of the form\n8m + 1, for some whole number m.\nSolution: Any positive odd integer is of the form 2q + 1, where q is a whole number.\nTherefore,   (2q + 1)2 = 4q2 + 4q + 1 = 4q (q + 1) + 1,\n(1)\nq  (q + 1) is either 0 or even. So, it is 2m, where m is a whole number.\nTherefore,   (2q + 1)2 = 4.2 m + 1 = 8 m + 1.\n[From (1)]\nSample Question 3: Prove that\n+\nis irrational.\nSolution : Let us suppose that\n+\nis rational. Let\n+\n= a , where a is\nrational.\n03/05/18\nTherefore,\n2 =\na −\nSquaring on both sides, we get\n2 = a2 + 3 – 2\na\nTherefore,\na\na\n+\n=\n, which is a contradiction as the right hand side is a rational\nnumber while 3  is irrational. Hence, 2\n+\nis irrational.",
+      "options": [],
+      "fullText": "Without actually performing the long division, find if 987\n10500  will have terminating\nor non-terminating (repeating) decimal expansion. Give reasons for your answer.\n10. A rational number in its decimal expansion is 327.7081. What can you say about\nthe prime factors of q, when this number is expressed in the form\np\nq ? Give reasons.\n03/05/18\n(D) Short Answer  Questions\nSample Question 1: Using Euclid’s division algorithm, find which of the following\npairs of numbers are co-prime:\n(i) 231, 396         (ii) 847, 2160\nSolution : Let us find the HCF of each pair of numbers.\n(i)\n396 = 231 × 1 + 165\n231 = 165 × 1 + 66\n165 = 66 × 2 + 33\n66 = 33 × 2 + 0\nTherefore, HCF = 33. Hence, numbers are not co-prime.\n(ii)\n2160 = 847 × 2 + 466\n847 = 466 × 1 + 381\n466 = 381 × 1 + 85\n381 = 85 × 4   + 41\n85   = 41 × 2   +  3\n41   =   3 × 13 +  2\n3     =   2 × 1  +  1\n2     =   1 × 2  +  0\nTherefore, the HCF = 1. Hence, the numbers are co-prime.\nSample Question 2: Show that the square of an odd positive integer is of the form\n8m + 1, for some whole number m.\nSolution: Any positive odd integer is of the form 2q + 1, where q is a whole number.\nTherefore,   (2q + 1)2 = 4q2 + 4q + 1 = 4q (q + 1) + 1,\n(1)\nq  (q + 1) is either 0 or even. So, it is 2m, where m is a whole number.\nTherefore,   (2q + 1)2 = 4.2 m + 1 = 8 m + 1.\n[From (1)]\nSample Question 3: Prove that\n+\nis irrational.\nSolution : Let us suppose that\n+\nis rational. Let\n+\n= a , where a is\nrational.\n03/05/18\nTherefore,\n2 =\na −\nSquaring on both sides, we get\n2 = a2 + 3 – 2\na\nTherefore,\na\na\n+\n=\n, which is a contradiction as the right hand side is a rational\nnumber while 3  is irrational. Hence, 2\n+\nis irrational."
+    },
+    {
+      "qNo": 1,
+      "exercise": "EXERCISE 1.3",
+      "type": "short_answer",
+      "stem": "Show that the square of any positive integer is either of the form 4q or 4q + 1 for\nsome integer q.",
+      "options": [],
+      "fullText": "Show that the square of any positive integer is either of the form 4q or 4q + 1 for\nsome integer q."
+    },
+    {
+      "qNo": 2,
+      "exercise": "EXERCISE 1.3",
+      "type": "short_answer",
+      "stem": "Show that cube of any positive integer is of the form 4m, 4m + 1 or 4m + 3, for\nsome integer m.",
+      "options": [],
+      "fullText": "Show that cube of any positive integer is of the form 4m, 4m + 1 or 4m + 3, for\nsome integer m."
+    },
+    {
+      "qNo": 3,
+      "exercise": "EXERCISE 1.3",
+      "type": "short_answer",
+      "stem": "Show that the square of any positive integer cannot be of the form 5q + 2 or\n5q + 3 for any integer q.",
+      "options": [],
+      "fullText": "Show that the square of any positive integer cannot be of the form 5q + 2 or\n5q + 3 for any integer q."
+    },
+    {
+      "qNo": 4,
+      "exercise": "EXERCISE 1.3",
+      "type": "short_answer",
+      "stem": "Show that the square of any positive integer cannot be of the form 6m + 2 or\n6m + 5 for any integer m.",
+      "options": [],
+      "fullText": "Show that the square of any positive integer cannot be of the form 6m + 2 or\n6m + 5 for any integer m."
+    },
+    {
+      "qNo": 5,
+      "exercise": "EXERCISE 1.3",
+      "type": "short_answer",
+      "stem": "Show that the square of any odd integer is of the form 4q + 1, for some integer q.",
+      "options": [],
+      "fullText": "Show that the square of any odd integer is of the form 4q + 1, for some integer q."
+    },
+    {
+      "qNo": 6,
+      "exercise": "EXERCISE 1.3",
+      "type": "short_answer",
+      "stem": "If n is an odd integer, then show that n2 – 1 is divisible by 8.",
+      "options": [],
+      "fullText": "If n is an odd integer, then show that n2 – 1 is divisible by 8."
+    },
+    {
+      "qNo": 7,
+      "exercise": "EXERCISE 1.3",
+      "type": "short_answer",
+      "stem": "Prove that if x and y are both odd positive integers, then x2 + y2 is even but not\ndivisible by 4.",
+      "options": [],
+      "fullText": "Prove that if x and y are both odd positive integers, then x2 + y2 is even but not\ndivisible by 4."
+    },
+    {
+      "qNo": 8,
+      "exercise": "EXERCISE 1.3",
+      "type": "short_answer",
+      "stem": "Use Euclid’s division algorithm to find the HCF of 441, 567, 693.",
+      "options": [],
+      "fullText": "Use Euclid’s division algorithm to find the HCF of 441, 567, 693."
+    },
+    {
+      "qNo": 9,
+      "exercise": "EXERCISE 1.3",
+      "type": "short_answer",
+      "stem": "Using Euclid’s division algorithm, find the largest number that divides 1251, 9377\nand 15628 leaving remainders 1, 2 and 3, respectively.\n10. Prove that 3\n+\nis irrational.\n11. Show that 12n cannot end with the digit 0 or 5 for any natural number n.\n12. On a morning walk, three persons step off together and their steps measure 40 cm,\n42 cm  and 45 cm, respectively. What is the minimum distance each should walk so\nthat each can cover the same distance in complete steps?\n03/05/18\n13. Write the denominator of the rational number 257\n5000  in the form 2m × 5n, where\nm, n are non-negative integers. Hence, write its decimal expansion, without actual\ndivision.\n14. Prove that\np\nq\n+\nis irrational, where p, q are primes.\n(E) Long Answer Questions\nSample Question 1 : Show that the square of an odd positive integer can be of the\nform 6q + 1 or 6q + 3 for some integer q.\nSolution : We know that any positive integer can be of the form 6m, 6m + 1, 6m + 2,\n6m + 3, 6m + 4 or 6m + 5, for some integer m.\nThus, an odd positive integer can be of the form 6m + 1, 6m + 3, or 6m + 5\nThus we have:\n(6 m +1)2 = 36 m2 + 12 m + 1 = 6 (6 m2 + 2 m) + 1 = 6 q + 1, q is an integer\n(6 m + 3)2 = 36 m2 + 36 m + 9 = 6 (6 m2 + 6 m + 1) + 3 = 6 q + 3, q is an integer\n(6 m + 5)2 = 36 m2 + 60 m + 25 = 6 (6 m2 + 10 m + 4) + 1 = 6 q + 1, q is an integer.\nThus, the square of an odd positive integer can be of the form 6q + 1 or 6q + 3.",
+      "options": [],
+      "fullText": "Using Euclid’s division algorithm, find the largest number that divides 1251, 9377\nand 15628 leaving remainders 1, 2 and 3, respectively.\n10. Prove that 3\n+\nis irrational.\n11. Show that 12n cannot end with the digit 0 or 5 for any natural number n.\n12. On a morning walk, three persons step off together and their steps measure 40 cm,\n42 cm  and 45 cm, respectively. What is the minimum distance each should walk so\nthat each can cover the same distance in complete steps?\n03/05/18\n13. Write the denominator of the rational number 257\n5000  in the form 2m × 5n, where\nm, n are non-negative integers. Hence, write its decimal expansion, without actual\ndivision.\n14. Prove that\np\nq\n+\nis irrational, where p, q are primes.\n(E) Long Answer Questions\nSample Question 1 : Show that the square of an odd positive integer can be of the\nform 6q + 1 or 6q + 3 for some integer q.\nSolution : We know that any positive integer can be of the form 6m, 6m + 1, 6m + 2,\n6m + 3, 6m + 4 or 6m + 5, for some integer m.\nThus, an odd positive integer can be of the form 6m + 1, 6m + 3, or 6m + 5\nThus we have:\n(6 m +1)2 = 36 m2 + 12 m + 1 = 6 (6 m2 + 2 m) + 1 = 6 q + 1, q is an integer\n(6 m + 3)2 = 36 m2 + 36 m + 9 = 6 (6 m2 + 6 m + 1) + 3 = 6 q + 3, q is an integer\n(6 m + 5)2 = 36 m2 + 60 m + 25 = 6 (6 m2 + 10 m + 4) + 1 = 6 q + 1, q is an integer.\nThus, the square of an odd positive integer can be of the form 6q + 1 or 6q + 3."
+    },
+    {
+      "qNo": 1,
+      "exercise": "EXERCISE 1.4",
+      "type": "long_answer",
+      "stem": "Show that the cube of a positive integer of the form 6q + r, q is an integer and\nr = 0, 1, 2, 3, 4, 5 is also of the form 6m + r.",
+      "options": [],
+      "fullText": "Show that the cube of a positive integer of the form 6q + r, q is an integer and\nr = 0, 1, 2, 3, 4, 5 is also of the form 6m + r."
+    },
+    {
+      "qNo": 2,
+      "exercise": "EXERCISE 1.4",
+      "type": "long_answer",
+      "stem": "Prove that one and only one out of n, n + 2 and  n + 4 is divisible by 3, where n is\nany positive integer.",
+      "options": [],
+      "fullText": "Prove that one and only one out of n, n + 2 and  n + 4 is divisible by 3, where n is\nany positive integer."
+    },
+    {
+      "qNo": 3,
+      "exercise": "EXERCISE 1.4",
+      "type": "long_answer",
+      "stem": "Prove that one of any three consecutive positive integers must be divisible by 3.",
+      "options": [],
+      "fullText": "Prove that one of any three consecutive positive integers must be divisible by 3."
+    },
+    {
+      "qNo": 4,
+      "exercise": "EXERCISE 1.4",
+      "type": "long_answer",
+      "stem": "For any positive integer n, prove that n3 – n is divisible by 6.",
+      "options": [],
+      "fullText": "For any positive integer n, prove that n3 – n is divisible by 6."
+    },
+    {
+      "qNo": 5,
+      "exercise": "EXERCISE 1.4",
+      "type": "long_answer",
+      "stem": "Show that one and only one out of n, n + 4, n + 8, n + 12 and n + 16 is divisible\nby 5, where n is any positive integer.\n[Hint: Any positive integer can be written in the form 5q, 5q+1, 5q+2, 5q+3,\n5q+4].\n03/05/18",
+      "options": [],
+      "fullText": "Show that one and only one out of n, n + 4, n + 8, n + 12 and n + 16 is divisible\nby 5, where n is any positive integer.\n[Hint: Any positive integer can be written in the form 5q, 5q+1, 5q+2, 5q+3,\n5q+4].\n03/05/18"
+    }
+  ]
+}

@@ -523,154 +523,103 @@
         },
         {
           "key": "d",
-          "text": "nervous and endocrine systems\n5JQTV #PUYGT 3WGUVKQPU"
+          "text": "nervous and endocrine systems"
         }
       ],
-      "fullText": "In humans,  the life processes are controlled and regulated by\n(a) reproductive and endocrine systems\n(b) respiratory and nervous systems\n(c) endocrine and digestive systems\n(d) nervous and endocrine systems\n5JQTV #PUYGT 3WGUVKQPU"
+      "fullText": "In humans,  the life processes are controlled and regulated by\n(a) reproductive and endocrine systems\n(b) respiratory and nervous systems\n(c) endocrine and digestive systems\n(d) nervous and endocrine systems"
     },
     {
       "qNo": 34,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "Label the parts (a), (b), (c) and (d) and show the direction of flow of\nelectrical signals in Figure 7.2.\nFig. 7.2\n&21752/  $1'  &225',1$7,21\n1DPH WKH SODQW KRUPRQHV UHVSRQVLEOH IRU WKH IROORZLQJ\nD  HORQJDWLRQ RI FHOOV\nE  JURZWK RI VWHP\nF  SURPRWLRQ RI FHOO GLYLVLRQ\nG  IDOOLQJ RI VHQHVFHQW OHDYHV\n/DEHO WKH HQGRFULQH JODQGV LQ )LJXUH\n)LJ\n,Q )LJXUH D E DQG F ZKLFK DSSHDUV PRUH DFFXUDWH DQG ZK\\\"\n)LJ\n/DEHO WKH SDUWV RI D QHXURQ LQ )LJXUH\n)LJ\n0DWFK WKH WHUPV RI &ROXPQ $ ZLWK WKRVH RI &ROXPQ %\n&ROXPQ $\n&ROXPQ %\nD  2OIDFWRU\\ UHFHSWRUV\nL 7RQJXH\nE  7KHUPR UHFHSWRUV WHPSHUDWXUH UHFHSWRUV\nLL (\\H\nF  *XVWDWRUHFHSWRUV\nLLL 1RVH\nG  3KRWRUHFHSWRUV\nLY 6NLQ\n:KDW LV D WURSLF PRYHPHQW\" ([SODLQ ZLWK DQ H[DPSOH\n:KDW ZLOO KDSSHQ LI LQWDNH RI LRGLQH LQ RXU GLHW LV ORZ\"\n:KDW KDSSHQV DW WKH V\\QDSVH EHWZHHQ WZR QHXURQV\"",
       "options": [],
       "fullText": "Label the parts (a), (b), (c) and (d) and show the direction of flow of\nelectrical signals in Figure 7.2.\nFig. 7.2\n&21752/  $1'  &225',1$7,21\n1DPH WKH SODQW KRUPRQHV UHVSRQVLEOH IRU WKH IROORZLQJ\nD  HORQJDWLRQ RI FHOOV\nE  JURZWK RI VWHP\nF  SURPRWLRQ RI FHOO GLYLVLRQ\nG  IDOOLQJ RI VHQHVFHQW OHDYHV\n/DEHO WKH HQGRFULQH JODQGV LQ )LJXUH\n)LJ\n,Q )LJXUH D E DQG F ZKLFK DSSHDUV PRUH DFFXUDWH DQG ZK\\\"\n)LJ\n/DEHO WKH SDUWV RI D QHXURQ LQ )LJXUH\n)LJ\n0DWFK WKH WHUPV RI &ROXPQ $ ZLWK WKRVH RI &ROXPQ %\n&ROXPQ $\n&ROXPQ %\nD  2OIDFWRU\\ UHFHSWRUV\nL 7RQJXH\nE  7KHUPR UHFHSWRUV WHPSHUDWXUH UHFHSWRUV\nLL (\\H\nF  *XVWDWRUHFHSWRUV\nLLL 1RVH\nG  3KRWRUHFHSWRUV\nLY 6NLQ\n:KDW LV D WURSLF PRYHPHQW\" ([SODLQ ZLWK DQ H[DPSOH\n:KDW ZLOO KDSSHQ LI LQWDNH RI LRGLQH LQ RXU GLHW LV ORZ\"\n:KDW KDSSHQV DW WKH V\\QDSVH EHWZHHQ WZR QHXURQV\""
     },
     {
       "qNo": 43,
-      "section": "Multiple Choice Questions",
-      "type": "mcq",
-      "stem": "Answer the following :",
-      "options": [
-        {
-          "key": "a",
-          "text": "Which hormone is responsible for the changes noticed in\nfemales at puberty?"
-        },
-        {
-          "key": "b",
-          "text": "Dwarfism results due to deficiency of which hormone?"
-        },
-        {
-          "key": "c",
-          "text": "Blood sugar level rises due to deficiency of which hormone?"
-        },
-        {
-          "key": "d",
-          "text": "Iodine is necessary for the synthesis of which hormone?"
-        }
-      ],
+      "section": "Short Answer Questions",
+      "type": "short_answer",
+      "stem": "Answer the following :\n(a) Which hormone is responsible for the changes noticed in\nfemales at puberty?\n(b) Dwarfism results due to deficiency of which hormone?\n(c) Blood sugar level rises due to deficiency of which hormone?\n(d) Iodine is necessary for the synthesis of which hormone?",
+      "options": [],
       "fullText": "Answer the following :\n(a) Which hormone is responsible for the changes noticed in\nfemales at puberty?\n(b) Dwarfism results due to deficiency of which hormone?\n(c) Blood sugar level rises due to deficiency of which hormone?\n(d) Iodine is necessary for the synthesis of which hormone?"
     },
     {
       "qNo": 44,
-      "section": "Multiple Choice Questions",
-      "type": "mcq",
-      "stem": "Answer the following :",
-      "options": [
-        {
-          "key": "a",
-          "text": "Name the endocrine gland associated with brain?"
-        },
-        {
-          "key": "b",
-          "text": "Which gland secretes digestive enzymes as well as hormones?"
-        },
-        {
-          "key": "c",
-          "text": "Name the endocrine gland associated with kidneys?"
-        },
-        {
-          "key": "d",
-          "text": "Which endocrine gland is present in males but not in females?\n.QPI #PUYGT 3WGUVKQPU"
-        }
-      ],
-      "fullText": "Answer the following :\n(a) Name the endocrine gland associated with brain?\n(b) Which gland secretes digestive enzymes as well as hormones?\n(c) Name the endocrine gland associated with kidneys?\n(d) Which endocrine gland is present in males but not in females?\n.QPI #PUYGT 3WGUVKQPU"
+      "section": "Short Answer Questions",
+      "type": "short_answer",
+      "stem": "Answer the following :\n(a) Name the endocrine gland associated with brain?\n(b) Which gland secretes digestive enzymes as well as hormones?\n(c) Name the endocrine gland associated with kidneys?\n(d) Which endocrine gland is present in males but not in females?",
+      "options": [],
+      "fullText": "Answer the following :\n(a) Name the endocrine gland associated with brain?\n(b) Which gland secretes digestive enzymes as well as hormones?\n(c) Name the endocrine gland associated with kidneys?\n(d) Which endocrine gland is present in males but not in females?"
     },
     {
       "qNo": 45,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Long Answer Questions",
+      "type": "long_answer",
       "stem": "Draw the structure of a neuron and explain its function.",
       "options": [],
       "fullText": "Draw the structure of a neuron and explain its function."
     },
     {
       "qNo": 46,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Long Answer Questions",
+      "type": "long_answer",
       "stem": "What are the major parts of the brain? Mention the functions of\ndifferent parts.",
       "options": [],
       "fullText": "What are the major parts of the brain? Mention the functions of\ndifferent parts."
     },
     {
       "qNo": 47,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Long Answer Questions",
+      "type": "long_answer",
       "stem": "What constitutes the central and peripheral nervous systems? How\nare the components of central nervous system protected?",
       "options": [],
       "fullText": "What constitutes the central and peripheral nervous systems? How\nare the components of central nervous system protected?"
     },
     {
       "qNo": 48,
-      "section": "Multiple Choice Questions",
-      "type": "mcq",
-      "stem": "Mention one function for each of these hormones :",
-      "options": [
-        {
-          "key": "a",
-          "text": "Thyroxin"
-        },
-        {
-          "key": "b",
-          "text": "Insulin"
-        },
-        {
-          "key": "c",
-          "text": "Adrenaline"
-        },
-        {
-          "key": "d",
-          "text": "Growth hormone\n(e)  Testosterone."
-        }
-      ],
+      "section": "Long Answer Questions",
+      "type": "long_answer",
+      "stem": "Mention one function for each of these hormones :\n(a) Thyroxin\n(b) Insulin\n(c) Adrenaline\n(d) Growth hormone\n(e)  Testosterone.",
+      "options": [],
       "fullText": "Mention one function for each of these hormones :\n(a) Thyroxin\n(b) Insulin\n(c) Adrenaline\n(d) Growth hormone\n(e)  Testosterone."
     },
     {
       "qNo": 49,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Long Answer Questions",
+      "type": "long_answer",
       "stem": "Name various plant hormones. Also give their physiological effects\non  plant growth and development.",
       "options": [],
       "fullText": "Name various plant hormones. Also give their physiological effects\non  plant growth and development."
     },
     {
       "qNo": 50,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Long Answer Questions",
+      "type": "long_answer",
       "stem": "What are reflex actions? Give two examples. Explain a reflex arc.",
       "options": [],
       "fullText": "What are reflex actions? Give two examples. Explain a reflex arc."
     },
     {
       "qNo": 51,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Long Answer Questions",
+      "type": "long_answer",
       "stem": "“Nervous and hormonal systems together perform the function of",
       "options": [],
       "fullText": "“Nervous and hormonal systems together perform the function of"
     },
     {
       "qNo": 52,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Long Answer Questions",
+      "type": "long_answer",
       "stem": "How does chemical coordination take place in animals?",
       "options": [],
       "fullText": "How does chemical coordination take place in animals?"
     },
     {
       "qNo": 53,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Long Answer Questions",
+      "type": "long_answer",
       "stem": "Why is the flow of signals in a synapse from axonal end of one\nneuron to dendritic end of another neuron but not the reverse?",
       "options": [],
       "fullText": "Why is the flow of signals in a synapse from axonal end of one\nneuron to dendritic end of another neuron but not the reverse?"

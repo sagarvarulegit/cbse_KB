@@ -639,215 +639,151 @@
         },
         {
           "key": "d",
-          "text": "2NaCl (aq) + 2H2O (l) →  2NaOH (aq) + Cl2(g) + H2(g)\nShort Answer  Questions"
+          "text": "2NaCl (aq) + 2H2O (l) →  2NaOH (aq) + Cl2(g) + H2(g)"
         }
       ],
-      "fullText": "Identify the correct representation of reaction occurring during\nchloralkali process\n(a) 2NaCl(l) + 2H2O(l) →  2NaOH(l) + Cl2(g) + H2(g)\n(b) 2NaCl(aq) + 2H2O(aq) →  2NaOH(aq) + Cl2(g) + H2(g)\n(c) 2NaCl(aq) + 2H2O(l) →  2NaOH(aq) + Cl2(aq) + H2(aq)\n(d) 2NaCl (aq) + 2H2O (l) →  2NaOH (aq) + Cl2(g) + H2(g)\nShort Answer  Questions"
+      "fullText": "Identify the correct representation of reaction occurring during\nchloralkali process\n(a) 2NaCl(l) + 2H2O(l) →  2NaOH(l) + Cl2(g) + H2(g)\n(b) 2NaCl(aq) + 2H2O(aq) →  2NaOH(aq) + Cl2(g) + H2(g)\n(c) 2NaCl(aq) + 2H2O(l) →  2NaOH(aq) + Cl2(aq) + H2(aq)\n(d) 2NaCl (aq) + 2H2O (l) →  2NaOH (aq) + Cl2(g) + H2(g)"
     },
     {
       "qNo": 31,
-      "section": "Multiple Choice Questions",
-      "type": "mcq",
-      "stem": "Match the acids given in Column (A) with their correct source given\nin Column (B)\nColumn (A)\nColumn (B)",
-      "options": [
-        {
-          "key": "a",
-          "text": "Lactic acid\n(i)\nTomato"
-        },
-        {
-          "key": "b",
-          "text": "Acetic acid\n(ii)\nLemon"
-        },
-        {
-          "key": "c",
-          "text": "Citric acid\n(iii) Vinegar"
-        },
-        {
-          "key": "d",
-          "text": "Oxalic acid\n(iv) Curd"
-        }
-      ],
+      "section": "Short Answer Questions",
+      "type": "short_answer",
+      "stem": "Match the acids given in Column (A) with their correct source given\nin Column (B)\nColumn (A)\nColumn (B)\n(a) Lactic acid\n(i)\nTomato\n(b) Acetic acid\n(ii)\nLemon\n(c) Citric acid\n(iii) Vinegar\n(d) Oxalic acid\n(iv) Curd",
+      "options": [],
       "fullText": "Match the acids given in Column (A) with their correct source given\nin Column (B)\nColumn (A)\nColumn (B)\n(a) Lactic acid\n(i)\nTomato\n(b) Acetic acid\n(ii)\nLemon\n(c) Citric acid\n(iii) Vinegar\n(d) Oxalic acid\n(iv) Curd"
     },
     {
       "qNo": 32,
-      "section": "Multiple Choice Questions",
-      "type": "mcq",
-      "stem": "Match the important chemicals given in Column (A) with the\nchemical formulae given in Column (B)\nColumn (A)\nColumn (B)",
-      "options": [
-        {
-          "key": "a",
-          "text": "Plaster of Paris\n(i)\nCa(OH)2"
-        },
-        {
-          "key": "b",
-          "text": "Gypsum\n(ii)\nCaSO4.1/2 H2O"
-        },
-        {
-          "key": "c",
-          "text": "Bleaching Powder\n(iii) CaSO4.2H2O"
-        },
-        {
-          "key": "d",
-          "text": "Slaked Lime\n(iv) Ca(ClO)2"
-        }
-      ],
+      "section": "Short Answer Questions",
+      "type": "short_answer",
+      "stem": "Match the important chemicals given in Column (A) with the\nchemical formulae given in Column (B)\nColumn (A)\nColumn (B)\n(a) Plaster of Paris\n(i)\nCa(OH)2\n(b) Gypsum\n(ii)\nCaSO4.1/2 H2O\n(c) Bleaching Powder\n(iii) CaSO4.2H2O\n(d) Slaked Lime\n(iv) Ca(ClO)2",
+      "options": [],
       "fullText": "Match the important chemicals given in Column (A) with the\nchemical formulae given in Column (B)\nColumn (A)\nColumn (B)\n(a) Plaster of Paris\n(i)\nCa(OH)2\n(b) Gypsum\n(ii)\nCaSO4.1/2 H2O\n(c) Bleaching Powder\n(iii) CaSO4.2H2O\n(d) Slaked Lime\n(iv) Ca(ClO)2"
     },
     {
       "qNo": 33,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "What will be the action of the following substances on litmus paper?\nDry HCl gas, Moistened NH3 gas, Lemon juice, Carbonated soft\ndrink,  Curd, Soap solution.",
       "options": [],
       "fullText": "What will be the action of the following substances on litmus paper?\nDry HCl gas, Moistened NH3 gas, Lemon juice, Carbonated soft\ndrink,  Curd, Soap solution."
     },
     {
       "qNo": 34,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "Name the acid present in ant sting and give its chemical formula.\nAlso give the common method to get relief from the discomfort\ncaused by the ant sting.",
       "options": [],
       "fullText": "Name the acid present in ant sting and give its chemical formula.\nAlso give the common method to get relief from the discomfort\ncaused by the ant sting."
     },
     {
       "qNo": 35,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "What happens when nitric acid is added to egg shell?",
       "options": [],
       "fullText": "What happens when nitric acid is added to egg shell?"
     },
     {
       "qNo": 36,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "A student prepared solutions of (i) an acid and (ii) a base in two\nseparate beakers. She forgot to label the solutions and litmus\npaper is not available in the laboratory. Since both the solutions\nare colourless, how will she distinguish between the two?",
       "options": [],
       "fullText": "A student prepared solutions of (i) an acid and (ii) a base in two\nseparate beakers. She forgot to label the solutions and litmus\npaper is not available in the laboratory. Since both the solutions\nare colourless, how will she distinguish between the two?"
     },
     {
       "qNo": 37,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "How would you distinguish between baking powder and washing\nsoda by heating?",
       "options": [],
       "fullText": "How would you distinguish between baking powder and washing\nsoda by heating?"
     },
     {
       "qNo": 38,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "Salt A commonly used in bakery products on heating gets\nconverted into another salt B which itself is used for removal of\nhardness of water and a gas C is evolved. The gas C when passed\nthrough lime water, turns it milky.  Identify A, B and C.\nName of the salt\n(i)\nAmmonium chloride\n(ii)\nCopper sulphate\n(iii)\nSodium chloride\n(iv)\nMagnesium nitrate\n(v)\nPotassium sulphate\n(vi)\nCalcium nitrate\nFormula\nNH4Cl\n—\nNaCl\nMg (NO3)2\nK2SO4\nCa(NO3)2\nBase\nNH4OH\n—\nNaOH\n—\n—\nCa(OH)2\nAcid\n—\nH2SO4\n—\nHNO3\n—\n—\nSalt obtained from",
       "options": [],
       "fullText": "Salt A commonly used in bakery products on heating gets\nconverted into another salt B which itself is used for removal of\nhardness of water and a gas C is evolved. The gas C when passed\nthrough lime water, turns it milky.  Identify A, B and C.\nName of the salt\n(i)\nAmmonium chloride\n(ii)\nCopper sulphate\n(iii)\nSodium chloride\n(iv)\nMagnesium nitrate\n(v)\nPotassium sulphate\n(vi)\nCalcium nitrate\nFormula\nNH4Cl\n—\nNaCl\nMg (NO3)2\nK2SO4\nCa(NO3)2\nBase\nNH4OH\n—\nNaOH\n—\n—\nCa(OH)2\nAcid\n—\nH2SO4\n—\nHNO3\n—\n—\nSalt obtained from"
     },
     {
       "qNo": 39,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "In one of the industrial processes used for manufacture of sodium\nhydroxide, a gas X is formed as by product. The gas X reacts with\nlime water to give a compound Y which is used as a bleaching\nagent in chemical industry. Identify X and Y giving the chemical\nequation of the reactions involved.",
       "options": [],
       "fullText": "In one of the industrial processes used for manufacture of sodium\nhydroxide, a gas X is formed as by product. The gas X reacts with\nlime water to give a compound Y which is used as a bleaching\nagent in chemical industry. Identify X and Y giving the chemical\nequation of the reactions involved."
     },
     {
       "qNo": 40,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "Fill in the missing data in the following table",
       "options": [],
       "fullText": "Fill in the missing data in the following table"
     },
     {
       "qNo": 41,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "What are strong and weak acids? In the following list of acids,\nseparate strong acids from weak acids.\nHydrochloric acid, citric acid, acetic acid, nitric acid, formic acid,\nsulphuric acid.",
       "options": [],
       "fullText": "What are strong and weak acids? In the following list of acids,\nseparate strong acids from weak acids.\nHydrochloric acid, citric acid, acetic acid, nitric acid, formic acid,\nsulphuric acid."
     },
     {
       "qNo": 42,
-      "section": "Subjective Questions",
-      "type": "subjective",
-      "stem": "When zinc metal is treated with a dilute solution of a  strong acid,\na gas is evolved, which is utilised in the hydrogenation of oil. Name\nthe gas evolved. Write the chemical equation of the reaction involved\nand also write a test to detect the gas formed.\n.QPI #PUYGT 3WGUVKQPU",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
+      "stem": "When zinc metal is treated with a dilute solution of a  strong acid,\na gas is evolved, which is utilised in the hydrogenation of oil. Name\nthe gas evolved. Write the chemical equation of the reaction involved\nand also write a test to detect the gas formed.",
       "options": [],
-      "fullText": "When zinc metal is treated with a dilute solution of a  strong acid,\na gas is evolved, which is utilised in the hydrogenation of oil. Name\nthe gas evolved. Write the chemical equation of the reaction involved\nand also write a test to detect the gas formed.\n.QPI #PUYGT 3WGUVKQPU"
+      "fullText": "When zinc metal is treated with a dilute solution of a  strong acid,\na gas is evolved, which is utilised in the hydrogenation of oil. Name\nthe gas evolved. Write the chemical equation of the reaction involved\nand also write a test to detect the gas formed."
     },
     {
       "qNo": 43,
-      "section": "Multiple Choice Questions",
-      "type": "mcq",
-      "stem": "In the following schematic diagram for the preparation of hydrogen\ngas as shown in Figure 2.3, what would happen if following\nchanges are made?\nSoap\nsolution\nSoap bubble filled\nwith hydrogen\nCandle\nBurning of hydrogen\ngas with a pop sound\nZinc granules\nHydrogen\ngas\nbubbles\nTest tube\nStand\nDilute\nsulphuric\nacid\nDelivery tube\nFig. 2.3",
-      "options": [
-        {
-          "key": "a",
-          "text": "In place of zinc granules, same amount of zinc dust is taken in\nthe test tube"
-        },
-        {
-          "key": "b",
-          "text": "Instead of dilute sulphuric  acid, dilute hydrochloric acid is\ntaken"
-        },
-        {
-          "key": "c",
-          "text": "In place of zinc, copper turnings are taken"
-        },
-        {
-          "key": "d",
-          "text": "Sodium hydroxide is taken in place of dilute sulphuric acid\nand the tube is heated."
-        }
-      ],
+      "section": "Long Answer Questions",
+      "type": "long_answer",
+      "stem": "In the following schematic diagram for the preparation of hydrogen\ngas as shown in Figure 2.3, what would happen if following\nchanges are made?\nSoap\nsolution\nSoap bubble filled\nwith hydrogen\nCandle\nBurning of hydrogen\ngas with a pop sound\nZinc granules\nHydrogen\ngas\nbubbles\nTest tube\nStand\nDilute\nsulphuric\nacid\nDelivery tube\nFig. 2.3\n(a) In place of zinc granules, same amount of zinc dust is taken in\nthe test tube\n(b) Instead of dilute sulphuric  acid, dilute hydrochloric acid is\ntaken\n(c) In place of zinc, copper turnings are taken\n(d) Sodium hydroxide is taken in place of dilute sulphuric acid\nand the tube is heated.",
+      "options": [],
       "fullText": "In the following schematic diagram for the preparation of hydrogen\ngas as shown in Figure 2.3, what would happen if following\nchanges are made?\nSoap\nsolution\nSoap bubble filled\nwith hydrogen\nCandle\nBurning of hydrogen\ngas with a pop sound\nZinc granules\nHydrogen\ngas\nbubbles\nTest tube\nStand\nDilute\nsulphuric\nacid\nDelivery tube\nFig. 2.3\n(a) In place of zinc granules, same amount of zinc dust is taken in\nthe test tube\n(b) Instead of dilute sulphuric  acid, dilute hydrochloric acid is\ntaken\n(c) In place of zinc, copper turnings are taken\n(d) Sodium hydroxide is taken in place of dilute sulphuric acid\nand the tube is heated."
     },
     {
       "qNo": 44,
-      "section": "Multiple Choice Questions",
-      "type": "mcq",
-      "stem": "For making cake, baking powder is taken. If at home your mother\nuses baking soda instead of baking powder in cake,",
-      "options": [
-        {
-          "key": "a",
-          "text": "how will it affect the taste of the cake and why?"
-        },
-        {
-          "key": "b",
-          "text": "how can baking soda be converted into baking powder?"
-        },
-        {
-          "key": "c",
-          "text": "what is the role of tartaric acid added to baking soda?"
-        }
-      ],
+      "section": "Long Answer Questions",
+      "type": "long_answer",
+      "stem": "For making cake, baking powder is taken. If at home your mother\nuses baking soda instead of baking powder in cake,\n(a) how will it affect the taste of the cake and why?\n(b) how can baking soda be converted into baking powder?\n(c) what is the role of tartaric acid added to baking soda?",
+      "options": [],
       "fullText": "For making cake, baking powder is taken. If at home your mother\nuses baking soda instead of baking powder in cake,\n(a) how will it affect the taste of the cake and why?\n(b) how can baking soda be converted into baking powder?\n(c) what is the role of tartaric acid added to baking soda?"
     },
     {
       "qNo": 45,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Long Answer Questions",
+      "type": "long_answer",
       "stem": "A metal carbonate X on reacting with an acid gives a gas which\nwhen passed  through a solution Y gives the carbonate back. On\nthe other hand, a gas G that is obtained at anode during electrolysis\nof brine is passed on dry Y, it gives a compound Z, used for\ndisinfecting drinking water. Identity X, Y, G and Z.",
       "options": [],
       "fullText": "A metal carbonate X on reacting with an acid gives a gas which\nwhen passed  through a solution Y gives the carbonate back. On\nthe other hand, a gas G that is obtained at anode during electrolysis\nof brine is passed on dry Y, it gives a compound Z, used for\ndisinfecting drinking water. Identity X, Y, G and Z."
     },
     {
       "qNo": 46,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Long Answer Questions",
+      "type": "long_answer",
       "stem": "A dry pellet of a common base B, when kept in open absorbs\nmoisture and turns sticky. The compound is also a by–product of\nchloralkali process. Identify B. What type of reaction occurs when\nB is treated with an acidic oxide? Write a balanced chemical\nequation for one such solution.",
       "options": [],
       "fullText": "A dry pellet of a common base B, when kept in open absorbs\nmoisture and turns sticky. The compound is also a by–product of\nchloralkali process. Identify B. What type of reaction occurs when\nB is treated with an acidic oxide? Write a balanced chemical\nequation for one such solution."
     },
     {
       "qNo": 47,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Long Answer Questions",
+      "type": "long_answer",
       "stem": "A sulphate salt of Group 2 element of the Periodic Table is a white,\nsoft substance, which can be moulded into different shapes by\nmaking its dough. When this compound is left in open for some\ntime, it becomes a solid mass and cannot be used for moulding\npurposes. Identify the sulphate salt and why does it show such a\nbehaviour? Give the reaction involved.",
       "options": [],
       "fullText": "A sulphate salt of Group 2 element of the Periodic Table is a white,\nsoft substance, which can be moulded into different shapes by\nmaking its dough. When this compound is left in open for some\ntime, it becomes a solid mass and cannot be used for moulding\npurposes. Identify the sulphate salt and why does it show such a\nbehaviour? Give the reaction involved."
     },
     {
       "qNo": 48,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Long Answer Questions",
+      "type": "long_answer",
       "stem": "Identify the compound X on the basis of the reactions given below.\nAlso, write the name and  chemical formulae of A, B and C.\nFig. 2.4",
       "options": [],
       "fullText": "Identify the compound X on the basis of the reactions given below.\nAlso, write the name and  chemical formulae of A, B and C.\nFig. 2.4"

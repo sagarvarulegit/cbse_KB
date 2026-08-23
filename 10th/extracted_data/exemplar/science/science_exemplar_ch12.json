@@ -448,163 +448,137 @@
         },
         {
           "key": "d",
-          "text": "joule second\n5JQTV #PUYGT 3WGUVKQPU\nFig. 12.6\nFig. 12.7"
+          "text": "joule second"
         }
       ],
-      "fullText": "Unit of electric power may also be expressed as\n(a) volt ampere\n(b) kilowatt hour\n(c) watt second\n(d) joule second\n5JQTV #PUYGT 3WGUVKQPU\nFig. 12.6\nFig. 12.7"
+      "fullText": "Unit of electric power may also be expressed as\n(a) volt ampere\n(b) kilowatt hour\n(c) watt second\n(d) joule second"
     },
     {
       "qNo": 19,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "A child has drawn the electric circuit to study Ohm’s law\nas shown in Figure 12.6. His teacher told that the circuit\ndiagram needs correction. Study the circuit diagram and\nredraw it after making all corrections.",
       "options": [],
       "fullText": "A child has drawn the electric circuit to study Ohm’s law\nas shown in Figure 12.6. His teacher told that the circuit\ndiagram needs correction. Study the circuit diagram and\nredraw it after making all corrections."
     },
     {
       "qNo": 20,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "Three 2 Ω resistors, A, B and C, are connected as shown\nin Figure 12.7. Each of them dissipates energy and can\nwithstand a maximum power of 18W without melting.\nFind the maximum current that can flow through the\nthree resistors?\n21. Should the resistance of an ammeter be low or high? Give\nreason.",
       "options": [],
       "fullText": "Three 2 Ω resistors, A, B and C, are connected as shown\nin Figure 12.7. Each of them dissipates energy and can\nwithstand a maximum power of 18W without melting.\nFind the maximum current that can flow through the\nthree resistors?\n21. Should the resistance of an ammeter be low or high? Give\nreason."
     },
     {
       "qNo": 22,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "Draw a circuit diagram  of an electric circuit containing a cell, a\nkey, an ammeter, a resistor of 2 Ω in series with a combination\nof two resistors (4 Ω  each) in parallel and a voltmeter across the\nparallel combination. Will the potential difference across the 2 Ω\nresistor be the same as that across the parallel combination of\n4Ω resistors? Give reason.",
       "options": [],
       "fullText": "Draw a circuit diagram  of an electric circuit containing a cell, a\nkey, an ammeter, a resistor of 2 Ω in series with a combination\nof two resistors (4 Ω  each) in parallel and a voltmeter across the\nparallel combination. Will the potential difference across the 2 Ω\nresistor be the same as that across the parallel combination of\n4Ω resistors? Give reason."
     },
     {
       "qNo": 23,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "How does use of a fuse wire protect electrical appliances?",
       "options": [],
       "fullText": "How does use of a fuse wire protect electrical appliances?"
     },
     {
       "qNo": 24,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "What is electrical resistivity? In a series electrical circuit\ncomprising a resistor made up of a metallic wire, the ammeter\nreads 5 A. The reading of the ammeter decreases to half when the\nlength of the wire is doubled. Why?",
       "options": [],
       "fullText": "What is electrical resistivity? In a series electrical circuit\ncomprising a resistor made up of a metallic wire, the ammeter\nreads 5 A. The reading of the ammeter decreases to half when the\nlength of the wire is doubled. Why?"
     },
     {
       "qNo": 25,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "What is the commercial unit of electrical energy? Represent it in\nterms of joules.",
       "options": [],
       "fullText": "What is the commercial unit of electrical energy? Represent it in\nterms of joules."
     },
     {
       "qNo": 26,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "A current of 1 ampere flows in a series circuit containing an electric\nlamp and a conductor of 5 Ω when connected to a 10 V battery.\nCalculate the resistance of the electric lamp.\nNow if a resistance of 10 Ω is connected in parallel with this\nseries combination, what change (if any) in current flowing through\n5 Ω conductor and potential difference across the lamp will take\nplace?  Give reason.",
       "options": [],
       "fullText": "A current of 1 ampere flows in a series circuit containing an electric\nlamp and a conductor of 5 Ω when connected to a 10 V battery.\nCalculate the resistance of the electric lamp.\nNow if a resistance of 10 Ω is connected in parallel with this\nseries combination, what change (if any) in current flowing through\n5 Ω conductor and potential difference across the lamp will take\nplace?  Give reason."
     },
     {
       "qNo": 27,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "Why is parallel arrangement used in domestic wiring?",
       "options": [],
       "fullText": "Why is parallel arrangement used in domestic wiring?"
     },
     {
       "qNo": 28,
-      "section": "Subjective Questions",
-      "type": "subjective",
-      "stem": "B1, B2 and B3 are three identical bulbs connected as shown in\nFigure 12.8. When all the three bulbs glow, a current of 3A is\nrecorded by the ammeter A.\n(i) What happens to the glow of the other two bulbs when the\nbulb B1 gets fused?\n(ii) What happens to the reading of A1, A2, A3 and A when the\nbulb B2 gets fused?\n(iii) How much power is dissipated in the circuit when all the\nthree bulbs glow together?\n.QPI #PUYGT 3WGUVKQPU",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
+      "stem": "B1, B2 and B3 are three identical bulbs connected as shown in\nFigure 12.8. When all the three bulbs glow, a current of 3A is\nrecorded by the ammeter A.\n(i) What happens to the glow of the other two bulbs when the\nbulb B1 gets fused?\n(ii) What happens to the reading of A1, A2, A3 and A when the\nbulb B2 gets fused?\n(iii) How much power is dissipated in the circuit when all the\nthree bulbs glow together?",
       "options": [],
-      "fullText": "B1, B2 and B3 are three identical bulbs connected as shown in\nFigure 12.8. When all the three bulbs glow, a current of 3A is\nrecorded by the ammeter A.\n(i) What happens to the glow of the other two bulbs when the\nbulb B1 gets fused?\n(ii) What happens to the reading of A1, A2, A3 and A when the\nbulb B2 gets fused?\n(iii) How much power is dissipated in the circuit when all the\nthree bulbs glow together?\n.QPI #PUYGT 3WGUVKQPU"
+      "fullText": "B1, B2 and B3 are three identical bulbs connected as shown in\nFigure 12.8. When all the three bulbs glow, a current of 3A is\nrecorded by the ammeter A.\n(i) What happens to the glow of the other two bulbs when the\nbulb B1 gets fused?\n(ii) What happens to the reading of A1, A2, A3 and A when the\nbulb B2 gets fused?\n(iii) How much power is dissipated in the circuit when all the\nthree bulbs glow together?"
     },
     {
       "qNo": 29,
-      "section": "Multiple Choice Questions",
-      "type": "mcq",
-      "stem": "Three incandescent bulbs of 100 W each are connected in series\nin an electric circuit. In another circuit another set of three bulbs\nof the same wattage are connected in parallel to the same source.",
-      "options": [
-        {
-          "key": "a",
-          "text": "Will the bulb in the two circuits glow with the same brightness?\nJustify your answer."
-        },
-        {
-          "key": "b",
-          "text": "Now let one bulb in both the circuits get fused. Will the rest of\nthe bulbs continue to glow in each circuit? Give reason."
-        }
-      ],
+      "section": "Long Answer Questions",
+      "type": "long_answer",
+      "stem": "Three incandescent bulbs of 100 W each are connected in series\nin an electric circuit. In another circuit another set of three bulbs\nof the same wattage are connected in parallel to the same source.\n(a) Will the bulb in the two circuits glow with the same brightness?\nJustify your answer.\n(b) Now let one bulb in both the circuits get fused. Will the rest of\nthe bulbs continue to glow in each circuit? Give reason.",
+      "options": [],
       "fullText": "Three incandescent bulbs of 100 W each are connected in series\nin an electric circuit. In another circuit another set of three bulbs\nof the same wattage are connected in parallel to the same source.\n(a) Will the bulb in the two circuits glow with the same brightness?\nJustify your answer.\n(b) Now let one bulb in both the circuits get fused. Will the rest of\nthe bulbs continue to glow in each circuit? Give reason."
     },
     {
       "qNo": 30,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Long Answer Questions",
+      "type": "long_answer",
       "stem": "State Ohm’s law? How can it be verified experimentally? Does it\nhold good under all conditions? Comment.",
       "options": [],
       "fullText": "State Ohm’s law? How can it be verified experimentally? Does it\nhold good under all conditions? Comment."
     },
     {
       "qNo": 31,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Long Answer Questions",
+      "type": "long_answer",
       "stem": "What is electrical resistivity of a material? What is its unit?\nDescribe an experiment to study the factors on which the\nresistance of conducting wire depends.",
       "options": [],
       "fullText": "What is electrical resistivity of a material? What is its unit?\nDescribe an experiment to study the factors on which the\nresistance of conducting wire depends."
     },
     {
       "qNo": 32,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Long Answer Questions",
+      "type": "long_answer",
       "stem": "How will you infer with the help of an experiment that the same\ncurrent flows through every part of the circuit containing three\nresistances in series connected to a battery?",
       "options": [],
       "fullText": "How will you infer with the help of an experiment that the same\ncurrent flows through every part of the circuit containing three\nresistances in series connected to a battery?"
     },
     {
       "qNo": 33,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Long Answer Questions",
+      "type": "long_answer",
       "stem": "How will you conclude that the same potential difference (voltage)\nexists across three resistors connected in a parallel arrangement\nto a battery?\nFig. 12.8",
       "options": [],
       "fullText": "How will you conclude that the same potential difference (voltage)\nexists across three resistors connected in a parallel arrangement\nto a battery?\nFig. 12.8"
     },
     {
       "qNo": 34,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Long Answer Questions",
+      "type": "long_answer",
       "stem": "What is Joule’s heating effect? How can it be demonstrated\nexperimentally? List its four applications in daily life.",
       "options": [],
       "fullText": "What is Joule’s heating effect? How can it be demonstrated\nexperimentally? List its four applications in daily life."
     },
     {
       "qNo": 35,
-      "section": "Multiple Choice Questions",
-      "type": "mcq",
-      "stem": "Find out the following in the electric circuit given in Figure 12.9",
-      "options": [
-        {
-          "key": "a",
-          "text": "Effective resistance of two 8 Ω resistors in the combination"
-        },
-        {
-          "key": "b",
-          "text": "Current flowing through 4 Ω resistor"
-        },
-        {
-          "key": "c",
-          "text": "Potential difference across 4 Ω resistance"
-        },
-        {
-          "key": "d",
-          "text": "Power dissipated in 4 Ω resistor\n(e) Difference in ammeter readings, if any.\nFig. 12.9"
-        }
-      ],
+      "section": "Long Answer Questions",
+      "type": "long_answer",
+      "stem": "Find out the following in the electric circuit given in Figure 12.9\n(a) Effective resistance of two 8 Ω resistors in the combination\n(b) Current flowing through 4 Ω resistor\n(c) Potential difference across 4 Ω resistance\n(d) Power dissipated in 4 Ω resistor\n(e) Difference in ammeter readings, if any.\nFig. 12.9",
+      "options": [],
       "fullText": "Find out the following in the electric circuit given in Figure 12.9\n(a) Effective resistance of two 8 Ω resistors in the combination\n(b) Current flowing through 4 Ω resistor\n(c) Potential difference across 4 Ω resistance\n(d) Power dissipated in 4 Ω resistor\n(e) Difference in ammeter readings, if any.\nFig. 12.9"
     }
   ]

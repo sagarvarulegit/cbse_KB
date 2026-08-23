@@ -648,421 +648,207 @@
         },
         {
           "key": "d",
-          "text": "C\nO\nN\n5JQTV #PUYGT 3WGUVKQPU"
+          "text": "C\nO\nN"
         }
       ],
-      "fullText": "Which of the following set of elements is written in order of their\nincreasing metallic character?\n(a) Be\nMg\nCa\n(b) Na\nLi\nK\n(c) Mg\nAl\nSi\n(d) C\nO\nN\n5JQTV #PUYGT 3WGUVKQPU"
+      "fullText": "Which of the following set of elements is written in order of their\nincreasing metallic character?\n(a) Be\nMg\nCa\n(b) Na\nLi\nK\n(c) Mg\nAl\nSi\n(d) C\nO\nN"
     },
     {
       "qNo": 27,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "The three elements A, B and C with similar properties have atomic\nmasses X, Y and Z respectively. The mass of Y is approximately\nequal to the average mass of X and Z. What is such an arrangement\nof elements called as? Give one example of such a set of elements.",
       "options": [],
       "fullText": "The three elements A, B and C with similar properties have atomic\nmasses X, Y and Z respectively. The mass of Y is approximately\nequal to the average mass of X and Z. What is such an arrangement\nof elements called as? Give one example of such a set of elements."
     },
     {
       "qNo": 28,
-      "section": "Multiple Choice Questions",
-      "type": "mcq",
-      "stem": "Elements have been arranged in the following sequence on the\nbasis of their increasing atomic masses.\nF,\nNa,\nMg,\nAl,\nSi,\nP,\nS,\nCl,   Ar,  K",
-      "options": [
-        {
-          "key": "a",
-          "text": "Pick two sets of elements which have similar properties."
-        },
-        {
-          "key": "b",
-          "text": "The given sequence represents which law of classification of\nelements?"
-        }
-      ],
+      "section": "Short Answer Questions",
+      "type": "short_answer",
+      "stem": "Elements have been arranged in the following sequence on the\nbasis of their increasing atomic masses.\nF,\nNa,\nMg,\nAl,\nSi,\nP,\nS,\nCl,   Ar,  K\n(a) Pick two sets of elements which have similar properties.\n(b) The given sequence represents which law of classification of\nelements?",
+      "options": [],
       "fullText": "Elements have been arranged in the following sequence on the\nbasis of their increasing atomic masses.\nF,\nNa,\nMg,\nAl,\nSi,\nP,\nS,\nCl,   Ar,  K\n(a) Pick two sets of elements which have similar properties.\n(b) The given sequence represents which law of classification of\nelements?"
     },
     {
       "qNo": 29,
-      "section": "Multiple Choice Questions",
-      "type": "mcq",
-      "stem": "Can the following groups of elements be classified as Dobereiner's\ntriad ?",
-      "options": [
-        {
-          "key": "a",
-          "text": "Na,\nSi,\nCl"
-        },
-        {
-          "key": "b",
-          "text": "Be,\nMg,\nCa\nAtomic mass of Be  9; Na  23;  Mg  24;  Si    28;  Cl  35;  Ca  40\nExplain by giving reason."
-        }
-      ],
+      "section": "Short Answer Questions",
+      "type": "short_answer",
+      "stem": "Can the following groups of elements be classified as Dobereiner's\ntriad ?\n(a)\nNa,\nSi,\nCl\n(b)\nBe,\nMg,\nCa\nAtomic mass of Be  9; Na  23;  Mg  24;  Si    28;  Cl  35;  Ca  40\nExplain by giving reason.",
+      "options": [],
       "fullText": "Can the following groups of elements be classified as Dobereiner's\ntriad ?\n(a)\nNa,\nSi,\nCl\n(b)\nBe,\nMg,\nCa\nAtomic mass of Be  9; Na  23;  Mg  24;  Si    28;  Cl  35;  Ca  40\nExplain by giving reason."
     },
     {
       "qNo": 30,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "In Mendeleev\n′\n’s Periodic Table the elements were arranged in the\nincreasing order of their atomic masses. However, cobalt with\natomic mass of 58.93 amu was placed before nickel having an\natomic mass of 58.71 amu. Give reason for the same.",
       "options": [],
       "fullText": "In Mendeleev\n′\n’s Periodic Table the elements were arranged in the\nincreasing order of their atomic masses. However, cobalt with\natomic mass of 58.93 amu was placed before nickel having an\natomic mass of 58.71 amu. Give reason for the same."
     },
     {
       "qNo": 31,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "“Hydrogen occupies a unique position in Modern Periodic Table”.\nJustify the statement.",
       "options": [],
       "fullText": "“Hydrogen occupies a unique position in Modern Periodic Table”.\nJustify the statement."
     },
     {
       "qNo": 32,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "Write the formulae of chlorides of Eka-silicon and Eka-aluminium,\nthe elements predicted by\n′\nMendeleev.",
       "options": [],
       "fullText": "Write the formulae of chlorides of Eka-silicon and Eka-aluminium,\nthe elements predicted by\n′\nMendeleev."
     },
     {
       "qNo": 33,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "Three elements A, B and C have 3, 4  and 2 electrons respectively\nin their outermost shell. Give the group number to which they\nbelong in the Modern Periodic Table. Also, give their valencies.",
       "options": [],
       "fullText": "Three elements A, B and C have 3, 4  and 2 electrons respectively\nin their outermost shell. Give the group number to which they\nbelong in the Modern Periodic Table. Also, give their valencies."
     },
     {
       "qNo": 34,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "If an element X is placed in group 14, what will be the formula\nand the nature of bonding of its chloride?",
       "options": [],
       "fullText": "If an element X is placed in group 14, what will be the formula\nand the nature of bonding of its chloride?"
     },
     {
       "qNo": 35,
-      "section": "Multiple Choice Questions",
-      "type": "mcq",
-      "stem": "Compare the radii of two species X and Y. Give reasons for your\nanswer.",
-      "options": [
-        {
-          "key": "a",
-          "text": "X has 12 protons and 12 electrons"
-        },
-        {
-          "key": "b",
-          "text": "Y has 12 protons and 10 electrons"
-        }
-      ],
+      "section": "Short Answer Questions",
+      "type": "short_answer",
+      "stem": "Compare the radii of two species X and Y. Give reasons for your\nanswer.\n(a) X has 12 protons and 12 electrons\n(b) Y has 12 protons and 10 electrons",
+      "options": [],
       "fullText": "Compare the radii of two species X and Y. Give reasons for your\nanswer.\n(a) X has 12 protons and 12 electrons\n(b) Y has 12 protons and 10 electrons"
     },
     {
       "qNo": 36,
-      "section": "Multiple Choice Questions",
-      "type": "mcq",
-      "stem": "Arrange the following elements in increasing order of their atomic\nradii.",
-      "options": [
-        {
-          "key": "a",
-          "text": "Li,\nBe,\nF,\nN"
-        },
-        {
-          "key": "b",
-          "text": "Cl, At,\nBr I"
-        }
-      ],
+      "section": "Short Answer Questions",
+      "type": "short_answer",
+      "stem": "Arrange the following elements in increasing order of their atomic\nradii.\n(a) Li,\nBe,\nF,\nN\n(b) Cl, At,\nBr I",
+      "options": [],
       "fullText": "Arrange the following elements in increasing order of their atomic\nradii.\n(a) Li,\nBe,\nF,\nN\n(b) Cl, At,\nBr I"
     },
     {
       "qNo": 37,
-      "section": "Multiple Choice Questions",
-      "type": "mcq",
-      "stem": "Identify and name the metals out of the following elements whose\nelectronic configurations are given below.",
-      "options": [
-        {
-          "key": "a",
-          "text": "2,  8,  2"
-        },
-        {
-          "key": "b",
-          "text": "2,  8,  1"
-        },
-        {
-          "key": "c",
-          "text": "2,  8,  7"
-        },
-        {
-          "key": "d",
-          "text": "2,  1"
-        }
-      ],
+      "section": "Short Answer Questions",
+      "type": "short_answer",
+      "stem": "Identify and name the metals out of the following elements whose\nelectronic configurations are given below.\n(a) 2,  8,  2\n(b) 2,  8,  1\n(c) 2,  8,  7\n(d) 2,  1",
+      "options": [],
       "fullText": "Identify and name the metals out of the following elements whose\nelectronic configurations are given below.\n(a) 2,  8,  2\n(b) 2,  8,  1\n(c) 2,  8,  7\n(d) 2,  1"
     },
     {
       "qNo": 38,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "Write the formula of the product formed when the element A (atomic\nnumber 19)  combines with the  element B (atomic number 17).\nDraw its electronic dot structure. What is the nature of the bond\nformed?",
       "options": [],
       "fullText": "Write the formula of the product formed when the element A (atomic\nnumber 19)  combines with the  element B (atomic number 17).\nDraw its electronic dot structure. What is the nature of the bond\nformed?"
     },
     {
       "qNo": 39,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Short Answer Questions",
+      "type": "short_answer",
       "stem": "Arrange the following elements in the increasing order of their\nmetallic character\nMg,    Ca,    K,    Ge,    Ga",
       "options": [],
       "fullText": "Arrange the following elements in the increasing order of their\nmetallic character\nMg,    Ca,    K,    Ge,    Ga"
     },
     {
       "qNo": 40,
-      "section": "Multiple Choice Questions",
-      "type": "mcq",
-      "stem": "Identify the elements with the following property and arrange them\nin increasing order of their reactivity",
-      "options": [
-        {
-          "key": "a",
-          "text": "An element which is a soft and reactive metal"
-        },
-        {
-          "key": "b",
-          "text": "The metal which is an important constituent of limestone"
-        },
-        {
-          "key": "c",
-          "text": "The metal which exists in liquid state at room temperature"
-        }
-      ],
+      "section": "Short Answer Questions",
+      "type": "short_answer",
+      "stem": "Identify the elements with the following property and arrange them\nin increasing order of their reactivity\n(a) An element which is a soft and reactive metal\n(b) The metal which is an important constituent of limestone\n(c) The metal which exists in liquid state at room temperature",
+      "options": [],
       "fullText": "Identify the elements with the following property and arrange them\nin increasing order of their reactivity\n(a) An element which is a soft and reactive metal\n(b) The metal which is an important constituent of limestone\n(c) The metal which exists in liquid state at room temperature"
     },
     {
       "qNo": 41,
-      "section": "Multiple Choice Questions",
-      "type": "mcq",
-      "stem": "Properties of the elements are given below. Where would you locate\nthe following elements in the periodic table?",
-      "options": [
-        {
-          "key": "a",
-          "text": "A soft metal stored under kerosene"
-        },
-        {
-          "key": "b",
-          "text": "An element with variable (more than one) valency stored under\nwater."
-        },
-        {
-          "key": "c",
-          "text": "An element which is tetravalent and forms the basis of organic\nchemistry"
-        },
-        {
-          "key": "d",
-          "text": "An element which is an inert gas with atomic number 2\n(e) An element whose thin oxide layer is used to make other\nelements corrosion resistant by the process of “ anodising”\n.QPI #PUYGT 3WGUVKQPU"
-        }
-      ],
-      "fullText": "Properties of the elements are given below. Where would you locate\nthe following elements in the periodic table?\n(a) A soft metal stored under kerosene\n(b) An element with variable (more than one) valency stored under\nwater.\n(c) An element which is tetravalent and forms the basis of organic\nchemistry\n(d) An element which is an inert gas with atomic number 2\n(e) An element whose thin oxide layer is used to make other\nelements corrosion resistant by the process of “ anodising”\n.QPI #PUYGT 3WGUVKQPU"
+      "section": "Short Answer Questions",
+      "type": "short_answer",
+      "stem": "Properties of the elements are given below. Where would you locate\nthe following elements in the periodic table?\n(a) A soft metal stored under kerosene\n(b) An element with variable (more than one) valency stored under\nwater.\n(c) An element which is tetravalent and forms the basis of organic\nchemistry\n(d) An element which is an inert gas with atomic number 2\n(e) An element whose thin oxide layer is used to make other\nelements corrosion resistant by the process of “ anodising”",
+      "options": [],
+      "fullText": "Properties of the elements are given below. Where would you locate\nthe following elements in the periodic table?\n(a) A soft metal stored under kerosene\n(b) An element with variable (more than one) valency stored under\nwater.\n(c) An element which is tetravalent and forms the basis of organic\nchemistry\n(d) An element which is an inert gas with atomic number 2\n(e) An element whose thin oxide layer is used to make other\nelements corrosion resistant by the process of “ anodising”"
     },
     {
       "qNo": 42,
-      "section": "Multiple Choice Questions",
-      "type": "mcq",
-      "stem": "An element is placed in 2nd Group and 3rd Period of the Periodic\nTable, burns in presence of oxygen to form a basic oxide.",
-      "options": [
-        {
-          "key": "a",
-          "text": "Identify the element"
-        },
-        {
-          "key": "b",
-          "text": "Write the electronic configuration"
-        },
-        {
-          "key": "c",
-          "text": "Write the balanced equation when it burns in the presence of air"
-        },
-        {
-          "key": "d",
-          "text": "Write a balanced equation when this oxide is dissolved in water\n(e) Draw the electron dot structure for the formation of this oxide"
-        }
-      ],
+      "section": "Long Answer Questions",
+      "type": "long_answer",
+      "stem": "An element is placed in 2nd Group and 3rd Period of the Periodic\nTable, burns in presence of oxygen to form a basic oxide.\n(a) Identify the element\n(b) Write the electronic configuration\n(c) Write the balanced equation when it burns in the presence of air\n(d) Write a balanced equation when this oxide is dissolved in water\n(e) Draw the electron dot structure for the formation of this oxide",
+      "options": [],
       "fullText": "An element is placed in 2nd Group and 3rd Period of the Periodic\nTable, burns in presence of oxygen to form a basic oxide.\n(a) Identify the element\n(b) Write the electronic configuration\n(c) Write the balanced equation when it burns in the presence of air\n(d) Write a balanced equation when this oxide is dissolved in water\n(e) Draw the electron dot structure for the formation of this oxide"
     },
     {
       "qNo": 43,
-      "section": "Multiple Choice Questions",
-      "type": "mcq",
-      "stem": "An element X (atomic number 17) reacts with an element Y (atomic\nnumber 20) to form a divalent halide.",
-      "options": [
-        {
-          "key": "a",
-          "text": "Where in the periodic table are elements X and Y placed?"
-        },
-        {
-          "key": "b",
-          "text": "Classify X and Y as metal (s), non-metal (s) or metalloid (s)"
-        },
-        {
-          "key": "c",
-          "text": "What will be the nature of oxide of element Y? Identify the\nnature of bonding in the compound formed"
-        },
-        {
-          "key": "d",
-          "text": "Draw the electron dot structure of the divalent halide"
-        }
-      ],
+      "section": "Long Answer Questions",
+      "type": "long_answer",
+      "stem": "An element X (atomic number 17) reacts with an element Y (atomic\nnumber 20) to form a divalent halide.\n(a) Where in the periodic table are elements X and Y placed?\n(b) Classify X and Y as metal (s), non-metal (s) or metalloid (s)\n(c) What will be the nature of oxide of element Y? Identify the\nnature of bonding in the compound formed\n(d) Draw the electron dot structure of the divalent halide",
+      "options": [],
       "fullText": "An element X (atomic number 17) reacts with an element Y (atomic\nnumber 20) to form a divalent halide.\n(a) Where in the periodic table are elements X and Y placed?\n(b) Classify X and Y as metal (s), non-metal (s) or metalloid (s)\n(c) What will be the nature of oxide of element Y? Identify the\nnature of bonding in the compound formed\n(d) Draw the electron dot structure of the divalent halide"
     },
     {
       "qNo": 44,
-      "section": "Multiple Choice Questions",
-      "type": "mcq",
-      "stem": "Atomic number of a few elements are given below\n10, 20, 7, 14",
-      "options": [
-        {
-          "key": "a",
-          "text": "Identify the elements"
-        },
-        {
-          "key": "b",
-          "text": "Identify the Group number of these elements in the Periodic Table"
-        },
-        {
-          "key": "c",
-          "text": "Identify the Periods of these elements in the Periodic Table"
-        },
-        {
-          "key": "d",
-          "text": "What would be the electronic configuration for each of these\nelements?\n(e) Determine the valency of these elements"
-        }
-      ],
+      "section": "Long Answer Questions",
+      "type": "long_answer",
+      "stem": "Atomic number of a few elements are given below\n10, 20, 7, 14\n(a) Identify the elements\n(b) Identify the Group number of these elements in the Periodic Table\n(c) Identify the Periods of these elements in the Periodic Table\n(d) What would be the electronic configuration for each of these\nelements?\n(e) Determine the valency of these elements",
+      "options": [],
       "fullText": "Atomic number of a few elements are given below\n10, 20, 7, 14\n(a) Identify the elements\n(b) Identify the Group number of these elements in the Periodic Table\n(c) Identify the Periods of these elements in the Periodic Table\n(d) What would be the electronic configuration for each of these\nelements?\n(e) Determine the valency of these elements"
     },
     {
       "qNo": 45,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Long Answer Questions",
+      "type": "long_answer",
       "stem": "Complete the following cross word puzzle (Figure 5.1)\nFig. 5.1\nAcross:\n(1) An element with atomic\nnumber 12.\n(3) Metal used in making\ncans and member of\nGroup 14.\n(4) A lustrous non-metal\nwhich has 7 electrons in\nits outermost shell.\nDown:\n(2) Highly reactive and soft\nmetal which imparts\nyellow colour when\nsubjected to flame and\nis kept in kerosene.\n(5) The first element of second Period\n(6) An element which is used in making fluorescent bulbs and is\nsecond member of Group 18 in the Modern Periodic Table\n(7) A radioactive element which is the last member of halogen\nfamily.\n(8) Metal which is an important constituent of steel and forms rust\nwhen exposed to moist air.\n(9) The first metalloid in Modern Periodic Table whose fibres are\nused in making bullet-proof vests",
       "options": [],
       "fullText": "Complete the following cross word puzzle (Figure 5.1)\nFig. 5.1\nAcross:\n(1) An element with atomic\nnumber 12.\n(3) Metal used in making\ncans and member of\nGroup 14.\n(4) A lustrous non-metal\nwhich has 7 electrons in\nits outermost shell.\nDown:\n(2) Highly reactive and soft\nmetal which imparts\nyellow colour when\nsubjected to flame and\nis kept in kerosene.\n(5) The first element of second Period\n(6) An element which is used in making fluorescent bulbs and is\nsecond member of Group 18 in the Modern Periodic Table\n(7) A radioactive element which is the last member of halogen\nfamily.\n(8) Metal which is an important constituent of steel and forms rust\nwhen exposed to moist air.\n(9) The first metalloid in Modern Periodic Table whose fibres are\nused in making bullet-proof vests"
     },
     {
       "qNo": 46,
-      "section": "Multiple Choice Questions",
-      "type": "mcq",
-      "stem": "(a) In this ladder (Figure 5.2) symbols of elements are jumbled\nup. Rearrange these symbols of  elements in the increasing order\nof their atomic number in the Periodic Table.",
-      "options": [
-        {
-          "key": "b",
-          "text": "Arrange them in the order of their group also.\nFig. 5.2\n47.   Mendeleev\n′\npredicted the existence of certain elements not known at\nthat time and named two of them as Eka-silicon and Eka-aluminium."
-        },
-        {
-          "key": "a",
-          "text": "Name the elements which have taken the place of these elements"
-        },
-        {
-          "key": "b",
-          "text": "Mention the group and the period of these elements in the\nModern Periodic Table."
-        },
-        {
-          "key": "c",
-          "text": "Classify these elements as metals, non-metals or metalloids"
-        },
-        {
-          "key": "d",
-          "text": "How many valence electrons are present in each one of them?"
-        }
-      ],
+      "section": "Long Answer Questions",
+      "type": "long_answer",
+      "stem": "(a) In this ladder (Figure 5.2) symbols of elements are jumbled\nup. Rearrange these symbols of  elements in the increasing order\nof their atomic number in the Periodic Table.\n(b) Arrange them in the order of their group also.\nFig. 5.2\n47.   Mendeleev\n′\npredicted the existence of certain elements not known at\nthat time and named two of them as Eka-silicon and Eka-aluminium.\n(a) Name the elements which have taken the place of these elements\n(b) Mention the group and the period of these elements in the\nModern Periodic Table.\n(c) Classify these elements as metals, non-metals or metalloids\n(d) How many valence electrons are present in each one of them?",
+      "options": [],
       "fullText": "(a) In this ladder (Figure 5.2) symbols of elements are jumbled\nup. Rearrange these symbols of  elements in the increasing order\nof their atomic number in the Periodic Table.\n(b) Arrange them in the order of their group also.\nFig. 5.2\n47.   Mendeleev\n′\npredicted the existence of certain elements not known at\nthat time and named two of them as Eka-silicon and Eka-aluminium.\n(a) Name the elements which have taken the place of these elements\n(b) Mention the group and the period of these elements in the\nModern Periodic Table.\n(c) Classify these elements as metals, non-metals or metalloids\n(d) How many valence electrons are present in each one of them?"
     },
     {
       "qNo": 48,
-      "section": "Multiple Choice Questions",
-      "type": "mcq",
-      "stem": "(a) Electropositive nature of the element(s) increases down the\ngroup and decreases across the period",
-      "options": [
-        {
-          "key": "b",
-          "text": "Electronegativity of the element decreases down the group and\nincreases across the period"
-        },
-        {
-          "key": "c",
-          "text": "Atomic size increases down the group and decreases across a\nperiod (left to right)"
-        },
-        {
-          "key": "d",
-          "text": "Metallic character increases down the group and  decreases\nacross a period.\nOn the basis of the above trends of the Periodic Table, answer\nthe following about the elements with atomic numbers 3 to 9."
-        },
-        {
-          "key": "a",
-          "text": "Name the most electropositive element  among them"
-        },
-        {
-          "key": "b",
-          "text": "Name the most electronegative element"
-        },
-        {
-          "key": "c",
-          "text": "Name the element with smallest atomic size"
-        },
-        {
-          "key": "d",
-          "text": "Name the element which  is a metalloid\n(e) Name the element which shows maximum valency."
-        }
-      ],
+      "section": "Long Answer Questions",
+      "type": "long_answer",
+      "stem": "(a) Electropositive nature of the element(s) increases down the\ngroup and decreases across the period\n(b) Electronegativity of the element decreases down the group and\nincreases across the period\n(c) Atomic size increases down the group and decreases across a\nperiod (left to right)\n(d) Metallic character increases down the group and  decreases\nacross a period.\nOn the basis of the above trends of the Periodic Table, answer\nthe following about the elements with atomic numbers 3 to 9.\n(a) Name the most electropositive element  among them\n(b) Name the most electronegative element\n(c) Name the element with smallest atomic size\n(d) Name the element which  is a metalloid\n(e) Name the element which shows maximum valency.",
+      "options": [],
       "fullText": "(a) Electropositive nature of the element(s) increases down the\ngroup and decreases across the period\n(b) Electronegativity of the element decreases down the group and\nincreases across the period\n(c) Atomic size increases down the group and decreases across a\nperiod (left to right)\n(d) Metallic character increases down the group and  decreases\nacross a period.\nOn the basis of the above trends of the Periodic Table, answer\nthe following about the elements with atomic numbers 3 to 9.\n(a) Name the most electropositive element  among them\n(b) Name the most electronegative element\n(c) Name the element with smallest atomic size\n(d) Name the element which  is a metalloid\n(e) Name the element which shows maximum valency."
     },
     {
       "qNo": 49,
-      "section": "Multiple Choice Questions",
-      "type": "mcq",
-      "stem": "An element X which is a yellow solid at room temperature shows\ncatenation and allotropy. X forms two oxides which are also formed\nduring the thermal decomposition of ferrous sulphate crystals and\nare the major air pollutants.",
-      "options": [
-        {
-          "key": "a",
-          "text": "Identify the element X"
-        },
-        {
-          "key": "b",
-          "text": "Write the electronic configuration of X"
-        },
-        {
-          "key": "c",
-          "text": "Write the balanced chemical equation for the thermal\ndecomposition of ferrous sulphate crystals?"
-        },
-        {
-          "key": "d",
-          "text": "What would be the nature (acidic/ basic) of oxides formed?\n(e) Locate the position of the element in the Modern Periodic Table."
-        }
-      ],
+      "section": "Long Answer Questions",
+      "type": "long_answer",
+      "stem": "An element X which is a yellow solid at room temperature shows\ncatenation and allotropy. X forms two oxides which are also formed\nduring the thermal decomposition of ferrous sulphate crystals and\nare the major air pollutants.\n(a) Identify the element X\n(b) Write the electronic configuration of X\n(c) Write the balanced chemical equation for the thermal\ndecomposition of ferrous sulphate crystals?\n(d) What would be the nature (acidic/ basic) of oxides formed?\n(e) Locate the position of the element in the Modern Periodic Table.",
+      "options": [],
       "fullText": "An element X which is a yellow solid at room temperature shows\ncatenation and allotropy. X forms two oxides which are also formed\nduring the thermal decomposition of ferrous sulphate crystals and\nare the major air pollutants.\n(a) Identify the element X\n(b) Write the electronic configuration of X\n(c) Write the balanced chemical equation for the thermal\ndecomposition of ferrous sulphate crystals?\n(d) What would be the nature (acidic/ basic) of oxides formed?\n(e) Locate the position of the element in the Modern Periodic Table."
     },
     {
       "qNo": 50,
-      "section": "Multiple Choice Questions",
-      "type": "mcq",
-      "stem": "An element X of group 15 exists as diatomic molecule and\ncombines with hydrogen at 773 K in presence of the catalyst\nto form a compound, ammonia which has a characteristic\npungent smell.",
-      "options": [
-        {
-          "key": "a",
-          "text": "Identify the element X. How many valence electrons does it\nhave?"
-        },
-        {
-          "key": "b",
-          "text": "Draw the electron dot structure of the diatomic molecule of  X.\nWhat type of bond is formed in it?"
-        },
-        {
-          "key": "c",
-          "text": "Draw the electron dot structure for ammonia and what type of\nbond is formed in it?"
-        }
-      ],
+      "section": "Long Answer Questions",
+      "type": "long_answer",
+      "stem": "An element X of group 15 exists as diatomic molecule and\ncombines with hydrogen at 773 K in presence of the catalyst\nto form a compound, ammonia which has a characteristic\npungent smell.\n(a) Identify the element X. How many valence electrons does it\nhave?\n(b) Draw the electron dot structure of the diatomic molecule of  X.\nWhat type of bond is formed in it?\n(c) Draw the electron dot structure for ammonia and what type of\nbond is formed in it?",
+      "options": [],
       "fullText": "An element X of group 15 exists as diatomic molecule and\ncombines with hydrogen at 773 K in presence of the catalyst\nto form a compound, ammonia which has a characteristic\npungent smell.\n(a) Identify the element X. How many valence electrons does it\nhave?\n(b) Draw the electron dot structure of the diatomic molecule of  X.\nWhat type of bond is formed in it?\n(c) Draw the electron dot structure for ammonia and what type of\nbond is formed in it?"
     },
     {
       "qNo": 51,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Long Answer Questions",
+      "type": "long_answer",
       "stem": "Which group of elements could be placed in Mendeleev's\n′\nTable without disturbing the original order? Give reason.",
       "options": [],
       "fullText": "Which group of elements could be placed in Mendeleev's\n′\nTable without disturbing the original order? Give reason."
     },
     {
       "qNo": 52,
-      "section": "Subjective Questions",
-      "type": "subjective",
+      "section": "Long Answer Questions",
+      "type": "long_answer",
       "stem": "Give an account of the process adopted by\n′\nMendeleev  for the\nclassification of elements. How did he arrive at “Periodic Law”?",
       "options": [],
       "fullText": "Give an account of the process adopted by\n′\nMendeleev  for the\nclassification of elements. How did he arrive at “Periodic Law”?"
