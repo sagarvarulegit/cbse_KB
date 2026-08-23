@@ -61,17 +61,16 @@ for ch_num in range(1, 14):
             }
         math_answers[ch_num] = answers
 
-# Mapping of NCERT Chapter Numbers to Chapter Slugs
 SCIENCE_CHAPTER_SLUGS = {
     1: "chemical-reactions-and-equations",
     2: "acids-bases-and-salts",
     3: "metals-and-non-metals",
     4: "carbon-and-its-compounds",
-    5: "periodic-classification-of-elements", # legacy
+    5: "periodic-classification-of-elements",
     6: "life-processes",
     7: "control-and-coordination",
     8: "how-do-organisms-reproduce",
-    9: "heredity", # heredity and evolution
+    9: "heredity",
     10: "light-reflection-and-refraction",
     11: "human-eye-and-colourful-world",
     12: "electricity",
@@ -99,6 +98,21 @@ MATHS_CHAPTER_SLUGS = {
     15: "probability"
 }
 
+def clean_options(raw_options):
+    """Splits merged options if any option text contains inline (B), (C), (D) labels."""
+    cleaned = []
+    for opt in raw_options:
+        text = opt.get("text", "").strip() if isinstance(opt, dict) else str(opt).strip()
+        # Look for inline option markers like '(D) 100°'
+        sub_parts = re.split(r'\s*\(([B-Db-d])\)\s*', text)
+        if len(sub_parts) > 1:
+            cleaned.append(sub_parts[0].strip())
+            for idx in range(1, len(sub_parts), 2):
+                cleaned.append(sub_parts[idx+1].strip())
+        else:
+            cleaned.append(text)
+    return [{"text": t} for t in cleaned if t]
+
 exported_questions_by_chapter = {}
 total_mcqs_merged = 0
 
@@ -120,12 +134,12 @@ for ch_num in range(1, 17):
             q["answer"] = ans_info["correctOption"]
             q["hint"] = ans_info["hint"]
             
-            # Map to option index
             key_map = {'a': 0, 'b': 1, 'c': 2, 'd': 3}
             correct_idx = key_map.get(ans_info["correctOption"], 0)
             
-            # Build clean web question
-            if len(q.get("options", [])) >= 2:
+            opts = clean_options(q.get("options", []))
+            # Require at least 2 options and valid correctOptionIndex within range
+            if len(opts) >= 2 and 0 <= correct_idx < len(opts):
                 ch_mcqs.append({
                     "id": f"exemplar-sci-ch{ch_num}-q{q['qNo']}",
                     "qNo": q["qNo"],
@@ -135,7 +149,7 @@ for ch_num in range(1, 17):
                     "prompt": q["stem"],
                     "options": [
                         {"value": idx + 1, "label": opt["text"]}
-                        for idx, opt in enumerate(q["options"])
+                        for idx, opt in enumerate(opts)
                     ],
                     "correctOptionIndex": correct_idx,
                     "explanation": ans_info["hint"] if ans_info["hint"] else f"Correct Answer: Option ({ans_info['correctOption'].upper()}) per NCERT Exemplar solution manual.",
@@ -171,7 +185,8 @@ for ch_num in range(1, 14):
             key_map = {'a': 0, 'b': 1, 'c': 2, 'd': 3}
             correct_idx = key_map.get(ans_info["correctOption"], 0)
             
-            if len(q.get("options", [])) >= 2:
+            opts = clean_options(q.get("options", []))
+            if len(opts) >= 2 and 0 <= correct_idx < len(opts):
                 ch_mcqs.append({
                     "id": f"exemplar-math-ch{ch_num}-q{q['qNo']}",
                     "qNo": q["qNo"],
@@ -181,7 +196,7 @@ for ch_num in range(1, 14):
                     "prompt": q["stem"],
                     "options": [
                         {"value": idx + 1, "label": opt["text"]}
-                        for idx, opt in enumerate(q["options"])
+                        for idx, opt in enumerate(opts)
                     ],
                     "correctOptionIndex": correct_idx,
                     "explanation": f"Correct Answer: Option ({ans_info['correctOption'].upper()}) as verified by NCERT Exemplar solutions.",
