@@ -26,57 +26,63 @@
           "text": "1 cm"
         }
       ],
-      "fullText": "If radii of two concentric circles\nare 4 cm and 5 cm, then the\nlength of each chord of one\ncircle which is tangent to the\nother circle is\n(A)\n3 cm\n(B)\n6 cm\n(C)\n9 cm\n(D)\n1 cm"
+      "fullText": "If radii of two concentric circles\nare 4 cm and 5 cm, then the\nlength of each chord of one\ncircle which is tangent to the\nother circle is\n(A)\n3 cm\n(B)\n6 cm\n(C)\n9 cm\n(D)\n1 cm",
+      "answer": "b",
+      "hint": ""
     },
     {
       "qNo": 2,
       "exercise": "EXERCISE 9.1",
       "type": "mcq",
-      "stem": "In Fig. 9.3, if ∠AOB = 125°,\nthen ∠COD is equal to",
+      "stem": "In Fig. 9.3, if \u2220AOB = 125\u00b0,\nthen \u2220COD is equal to",
       "options": [
         {
           "key": "a",
-          "text": "62.5°"
+          "text": "62.5\u00b0"
         },
         {
           "key": "b",
-          "text": "45°"
+          "text": "45\u00b0"
         },
         {
           "key": "c",
-          "text": "35°"
+          "text": "35\u00b0"
         },
         {
           "key": "d",
-          "text": "55°"
+          "text": "55\u00b0"
         }
       ],
-      "fullText": "In Fig. 9.3, if ∠AOB = 125°,\nthen ∠COD is equal to\n(A)\n62.5°\n(B)\n45°\n(C)\n35°\n(D)\n55°"
+      "fullText": "In Fig. 9.3, if \u2220AOB = 125\u00b0,\nthen \u2220COD is equal to\n(A)\n62.5\u00b0\n(B)\n45\u00b0\n(C)\n35\u00b0\n(D)\n55\u00b0",
+      "answer": "d",
+      "hint": ""
     },
     {
       "qNo": 3,
       "exercise": "EXERCISE 9.1",
       "type": "mcq",
-      "stem": "In Fig. 9.4, AB is a chord of the\ncircle and AOC is its diameter such\nthat ∠ACB = 50°. If AT is the\ntangent to the circle at the point A,\nthen ∠BAT is equal to",
+      "stem": "In Fig. 9.4, AB is a chord of the\ncircle and AOC is its diameter such\nthat \u2220ACB = 50\u00b0. If AT is the\ntangent to the circle at the point A,\nthen \u2220BAT is equal to",
       "options": [
         {
           "key": "a",
-          "text": "65°"
+          "text": "65\u00b0"
         },
         {
           "key": "b",
-          "text": "60°"
+          "text": "60\u00b0"
         },
         {
           "key": "c",
-          "text": "50°"
+          "text": "50\u00b0"
         },
         {
           "key": "d",
-          "text": "40°\n03/05/18"
+          "text": "40\u00b0\n03/05/18"
         }
       ],
-      "fullText": "In Fig. 9.4, AB is a chord of the\ncircle and AOC is its diameter such\nthat ∠ACB = 50°. If AT is the\ntangent to the circle at the point A,\nthen ∠BAT is equal to\n(A)\n65°\n(B)\n60°\n(C)\n50°\n(D)\n40°\n03/05/18"
+      "fullText": "In Fig. 9.4, AB is a chord of the\ncircle and AOC is its diameter such\nthat \u2220ACB = 50\u00b0. If AT is the\ntangent to the circle at the point A,\nthen \u2220BAT is equal to\n(A)\n65\u00b0\n(B)\n60\u00b0\n(C)\n50\u00b0\n(D)\n40\u00b0\n03/05/18",
+      "answer": "c",
+      "hint": ""
     },
     {
       "qNo": 4,
@@ -97,7 +103,9 @@
           "text": "32.5 cm2"
         }
       ],
-      "fullText": "From a point P which is at a distance of 13 cm from the centre O of a circle\nof radius 5 cm, the pair of tangents PQ and PR to the circle are drawn. Then\nthe area of the quadrilateral PQOR is\n(A)\n60 cm2\n(B)\n65 cm2       (C)  30 cm2\n(D)\n32.5 cm2"
+      "fullText": "From a point P which is at a distance of 13 cm from the centre O of a circle\nof radius 5 cm, the pair of tangents PQ and PR to the circle are drawn. Then\nthe area of the quadrilateral PQOR is\n(A)\n60 cm2\n(B)\n65 cm2       (C)  30 cm2\n(D)\n32.5 cm2",
+      "answer": "a",
+      "hint": ""
     },
     {
       "qNo": 5,
@@ -122,13 +130,15 @@
           "text": "8 cm"
         }
       ],
-      "fullText": "At one end A of a diameter AB of a circle of radius 5 cm, tangent XAY is\ndrawn to the circle. The length of the chord CD parallel to XY and at a\ndistance 8 cm from A is\n(A)\n4 cm\n(B)\n5 cm\n(C)\n6 cm\n(D)\n8 cm"
+      "fullText": "At one end A of a diameter AB of a circle of radius 5 cm, tangent XAY is\ndrawn to the circle. The length of the chord CD parallel to XY and at a\ndistance 8 cm from A is\n(A)\n4 cm\n(B)\n5 cm\n(C)\n6 cm\n(D)\n8 cm",
+      "answer": "d",
+      "hint": ""
     },
     {
       "qNo": 6,
       "exercise": "EXERCISE 9.1",
       "type": "mcq",
-      "stem": "In Fig. 9.5, AT is a tangent to the circle\nwith centre O such that OT = 4 cm\nand ∠OTA = 30°. Then AT is equal to",
+      "stem": "In Fig. 9.5, AT is a tangent to the circle\nwith centre O such that OT = 4 cm\nand \u2220OTA = 30\u00b0. Then AT is equal to",
       "options": [
         {
           "key": "a",
@@ -143,63 +153,69 @@
           "text": "2 3  cm (D)\n4 3  cm"
         }
       ],
-      "fullText": "In Fig. 9.5, AT is a tangent to the circle\nwith centre O such that OT = 4 cm\nand ∠OTA = 30°. Then AT is equal to\n(A)\n4 cm\n(B)\n2 cm\n(C)\n2 3  cm (D)\n4 3  cm"
+      "fullText": "In Fig. 9.5, AT is a tangent to the circle\nwith centre O such that OT = 4 cm\nand \u2220OTA = 30\u00b0. Then AT is equal to\n(A)\n4 cm\n(B)\n2 cm\n(C)\n2 3  cm (D)\n4 3  cm",
+      "answer": "c",
+      "hint": ""
     },
     {
       "qNo": 7,
       "exercise": "EXERCISE 9.1",
       "type": "mcq",
-      "stem": "In Fig. 9.6, if O is the centre of a circle,\nPQ is a chord and the tangent PR at P\nmakes an angle of 50° with PQ, then\n∠POQ is equal to",
+      "stem": "In Fig. 9.6, if O is the centre of a circle,\nPQ is a chord and the tangent PR at P\nmakes an angle of 50\u00b0 with PQ, then\n\u2220POQ is equal to",
       "options": [
         {
           "key": "a",
-          "text": "100°"
+          "text": "100\u00b0"
         },
         {
           "key": "b",
-          "text": "80°"
+          "text": "80\u00b0"
         },
         {
           "key": "c",
-          "text": "90°"
+          "text": "90\u00b0"
         },
         {
           "key": "d",
-          "text": "75°"
+          "text": "75\u00b0"
         }
       ],
-      "fullText": "In Fig. 9.6, if O is the centre of a circle,\nPQ is a chord and the tangent PR at P\nmakes an angle of 50° with PQ, then\n∠POQ is equal to\n(A)\n100°\n(B)\n80°\n(C)\n90°\n(D)\n75°"
+      "fullText": "In Fig. 9.6, if O is the centre of a circle,\nPQ is a chord and the tangent PR at P\nmakes an angle of 50\u00b0 with PQ, then\n\u2220POQ is equal to\n(A)\n100\u00b0\n(B)\n80\u00b0\n(C)\n90\u00b0\n(D)\n75\u00b0",
+      "answer": "a",
+      "hint": ""
     },
     {
       "qNo": 8,
       "exercise": "EXERCISE 9.1",
       "type": "mcq",
-      "stem": "In Fig. 9.7, if PA and PB are tangents\nto the circle with centre O such that\n∠APB = 50°, then ∠OAB is equal\nto",
+      "stem": "In Fig. 9.7, if PA and PB are tangents\nto the circle with centre O such that\n\u2220APB = 50\u00b0, then \u2220OAB is equal\nto",
       "options": [
         {
           "key": "a",
-          "text": "25°"
+          "text": "25\u00b0"
         },
         {
           "key": "b",
-          "text": "30°"
+          "text": "30\u00b0"
         },
         {
           "key": "c",
-          "text": "40°"
+          "text": "40\u00b0"
         },
         {
           "key": "d",
-          "text": "50°\n03/05/18"
+          "text": "50\u00b0\n03/05/18"
         }
       ],
-      "fullText": "In Fig. 9.7, if PA and PB are tangents\nto the circle with centre O such that\n∠APB = 50°, then ∠OAB is equal\nto\n(A)\n25°\n(B)\n30°\n(C)\n40°\n(D)\n50°\n03/05/18"
+      "fullText": "In Fig. 9.7, if PA and PB are tangents\nto the circle with centre O such that\n\u2220APB = 50\u00b0, then \u2220OAB is equal\nto\n(A)\n25\u00b0\n(B)\n30\u00b0\n(C)\n40\u00b0\n(D)\n50\u00b0\n03/05/18",
+      "answer": "a",
+      "hint": ""
     },
     {
       "qNo": 9,
       "exercise": "EXERCISE 9.1",
       "type": "mcq",
-      "stem": "If two tangents inclined at an angle 60° are drawn to a circle of radius 3 cm,\nthen length of each tangent is equal to",
+      "stem": "If two tangents inclined at an angle 60\u00b0 are drawn to a circle of radius 3 cm,\nthen length of each tangent is equal to",
       "options": [
         {
           "key": "a",
@@ -218,44 +234,48 @@
           "text": "3 3  cm"
         }
       ],
-      "fullText": "If two tangents inclined at an angle 60° are drawn to a circle of radius 3 cm,\nthen length of each tangent is equal to\n(A)\ncm\n(B) 6 cm\n(C)\n3 cm\n(D) 3 3  cm"
+      "fullText": "If two tangents inclined at an angle 60\u00b0 are drawn to a circle of radius 3 cm,\nthen length of each tangent is equal to\n(A)\ncm\n(B) 6 cm\n(C)\n3 cm\n(D) 3 3  cm",
+      "answer": "d",
+      "hint": ""
     },
     {
       "qNo": 10,
       "exercise": "EXERCISE 9.1",
       "type": "mcq",
-      "stem": "In Fig. 9.8, if PQR is the tangent to a\ncircle at Q whose centre is O, AB is a\nchord parallel to PR and ∠BQR = 70°,\nthen ∠AQB is equal to",
+      "stem": "In Fig. 9.8, if PQR is the tangent to a\ncircle at Q whose centre is O, AB is a\nchord parallel to PR and \u2220BQR = 70\u00b0,\nthen \u2220AQB is equal to",
       "options": [
         {
           "key": "a",
-          "text": "20°"
+          "text": "20\u00b0"
         },
         {
           "key": "b",
-          "text": "40°"
+          "text": "40\u00b0"
         },
         {
           "key": "c",
-          "text": "35°"
+          "text": "35\u00b0"
         },
         {
           "key": "d",
-          "text": "45°"
+          "text": "45\u00b0"
         },
         {
           "key": "c",
-          "text": "Short Answer Questions with Reasoning\nWrite ‘True’ or ‘False’ and give reasons for your answer.\nSample Question 1 : In Fig. 9.9, BOA is a diameter of a circle and  the tangent at a\npoint P meets BA extended at T. If ∠PBO = 30°, then ∠PTA is equal to 30°.\nSolution : True. As ∠BPA = 90°, ∠PAB = ∠OPA = 60°. Also, OP⊥PT. Therefore,\n∠APT = 30° and ∠PTA = 60° –  30° = 30°.\n03/05/18\nSample Question 2 : In Fig. 9.10, PQL and PRM are tangents to the circle with\ncentre O at the points Q and R, respectively and S is a point on the circle such that\n∠SQL = 50° and ∠SRM = 60°. Then ∠QSR is equal to 40°.\nSolution : False. Here ∠OSQ = ∠OQS = 90°–50° = 40° and ∠RSO = ∠SRO =\n90° – 60° = 30°. Therefore, ∠QSR = 40° + 30° = 70°."
+          "text": "Short Answer Questions with Reasoning\nWrite \u2018True\u2019 or \u2018False\u2019 and give reasons for your answer.\nSample Question 1 : In Fig. 9.9, BOA is a diameter of a circle and  the tangent at a\npoint P meets BA extended at T. If \u2220PBO = 30\u00b0, then \u2220PTA is equal to 30\u00b0.\nSolution : True. As \u2220BPA = 90\u00b0, \u2220PAB = \u2220OPA = 60\u00b0. Also, OP\u22a5PT. Therefore,\n\u2220APT = 30\u00b0 and \u2220PTA = 60\u00b0 \u2013  30\u00b0 = 30\u00b0.\n03/05/18\nSample Question 2 : In Fig. 9.10, PQL and PRM are tangents to the circle with\ncentre O at the points Q and R, respectively and S is a point on the circle such that\n\u2220SQL = 50\u00b0 and \u2220SRM = 60\u00b0. Then \u2220QSR is equal to 40\u00b0.\nSolution : False. Here \u2220OSQ = \u2220OQS = 90\u00b0\u201350\u00b0 = 40\u00b0 and \u2220RSO = \u2220SRO =\n90\u00b0 \u2013 60\u00b0 = 30\u00b0. Therefore, \u2220QSR = 40\u00b0 + 30\u00b0 = 70\u00b0."
         }
       ],
-      "fullText": "In Fig. 9.8, if PQR is the tangent to a\ncircle at Q whose centre is O, AB is a\nchord parallel to PR and ∠BQR = 70°,\nthen ∠AQB is equal to\n(A)\n20°\n(B)\n40°\n(C)\n35°\n(D)\n45°\n(C) Short Answer Questions with Reasoning\nWrite ‘True’ or ‘False’ and give reasons for your answer.\nSample Question 1 : In Fig. 9.9, BOA is a diameter of a circle and  the tangent at a\npoint P meets BA extended at T. If ∠PBO = 30°, then ∠PTA is equal to 30°.\nSolution : True. As ∠BPA = 90°, ∠PAB = ∠OPA = 60°. Also, OP⊥PT. Therefore,\n∠APT = 30° and ∠PTA = 60° –  30° = 30°.\n03/05/18\nSample Question 2 : In Fig. 9.10, PQL and PRM are tangents to the circle with\ncentre O at the points Q and R, respectively and S is a point on the circle such that\n∠SQL = 50° and ∠SRM = 60°. Then ∠QSR is equal to 40°.\nSolution : False. Here ∠OSQ = ∠OQS = 90°–50° = 40° and ∠RSO = ∠SRO =\n90° – 60° = 30°. Therefore, ∠QSR = 40° + 30° = 70°."
+      "fullText": "In Fig. 9.8, if PQR is the tangent to a\ncircle at Q whose centre is O, AB is a\nchord parallel to PR and \u2220BQR = 70\u00b0,\nthen \u2220AQB is equal to\n(A)\n20\u00b0\n(B)\n40\u00b0\n(C)\n35\u00b0\n(D)\n45\u00b0\n(C) Short Answer Questions with Reasoning\nWrite \u2018True\u2019 or \u2018False\u2019 and give reasons for your answer.\nSample Question 1 : In Fig. 9.9, BOA is a diameter of a circle and  the tangent at a\npoint P meets BA extended at T. If \u2220PBO = 30\u00b0, then \u2220PTA is equal to 30\u00b0.\nSolution : True. As \u2220BPA = 90\u00b0, \u2220PAB = \u2220OPA = 60\u00b0. Also, OP\u22a5PT. Therefore,\n\u2220APT = 30\u00b0 and \u2220PTA = 60\u00b0 \u2013  30\u00b0 = 30\u00b0.\n03/05/18\nSample Question 2 : In Fig. 9.10, PQL and PRM are tangents to the circle with\ncentre O at the points Q and R, respectively and S is a point on the circle such that\n\u2220SQL = 50\u00b0 and \u2220SRM = 60\u00b0. Then \u2220QSR is equal to 40\u00b0.\nSolution : False. Here \u2220OSQ = \u2220OQS = 90\u00b0\u201350\u00b0 = 40\u00b0 and \u2220RSO = \u2220SRO =\n90\u00b0 \u2013 60\u00b0 = 30\u00b0. Therefore, \u2220QSR = 40\u00b0 + 30\u00b0 = 70\u00b0.",
+      "answer": "b",
+      "hint": ""
     },
     {
       "qNo": 1,
       "exercise": "EXERCISE 9.2",
       "type": "short_answer",
-      "stem": "If a chord AB subtends an angle of 60° at the centre of a circle, then angle\nbetween the tangents at A and B is also 60°.",
+      "stem": "If a chord AB subtends an angle of 60\u00b0 at the centre of a circle, then angle\nbetween the tangents at A and B is also 60\u00b0.",
       "options": [],
-      "fullText": "If a chord AB subtends an angle of 60° at the centre of a circle, then angle\nbetween the tangents at A and B is also 60°."
+      "fullText": "If a chord AB subtends an angle of 60\u00b0 at the centre of a circle, then angle\nbetween the tangents at A and B is also 60\u00b0."
     },
     {
       "qNo": 2,
@@ -277,25 +297,25 @@
       "qNo": 4,
       "exercise": "EXERCISE 9.2",
       "type": "short_answer",
-      "stem": "The angle between two tangents to a circle may be 0°.",
+      "stem": "The angle between two tangents to a circle may be 0\u00b0.",
       "options": [],
-      "fullText": "The angle between two tangents to a circle may be 0°."
+      "fullText": "The angle between two tangents to a circle may be 0\u00b0."
     },
     {
       "qNo": 5,
       "exercise": "EXERCISE 9.2",
       "type": "short_answer",
-      "stem": "If angle between two tangents drawn from a point P to a circle of radius a\nand centre O is 90°, then OP =\na\n.",
+      "stem": "If angle between two tangents drawn from a point P to a circle of radius a\nand centre O is 90\u00b0, then OP =\na\n.",
       "options": [],
-      "fullText": "If angle between two tangents drawn from a point P to a circle of radius a\nand centre O is 90°, then OP =\na\n."
+      "fullText": "If angle between two tangents drawn from a point P to a circle of radius a\nand centre O is 90\u00b0, then OP =\na\n."
     },
     {
       "qNo": 6,
       "exercise": "EXERCISE 9.2",
       "type": "short_answer",
-      "stem": "If angle between two tangents drawn from a point P to a circle of radius a\nand centre O is 60°, then OP =\na\n.",
+      "stem": "If angle between two tangents drawn from a point P to a circle of radius a\nand centre O is 60\u00b0, then OP =\na\n.",
       "options": [],
-      "fullText": "If angle between two tangents drawn from a point P to a circle of radius a\nand centre O is 60°, then OP =\na\n."
+      "fullText": "If angle between two tangents drawn from a point P to a circle of radius a\nand centre O is 60\u00b0, then OP =\na\n."
     },
     {
       "qNo": 7,
@@ -325,25 +345,25 @@
       "qNo": 10,
       "exercise": "EXERCISE 9.2",
       "type": "short_answer",
-      "stem": "AB is a diameter of a circle and AC is its chord such that ∠BAC = 30°. If the\ntangent at C intersects AB extended at D, then BC = BD.\n(D) Short Answer Questions\nSample Question 1 : If d1, d2 (d2 > d1) be the diameters of two concentric circles and\nc be the length of a chord of a circle which is tangent to the other circle, prove that\nd2\n2 = c2 + d1",
+      "stem": "AB is a diameter of a circle and AC is its chord such that \u2220BAC = 30\u00b0. If the\ntangent at C intersects AB extended at D, then BC = BD.\n(D) Short Answer Questions\nSample Question 1 : If d1, d2 (d2 > d1) be the diameters of two concentric circles and\nc be the length of a chord of a circle which is tangent to the other circle, prove that\nd2\n2 = c2 + d1",
       "options": [],
-      "fullText": "AB is a diameter of a circle and AC is its chord such that ∠BAC = 30°. If the\ntangent at C intersects AB extended at D, then BC = BD.\n(D) Short Answer Questions\nSample Question 1 : If d1, d2 (d2 > d1) be the diameters of two concentric circles and\nc be the length of a chord of a circle which is tangent to the other circle, prove that\nd2\n2 = c2 + d1"
+      "fullText": "AB is a diameter of a circle and AC is its chord such that \u2220BAC = 30\u00b0. If the\ntangent at C intersects AB extended at D, then BC = BD.\n(D) Short Answer Questions\nSample Question 1 : If d1, d2 (d2 > d1) be the diameters of two concentric circles and\nc be the length of a chord of a circle which is tangent to the other circle, prove that\nd2\n2 = c2 + d1"
     },
     {
       "qNo": 2,
       "exercise": "EXERCISE 9.2",
       "type": "short_answer",
-      "stem": "Solution : Let AB be a chord of a circle which touches\nthe other circle at C. Then ∆OCB is right triangle\n(see Fig.9.11). By Pythagoras theorem OC2 +CB2 = OB2.\ni.e.,\nd\nc\nd\n+\n=\n(As C bisects AB)\nTherefore,\nd2\n2 = c2 + d1",
+      "stem": "Solution : Let AB be a chord of a circle which touches\nthe other circle at C. Then \u2206OCB is right triangle\n(see Fig.9.11). By Pythagoras theorem OC2 +CB2 = OB2.\ni.e.,\nd\nc\nd\n+\n=\n(As C bisects AB)\nTherefore,\nd2\n2 = c2 + d1",
       "options": [],
-      "fullText": "Solution : Let AB be a chord of a circle which touches\nthe other circle at C. Then ∆OCB is right triangle\n(see Fig.9.11). By Pythagoras theorem OC2 +CB2 = OB2.\ni.e.,\nd\nc\nd\n+\n=\n(As C bisects AB)\nTherefore,\nd2\n2 = c2 + d1"
+      "fullText": "Solution : Let AB be a chord of a circle which touches\nthe other circle at C. Then \u2206OCB is right triangle\n(see Fig.9.11). By Pythagoras theorem OC2 +CB2 = OB2.\ni.e.,\nd\nc\nd\n+\n=\n(As C bisects AB)\nTherefore,\nd2\n2 = c2 + d1"
     },
     {
       "qNo": 2,
       "exercise": "EXERCISE 9.2",
       "type": "short_answer",
-      "stem": "Sample Question 2 : If a, b, c are the sides of a right triangle where c is the hypotenuse,\nprove that the radius r of the circle which touches the sides of the triangle is given by\na\nb\nc\nr\n+\n−\n=\n.\nSolution : Let the circle touches the sides BC, CA,\nAB of the right triangle ABC at D, E and F\nrespectively, where BC = a, CA = b and\nAB = c (see Fig. 9.12). Then AE = AF and\nBD = BF. Also CE = CD = r.\ni.e.,\nb – r = AF,  a – r = BF\nor\nAB = c = AF + BF = b – r + a – r\n03/05/18\nThis gives\na\nb\nc\nr\n+\n−\n=",
+      "stem": "Sample Question 2 : If a, b, c are the sides of a right triangle where c is the hypotenuse,\nprove that the radius r of the circle which touches the sides of the triangle is given by\na\nb\nc\nr\n+\n\u2212\n=\n.\nSolution : Let the circle touches the sides BC, CA,\nAB of the right triangle ABC at D, E and F\nrespectively, where BC = a, CA = b and\nAB = c (see Fig. 9.12). Then AE = AF and\nBD = BF. Also CE = CD = r.\ni.e.,\nb \u2013 r = AF,  a \u2013 r = BF\nor\nAB = c = AF + BF = b \u2013 r + a \u2013 r\n03/05/18\nThis gives\na\nb\nc\nr\n+\n\u2212\n=",
       "options": [],
-      "fullText": "Sample Question 2 : If a, b, c are the sides of a right triangle where c is the hypotenuse,\nprove that the radius r of the circle which touches the sides of the triangle is given by\na\nb\nc\nr\n+\n−\n=\n.\nSolution : Let the circle touches the sides BC, CA,\nAB of the right triangle ABC at D, E and F\nrespectively, where BC = a, CA = b and\nAB = c (see Fig. 9.12). Then AE = AF and\nBD = BF. Also CE = CD = r.\ni.e.,\nb – r = AF,  a – r = BF\nor\nAB = c = AF + BF = b – r + a – r\n03/05/18\nThis gives\na\nb\nc\nr\n+\n−\n="
+      "fullText": "Sample Question 2 : If a, b, c are the sides of a right triangle where c is the hypotenuse,\nprove that the radius r of the circle which touches the sides of the triangle is given by\na\nb\nc\nr\n+\n\u2212\n=\n.\nSolution : Let the circle touches the sides BC, CA,\nAB of the right triangle ABC at D, E and F\nrespectively, where BC = a, CA = b and\nAB = c (see Fig. 9.12). Then AE = AF and\nBD = BF. Also CE = CD = r.\ni.e.,\nb \u2013 r = AF,  a \u2013 r = BF\nor\nAB = c = AF + BF = b \u2013 r + a \u2013 r\n03/05/18\nThis gives\na\nb\nc\nr\n+\n\u2212\n="
     },
     {
       "qNo": 1,
@@ -365,9 +385,9 @@
       "qNo": 3,
       "exercise": "EXERCISE 9.3",
       "type": "short_answer",
-      "stem": "If from an external point B of a circle with centre O, two tangents BC and\nBD are drawn such that ∠DBC = 120°, prove that BC + BD = BO, i.e.,\nBO = 2BC.",
+      "stem": "If from an external point B of a circle with centre O, two tangents BC and\nBD are drawn such that \u2220DBC = 120\u00b0, prove that BC + BD = BO, i.e.,\nBO = 2BC.",
       "options": [],
-      "fullText": "If from an external point B of a circle with centre O, two tangents BC and\nBD are drawn such that ∠DBC = 120°, prove that BC + BD = BO, i.e.,\nBO = 2BC."
+      "fullText": "If from an external point B of a circle with centre O, two tangents BC and\nBD are drawn such that \u2220DBC = 120\u00b0, prove that BC + BD = BO, i.e.,\nBO = 2BC."
     },
     {
       "qNo": 4,
@@ -421,9 +441,9 @@
       "qNo": 10,
       "exercise": "EXERCISE 9.3",
       "type": "short_answer",
-      "stem": "Prove that a diameter AB of a circle bisects all those chords which are parallel\nto the tangent at the point A.\n(E) Long Answer Questions\nSample Question 1 : In Fig. 9.15, from an external point P, a tangent PT and a line\nsegment PAB is drawn to a circle with centre O. ON is perpendicular on the chord\nAB. Prove that :\n(i)\nPA . PB = PN2 – AN2\n(ii)\nPN2 – AN2 = OP2 – OT2\n(iii)\nPA.PB = PT2\nSolution :\n(i)\nPA . PB = (PN – AN) (PN + BN)\n= (PN – AN) (PN + AN)\n(As AN = BN)\n= PN2 – AN2\n(ii)\nPN2 – AN2  = (OP2 – ON2) – AN2\n(As ON⊥PN)\n= OP2 – (ON2 + AN2)\n= OP2 – OA2\n(As ON⊥AN)\n= OP2 – OT2\n(As OA = OT)\n03/05/18\n(iii)\nFrom (i) and (ii)\nPA.PB = OP2 – OT2\n= PT2\n(As ∠OTP = 90°)\nSample Question 2 : If a circle touches the side BC of a triangle ABC at P and extended\nsides AB and AC at Q and R, respectively, prove that AQ = 1\n2 (BC + CA + AB)\nSolution : See Fig. 9.16.\nBy Theorem 10.2 of the textbook,\nBQ = BP\nCP = CR, and\nAQ = AR\nNow,\n2AQ = AQ + AR\n= (AB + BQ) + (AC + CR)\n= AB + BP + AC + CP\n= (BP + CP) + AC + AB\n= BC + CA + AB\ni.e.,\nAQ = 1\n2  (BC + CA + AB).\n03/05/18",
+      "stem": "Prove that a diameter AB of a circle bisects all those chords which are parallel\nto the tangent at the point A.\n(E) Long Answer Questions\nSample Question 1 : In Fig. 9.15, from an external point P, a tangent PT and a line\nsegment PAB is drawn to a circle with centre O. ON is perpendicular on the chord\nAB. Prove that :\n(i)\nPA . PB = PN2 \u2013 AN2\n(ii)\nPN2 \u2013 AN2 = OP2 \u2013 OT2\n(iii)\nPA.PB = PT2\nSolution :\n(i)\nPA . PB = (PN \u2013 AN) (PN + BN)\n= (PN \u2013 AN) (PN + AN)\n(As AN = BN)\n= PN2 \u2013 AN2\n(ii)\nPN2 \u2013 AN2  = (OP2 \u2013 ON2) \u2013 AN2\n(As ON\u22a5PN)\n= OP2 \u2013 (ON2 + AN2)\n= OP2 \u2013 OA2\n(As ON\u22a5AN)\n= OP2 \u2013 OT2\n(As OA = OT)\n03/05/18\n(iii)\nFrom (i) and (ii)\nPA.PB = OP2 \u2013 OT2\n= PT2\n(As \u2220OTP = 90\u00b0)\nSample Question 2 : If a circle touches the side BC of a triangle ABC at P and extended\nsides AB and AC at Q and R, respectively, prove that AQ = 1\n2 (BC + CA + AB)\nSolution : See Fig. 9.16.\nBy Theorem 10.2 of the textbook,\nBQ = BP\nCP = CR, and\nAQ = AR\nNow,\n2AQ = AQ + AR\n= (AB + BQ) + (AC + CR)\n= AB + BP + AC + CP\n= (BP + CP) + AC + AB\n= BC + CA + AB\ni.e.,\nAQ = 1\n2  (BC + CA + AB).\n03/05/18",
       "options": [],
-      "fullText": "Prove that a diameter AB of a circle bisects all those chords which are parallel\nto the tangent at the point A.\n(E) Long Answer Questions\nSample Question 1 : In Fig. 9.15, from an external point P, a tangent PT and a line\nsegment PAB is drawn to a circle with centre O. ON is perpendicular on the chord\nAB. Prove that :\n(i)\nPA . PB = PN2 – AN2\n(ii)\nPN2 – AN2 = OP2 – OT2\n(iii)\nPA.PB = PT2\nSolution :\n(i)\nPA . PB = (PN – AN) (PN + BN)\n= (PN – AN) (PN + AN)\n(As AN = BN)\n= PN2 – AN2\n(ii)\nPN2 – AN2  = (OP2 – ON2) – AN2\n(As ON⊥PN)\n= OP2 – (ON2 + AN2)\n= OP2 – OA2\n(As ON⊥AN)\n= OP2 – OT2\n(As OA = OT)\n03/05/18\n(iii)\nFrom (i) and (ii)\nPA.PB = OP2 – OT2\n= PT2\n(As ∠OTP = 90°)\nSample Question 2 : If a circle touches the side BC of a triangle ABC at P and extended\nsides AB and AC at Q and R, respectively, prove that AQ = 1\n2 (BC + CA + AB)\nSolution : See Fig. 9.16.\nBy Theorem 10.2 of the textbook,\nBQ = BP\nCP = CR, and\nAQ = AR\nNow,\n2AQ = AQ + AR\n= (AB + BQ) + (AC + CR)\n= AB + BP + AC + CP\n= (BP + CP) + AC + AB\n= BC + CA + AB\ni.e.,\nAQ = 1\n2  (BC + CA + AB).\n03/05/18"
+      "fullText": "Prove that a diameter AB of a circle bisects all those chords which are parallel\nto the tangent at the point A.\n(E) Long Answer Questions\nSample Question 1 : In Fig. 9.15, from an external point P, a tangent PT and a line\nsegment PAB is drawn to a circle with centre O. ON is perpendicular on the chord\nAB. Prove that :\n(i)\nPA . PB = PN2 \u2013 AN2\n(ii)\nPN2 \u2013 AN2 = OP2 \u2013 OT2\n(iii)\nPA.PB = PT2\nSolution :\n(i)\nPA . PB = (PN \u2013 AN) (PN + BN)\n= (PN \u2013 AN) (PN + AN)\n(As AN = BN)\n= PN2 \u2013 AN2\n(ii)\nPN2 \u2013 AN2  = (OP2 \u2013 ON2) \u2013 AN2\n(As ON\u22a5PN)\n= OP2 \u2013 (ON2 + AN2)\n= OP2 \u2013 OA2\n(As ON\u22a5AN)\n= OP2 \u2013 OT2\n(As OA = OT)\n03/05/18\n(iii)\nFrom (i) and (ii)\nPA.PB = OP2 \u2013 OT2\n= PT2\n(As \u2220OTP = 90\u00b0)\nSample Question 2 : If a circle touches the side BC of a triangle ABC at P and extended\nsides AB and AC at Q and R, respectively, prove that AQ = 1\n2 (BC + CA + AB)\nSolution : See Fig. 9.16.\nBy Theorem 10.2 of the textbook,\nBQ = BP\nCP = CR, and\nAQ = AR\nNow,\n2AQ = AQ + AR\n= (AB + BQ) + (AC + CR)\n= AB + BP + AC + CP\n= (BP + CP) + AC + AB\n= BC + CA + AB\ni.e.,\nAQ = 1\n2  (BC + CA + AB).\n03/05/18"
     },
     {
       "qNo": 1,
@@ -437,9 +457,9 @@
       "qNo": 2,
       "exercise": "EXERCISE 9.4",
       "type": "long_answer",
-      "stem": "Let s denote the semi-perimeter of a triangle ABC in which BC = a, CA = b,\nAB = c. If a circle touches the sides BC, CA, AB at D, E, F, respectively,\nprove that BD = s – b.",
+      "stem": "Let s denote the semi-perimeter of a triangle ABC in which BC = a, CA = b,\nAB = c. If a circle touches the sides BC, CA, AB at D, E, F, respectively,\nprove that BD = s \u2013 b.",
       "options": [],
-      "fullText": "Let s denote the semi-perimeter of a triangle ABC in which BC = a, CA = b,\nAB = c. If a circle touches the sides BC, CA, AB at D, E, F, respectively,\nprove that BD = s – b."
+      "fullText": "Let s denote the semi-perimeter of a triangle ABC in which BC = a, CA = b,\nAB = c. If a circle touches the sides BC, CA, AB at D, E, F, respectively,\nprove that BD = s \u2013 b."
     },
     {
       "qNo": 3,
@@ -453,9 +473,9 @@
       "qNo": 4,
       "exercise": "EXERCISE 9.4",
       "type": "long_answer",
-      "stem": "If AB is a chord of a circle with centre O, AOC is a diameter and AT is the\ntangent at A as shown in Fig. 9.17. Prove that\n∠BAT = ∠ACB\n.",
+      "stem": "If AB is a chord of a circle with centre O, AOC is a diameter and AT is the\ntangent at A as shown in Fig. 9.17. Prove that\n\u2220BAT = \u2220ACB\n.",
       "options": [],
-      "fullText": "If AB is a chord of a circle with centre O, AOC is a diameter and AT is the\ntangent at A as shown in Fig. 9.17. Prove that\n∠BAT = ∠ACB\n."
+      "fullText": "If AB is a chord of a circle with centre O, AOC is a diameter and AT is the\ntangent at A as shown in Fig. 9.17. Prove that\n\u2220BAT = \u2220ACB\n."
     },
     {
       "qNo": 5,
@@ -469,25 +489,25 @@
       "qNo": 6,
       "exercise": "EXERCISE 9.4",
       "type": "long_answer",
-      "stem": "In a right triangle ABC in which ∠B = 90°, a circle is drawn with AB as\ndiameter intersecting the hypotenuse AC and P. Prove that the tangent to the\ncircle at P bisects BC.",
+      "stem": "In a right triangle ABC in which \u2220B = 90\u00b0, a circle is drawn with AB as\ndiameter intersecting the hypotenuse AC and P. Prove that the tangent to the\ncircle at P bisects BC.",
       "options": [],
-      "fullText": "In a right triangle ABC in which ∠B = 90°, a circle is drawn with AB as\ndiameter intersecting the hypotenuse AC and P. Prove that the tangent to the\ncircle at P bisects BC."
+      "fullText": "In a right triangle ABC in which \u2220B = 90\u00b0, a circle is drawn with AB as\ndiameter intersecting the hypotenuse AC and P. Prove that the tangent to the\ncircle at P bisects BC."
     },
     {
       "qNo": 7,
       "exercise": "EXERCISE 9.4",
       "type": "long_answer",
-      "stem": "In Fig. 9.18, tangents PQ and PR are drawn to a circle such that ∠RPQ =\n30°. A chord RS is drawn parallel to the tangent PQ. Find the ∠RQS.\n03/05/18\n[Hint: Draw a line through Q and perpendicular to QP.]",
+      "stem": "In Fig. 9.18, tangents PQ and PR are drawn to a circle such that \u2220RPQ =\n30\u00b0. A chord RS is drawn parallel to the tangent PQ. Find the \u2220RQS.\n03/05/18\n[Hint: Draw a line through Q and perpendicular to QP.]",
       "options": [],
-      "fullText": "In Fig. 9.18, tangents PQ and PR are drawn to a circle such that ∠RPQ =\n30°. A chord RS is drawn parallel to the tangent PQ. Find the ∠RQS.\n03/05/18\n[Hint: Draw a line through Q and perpendicular to QP.]"
+      "fullText": "In Fig. 9.18, tangents PQ and PR are drawn to a circle such that \u2220RPQ =\n30\u00b0. A chord RS is drawn parallel to the tangent PQ. Find the \u2220RQS.\n03/05/18\n[Hint: Draw a line through Q and perpendicular to QP.]"
     },
     {
       "qNo": 8,
       "exercise": "EXERCISE 9.4",
       "type": "long_answer",
-      "stem": "AB is a diameter and AC is a chord of a circle with centre O such that\n∠BAC = 30°. The tangent at C intersects extended AB at a point D. Prove\nthat BC = BD.",
+      "stem": "AB is a diameter and AC is a chord of a circle with centre O such that\n\u2220BAC = 30\u00b0. The tangent at C intersects extended AB at a point D. Prove\nthat BC = BD.",
       "options": [],
-      "fullText": "AB is a diameter and AC is a chord of a circle with centre O such that\n∠BAC = 30°. The tangent at C intersects extended AB at a point D. Prove\nthat BC = BD."
+      "fullText": "AB is a diameter and AC is a chord of a circle with centre O such that\n\u2220BAC = 30\u00b0. The tangent at C intersects extended AB at a point D. Prove\nthat BC = BD."
     },
     {
       "qNo": 9,
@@ -517,9 +537,9 @@
       "qNo": 12,
       "exercise": "EXERCISE 9.4",
       "type": "long_answer",
-      "stem": "The tangent at a point C of a circle and a diameter AB when extended intersect\nat P. If\nPCA=110º\n∠\n, find\nCBA\n∠\n[see Fig. 9.21].\n[Hint: Join C with centre O.]",
+      "stem": "The tangent at a point C of a circle and a diameter AB when extended intersect\nat P. If\nPCA=110\u00ba\n\u2220\n, find\nCBA\n\u2220\n[see Fig. 9.21].\n[Hint: Join C with centre O.]",
       "options": [],
-      "fullText": "The tangent at a point C of a circle and a diameter AB when extended intersect\nat P. If\nPCA=110º\n∠\n, find\nCBA\n∠\n[see Fig. 9.21].\n[Hint: Join C with centre O.]"
+      "fullText": "The tangent at a point C of a circle and a diameter AB when extended intersect\nat P. If\nPCA=110\u00ba\n\u2220\n, find\nCBA\n\u2220\n[see Fig. 9.21].\n[Hint: Join C with centre O.]"
     },
     {
       "qNo": 13,
@@ -533,9 +553,9 @@
       "qNo": 14,
       "exercise": "EXERCISE 9.4",
       "type": "long_answer",
-      "stem": "A is a point at a distance 13 cm from the centre O of a circle of radius 5 cm.\nAP and AQ are the tangents to the circle at P and Q. If a tangent BC is\ndrawn at a point R lying on the minor arc PQ to intersect AP at B and AQ at\nC, find the perimeter of the ∆ABC.\n03/05/18",
+      "stem": "A is a point at a distance 13 cm from the centre O of a circle of radius 5 cm.\nAP and AQ are the tangents to the circle at P and Q. If a tangent BC is\ndrawn at a point R lying on the minor arc PQ to intersect AP at B and AQ at\nC, find the perimeter of the \u2206ABC.\n03/05/18",
       "options": [],
-      "fullText": "A is a point at a distance 13 cm from the centre O of a circle of radius 5 cm.\nAP and AQ are the tangents to the circle at P and Q. If a tangent BC is\ndrawn at a point R lying on the minor arc PQ to intersect AP at B and AQ at\nC, find the perimeter of the ∆ABC.\n03/05/18"
+      "fullText": "A is a point at a distance 13 cm from the centre O of a circle of radius 5 cm.\nAP and AQ are the tangents to the circle at P and Q. If a tangent BC is\ndrawn at a point R lying on the minor arc PQ to intersect AP at B and AQ at\nC, find the perimeter of the \u2206ABC.\n03/05/18"
     }
   ]
 }

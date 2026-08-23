@@ -7,7 +7,7 @@
       "qNo": 1,
       "exercise": "EXERCISE 5.1",
       "type": "mcq",
-      "stem": "In an AP, if d = –4, n = 7, an = 4, then a is",
+      "stem": "In an AP, if d = \u20134, n = 7, an = 4, then a is",
       "options": [
         {
           "key": "a",
@@ -26,7 +26,9 @@
           "text": "28"
         }
       ],
-      "fullText": "In an AP, if d = –4, n = 7, an = 4, then a is\n(A)   6\n(B)  7\n(C)  20\n(D)  28"
+      "fullText": "In an AP, if d = \u20134, n = 7, an = 4, then a is\n(A)   6\n(B)  7\n(C)  20\n(D)  28",
+      "answer": "d",
+      "hint": ""
     },
     {
       "qNo": 2,
@@ -51,17 +53,19 @@
           "text": "104.5"
         }
       ],
-      "fullText": "In an AP, if a = 3.5, d = 0, n = 101, then an will be\n(A)  0\n(B)  3.5\n(C)  103.5\n(D)  104.5"
+      "fullText": "In an AP, if a = 3.5, d = 0, n = 101, then an will be\n(A)  0\n(B)  3.5\n(C)  103.5\n(D)  104.5",
+      "answer": "b",
+      "hint": ""
     },
     {
       "qNo": 3,
       "exercise": "EXERCISE 5.1",
       "type": "mcq",
-      "stem": "The list of numbers – 10, – 6, – 2, 2,... is",
+      "stem": "The list of numbers \u2013 10, \u2013 6, \u2013 2, 2,... is",
       "options": [
         {
           "key": "a",
-          "text": "an AP with d = – 16"
+          "text": "an AP with d = \u2013 16"
         },
         {
           "key": "b",
@@ -69,24 +73,26 @@
         },
         {
           "key": "c",
-          "text": "an AP with d = – 4"
+          "text": "an AP with d = \u2013 4"
         },
         {
           "key": "d",
           "text": "not an AP"
         }
       ],
-      "fullText": "The list of numbers – 10, – 6, – 2, 2,... is\n(A)\nan AP with d = – 16\n(B)\nan AP with d =    4\n(C)\nan AP with d = – 4\n(D)\nnot an AP"
+      "fullText": "The list of numbers \u2013 10, \u2013 6, \u2013 2, 2,... is\n(A)\nan AP with d = \u2013 16\n(B)\nan AP with d =    4\n(C)\nan AP with d = \u2013 4\n(D)\nnot an AP",
+      "answer": "b",
+      "hint": ""
     },
     {
       "qNo": 4,
       "exercise": "EXERCISE 5.1",
       "type": "mcq",
-      "stem": "The 11th term of the AP: –5, –5\n2 , 0, 5\n2 , ...is",
+      "stem": "The 11th term of the AP: \u20135, \u20135\n2 , 0, 5\n2 , ...is",
       "options": [
         {
           "key": "a",
-          "text": "–20"
+          "text": "\u201320"
         },
         {
           "key": "b",
@@ -94,45 +100,49 @@
         },
         {
           "key": "c",
-          "text": "–30"
+          "text": "\u201330"
         },
         {
           "key": "d",
           "text": "30"
         }
       ],
-      "fullText": "The 11th term of the AP: –5, –5\n2 , 0, 5\n2 , ...is\n(A)  –20\n(B)  20\n(C)  –30\n(D)  30"
+      "fullText": "The 11th term of the AP: \u20135, \u20135\n2 , 0, 5\n2 , ...is\n(A)  \u201320\n(B)  20\n(C)  \u201330\n(D)  30",
+      "answer": "b",
+      "hint": ""
     },
     {
       "qNo": 5,
       "exercise": "EXERCISE 5.1",
       "type": "mcq",
-      "stem": "The first four terms of an AP, whose first term is –2 and the common difference\nis –2, are\n03/05/18",
+      "stem": "The first four terms of an AP, whose first term is \u20132 and the common difference\nis \u20132, are\n03/05/18",
       "options": [
         {
           "key": "a",
-          "text": "– 2, 0, 2, 4"
+          "text": "\u2013 2, 0, 2, 4"
         },
         {
           "key": "b",
-          "text": "– 2, 4, – 8, 16"
+          "text": "\u2013 2, 4, \u2013 8, 16"
         },
         {
           "key": "c",
-          "text": "– 2, – 4, – 6, – 8"
+          "text": "\u2013 2, \u2013 4, \u2013 6, \u2013 8"
         },
         {
           "key": "d",
-          "text": "– 2, – 4, – 8, –16"
+          "text": "\u2013 2, \u2013 4, \u2013 8, \u201316"
         }
       ],
-      "fullText": "The first four terms of an AP, whose first term is –2 and the common difference\nis –2, are\n03/05/18\n(A)\n– 2, 0, 2, 4\n(B)\n– 2, 4, – 8, 16\n(C)\n– 2, – 4, – 6, – 8\n(D)\n– 2, – 4, – 8, –16"
+      "fullText": "The first four terms of an AP, whose first term is \u20132 and the common difference\nis \u20132, are\n03/05/18\n(A)\n\u2013 2, 0, 2, 4\n(B)\n\u2013 2, 4, \u2013 8, 16\n(C)\n\u2013 2, \u2013 4, \u2013 6, \u2013 8\n(D)\n\u2013 2, \u2013 4, \u2013 8, \u201316",
+      "answer": "c",
+      "hint": ""
     },
     {
       "qNo": 6,
       "exercise": "EXERCISE 5.1",
       "type": "mcq",
-      "stem": "The 21st term of the AP whose first two terms are –3 and 4 is",
+      "stem": "The 21st term of the AP whose first two terms are \u20133 and 4 is",
       "options": [
         {
           "key": "a",
@@ -148,10 +158,12 @@
         },
         {
           "key": "d",
-          "text": "–143"
+          "text": "\u2013143"
         }
       ],
-      "fullText": "The 21st term of the AP whose first two terms are –3 and 4 is\n(A)  17\n(B)  137\n(C)  143\n(D)  –143"
+      "fullText": "The 21st term of the AP whose first two terms are \u20133 and 4 is\n(A)  17\n(B)  137\n(C)  143\n(D)  \u2013143",
+      "answer": "b",
+      "hint": ""
     },
     {
       "qNo": 7,
@@ -176,7 +188,9 @@
           "text": "38"
         }
       ],
-      "fullText": "If the 2nd term of an AP is 13 and the 5th term is 25, what is its 7th term?\n(A)  30\n(B) 33\n(C)  37\n(D)  38"
+      "fullText": "If the 2nd term of an AP is 13 and the 5th term is 25, what is its 7th term?\n(A)  30\n(B) 33\n(C)  37\n(D)  38",
+      "answer": "b",
+      "hint": ""
     },
     {
       "qNo": 8,
@@ -201,13 +215,15 @@
           "text": "12th"
         }
       ],
-      "fullText": "Which term of the AP: 21, 42, 63, 84,...  is 210?\n(A)  9th\n(B) 10th\n(C) 11th\n(D) 12th"
+      "fullText": "Which term of the AP: 21, 42, 63, 84,...  is 210?\n(A)  9th\n(B) 10th\n(C) 11th\n(D) 12th",
+      "answer": "b",
+      "hint": ""
     },
     {
       "qNo": 9,
       "exercise": "EXERCISE 5.1",
       "type": "mcq",
-      "stem": "If the common difference of an AP is 5, then what is\n–\na\na ?",
+      "stem": "If the common difference of an AP is 5, then what is\n\u2013\na\na ?",
       "options": [
         {
           "key": "a",
@@ -223,7 +239,7 @@
         },
         {
           "key": "d",
-          "text": "30\n10. What is the common difference of an AP in which a18 – a14 = 32?"
+          "text": "30\n10. What is the common difference of an AP in which a18 \u2013 a14 = 32?"
         },
         {
           "key": "a",
@@ -231,23 +247,23 @@
         },
         {
           "key": "b",
-          "text": "– 8"
+          "text": "\u2013 8"
         },
         {
           "key": "c",
-          "text": "– 4"
+          "text": "\u2013 4"
         },
         {
           "key": "d",
-          "text": "4\n11. Two APs have the same common difference. The first term of one of these is\n–1 and that of the other is – 8. Then the difference between their 4th terms is"
+          "text": "4\n11. Two APs have the same common difference. The first term of one of these is\n\u20131 and that of the other is \u2013 8. Then the difference between their 4th terms is"
         },
         {
           "key": "a",
-          "text": "–1"
+          "text": "\u20131"
         },
         {
           "key": "b",
-          "text": "– 8"
+          "text": "\u2013 8"
         },
         {
           "key": "c",
@@ -255,7 +271,7 @@
         },
         {
           "key": "d",
-          "text": "–9\n12. If 7 times the 7th term of an AP is equal to 11 times its 11th term, then its 18th\nterm will be"
+          "text": "\u20139\n12. If 7 times the 7th term of an AP is equal to 11 times its 11th term, then its 18th\nterm will be"
         },
         {
           "key": "a",
@@ -271,7 +287,7 @@
         },
         {
           "key": "d",
-          "text": "0\n13. The 4th term from the end of the AP: –11, –8, –5, ..., 49 is"
+          "text": "0\n13. The 4th term from the end of the AP: \u201311, \u20138, \u20135, ..., 49 is"
         },
         {
           "key": "a",
@@ -303,7 +319,7 @@
         },
         {
           "key": "d",
-          "text": "Euclid\n15. If the first term of an AP is –5 and the common difference is 2, then the sum of\nthe first 6 terms is"
+          "text": "Euclid\n15. If the first term of an AP is \u20135 and the common difference is 2, then the sum of\nthe first 6 terms is"
         },
         {
           "key": "a",
@@ -323,7 +339,7 @@
         },
         {
           "key": "a",
-          "text": "–320"
+          "text": "\u2013320"
         },
         {
           "key": "b",
@@ -331,11 +347,11 @@
         },
         {
           "key": "c",
-          "text": "–352"
+          "text": "\u2013352"
         },
         {
           "key": "d",
-          "text": "–400\n17. In an AP if a = 1, an = 20 and Sn = 399, then n is"
+          "text": "\u2013400\n17. In an AP if a = 1, an = 20 and Sn = 399, then n is"
         },
         {
           "key": "a",
@@ -371,34 +387,36 @@
         },
         {
           "key": "c",
-          "text": "Short Answer Questions with Reasoning\nSample Question 1: In the AP: 10, 5, 0, –5, ... the common difference d is equal to 5.\nJustify whether the above statement is true or false.\nSolution :\na2 – a1 = 5 – 10 = – 5\na3 – a2 = 0 – 5 = – 5\na4 – a3 = –5 – 0 = – 5\nAlthough the given list of numbers forms an AP, it is with d = –5 and not with d = 5\nSo, the given statement is false.\nSample Question 2 : Divya deposited Rs 1000 at compound interest at the rate of\n10% per annum. The amounts at the end of first year, second year, third year, ..., form\nan AP. Justify your answer.\nSolution :\nAmount at the end of the 1st year = Rs 1100\nAmount at the end of the 2nd year = Rs 1210\nAmount at the end of 3rd year = Rs 1331 and so on.\nSo, the amount (in Rs) at the end of 1st year, 2nd year, 3rd year, ... are\n1100, 1210, 1331, ...\nHere,\na2 – a1 = 110\na3 – a2 = 121\nAs,\na2 – a1 ≠ a3 – a2, it does not form an AP.\n03/05/18\nSample Question 3: The nth term of an AP cannot be n2 + 1. Justify your answer.\nSolution :\nHere,\nn\na\nn\n=\n+\nSo,\n1 1\n1 2\na =\n+ =\n1 5\na =\n+ =\n1 10\na =\n+ =\n\nList of numbers becomes 2, 5, 10, ...\nHere, 5 – 2 ≠10–5, so it does not form an AP.\nAlternative Solution 1:\nWe know that in an AP,\n–1\n–\nn\nn\nd\na\na\n=\nHere,\nn\na\nn\n=\n+\nSo,\n–1\n–\n(\n1) – ( –1)\nn\nn\na\na\nn\nn\n=\n+\n+\n= 2n – 1\nAs\n–1\n–\nn\nn\na\na\ndepends upon n, d is not a fixed number.\nSo,\nn\na\nn\n=\n+  cannot  be the nth term of an AP.\nAlternative Solution 2:\nWe know that in an AP\n(\n)\n–1\nna\na\nn\nd\n= +\n. We observe that\nn\na  is a linear polynomial in n.\nHere,\nn\na\nn\n=\n+  is not a linear polynomial in n. So, it cannot be the nth term of an AP.\n03/05/18"
+          "text": "Short Answer Questions with Reasoning\nSample Question 1: In the AP: 10, 5, 0, \u20135, ... the common difference d is equal to 5.\nJustify whether the above statement is true or false.\nSolution :\na2 \u2013 a1 = 5 \u2013 10 = \u2013 5\na3 \u2013 a2 = 0 \u2013 5 = \u2013 5\na4 \u2013 a3 = \u20135 \u2013 0 = \u2013 5\nAlthough the given list of numbers forms an AP, it is with d = \u20135 and not with d = 5\nSo, the given statement is false.\nSample Question 2 : Divya deposited Rs 1000 at compound interest at the rate of\n10% per annum. The amounts at the end of first year, second year, third year, ..., form\nan AP. Justify your answer.\nSolution :\nAmount at the end of the 1st year = Rs 1100\nAmount at the end of the 2nd year = Rs 1210\nAmount at the end of 3rd year = Rs 1331 and so on.\nSo, the amount (in Rs) at the end of 1st year, 2nd year, 3rd year, ... are\n1100, 1210, 1331, ...\nHere,\na2 \u2013 a1 = 110\na3 \u2013 a2 = 121\nAs,\na2 \u2013 a1 \u2260 a3 \u2013 a2, it does not form an AP.\n03/05/18\nSample Question 3: The nth term of an AP cannot be n2 + 1. Justify your answer.\nSolution :\nHere,\nn\na\nn\n=\n+\nSo,\n1 1\n1 2\na =\n+ =\n1 5\na =\n+ =\n1 10\na =\n+ =\n\uf001\nList of numbers becomes 2, 5, 10, ...\nHere, 5 \u2013 2 \u226010\u20135, so it does not form an AP.\nAlternative Solution 1:\nWe know that in an AP,\n\u20131\n\u2013\nn\nn\nd\na\na\n=\nHere,\nn\na\nn\n=\n+\nSo,\n\u20131\n\u2013\n(\n1) \u2013 ( \u20131)\nn\nn\na\na\nn\nn\n=\n+\n+\n= 2n \u2013 1\nAs\n\u20131\n\u2013\nn\nn\na\na\ndepends upon n, d is not a fixed number.\nSo,\nn\na\nn\n=\n+  cannot  be the nth term of an AP.\nAlternative Solution 2:\nWe know that in an AP\n(\n)\n\u20131\nna\na\nn\nd\n= +\n. We observe that\nn\na  is a linear polynomial in n.\nHere,\nn\na\nn\n=\n+  is not a linear polynomial in n. So, it cannot be the nth term of an AP.\n03/05/18"
         }
       ],
-      "fullText": "If the common difference of an AP is 5, then what is\n–\na\na ?\n(A)  5\n(B) 20\n(C)  25\n(D)  30\n10. What is the common difference of an AP in which a18 – a14 = 32?\n(A)  8\n(B) – 8\n(C)  – 4\n(D)  4\n11. Two APs have the same common difference. The first term of one of these is\n–1 and that of the other is – 8. Then the difference between their 4th terms is\n(A)  –1\n(B) – 8\n(C)  7\n(D)  –9\n12. If 7 times the 7th term of an AP is equal to 11 times its 11th term, then its 18th\nterm will be\n(A)  7\n(B)   11\n(C)  18\n(D)  0\n13. The 4th term from the end of the AP: –11, –8, –5, ..., 49 is\n(A)  37\n(B)  40\n(C)  43\n(D)  58\n14. The famous mathematician associated with finding the sum of the first 100 natu-\nral numbers is\n(A)  Pythagoras\n(B)\nNewton\n(C)  Gauss\n(D)\nEuclid\n15. If the first term of an AP is –5 and the common difference is 2, then the sum of\nthe first 6 terms is\n(A)  0\n(B)  5\n(C)  6\n(D)  15\n03/05/18\n16. The sum of first 16 terms of the AP: 10, 6, 2,... is\n(A) –320\n(B) 320\n(C) –352\n(D) –400\n17. In an AP if a = 1, an = 20 and Sn = 399, then n is\n(A) 19\n(B)  21\n(C)  38\n(D)  42\n18. The sum of first five multiples of 3 is\n(A)  45\n(B)  55\n(C)  65\n(D)  75\n(C) Short Answer Questions with Reasoning\nSample Question 1: In the AP: 10, 5, 0, –5, ... the common difference d is equal to 5.\nJustify whether the above statement is true or false.\nSolution :\na2 – a1 = 5 – 10 = – 5\na3 – a2 = 0 – 5 = – 5\na4 – a3 = –5 – 0 = – 5\nAlthough the given list of numbers forms an AP, it is with d = –5 and not with d = 5\nSo, the given statement is false.\nSample Question 2 : Divya deposited Rs 1000 at compound interest at the rate of\n10% per annum. The amounts at the end of first year, second year, third year, ..., form\nan AP. Justify your answer.\nSolution :\nAmount at the end of the 1st year = Rs 1100\nAmount at the end of the 2nd year = Rs 1210\nAmount at the end of 3rd year = Rs 1331 and so on.\nSo, the amount (in Rs) at the end of 1st year, 2nd year, 3rd year, ... are\n1100, 1210, 1331, ...\nHere,\na2 – a1 = 110\na3 – a2 = 121\nAs,\na2 – a1 ≠ a3 – a2, it does not form an AP.\n03/05/18\nSample Question 3: The nth term of an AP cannot be n2 + 1. Justify your answer.\nSolution :\nHere,\nn\na\nn\n=\n+\nSo,\n1 1\n1 2\na =\n+ =\n1 5\na =\n+ =\n1 10\na =\n+ =\n\nList of numbers becomes 2, 5, 10, ...\nHere, 5 – 2 ≠10–5, so it does not form an AP.\nAlternative Solution 1:\nWe know that in an AP,\n–1\n–\nn\nn\nd\na\na\n=\nHere,\nn\na\nn\n=\n+\nSo,\n–1\n–\n(\n1) – ( –1)\nn\nn\na\na\nn\nn\n=\n+\n+\n= 2n – 1\nAs\n–1\n–\nn\nn\na\na\ndepends upon n, d is not a fixed number.\nSo,\nn\na\nn\n=\n+  cannot  be the nth term of an AP.\nAlternative Solution 2:\nWe know that in an AP\n(\n)\n–1\nna\na\nn\nd\n= +\n. We observe that\nn\na  is a linear polynomial in n.\nHere,\nn\na\nn\n=\n+  is not a linear polynomial in n. So, it cannot be the nth term of an AP.\n03/05/18"
+      "fullText": "If the common difference of an AP is 5, then what is\n\u2013\na\na ?\n(A)  5\n(B) 20\n(C)  25\n(D)  30\n10. What is the common difference of an AP in which a18 \u2013 a14 = 32?\n(A)  8\n(B) \u2013 8\n(C)  \u2013 4\n(D)  4\n11. Two APs have the same common difference. The first term of one of these is\n\u20131 and that of the other is \u2013 8. Then the difference between their 4th terms is\n(A)  \u20131\n(B) \u2013 8\n(C)  7\n(D)  \u20139\n12. If 7 times the 7th term of an AP is equal to 11 times its 11th term, then its 18th\nterm will be\n(A)  7\n(B)   11\n(C)  18\n(D)  0\n13. The 4th term from the end of the AP: \u201311, \u20138, \u20135, ..., 49 is\n(A)  37\n(B)  40\n(C)  43\n(D)  58\n14. The famous mathematician associated with finding the sum of the first 100 natu-\nral numbers is\n(A)  Pythagoras\n(B)\nNewton\n(C)  Gauss\n(D)\nEuclid\n15. If the first term of an AP is \u20135 and the common difference is 2, then the sum of\nthe first 6 terms is\n(A)  0\n(B)  5\n(C)  6\n(D)  15\n03/05/18\n16. The sum of first 16 terms of the AP: 10, 6, 2,... is\n(A) \u2013320\n(B) 320\n(C) \u2013352\n(D) \u2013400\n17. In an AP if a = 1, an = 20 and Sn = 399, then n is\n(A) 19\n(B)  21\n(C)  38\n(D)  42\n18. The sum of first five multiples of 3 is\n(A)  45\n(B)  55\n(C)  65\n(D)  75\n(C) Short Answer Questions with Reasoning\nSample Question 1: In the AP: 10, 5, 0, \u20135, ... the common difference d is equal to 5.\nJustify whether the above statement is true or false.\nSolution :\na2 \u2013 a1 = 5 \u2013 10 = \u2013 5\na3 \u2013 a2 = 0 \u2013 5 = \u2013 5\na4 \u2013 a3 = \u20135 \u2013 0 = \u2013 5\nAlthough the given list of numbers forms an AP, it is with d = \u20135 and not with d = 5\nSo, the given statement is false.\nSample Question 2 : Divya deposited Rs 1000 at compound interest at the rate of\n10% per annum. The amounts at the end of first year, second year, third year, ..., form\nan AP. Justify your answer.\nSolution :\nAmount at the end of the 1st year = Rs 1100\nAmount at the end of the 2nd year = Rs 1210\nAmount at the end of 3rd year = Rs 1331 and so on.\nSo, the amount (in Rs) at the end of 1st year, 2nd year, 3rd year, ... are\n1100, 1210, 1331, ...\nHere,\na2 \u2013 a1 = 110\na3 \u2013 a2 = 121\nAs,\na2 \u2013 a1 \u2260 a3 \u2013 a2, it does not form an AP.\n03/05/18\nSample Question 3: The nth term of an AP cannot be n2 + 1. Justify your answer.\nSolution :\nHere,\nn\na\nn\n=\n+\nSo,\n1 1\n1 2\na =\n+ =\n1 5\na =\n+ =\n1 10\na =\n+ =\n\uf001\nList of numbers becomes 2, 5, 10, ...\nHere, 5 \u2013 2 \u226010\u20135, so it does not form an AP.\nAlternative Solution 1:\nWe know that in an AP,\n\u20131\n\u2013\nn\nn\nd\na\na\n=\nHere,\nn\na\nn\n=\n+\nSo,\n\u20131\n\u2013\n(\n1) \u2013 ( \u20131)\nn\nn\na\na\nn\nn\n=\n+\n+\n= 2n \u2013 1\nAs\n\u20131\n\u2013\nn\nn\na\na\ndepends upon n, d is not a fixed number.\nSo,\nn\na\nn\n=\n+  cannot  be the nth term of an AP.\nAlternative Solution 2:\nWe know that in an AP\n(\n)\n\u20131\nna\na\nn\nd\n= +\n. We observe that\nn\na  is a linear polynomial in n.\nHere,\nn\na\nn\n=\n+  is not a linear polynomial in n. So, it cannot be the nth term of an AP.\n03/05/18",
+      "answer": "c",
+      "hint": ""
     },
     {
       "qNo": 1,
       "exercise": "EXERCISE 5.2",
       "type": "short_answer",
-      "stem": "Which of the following form an AP? Justify your answer.\n(i)\n–1, –1, –1, –1, ...\n(ii)\n0, 2, 0, 2, ...\n(iii)\n1, 1, 2, 2, 3, 3,...\n(iv)\n11, 22, 33,...\n(v)\n2 , 1\n3 , 1\n4 , ...\n(vi)\n2, 22, 23, 24, ...\n(vii)\n3 , 12 ,\n27 ,\n48 , ...",
+      "stem": "Which of the following form an AP? Justify your answer.\n(i)\n\u20131, \u20131, \u20131, \u20131, ...\n(ii)\n0, 2, 0, 2, ...\n(iii)\n1, 1, 2, 2, 3, 3,...\n(iv)\n11, 22, 33,...\n(v)\n2 , 1\n3 , 1\n4 , ...\n(vi)\n2, 22, 23, 24, ...\n(vii)\n3 , 12 ,\n27 ,\n48 , ...",
       "options": [],
-      "fullText": "Which of the following form an AP? Justify your answer.\n(i)\n–1, –1, –1, –1, ...\n(ii)\n0, 2, 0, 2, ...\n(iii)\n1, 1, 2, 2, 3, 3,...\n(iv)\n11, 22, 33,...\n(v)\n2 , 1\n3 , 1\n4 , ...\n(vi)\n2, 22, 23, 24, ...\n(vii)\n3 , 12 ,\n27 ,\n48 , ..."
+      "fullText": "Which of the following form an AP? Justify your answer.\n(i)\n\u20131, \u20131, \u20131, \u20131, ...\n(ii)\n0, 2, 0, 2, ...\n(iii)\n1, 1, 2, 2, 3, 3,...\n(iv)\n11, 22, 33,...\n(v)\n2 , 1\n3 , 1\n4 , ...\n(vi)\n2, 22, 23, 24, ...\n(vii)\n3 , 12 ,\n27 ,\n48 , ..."
     },
     {
       "qNo": 2,
       "exercise": "EXERCISE 5.2",
       "type": "short_answer",
-      "stem": "Justify whether it is true to say that –1,\n– 2 , –2,\n2 ,... forms an AP as\na2 – a1 = a3 – a2.",
+      "stem": "Justify whether it is true to say that \u20131,\n\u2013 2 , \u20132,\n2 ,... forms an AP as\na2 \u2013 a1 = a3 \u2013 a2.",
       "options": [],
-      "fullText": "Justify whether it is true to say that –1,\n– 2 , –2,\n2 ,... forms an AP as\na2 – a1 = a3 – a2."
+      "fullText": "Justify whether it is true to say that \u20131,\n\u2013 2 , \u20132,\n2 ,... forms an AP as\na2 \u2013 a1 = a3 \u2013 a2."
     },
     {
       "qNo": 3,
       "exercise": "EXERCISE 5.2",
       "type": "short_answer",
-      "stem": "For the AP: –3, –7, –11, ..., can we find directly a30 – a20  without actually finding\na30 and a20? Give reasons for your answer.",
+      "stem": "For the AP: \u20133, \u20137, \u201311, ..., can we find directly a30 \u2013 a20  without actually finding\na30 and a20? Give reasons for your answer.",
       "options": [],
-      "fullText": "For the AP: –3, –7, –11, ..., can we find directly a30 – a20  without actually finding\na30 and a20? Give reasons for your answer."
+      "fullText": "For the AP: \u20133, \u20137, \u201311, ..., can we find directly a30 \u2013 a20  without actually finding\na30 and a20? Give reasons for your answer."
     },
     {
       "qNo": 4,
@@ -436,17 +454,17 @@
       "qNo": 8,
       "exercise": "EXERCISE 5.2",
       "type": "short_answer",
-      "stem": "Justify whether it is true to say that the following are the nth terms of an AP.\n(i) 2n–3\n(ii)   3n2+5\n(iii)  1+n+n2\n(D) Short Answer Questions\nSample Question 1 : If the numbers  n – 2, 4n – 1 and 5n + 2 are in AP, find the\nvalue of n.\nSolution :\nAs n – 2, 4n – 1, 5n + 2 are in AP,\nso\n(4n – 1) – (n – 2) = (5n + 2) – (4n – 1)\ni.e,\n3n + 1 = n + 3\ni.e,\nn = 1\nSample Question 2 :  Find the value of the middle most term (s) of the AP :\n–11, –7, –3,..., 49.\nSolution :\nHere, a = –11, d = –7 – (–11) = 4, an = 49\nWe have an = a + (n – 1) d\nSo,\n49 = –11 + (n – 1) × 4\ni.e.,\n60 = (n – 1) × 4\ni.e.,\nn = 16\nAs n is an even number, there will be two middle terms which are\nth and\n1 th,  i.e., the\n\n\n+\n\n\n\n\n8th term and the 9th term.\n03/05/18\na8 = a + 7d = –11 + 7 × 4 = 17\na9 = a + 8d = –11 + 8 × 4 = 21\nSo, the values of the two middle most terms are 17 and 21, respectively.\nSample Question 3: The sum of the first three terms of an AP is 33. If the product of\nthe first and the third term exceeds the second term by 29, find the AP.\nSolution : Let the three terms in AP be\na – d, a, a + d.\nSo,\na – d + a + a + d = 33\nor\na = 11\nAlso,\n(a – d) (a + d) = a + 29\ni.e.,\na2 – d 2 = a + 29\ni.e.,\n121 – d 2 = 11 + 29\ni.e.,\nd 2 = 81\ni.e.,\nd = ± 9\nSo there will be two APs and they are : 2, 11, 20, ...\nand  20, 11, 2, ...",
+      "stem": "Justify whether it is true to say that the following are the nth terms of an AP.\n(i) 2n\u20133\n(ii)   3n2+5\n(iii)  1+n+n2\n(D) Short Answer Questions\nSample Question 1 : If the numbers  n \u2013 2, 4n \u2013 1 and 5n + 2 are in AP, find the\nvalue of n.\nSolution :\nAs n \u2013 2, 4n \u2013 1, 5n + 2 are in AP,\nso\n(4n \u2013 1) \u2013 (n \u2013 2) = (5n + 2) \u2013 (4n \u2013 1)\ni.e,\n3n + 1 = n + 3\ni.e,\nn = 1\nSample Question 2 :  Find the value of the middle most term (s) of the AP :\n\u201311, \u20137, \u20133,..., 49.\nSolution :\nHere, a = \u201311, d = \u20137 \u2013 (\u201311) = 4, an = 49\nWe have an = a + (n \u2013 1) d\nSo,\n49 = \u201311 + (n \u2013 1) \u00d7 4\ni.e.,\n60 = (n \u2013 1) \u00d7 4\ni.e.,\nn = 16\nAs n is an even number, there will be two middle terms which are\nth and\n1 th,  i.e., the\n\uf001\n\uf002\n+\n\uf003\n\uf004\n\uf005\n\uf006\n8th term and the 9th term.\n03/05/18\na8 = a + 7d = \u201311 + 7 \u00d7 4 = 17\na9 = a + 8d = \u201311 + 8 \u00d7 4 = 21\nSo, the values of the two middle most terms are 17 and 21, respectively.\nSample Question 3: The sum of the first three terms of an AP is 33. If the product of\nthe first and the third term exceeds the second term by 29, find the AP.\nSolution : Let the three terms in AP be\na \u2013 d, a, a + d.\nSo,\na \u2013 d + a + a + d = 33\nor\na = 11\nAlso,\n(a \u2013 d) (a + d) = a + 29\ni.e.,\na2 \u2013 d 2 = a + 29\ni.e.,\n121 \u2013 d 2 = 11 + 29\ni.e.,\nd 2 = 81\ni.e.,\nd = \u00b1 9\nSo there will be two APs and they are : 2, 11, 20, ...\nand  20, 11, 2, ...",
       "options": [],
-      "fullText": "Justify whether it is true to say that the following are the nth terms of an AP.\n(i) 2n–3\n(ii)   3n2+5\n(iii)  1+n+n2\n(D) Short Answer Questions\nSample Question 1 : If the numbers  n – 2, 4n – 1 and 5n + 2 are in AP, find the\nvalue of n.\nSolution :\nAs n – 2, 4n – 1, 5n + 2 are in AP,\nso\n(4n – 1) – (n – 2) = (5n + 2) – (4n – 1)\ni.e,\n3n + 1 = n + 3\ni.e,\nn = 1\nSample Question 2 :  Find the value of the middle most term (s) of the AP :\n–11, –7, –3,..., 49.\nSolution :\nHere, a = –11, d = –7 – (–11) = 4, an = 49\nWe have an = a + (n – 1) d\nSo,\n49 = –11 + (n – 1) × 4\ni.e.,\n60 = (n – 1) × 4\ni.e.,\nn = 16\nAs n is an even number, there will be two middle terms which are\nth and\n1 th,  i.e., the\n\n\n+\n\n\n\n\n8th term and the 9th term.\n03/05/18\na8 = a + 7d = –11 + 7 × 4 = 17\na9 = a + 8d = –11 + 8 × 4 = 21\nSo, the values of the two middle most terms are 17 and 21, respectively.\nSample Question 3: The sum of the first three terms of an AP is 33. If the product of\nthe first and the third term exceeds the second term by 29, find the AP.\nSolution : Let the three terms in AP be\na – d, a, a + d.\nSo,\na – d + a + a + d = 33\nor\na = 11\nAlso,\n(a – d) (a + d) = a + 29\ni.e.,\na2 – d 2 = a + 29\ni.e.,\n121 – d 2 = 11 + 29\ni.e.,\nd 2 = 81\ni.e.,\nd = ± 9\nSo there will be two APs and they are : 2, 11, 20, ...\nand  20, 11, 2, ..."
+      "fullText": "Justify whether it is true to say that the following are the nth terms of an AP.\n(i) 2n\u20133\n(ii)   3n2+5\n(iii)  1+n+n2\n(D) Short Answer Questions\nSample Question 1 : If the numbers  n \u2013 2, 4n \u2013 1 and 5n + 2 are in AP, find the\nvalue of n.\nSolution :\nAs n \u2013 2, 4n \u2013 1, 5n + 2 are in AP,\nso\n(4n \u2013 1) \u2013 (n \u2013 2) = (5n + 2) \u2013 (4n \u2013 1)\ni.e,\n3n + 1 = n + 3\ni.e,\nn = 1\nSample Question 2 :  Find the value of the middle most term (s) of the AP :\n\u201311, \u20137, \u20133,..., 49.\nSolution :\nHere, a = \u201311, d = \u20137 \u2013 (\u201311) = 4, an = 49\nWe have an = a + (n \u2013 1) d\nSo,\n49 = \u201311 + (n \u2013 1) \u00d7 4\ni.e.,\n60 = (n \u2013 1) \u00d7 4\ni.e.,\nn = 16\nAs n is an even number, there will be two middle terms which are\nth and\n1 th,  i.e., the\n\uf001\n\uf002\n+\n\uf003\n\uf004\n\uf005\n\uf006\n8th term and the 9th term.\n03/05/18\na8 = a + 7d = \u201311 + 7 \u00d7 4 = 17\na9 = a + 8d = \u201311 + 8 \u00d7 4 = 21\nSo, the values of the two middle most terms are 17 and 21, respectively.\nSample Question 3: The sum of the first three terms of an AP is 33. If the product of\nthe first and the third term exceeds the second term by 29, find the AP.\nSolution : Let the three terms in AP be\na \u2013 d, a, a + d.\nSo,\na \u2013 d + a + a + d = 33\nor\na = 11\nAlso,\n(a \u2013 d) (a + d) = a + 29\ni.e.,\na2 \u2013 d 2 = a + 29\ni.e.,\n121 \u2013 d 2 = 11 + 29\ni.e.,\nd 2 = 81\ni.e.,\nd = \u00b1 9\nSo there will be two APs and they are : 2, 11, 20, ...\nand  20, 11, 2, ..."
     },
     {
       "qNo": 1,
       "exercise": "EXERCISE 5.3",
       "type": "short_answer",
-      "stem": "Match the APs  given in column A with suitable common differences given in\ncolumn B.\nColumn A\nColumn B\n(A1)\n2, – 2, – 6, –10,...\n(B1)\n(A2)\na = –18, n = 10, an = 0\n(B2)\n– 5\n(A3)\na = 0, a10 = 6\n(B3)\n(A4)\na2 = 13, a4 =3\n(B4)\n– 4\n(B5)\n(B6)\n(B7)   5\n03/05/18",
+      "stem": "Match the APs  given in column A with suitable common differences given in\ncolumn B.\nColumn A\nColumn B\n(A1)\n2, \u2013 2, \u2013 6, \u201310,...\n(B1)\n(A2)\na = \u201318, n = 10, an = 0\n(B2)\n\u2013 5\n(A3)\na = 0, a10 = 6\n(B3)\n(A4)\na2 = 13, a4 =3\n(B4)\n\u2013 4\n(B5)\n(B6)\n(B7)   5\n03/05/18",
       "options": [],
-      "fullText": "Match the APs  given in column A with suitable common differences given in\ncolumn B.\nColumn A\nColumn B\n(A1)\n2, – 2, – 6, –10,...\n(B1)\n(A2)\na = –18, n = 10, an = 0\n(B2)\n– 5\n(A3)\na = 0, a10 = 6\n(B3)\n(A4)\na2 = 13, a4 =3\n(B4)\n– 4\n(B5)\n(B6)\n(B7)   5\n03/05/18"
+      "fullText": "Match the APs  given in column A with suitable common differences given in\ncolumn B.\nColumn A\nColumn B\n(A1)\n2, \u2013 2, \u2013 6, \u201310,...\n(B1)\n(A2)\na = \u201318, n = 10, an = 0\n(B2)\n\u2013 5\n(A3)\na = 0, a10 = 6\n(B3)\n(A4)\na2 = 13, a4 =3\n(B4)\n\u2013 4\n(B5)\n(B6)\n(B7)   5\n03/05/18"
     },
     {
       "qNo": 2,
@@ -460,9 +478,9 @@
       "qNo": 3,
       "exercise": "EXERCISE 5.3",
       "type": "short_answer",
-      "stem": "Write the first three terms of the APs when a and d are as given below:\n(i) a =\n2 , d =\n– 6\n(ii) a = –5, d = –3\n(iii) a =\n2 ,\nd =",
+      "stem": "Write the first three terms of the APs when a and d are as given below:\n(i) a =\n2 , d =\n\u2013 6\n(ii) a = \u20135, d = \u20133\n(iii) a =\n2 ,\nd =",
       "options": [],
-      "fullText": "Write the first three terms of the APs when a and d are as given below:\n(i) a =\n2 , d =\n– 6\n(ii) a = –5, d = –3\n(iii) a =\n2 ,\nd ="
+      "fullText": "Write the first three terms of the APs when a and d are as given below:\n(i) a =\n2 , d =\n\u2013 6\n(ii) a = \u20135, d = \u20133\n(iii) a =\n2 ,\nd ="
     },
     {
       "qNo": 4,
@@ -484,9 +502,9 @@
       "qNo": 6,
       "exercise": "EXERCISE 5.3",
       "type": "short_answer",
-      "stem": "The 26th, 11th and the last term of an AP are 0, 3 and\n– 5 , respectively. Find the\ncommon difference and the number of terms.",
+      "stem": "The 26th, 11th and the last term of an AP are 0, 3 and\n\u2013 5 , respectively. Find the\ncommon difference and the number of terms.",
       "options": [],
-      "fullText": "The 26th, 11th and the last term of an AP are 0, 3 and\n– 5 , respectively. Find the\ncommon difference and the number of terms."
+      "fullText": "The 26th, 11th and the last term of an AP are 0, 3 and\n\u2013 5 , respectively. Find the\ncommon difference and the number of terms."
     },
     {
       "qNo": 7,
@@ -508,9 +526,9 @@
       "qNo": 9,
       "exercise": "EXERCISE 5.3",
       "type": "short_answer",
-      "stem": "If the 9th term of an AP is zero, prove that its 29th term is twice its 19th term.\n10. Find whether 55 is a term of the AP: 7, 10, 13,--- or not. If yes, find which term\nit is.\n03/05/18\n11. Determine k so that k2+ 4k + 8, 2k2 + 3k + 6, 3k2 + 4k + 4 are three consecutive\nterms of an AP.\n12. Split 207 into three parts such that these are in AP and the product of the two\nsmaller parts is 4623.\n13. The angles of a triangle are in AP. The greatest angle is twice the least. Find all the\nangles of the triangle.\n14. If the nth terms of the two APs: 9, 7, 5, ... and 24, 21, 18,... are the same, find the\nvalue of n. Also find that term.\n15. If sum of the 3rd and the 8th terms of an AP is 7 and the sum of the 7th and the 14th\nterms is –3, find the 10th term.\n16. Find the 12th term from the end of the AP:  –2, –4, –6,..., –100.\n17. Which term of the AP: 53, 48, 43,... is the first negative term?\n18. How many numbers lie between 10 and 300, which when divided by 4 leave a\nremainder 3?\n19. Find the sum of the two middle most terms of the AP:\n– 3 , –1,\n– 3 ,...,\n4 3 .\n20. The first term of an AP is –5 and the last term is 45. If the sum of the terms of the\nAP is 120,  then find the number of terms and the common difference.\n21. Find the sum:\n(i) 1 + (–2) + (–5) + (–8) + ... + (–236)\n(ii)\n4 – n\n+\n4 – n\n+\n4 – n\n+... upto n terms\n(iii)\n–\n3 – 2\n5 – 3\n...\na\nb\na\nb\na\nb\na\nb\na\nb\na\nb\n+\n+\n+\n+\n+\n+\nto 11 terms.\n22. Which term of the AP: –2, –7, –12,... will be –77? Find the sum of this AP upto the\nterm –77.\n23. If an = 3 – 4n, show that\n,\n,\n,...\na a\na\nform an AP. Also find S20.\n24. In an AP, if Sn = n (4n + 1), find the AP.\n03/05/18\n25. In an AP, if Sn = 3n2 + 5n and ak = 164, find the value of k.\n26. If Sn denotes the sum of first n terms of an AP, prove that\nS12 = 3(S8 –S4)\n27. Find the sum of first 17 terms of an AP whose 4th and 9th terms are –15 and –30\nrespectively.\n28. If sum of first 6 terms of an AP is 36 and that of the first 16 terms is 256, find the\nsum of first 10 terms.\n29. Find the sum of all the 11 terms of an AP whose middle most term is 30.\n30. Find the sum of last ten terms of the AP: 8, 10, 12,---, 126.\n31. Find the sum of first seven numbers which are multiples of 2 as well as of 9.\n[Hint: Take the LCM of 2 and 9]\n32. How many terms of the AP: –15, –13, –11,--- are needed to make the sum –55?\nExplain the reason for double answer.\n33. The sum of the first n terms of an AP whose first term is 8 and the common\ndifference is 20 is equal to the sum of first 2n terms of another AP whose first term\nis – 30 and the common difference is 8. Find n.\n34. Kanika was given her pocket money on Jan 1st, 2008. She puts Re 1 on Day 1,\nRs 2 on Day 2, Rs 3 on Day 3, and continued doing so till the end of the month,\nfrom this money into her piggy bank. She also spent Rs 204 of her pocket money,\nand found that at the end of the month she still had Rs 100 with her. How much\nwas her pocket money for the month?\n35. Yasmeen saves Rs 32 during the first month, Rs 36 in the second month and\nRs 40 in the third month. If she continues to save in this manner, in how many\nmonths will she save Rs 2000?\n(E) Long Answer Questions\nSample Question 1: The sum of four consecutive numbers in an AP is 32 and the\nratio of the product of the first and the last terms to the product of the two middle terms\nis 7 : 15. Find the numbers.\nSolution: Let the four consecutive numbers in AP be\na –3d, a – d, a + d, a + 3d.\n03/05/18\nSo,\na –3d + a – d + a + d + a + 3d = 32\nor\n4a = 32\nor\na = 8\nAlso,\n(\n)(\n)\n(\n)(\n)\n–3\n–\na\nd a\nd\na d\na d\n+\n=\n+\nor,\n–9\n–\na\nd\na\nd\n=\nor,\n15 a2 – 135\nd   = 7a2 – 7\nd\nor,\n8 a2 – 128\nd   = 0\nor,\nd  = 8 8 8\n× ×\n=\nor,\nd = ± 2\nSo, when a = 8, d = 2, the numbers are 2, 6, 10, 14.\nSample Question 2: Solve the equation :\n1 + 4 + 7 + 10 +...+ x =287\nSolution :\nHere, 1, 4, 7, 10, ..., x form an AP with a = 1, d = 3, an = x\nWe have, an = a + (n – 1)d\nSo,\nx = 1 + (n – 1) × 3 = 3n – 2\nAlso,\nS =\n(\n)\nn a\nl\n+\nSo,\n287 =\n(1\n)\nn\nx\n+\n03/05/18\n=\n(1 3 – 2)\nn\nn\n+\nor,\n574 = n (3n – 1)\nor,\n3n2 – n – 574 = 0\nTherefore, n = 1\n1 6888\n±\n+\n= 1 83\n–82\n84 ,\n±\n=\n= 14,\n–41\nAs n cannot be negative, so n = 14\nTherefore, x = 3n – 2 = 3 × 14 – 2 = 40.\nAlternative solution:\nHere, 1, 4, 7, 10, ... x form an AP with a = 1, d = 3, S = 287\nWe have,\n(\n)\nS=\n–1\nn\na\nn\nd\n+\nSo,\n(\n)\n–1\nn\nn\n=\n+\n×\nor,   574\n(3 –1)\nn\nn\n=\nor,\n–\n–574 0\nn\nn\n=\nNow proceed as above.",
+      "stem": "If the 9th term of an AP is zero, prove that its 29th term is twice its 19th term.\n10. Find whether 55 is a term of the AP: 7, 10, 13,--- or not. If yes, find which term\nit is.\n03/05/18\n11. Determine k so that k2+ 4k + 8, 2k2 + 3k + 6, 3k2 + 4k + 4 are three consecutive\nterms of an AP.\n12. Split 207 into three parts such that these are in AP and the product of the two\nsmaller parts is 4623.\n13. The angles of a triangle are in AP. The greatest angle is twice the least. Find all the\nangles of the triangle.\n14. If the nth terms of the two APs: 9, 7, 5, ... and 24, 21, 18,... are the same, find the\nvalue of n. Also find that term.\n15. If sum of the 3rd and the 8th terms of an AP is 7 and the sum of the 7th and the 14th\nterms is \u20133, find the 10th term.\n16. Find the 12th term from the end of the AP:  \u20132, \u20134, \u20136,..., \u2013100.\n17. Which term of the AP: 53, 48, 43,... is the first negative term?\n18. How many numbers lie between 10 and 300, which when divided by 4 leave a\nremainder 3?\n19. Find the sum of the two middle most terms of the AP:\n\u2013 3 , \u20131,\n\u2013 3 ,...,\n4 3 .\n20. The first term of an AP is \u20135 and the last term is 45. If the sum of the terms of the\nAP is 120,  then find the number of terms and the common difference.\n21. Find the sum:\n(i) 1 + (\u20132) + (\u20135) + (\u20138) + ... + (\u2013236)\n(ii)\n4 \u2013 n\n+\n4 \u2013 n\n+\n4 \u2013 n\n+... upto n terms\n(iii)\n\u2013\n3 \u2013 2\n5 \u2013 3\n...\na\nb\na\nb\na\nb\na\nb\na\nb\na\nb\n+\n+\n+\n+\n+\n+\nto 11 terms.\n22. Which term of the AP: \u20132, \u20137, \u201312,... will be \u201377? Find the sum of this AP upto the\nterm \u201377.\n23. If an = 3 \u2013 4n, show that\n,\n,\n,...\na a\na\nform an AP. Also find S20.\n24. In an AP, if Sn = n (4n + 1), find the AP.\n03/05/18\n25. In an AP, if Sn = 3n2 + 5n and ak = 164, find the value of k.\n26. If Sn denotes the sum of first n terms of an AP, prove that\nS12 = 3(S8 \u2013S4)\n27. Find the sum of first 17 terms of an AP whose 4th and 9th terms are \u201315 and \u201330\nrespectively.\n28. If sum of first 6 terms of an AP is 36 and that of the first 16 terms is 256, find the\nsum of first 10 terms.\n29. Find the sum of all the 11 terms of an AP whose middle most term is 30.\n30. Find the sum of last ten terms of the AP: 8, 10, 12,---, 126.\n31. Find the sum of first seven numbers which are multiples of 2 as well as of 9.\n[Hint: Take the LCM of 2 and 9]\n32. How many terms of the AP: \u201315, \u201313, \u201311,--- are needed to make the sum \u201355?\nExplain the reason for double answer.\n33. The sum of the first n terms of an AP whose first term is 8 and the common\ndifference is 20 is equal to the sum of first 2n terms of another AP whose first term\nis \u2013 30 and the common difference is 8. Find n.\n34. Kanika was given her pocket money on Jan 1st, 2008. She puts Re 1 on Day 1,\nRs 2 on Day 2, Rs 3 on Day 3, and continued doing so till the end of the month,\nfrom this money into her piggy bank. She also spent Rs 204 of her pocket money,\nand found that at the end of the month she still had Rs 100 with her. How much\nwas her pocket money for the month?\n35. Yasmeen saves Rs 32 during the first month, Rs 36 in the second month and\nRs 40 in the third month. If she continues to save in this manner, in how many\nmonths will she save Rs 2000?\n(E) Long Answer Questions\nSample Question 1: The sum of four consecutive numbers in an AP is 32 and the\nratio of the product of the first and the last terms to the product of the two middle terms\nis 7 : 15. Find the numbers.\nSolution: Let the four consecutive numbers in AP be\na \u20133d, a \u2013 d, a + d, a + 3d.\n03/05/18\nSo,\na \u20133d + a \u2013 d + a + d + a + 3d = 32\nor\n4a = 32\nor\na = 8\nAlso,\n(\n)(\n)\n(\n)(\n)\n\u20133\n\u2013\na\nd a\nd\na d\na d\n+\n=\n+\nor,\n\u20139\n\u2013\na\nd\na\nd\n=\nor,\n15 a2 \u2013 135\nd   = 7a2 \u2013 7\nd\nor,\n8 a2 \u2013 128\nd   = 0\nor,\nd  = 8 8 8\n\u00d7 \u00d7\n=\nor,\nd = \u00b1 2\nSo, when a = 8, d = 2, the numbers are 2, 6, 10, 14.\nSample Question 2: Solve the equation :\n1 + 4 + 7 + 10 +...+ x =287\nSolution :\nHere, 1, 4, 7, 10, ..., x form an AP with a = 1, d = 3, an = x\nWe have, an = a + (n \u2013 1)d\nSo,\nx = 1 + (n \u2013 1) \u00d7 3 = 3n \u2013 2\nAlso,\nS =\n(\n)\nn a\nl\n+\nSo,\n287 =\n(1\n)\nn\nx\n+\n03/05/18\n=\n(1 3 \u2013 2)\nn\nn\n+\nor,\n574 = n (3n \u2013 1)\nor,\n3n2 \u2013 n \u2013 574 = 0\nTherefore, n = 1\n1 6888\n\u00b1\n+\n= 1 83\n\u201382\n84 ,\n\u00b1\n=\n= 14,\n\u201341\nAs n cannot be negative, so n = 14\nTherefore, x = 3n \u2013 2 = 3 \u00d7 14 \u2013 2 = 40.\nAlternative solution:\nHere, 1, 4, 7, 10, ... x form an AP with a = 1, d = 3, S = 287\nWe have,\n(\n)\nS=\n\u20131\nn\na\nn\nd\n+\nSo,\n(\n)\n\u20131\nn\nn\n=\n+\n\u00d7\nor,   574\n(3 \u20131)\nn\nn\n=\nor,\n\u2013\n\u2013574 0\nn\nn\n=\nNow proceed as above.",
       "options": [],
-      "fullText": "If the 9th term of an AP is zero, prove that its 29th term is twice its 19th term.\n10. Find whether 55 is a term of the AP: 7, 10, 13,--- or not. If yes, find which term\nit is.\n03/05/18\n11. Determine k so that k2+ 4k + 8, 2k2 + 3k + 6, 3k2 + 4k + 4 are three consecutive\nterms of an AP.\n12. Split 207 into three parts such that these are in AP and the product of the two\nsmaller parts is 4623.\n13. The angles of a triangle are in AP. The greatest angle is twice the least. Find all the\nangles of the triangle.\n14. If the nth terms of the two APs: 9, 7, 5, ... and 24, 21, 18,... are the same, find the\nvalue of n. Also find that term.\n15. If sum of the 3rd and the 8th terms of an AP is 7 and the sum of the 7th and the 14th\nterms is –3, find the 10th term.\n16. Find the 12th term from the end of the AP:  –2, –4, –6,..., –100.\n17. Which term of the AP: 53, 48, 43,... is the first negative term?\n18. How many numbers lie between 10 and 300, which when divided by 4 leave a\nremainder 3?\n19. Find the sum of the two middle most terms of the AP:\n– 3 , –1,\n– 3 ,...,\n4 3 .\n20. The first term of an AP is –5 and the last term is 45. If the sum of the terms of the\nAP is 120,  then find the number of terms and the common difference.\n21. Find the sum:\n(i) 1 + (–2) + (–5) + (–8) + ... + (–236)\n(ii)\n4 – n\n+\n4 – n\n+\n4 – n\n+... upto n terms\n(iii)\n–\n3 – 2\n5 – 3\n...\na\nb\na\nb\na\nb\na\nb\na\nb\na\nb\n+\n+\n+\n+\n+\n+\nto 11 terms.\n22. Which term of the AP: –2, –7, –12,... will be –77? Find the sum of this AP upto the\nterm –77.\n23. If an = 3 – 4n, show that\n,\n,\n,...\na a\na\nform an AP. Also find S20.\n24. In an AP, if Sn = n (4n + 1), find the AP.\n03/05/18\n25. In an AP, if Sn = 3n2 + 5n and ak = 164, find the value of k.\n26. If Sn denotes the sum of first n terms of an AP, prove that\nS12 = 3(S8 –S4)\n27. Find the sum of first 17 terms of an AP whose 4th and 9th terms are –15 and –30\nrespectively.\n28. If sum of first 6 terms of an AP is 36 and that of the first 16 terms is 256, find the\nsum of first 10 terms.\n29. Find the sum of all the 11 terms of an AP whose middle most term is 30.\n30. Find the sum of last ten terms of the AP: 8, 10, 12,---, 126.\n31. Find the sum of first seven numbers which are multiples of 2 as well as of 9.\n[Hint: Take the LCM of 2 and 9]\n32. How many terms of the AP: –15, –13, –11,--- are needed to make the sum –55?\nExplain the reason for double answer.\n33. The sum of the first n terms of an AP whose first term is 8 and the common\ndifference is 20 is equal to the sum of first 2n terms of another AP whose first term\nis – 30 and the common difference is 8. Find n.\n34. Kanika was given her pocket money on Jan 1st, 2008. She puts Re 1 on Day 1,\nRs 2 on Day 2, Rs 3 on Day 3, and continued doing so till the end of the month,\nfrom this money into her piggy bank. She also spent Rs 204 of her pocket money,\nand found that at the end of the month she still had Rs 100 with her. How much\nwas her pocket money for the month?\n35. Yasmeen saves Rs 32 during the first month, Rs 36 in the second month and\nRs 40 in the third month. If she continues to save in this manner, in how many\nmonths will she save Rs 2000?\n(E) Long Answer Questions\nSample Question 1: The sum of four consecutive numbers in an AP is 32 and the\nratio of the product of the first and the last terms to the product of the two middle terms\nis 7 : 15. Find the numbers.\nSolution: Let the four consecutive numbers in AP be\na –3d, a – d, a + d, a + 3d.\n03/05/18\nSo,\na –3d + a – d + a + d + a + 3d = 32\nor\n4a = 32\nor\na = 8\nAlso,\n(\n)(\n)\n(\n)(\n)\n–3\n–\na\nd a\nd\na d\na d\n+\n=\n+\nor,\n–9\n–\na\nd\na\nd\n=\nor,\n15 a2 – 135\nd   = 7a2 – 7\nd\nor,\n8 a2 – 128\nd   = 0\nor,\nd  = 8 8 8\n× ×\n=\nor,\nd = ± 2\nSo, when a = 8, d = 2, the numbers are 2, 6, 10, 14.\nSample Question 2: Solve the equation :\n1 + 4 + 7 + 10 +...+ x =287\nSolution :\nHere, 1, 4, 7, 10, ..., x form an AP with a = 1, d = 3, an = x\nWe have, an = a + (n – 1)d\nSo,\nx = 1 + (n – 1) × 3 = 3n – 2\nAlso,\nS =\n(\n)\nn a\nl\n+\nSo,\n287 =\n(1\n)\nn\nx\n+\n03/05/18\n=\n(1 3 – 2)\nn\nn\n+\nor,\n574 = n (3n – 1)\nor,\n3n2 – n – 574 = 0\nTherefore, n = 1\n1 6888\n±\n+\n= 1 83\n–82\n84 ,\n±\n=\n= 14,\n–41\nAs n cannot be negative, so n = 14\nTherefore, x = 3n – 2 = 3 × 14 – 2 = 40.\nAlternative solution:\nHere, 1, 4, 7, 10, ... x form an AP with a = 1, d = 3, S = 287\nWe have,\n(\n)\nS=\n–1\nn\na\nn\nd\n+\nSo,\n(\n)\n–1\nn\nn\n=\n+\n×\nor,   574\n(3 –1)\nn\nn\n=\nor,\n–\n–574 0\nn\nn\n=\nNow proceed as above."
+      "fullText": "If the 9th term of an AP is zero, prove that its 29th term is twice its 19th term.\n10. Find whether 55 is a term of the AP: 7, 10, 13,--- or not. If yes, find which term\nit is.\n03/05/18\n11. Determine k so that k2+ 4k + 8, 2k2 + 3k + 6, 3k2 + 4k + 4 are three consecutive\nterms of an AP.\n12. Split 207 into three parts such that these are in AP and the product of the two\nsmaller parts is 4623.\n13. The angles of a triangle are in AP. The greatest angle is twice the least. Find all the\nangles of the triangle.\n14. If the nth terms of the two APs: 9, 7, 5, ... and 24, 21, 18,... are the same, find the\nvalue of n. Also find that term.\n15. If sum of the 3rd and the 8th terms of an AP is 7 and the sum of the 7th and the 14th\nterms is \u20133, find the 10th term.\n16. Find the 12th term from the end of the AP:  \u20132, \u20134, \u20136,..., \u2013100.\n17. Which term of the AP: 53, 48, 43,... is the first negative term?\n18. How many numbers lie between 10 and 300, which when divided by 4 leave a\nremainder 3?\n19. Find the sum of the two middle most terms of the AP:\n\u2013 3 , \u20131,\n\u2013 3 ,...,\n4 3 .\n20. The first term of an AP is \u20135 and the last term is 45. If the sum of the terms of the\nAP is 120,  then find the number of terms and the common difference.\n21. Find the sum:\n(i) 1 + (\u20132) + (\u20135) + (\u20138) + ... + (\u2013236)\n(ii)\n4 \u2013 n\n+\n4 \u2013 n\n+\n4 \u2013 n\n+... upto n terms\n(iii)\n\u2013\n3 \u2013 2\n5 \u2013 3\n...\na\nb\na\nb\na\nb\na\nb\na\nb\na\nb\n+\n+\n+\n+\n+\n+\nto 11 terms.\n22. Which term of the AP: \u20132, \u20137, \u201312,... will be \u201377? Find the sum of this AP upto the\nterm \u201377.\n23. If an = 3 \u2013 4n, show that\n,\n,\n,...\na a\na\nform an AP. Also find S20.\n24. In an AP, if Sn = n (4n + 1), find the AP.\n03/05/18\n25. In an AP, if Sn = 3n2 + 5n and ak = 164, find the value of k.\n26. If Sn denotes the sum of first n terms of an AP, prove that\nS12 = 3(S8 \u2013S4)\n27. Find the sum of first 17 terms of an AP whose 4th and 9th terms are \u201315 and \u201330\nrespectively.\n28. If sum of first 6 terms of an AP is 36 and that of the first 16 terms is 256, find the\nsum of first 10 terms.\n29. Find the sum of all the 11 terms of an AP whose middle most term is 30.\n30. Find the sum of last ten terms of the AP: 8, 10, 12,---, 126.\n31. Find the sum of first seven numbers which are multiples of 2 as well as of 9.\n[Hint: Take the LCM of 2 and 9]\n32. How many terms of the AP: \u201315, \u201313, \u201311,--- are needed to make the sum \u201355?\nExplain the reason for double answer.\n33. The sum of the first n terms of an AP whose first term is 8 and the common\ndifference is 20 is equal to the sum of first 2n terms of another AP whose first term\nis \u2013 30 and the common difference is 8. Find n.\n34. Kanika was given her pocket money on Jan 1st, 2008. She puts Re 1 on Day 1,\nRs 2 on Day 2, Rs 3 on Day 3, and continued doing so till the end of the month,\nfrom this money into her piggy bank. She also spent Rs 204 of her pocket money,\nand found that at the end of the month she still had Rs 100 with her. How much\nwas her pocket money for the month?\n35. Yasmeen saves Rs 32 during the first month, Rs 36 in the second month and\nRs 40 in the third month. If she continues to save in this manner, in how many\nmonths will she save Rs 2000?\n(E) Long Answer Questions\nSample Question 1: The sum of four consecutive numbers in an AP is 32 and the\nratio of the product of the first and the last terms to the product of the two middle terms\nis 7 : 15. Find the numbers.\nSolution: Let the four consecutive numbers in AP be\na \u20133d, a \u2013 d, a + d, a + 3d.\n03/05/18\nSo,\na \u20133d + a \u2013 d + a + d + a + 3d = 32\nor\n4a = 32\nor\na = 8\nAlso,\n(\n)(\n)\n(\n)(\n)\n\u20133\n\u2013\na\nd a\nd\na d\na d\n+\n=\n+\nor,\n\u20139\n\u2013\na\nd\na\nd\n=\nor,\n15 a2 \u2013 135\nd   = 7a2 \u2013 7\nd\nor,\n8 a2 \u2013 128\nd   = 0\nor,\nd  = 8 8 8\n\u00d7 \u00d7\n=\nor,\nd = \u00b1 2\nSo, when a = 8, d = 2, the numbers are 2, 6, 10, 14.\nSample Question 2: Solve the equation :\n1 + 4 + 7 + 10 +...+ x =287\nSolution :\nHere, 1, 4, 7, 10, ..., x form an AP with a = 1, d = 3, an = x\nWe have, an = a + (n \u2013 1)d\nSo,\nx = 1 + (n \u2013 1) \u00d7 3 = 3n \u2013 2\nAlso,\nS =\n(\n)\nn a\nl\n+\nSo,\n287 =\n(1\n)\nn\nx\n+\n03/05/18\n=\n(1 3 \u2013 2)\nn\nn\n+\nor,\n574 = n (3n \u2013 1)\nor,\n3n2 \u2013 n \u2013 574 = 0\nTherefore, n = 1\n1 6888\n\u00b1\n+\n= 1 83\n\u201382\n84 ,\n\u00b1\n=\n= 14,\n\u201341\nAs n cannot be negative, so n = 14\nTherefore, x = 3n \u2013 2 = 3 \u00d7 14 \u2013 2 = 40.\nAlternative solution:\nHere, 1, 4, 7, 10, ... x form an AP with a = 1, d = 3, S = 287\nWe have,\n(\n)\nS=\n\u20131\nn\na\nn\nd\n+\nSo,\n(\n)\n\u20131\nn\nn\n=\n+\n\u00d7\nor,   574\n(3 \u20131)\nn\nn\n=\nor,\n\u2013\n\u2013574 0\nn\nn\n=\nNow proceed as above."
     },
     {
       "qNo": 1,
@@ -524,9 +542,9 @@
       "qNo": 2,
       "exercise": "EXERCISE 5.4",
       "type": "long_answer",
-      "stem": "Find the\n(i) sum of those integers between 1 and 500 which are multiples of 2 as well as of 5.\n(ii) sum of those integers from 1 to 500 which are multiples of 2 as well as of 5 .\n(iii) sum of those integers from 1 to 500 which are multiples of 2 or 5.\n[Hint (iii) : These numbers will be : multiples of 2 + multiples of 5 – multiples of 2\nas well as of 5 ]",
+      "stem": "Find the\n(i) sum of those integers between 1 and 500 which are multiples of 2 as well as of 5.\n(ii) sum of those integers from 1 to 500 which are multiples of 2 as well as of 5 .\n(iii) sum of those integers from 1 to 500 which are multiples of 2 or 5.\n[Hint (iii) : These numbers will be : multiples of 2 + multiples of 5 \u2013 multiples of 2\nas well as of 5 ]",
       "options": [],
-      "fullText": "Find the\n(i) sum of those integers between 1 and 500 which are multiples of 2 as well as of 5.\n(ii) sum of those integers from 1 to 500 which are multiples of 2 as well as of 5 .\n(iii) sum of those integers from 1 to 500 which are multiples of 2 or 5.\n[Hint (iii) : These numbers will be : multiples of 2 + multiples of 5 – multiples of 2\nas well as of 5 ]"
+      "fullText": "Find the\n(i) sum of those integers between 1 and 500 which are multiples of 2 as well as of 5.\n(ii) sum of those integers from 1 to 500 which are multiples of 2 as well as of 5 .\n(iii) sum of those integers from 1 to 500 which are multiples of 2 or 5.\n[Hint (iii) : These numbers will be : multiples of 2 + multiples of 5 \u2013 multiples of 2\nas well as of 5 ]"
     },
     {
       "qNo": 3,
@@ -548,9 +566,9 @@
       "qNo": 5,
       "exercise": "EXERCISE 5.4",
       "type": "long_answer",
-      "stem": "Find the sum of the integers between 100 and 200 that are\n(i) divisible by 9\n(ii) not divisible by 9\n[Hint (ii) : These numbers will be : Total numbers – Total numbers divisible by 9]",
+      "stem": "Find the sum of the integers between 100 and 200 that are\n(i) divisible by 9\n(ii) not divisible by 9\n[Hint (ii) : These numbers will be : Total numbers \u2013 Total numbers divisible by 9]",
       "options": [],
-      "fullText": "Find the sum of the integers between 100 and 200 that are\n(i) divisible by 9\n(ii) not divisible by 9\n[Hint (ii) : These numbers will be : Total numbers – Total numbers divisible by 9]"
+      "fullText": "Find the sum of the integers between 100 and 200 that are\n(i) divisible by 9\n(ii) not divisible by 9\n[Hint (ii) : These numbers will be : Total numbers \u2013 Total numbers divisible by 9]"
     },
     {
       "qNo": 6,
@@ -564,17 +582,17 @@
       "qNo": 7,
       "exercise": "EXERCISE 5.4",
       "type": "long_answer",
-      "stem": "Show that the sum of an AP whose first term is a, the second term b and the last\nterm c, is equal to\n(\n)(\n)\n(\n)\n– 2\n–\na\nc b\nc\na\nb\na\n+\n+",
+      "stem": "Show that the sum of an AP whose first term is a, the second term b and the last\nterm c, is equal to\n(\n)(\n)\n(\n)\n\u2013 2\n\u2013\na\nc b\nc\na\nb\na\n+\n+",
       "options": [],
-      "fullText": "Show that the sum of an AP whose first term is a, the second term b and the last\nterm c, is equal to\n(\n)(\n)\n(\n)\n– 2\n–\na\nc b\nc\na\nb\na\n+\n+"
+      "fullText": "Show that the sum of an AP whose first term is a, the second term b and the last\nterm c, is equal to\n(\n)(\n)\n(\n)\n\u2013 2\n\u2013\na\nc b\nc\na\nb\na\n+\n+"
     },
     {
       "qNo": 8,
       "exercise": "EXERCISE 5.4",
       "type": "long_answer",
-      "stem": "Solve the equation\n– 4 + (–1) + 2 +...+ x = 437",
+      "stem": "Solve the equation\n\u2013 4 + (\u20131) + 2 +...+ x = 437",
       "options": [],
-      "fullText": "Solve the equation\n– 4 + (–1) + 2 +...+ x = 437"
+      "fullText": "Solve the equation\n\u2013 4 + (\u20131) + 2 +...+ x = 437"
     },
     {
       "qNo": 9,

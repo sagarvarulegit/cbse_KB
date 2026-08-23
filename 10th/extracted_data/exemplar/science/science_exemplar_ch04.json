@@ -22,7 +22,9 @@
           "text": "coal"
         }
       ],
-      "fullText": "(a) carbon monoxide only\n(b) carbon monoxide in traces and carbon dioxide\n(c) carbon dioxide only\n(d) coal"
+      "fullText": "(a) carbon monoxide only\n(b) carbon monoxide in traces and carbon dioxide\n(c) carbon dioxide only\n(d) coal",
+      "answer": "b",
+      "hint": ""
     },
     {
       "qNo": 2,
@@ -47,7 +49,9 @@
           "text": "(ii) and (iv)"
         }
       ],
-      "fullText": "Which of the following statements are usually correct for carbon\ncompounds? These\n(i) are good conductors of electricity\n(ii) are poor conductors of electricity\n(iii) have strong forces of attraction between their molecules\n(iv) do not have strong forces of attraction between their molecules\n(a) (i) and (iii)\n(b) (ii) and (iii)\n(c) (i) and (iv)\n(d) (ii) and (iv)"
+      "fullText": "Which of the following statements are usually correct for carbon\ncompounds? These\n(i) are good conductors of electricity\n(ii) are poor conductors of electricity\n(iii) have strong forces of attraction between their molecules\n(iv) do not have strong forces of attraction between their molecules\n(a) (i) and (iii)\n(b) (ii) and (iii)\n(c) (i) and (iv)\n(d) (ii) and (iv)",
+      "answer": "d",
+      "hint": ""
     },
     {
       "qNo": 3,
@@ -72,7 +76,9 @@
           "text": "two double bonds and one single bond"
         }
       ],
-      "fullText": "A molecule of ammonia (NH3) has\n(a) only single bonds\n(b) only double bonds\n(c) only triple bonds\n(d) two double bonds and one single bond"
+      "fullText": "A molecule of ammonia (NH3) has\n(a) only single bonds\n(b) only double bonds\n(c) only triple bonds\n(d) two double bonds and one single bond",
+      "answer": "a",
+      "hint": ""
     },
     {
       "qNo": 4,
@@ -97,7 +103,9 @@
           "text": "tin\n%CTDQP CPF KVU\n%QORQWPFU\n%*#26'4"
         }
       ],
-      "fullText": "Buckminsterfullerene is an allotropic form of\n(a) phosphorus\n(b) sulphur\n(c) carbon\n(d) tin\n%CTDQP CPF KVU\n%QORQWPFU\n%*#26'4"
+      "fullText": "Buckminsterfullerene is an allotropic form of\n(a) phosphorus\n(b) sulphur\n(c) carbon\n(d) tin\n%CTDQP CPF KVU\n%QORQWPFU\n%*#26'4",
+      "answer": "c",
+      "hint": ""
     },
     {
       "qNo": 5,
@@ -122,13 +130,15 @@
           "text": "(iii) and (iv)"
         }
       ],
-      "fullText": "Which of the following are correct structural isomers of butane?\n(i)\n(iii)\n(ii)\n(iv)\n(a) (i) and (iii)\n(b) (ii) and (iv)\n(c) (i) and (ii)\n(d) (iii) and (iv)"
+      "fullText": "Which of the following are correct structural isomers of butane?\n(i)\n(iii)\n(ii)\n(iv)\n(a) (i) and (iii)\n(b) (ii) and (iv)\n(c) (i) and (ii)\n(d) (iii) and (iv)",
+      "answer": "c",
+      "hint": ""
     },
     {
       "qNo": 6,
       "section": "Multiple Choice Questions",
       "type": "mcq",
-      "stem": "CH3– CH2– OH\nAlkaline KMnO\nHeat\n+\n→ CH3 – COOH\nIn the above given reaction, alkaline KMnO4  acts as",
+      "stem": "CH3\u2013 CH2\u2013 OH\nAlkaline KMnO\nHeat\n+\n\u2192 CH3 \u2013 COOH\nIn the above given reaction, alkaline KMnO4  acts as",
       "options": [
         {
           "key": "a",
@@ -147,7 +157,9 @@
           "text": "dehydrating agent"
         }
       ],
-      "fullText": "CH3– CH2– OH\nAlkaline KMnO\nHeat\n+\n→ CH3 – COOH\nIn the above given reaction, alkaline KMnO4  acts as\n(a) reducing agent\n(b) oxidising agent\n(c) catalyst\n(d) dehydrating agent"
+      "fullText": "CH3\u2013 CH2\u2013 OH\nAlkaline KMnO\nHeat\n+\n\u2192 CH3 \u2013 COOH\nIn the above given reaction, alkaline KMnO4  acts as\n(a) reducing agent\n(b) oxidising agent\n(c) catalyst\n(d) dehydrating agent",
+      "answer": "b",
+      "hint": ""
     },
     {
       "qNo": 7,
@@ -172,13 +184,15 @@
           "text": "Oxidation reaction"
         }
       ],
-      "fullText": "Oils on treating with hydrogen in the presence of palladium or\nnickel catalyst form fats. This is an example of\n(a) Addition reaction\n(b) Substitution reaction\n(c) Displacement reaction\n(d) Oxidation reaction"
+      "fullText": "Oils on treating with hydrogen in the presence of palladium or\nnickel catalyst form fats. This is an example of\n(a) Addition reaction\n(b) Substitution reaction\n(c) Displacement reaction\n(d) Oxidation reaction",
+      "answer": "a",
+      "hint": ""
     },
     {
       "qNo": 8,
       "section": "Multiple Choice Questions",
       "type": "mcq",
-      "stem": "In which of the following compounds, — OH is the functional\ngroup?",
+      "stem": "In which of the following compounds, \u2014 OH is the functional\ngroup?",
       "options": [
         {
           "key": "a",
@@ -197,7 +211,9 @@
           "text": "Butanal"
         }
       ],
-      "fullText": "In which of the following compounds, — OH is the functional\ngroup?\n(a) Butanone\n(b) Butanol\n(c) Butanoic acid\n(d) Butanal"
+      "fullText": "In which of the following compounds, \u2014 OH is the functional\ngroup?\n(a) Butanone\n(b) Butanol\n(c) Butanoic acid\n(d) Butanal",
+      "answer": "b",
+      "hint": ""
     },
     {
       "qNo": 9,
@@ -222,7 +238,9 @@
           "text": "hydrophilic head and a hydrophilic tail"
         }
       ],
-      "fullText": "The soap molecule has a\n(a) hydrophilic head and a hydrophobic tail\n(b) hydrophobic head and a hydrophilic tail\n(c) hydrophobic head and a hydrophobic tail\n(d) hydrophilic head and a hydrophilic tail"
+      "fullText": "The soap molecule has a\n(a) hydrophilic head and a hydrophobic tail\n(b) hydrophobic head and a hydrophilic tail\n(c) hydrophobic head and a hydrophobic tail\n(d) hydrophilic head and a hydrophilic tail",
+      "answer": "a",
+      "hint": ""
     },
     {
       "qNo": 10,
@@ -247,7 +265,9 @@
           "text": "[Diagram / Visual Option]"
         }
       ],
-      "fullText": "Which of the following is the correct representation of electron\ndot structure of nitrogen?\n(a)\n(b)\n(c)\n(d)"
+      "fullText": "Which of the following is the correct representation of electron\ndot structure of nitrogen?\n(a)\n(b)\n(c)\n(d)",
+      "answer": "d",
+      "hint": ""
     },
     {
       "qNo": 11,
@@ -257,11 +277,11 @@
       "options": [
         {
           "key": "a",
-          "text": "H – C\nC – H\n≡"
+          "text": "H \u2013 C\nC \u2013 H\n\u2261"
         },
         {
           "key": "b",
-          "text": "H – C\nC – H\n≡"
+          "text": "H \u2013 C\nC \u2013 H\n\u2261"
         },
         {
           "key": "c",
@@ -272,7 +292,9 @@
           "text": "[Diagram / Visual Option]"
         }
       ],
-      "fullText": "Structural formula of ethyne is\n(a) H – C\nC – H\n≡\n(b)\nH – C\nC – H\n≡\n(c)\n(d)"
+      "fullText": "Structural formula of ethyne is\n(a) H \u2013 C\nC \u2013 H\n\u2261\n(b)\nH \u2013 C\nC \u2013 H\n\u2261\n(c)\n(d)",
+      "answer": "a",
+      "hint": ""
     },
     {
       "qNo": 12,
@@ -297,7 +319,9 @@
           "text": "(ii) and (iii)"
         }
       ],
-      "fullText": "Identify the unsaturated compounds from the following\n(i) Propane\n(ii) Propene\n(iii) Propyne\n(iv) Chloropropane\n(a) (i) and (ii)\n(b) (ii) and (iv)\n(c) (iii) and (iv)\n(d) (ii) and (iii)"
+      "fullText": "Identify the unsaturated compounds from the following\n(i) Propane\n(ii) Propene\n(iii) Propyne\n(iv) Chloropropane\n(a) (i) and (ii)\n(b) (ii) and (iv)\n(c) (iii) and (iv)\n(d) (ii) and (iii)",
+      "answer": "d",
+      "hint": ""
     },
     {
       "qNo": 13,
@@ -322,7 +346,9 @@
           "text": "presence of hydrochloric acid"
         }
       ],
-      "fullText": "Chlorine reacts with saturated hydrocarbons at room temperature\nin the\n(a) absence of sunlight\n(b) presence of sunlight\n(c) presence of water\n(d) presence of hydrochloric acid"
+      "fullText": "Chlorine reacts with saturated hydrocarbons at room temperature\nin the\n(a) absence of sunlight\n(b) presence of sunlight\n(c) presence of water\n(d) presence of hydrochloric acid",
+      "answer": "b",
+      "hint": ""
     },
     {
       "qNo": 14,
@@ -347,7 +373,9 @@
           "text": "both ionic end and carbon chain are on the exterior of the\ncluster"
         }
       ],
-      "fullText": "In the soap micelles\n(a) the ionic end of soap is on the surface of the cluster while the\n(b) ionic end of soap is in the interior of the cluster and the carbon\nchain is out of the cluster.\n(c) both ionic end and carbon chain are in the interior of the\ncluster\n(d) both ionic end and carbon chain are on the exterior of the\ncluster"
+      "fullText": "In the soap micelles\n(a) the ionic end of soap is on the surface of the cluster while the\n(b) ionic end of soap is in the interior of the cluster and the carbon\nchain is out of the cluster.\n(c) both ionic end and carbon chain are in the interior of the\ncluster\n(d) both ionic end and carbon chain are on the exterior of the\ncluster",
+      "answer": "a",
+      "hint": ""
     },
     {
       "qNo": 15,
@@ -372,7 +400,9 @@
           "text": "17 covalent bonds"
         }
       ],
-      "fullText": "Pentane has the molecular formula C5 H12. It has\n(a) 5 covalent bonds\n(b) 12 covalent bonds\n(c) 16 covalent bonds\n(d) 17 covalent bonds"
+      "fullText": "Pentane has the molecular formula C5 H12. It has\n(a) 5 covalent bonds\n(b) 12 covalent bonds\n(c) 16 covalent bonds\n(d) 17 covalent bonds",
+      "answer": "c",
+      "hint": ""
     },
     {
       "qNo": 16,
@@ -397,7 +427,9 @@
           "text": "[Diagram / Visual Option]"
         }
       ],
-      "fullText": "Structural formula of benzene is\n(a)\n(b)\n(c)\n(d)"
+      "fullText": "Structural formula of benzene is\n(a)\n(b)\n(c)\n(d)",
+      "answer": "c",
+      "hint": ""
     },
     {
       "qNo": 17,
@@ -422,7 +454,9 @@
           "text": "sodium ethoxide and oxygen"
         }
       ],
-      "fullText": "Ethanol reacts with sodium and forms two products. These are\n(a) sodium ethanoate and hydrogen\n(b) sodium ethanoate and oxygen\n(c) sodium ethoxide and hydrogen\n(d) sodium ethoxide and oxygen"
+      "fullText": "Ethanol reacts with sodium and forms two products. These are\n(a) sodium ethanoate and hydrogen\n(b) sodium ethanoate and oxygen\n(c) sodium ethoxide and hydrogen\n(d) sodium ethoxide and oxygen",
+      "answer": "c",
+      "hint": ""
     },
     {
       "qNo": 18,
@@ -447,7 +481,9 @@
           "text": "[Diagram / Visual Option]"
         }
       ],
-      "fullText": "The correct structural formula of butanoic acid is\n(a)\n(b)\n(c)\n(d)"
+      "fullText": "The correct structural formula of butanoic acid is\n(a)\n(b)\n(c)\n(d)",
+      "answer": "d",
+      "hint": ""
     },
     {
       "qNo": 19,
@@ -457,22 +493,24 @@
       "options": [
         {
           "key": "a",
-          "text": "50% – 60% acetic acid in alcohol"
+          "text": "50% \u2013 60% acetic acid in alcohol"
         },
         {
           "key": "b",
-          "text": "5% – 8% acetic acid in alcohol"
+          "text": "5% \u2013 8% acetic acid in alcohol"
         },
         {
           "key": "c",
-          "text": "5% – 8% acetic acid in water"
+          "text": "5% \u2013 8% acetic acid in water"
         },
         {
           "key": "d",
-          "text": "50% – 60% acetic acid in water"
+          "text": "50% \u2013 60% acetic acid in water"
         }
       ],
-      "fullText": "Vinegar is a solution of\n(a) 50% – 60% acetic acid in alcohol\n(b) 5% – 8% acetic acid in alcohol\n(c) 5% – 8% acetic acid in water\n(d) 50% – 60% acetic acid in water"
+      "fullText": "Vinegar is a solution of\n(a) 50% \u2013 60% acetic acid in alcohol\n(b) 5% \u2013 8% acetic acid in alcohol\n(c) 5% \u2013 8% acetic acid in water\n(d) 50% \u2013 60% acetic acid in water",
+      "answer": "c",
+      "hint": ""
     },
     {
       "qNo": 20,
@@ -497,7 +535,9 @@
           "text": "(iii) and (iv)"
         }
       ],
-      "fullText": "Mineral acids are stronger acids than carboxylic acids because\n(i) mineral acids are completely ionised\n(ii) carboxylic acids are completely ionised\n(iii) mineral acids are partially ionised\n(iv) carboxylic acids are partially ionised\n(a) (i) and (iv)\n(b) (ii) and (iii)\n(c) (i) and (ii)\n(d) (iii) and (iv)"
+      "fullText": "Mineral acids are stronger acids than carboxylic acids because\n(i) mineral acids are completely ionised\n(ii) carboxylic acids are completely ionised\n(iii) mineral acids are partially ionised\n(iv) carboxylic acids are partially ionised\n(a) (i) and (iv)\n(b) (ii) and (iii)\n(c) (i) and (ii)\n(d) (iii) and (iv)",
+      "answer": "a",
+      "hint": ""
     },
     {
       "qNo": 21,
@@ -522,7 +562,9 @@
           "text": "krypton"
         }
       ],
-      "fullText": "electrons with four univalent atoms, e.g. hydrogen. After the\nformation of four bonds, carbon attains the electronic\nconfiguration of\n(a) helium\n(b) neon\n(c) argon\n(d) krypton"
+      "fullText": "electrons with four univalent atoms, e.g. hydrogen. After the\nformation of four bonds, carbon attains the electronic\nconfiguration of\n(a) helium\n(b) neon\n(c) argon\n(d) krypton",
+      "answer": "b",
+      "hint": ""
     },
     {
       "qNo": 22,
@@ -547,7 +589,9 @@
           "text": "[Diagram / Visual Option]"
         }
       ],
-      "fullText": "The correct electron dot structure of a water molecule is\n(a)\n(b)\n(c)\n(d)"
+      "fullText": "The correct electron dot structure of a water molecule is\n(a)\n(b)\n(c)\n(d)",
+      "answer": "c",
+      "hint": ""
     },
     {
       "qNo": 23,
@@ -572,13 +616,15 @@
           "text": "[Diagram / Visual Option]"
         }
       ],
-      "fullText": "Which of the following is not a straight chain hydrocarbon?\n(a)\n(b)\n(c)\n(d)"
+      "fullText": "Which of the following is not a straight chain hydrocarbon?\n(a)\n(b)\n(c)\n(d)",
+      "answer": "d",
+      "hint": ""
     },
     {
       "qNo": 24,
       "section": "Multiple Choice Questions",
       "type": "mcq",
-      "stem": "Which among the following are unsaturated hydrocarbons?\n(i) H3C — CH2 — CH2 — CH3\n(ii)\n(iii)\n(iv)",
+      "stem": "Which among the following are unsaturated hydrocarbons?\n(i) H3C \u2014 CH2 \u2014 CH2 \u2014 CH3\n(ii)\n(iii)\n(iv)",
       "options": [
         {
           "key": "a",
@@ -597,7 +643,9 @@
           "text": "(iii) and (iv)"
         }
       ],
-      "fullText": "Which among the following are unsaturated hydrocarbons?\n(i) H3C — CH2 — CH2 — CH3\n(ii)\n(iii)\n(iv)\n(a) (i) and (iii)\n(b) (ii) and (iii)\n(c) (ii) and (iv)\n(d) (iii) and (iv)"
+      "fullText": "Which among the following are unsaturated hydrocarbons?\n(i) H3C \u2014 CH2 \u2014 CH2 \u2014 CH3\n(ii)\n(iii)\n(iv)\n(a) (i) and (iii)\n(b) (ii) and (iii)\n(c) (ii) and (iv)\n(d) (iii) and (iv)",
+      "answer": "c",
+      "hint": ""
     },
     {
       "qNo": 25,
@@ -622,13 +670,15 @@
           "text": "C4 H8"
         }
       ],
-      "fullText": "Which of the following does not belong to the same homologous\nseries?\n(a) CH4\n(b) C2 H6\n(c) C3 H8\n(d) C4 H8"
+      "fullText": "Which of the following does not belong to the same homologous\nseries?\n(a) CH4\n(b) C2 H6\n(c) C3 H8\n(d) C4 H8",
+      "answer": "d",
+      "hint": ""
     },
     {
       "qNo": 26,
       "section": "Multiple Choice Questions",
       "type": "mcq",
-      "stem": "The name of the compound CH3 — CH2 — CHO is",
+      "stem": "The name of the compound CH3 \u2014 CH2 \u2014 CHO is",
       "options": [
         {
           "key": "a",
@@ -647,13 +697,15 @@
           "text": "Ethanal"
         }
       ],
-      "fullText": "The name of the compound CH3 — CH2 — CHO is\n(a) Propanal\n(b) Propanone\n(c) Ethanol\n(d) Ethanal"
+      "fullText": "The name of the compound CH3 \u2014 CH2 \u2014 CHO is\n(a) Propanal\n(b) Propanone\n(c) Ethanol\n(d) Ethanal",
+      "answer": "a",
+      "hint": ""
     },
     {
       "qNo": 27,
       "section": "Multiple Choice Questions",
       "type": "mcq",
-      "stem": "The heteroatoms present in\nCH3 — CH2 — O — CH2— CH2 Cl  are\n(i) oxygen\n(ii) carbon\n(iii) hydrogen\n(iv) chlorine",
+      "stem": "The heteroatoms present in\nCH3 \u2014 CH2 \u2014 O \u2014 CH2\u2014 CH2 Cl  are\n(i) oxygen\n(ii) carbon\n(iii) hydrogen\n(iv) chlorine",
       "options": [
         {
           "key": "a",
@@ -672,7 +724,9 @@
           "text": "(i) and (iv)"
         }
       ],
-      "fullText": "The heteroatoms present in\nCH3 — CH2 — O — CH2— CH2 Cl  are\n(i) oxygen\n(ii) carbon\n(iii) hydrogen\n(iv) chlorine\n(a) (i) and (ii)\n(b) (ii) and (iii)\n(c) (iii) and (iv)\n(d) (i) and (iv)"
+      "fullText": "The heteroatoms present in\nCH3 \u2014 CH2 \u2014 O \u2014 CH2\u2014 CH2 Cl  are\n(i) oxygen\n(ii) carbon\n(iii) hydrogen\n(iv) chlorine\n(a) (i) and (ii)\n(b) (ii) and (iii)\n(c) (iii) and (iv)\n(d) (i) and (iv)",
+      "answer": "d",
+      "hint": ""
     },
     {
       "qNo": 28,
@@ -690,14 +744,16 @@
         },
         {
           "key": "c",
-          "text": "2CH3COOH + 2Na →  2CH3 COONa + H2"
+          "text": "2CH3COOH + 2Na \u2192  2CH3 COONa + H2"
         },
         {
           "key": "d",
-          "text": "CH3COOC2H5 + NaOH → CH3 COONa + C2 H5OH"
+          "text": "CH3COOC2H5 + NaOH \u2192 CH3 COONa + C2 H5OH"
         }
       ],
-      "fullText": "Which of the following represents saponification reaction?\n(a) CH3COONa + NaOH\nCH4 + Na2CO3\n(b) CH3COOH + C2H5OH\nCH3 COOC2H5 +H2O\n(c) 2CH3COOH + 2Na →  2CH3 COONa + H2\n(d) CH3COOC2H5 + NaOH → CH3 COONa + C2 H5OH"
+      "fullText": "Which of the following represents saponification reaction?\n(a) CH3COONa + NaOH\nCH4 + Na2CO3\n(b) CH3COOH + C2H5OH\nCH3 COOC2H5 +H2O\n(c) 2CH3COOH + 2Na \u2192  2CH3 COONa + H2\n(d) CH3COOC2H5 + NaOH \u2192 CH3 COONa + C2 H5OH",
+      "answer": "d",
+      "hint": ""
     },
     {
       "qNo": 29,
@@ -722,7 +778,9 @@
           "text": "methane"
         }
       ],
-      "fullText": "The first member of alkyne homologous series is\n(a) ethyne\n(b) ethene\n(c) propyne\n(d) methane"
+      "fullText": "The first member of alkyne homologous series is\n(a) ethyne\n(b) ethene\n(c) propyne\n(d) methane",
+      "answer": "a",
+      "hint": ""
     },
     {
       "qNo": 30,
@@ -840,9 +898,9 @@
       "qNo": 44,
       "section": "Short Answer Questions",
       "type": "short_answer",
-      "stem": "Match the reactions given in Column (A) with the names given\nin column (B).\nColumn (A)\nColumn (B)\n(a) CH3OH + CH3COOH\nCH3COOCH3 + H2O\n(i)\nAddition reaction\n(b) CH2 = CH2 + H2\nCH3 — CH3\n(ii)\nSubstitution reaction\n(c) CH4 + Cl2\nCH3Cl + HCl\n(iii)\nNeutralisation reaction\n(d) CH3COOH+NaOH\nCH3COONa+H2O\n(iv)\nEsterification reaction",
+      "stem": "Match the reactions given in Column (A) with the names given\nin column (B).\nColumn (A)\nColumn (B)\n(a) CH3OH + CH3COOH\nCH3COOCH3 + H2O\n(i)\nAddition reaction\n(b) CH2 = CH2 + H2\nCH3 \u2014 CH3\n(ii)\nSubstitution reaction\n(c) CH4 + Cl2\nCH3Cl + HCl\n(iii)\nNeutralisation reaction\n(d) CH3COOH+NaOH\nCH3COONa+H2O\n(iv)\nEsterification reaction",
       "options": [],
-      "fullText": "Match the reactions given in Column (A) with the names given\nin column (B).\nColumn (A)\nColumn (B)\n(a) CH3OH + CH3COOH\nCH3COOCH3 + H2O\n(i)\nAddition reaction\n(b) CH2 = CH2 + H2\nCH3 — CH3\n(ii)\nSubstitution reaction\n(c) CH4 + Cl2\nCH3Cl + HCl\n(iii)\nNeutralisation reaction\n(d) CH3COOH+NaOH\nCH3COONa+H2O\n(iv)\nEsterification reaction"
+      "fullText": "Match the reactions given in Column (A) with the names given\nin column (B).\nColumn (A)\nColumn (B)\n(a) CH3OH + CH3COOH\nCH3COOCH3 + H2O\n(i)\nAddition reaction\n(b) CH2 = CH2 + H2\nCH3 \u2014 CH3\n(ii)\nSubstitution reaction\n(c) CH4 + Cl2\nCH3Cl + HCl\n(iii)\nNeutralisation reaction\n(d) CH3COOH+NaOH\nCH3COONa+H2O\n(iv)\nEsterification reaction"
     },
     {
       "qNo": 45,

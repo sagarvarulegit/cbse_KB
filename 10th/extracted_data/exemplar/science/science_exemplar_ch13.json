@@ -26,7 +26,9 @@
           "text": "Relative strength of magnetic field is shown by\nthe degree of closeness of the field lines"
         }
       ],
-      "fullText": "Choose the incorrect statement from the following  regarding\n(a) The direction of magnetic field at a point is taken to be the\ndirection in which the north pole of a magnetic compass needle\npoints\n(b) Magnetic field lines are closed curves\n(c) If magnetic field lines are parallel and\nequidistant, they represent zero field strength\n(d) Relative strength of magnetic field is shown by\nthe degree of closeness of the field lines"
+      "fullText": "Choose the incorrect statement from the following  regarding\n(a) The direction of magnetic field at a point is taken to be the\ndirection in which the north pole of a magnetic compass needle\npoints\n(b) Magnetic field lines are closed curves\n(c) If magnetic field lines are parallel and\nequidistant, they represent zero field strength\n(d) Relative strength of magnetic field is shown by\nthe degree of closeness of the field lines",
+      "answer": "c",
+      "hint": "Only earth\u2019s magnetic field will be present."
     },
     {
       "qNo": 2,
@@ -76,7 +78,9 @@
           "text": "B if the current is small and A if the current is large\n/CIPGVKE 'HHGEVU QH\n'NGEVTKE %WTTGPV\n%*#26'4"
         }
       ],
-      "fullText": "A circular loop placed in a plane perpendicular to the\nplane of paper carries a current when the key is ON.\nThe current as seen from points A and B (in the plane\nof paper and on the axis of the coil) is anti clockwise\nand clockwise respectively. The magnetic field lines\npoint from B to A. The N-pole of the resultant magnet\nis on the face close to\n(a) A\n(b) B\n(c) A if the current is small, and B if the current is large\n(d) B if the current is small and A if the current is large\n/CIPGVKE 'HHGEVU QH\n'NGEVTKE %WTTGPV\n%*#26'4"
+      "fullText": "A circular loop placed in a plane perpendicular to the\nplane of paper carries a current when the key is ON.\nThe current as seen from points A and B (in the plane\nof paper and on the axis of the coil) is anti clockwise\nand clockwise respectively. The magnetic field lines\npoint from B to A. The N-pole of the resultant magnet\nis on the face close to\n(a) A\n(b) B\n(c) A if the current is small, and B if the current is large\n(d) B if the current is small and A if the current is large\n/CIPGVKE 'HHGEVU QH\n'NGEVTKE %WTTGPV\n%*#26'4",
+      "answer": "a",
+      "hint": "Misconception is that magnetic field lines point from north to south pole. The fact is that they emerge out of North pole and entre into South pole."
     },
     {
       "qNo": 4,
@@ -101,7 +105,9 @@
           "text": "The N- and S-poles exchange position when the direction of\ncurrent through the solenoid is reversed"
         }
       ],
-      "fullText": "For a current in a long straight solenoid N- and S-poles are created\nat the two ends. Among the following statements, the incorrect\nstatement is\n(a) The field lines inside the solenoid are in the form of straight\nlines which indicates that the magnetic field is the same at all\npoints inside the solenoid\n(b) The strong magnetic field produced inside the solenoid can\nbe used to magnetise a piece of magnetic material like soft\niron, when placed inside the coil\n(c) The pattern of the magnetic field associated with the solenoid\nis different from the pattern of the magnetic field around a\nbar magnet\n(d) The N- and S-poles exchange position when the direction of\ncurrent through the solenoid is reversed"
+      "fullText": "For a current in a long straight solenoid N- and S-poles are created\nat the two ends. Among the following statements, the incorrect\nstatement is\n(a) The field lines inside the solenoid are in the form of straight\nlines which indicates that the magnetic field is the same at all\npoints inside the solenoid\n(b) The strong magnetic field produced inside the solenoid can\nbe used to magnetise a piece of magnetic material like soft\niron, when placed inside the coil\n(c) The pattern of the magnetic field associated with the solenoid\nis different from the pattern of the magnetic field around a\nbar magnet\n(d) The N- and S-poles exchange position when the direction of\ncurrent through the solenoid is reversed",
+      "answer": "c",
+      "hint": ""
     },
     {
       "qNo": 6,
@@ -126,7 +132,9 @@
           "text": "a soft iron core on which the coil is wound"
         }
       ],
-      "fullText": "Commercial electric motors do not use\n(a) an electromagnet to rotate the armature\n(b) effectively large number of turns of conducting\nwire in the current carrying coil\n(c) a permanent magnet to rotate the armature\n(d) a soft iron core on which the coil is wound"
+      "fullText": "Commercial electric motors do not use\n(a) an electromagnet to rotate the armature\n(b) effectively large number of turns of conducting\nwire in the current carrying coil\n(c) a permanent magnet to rotate the armature\n(d) a soft iron core on which the coil is wound",
+      "answer": "c",
+      "hint": ""
     },
     {
       "qNo": 5,
@@ -151,7 +159,9 @@
           "text": "force pointing opposite and along the\ndirection of the uniform magnetic field\nrespectively"
         }
       ],
-      "fullText": "A uniform magnetic field exists in the plane of\npaper pointing from left to right as shown in\nFigure 13.3. In the field an electron and a proton\nmove as shown. The electron and the proton\nexperience\n(a) forces both pointing into the plane of paper\n(b) forces both pointing out of the plane of paper\n(c) forces pointing into the plane of paper and\nout of the plane of paper, respectively\n(d) force pointing opposite and along the\ndirection of the uniform magnetic field\nrespectively"
+      "fullText": "A uniform magnetic field exists in the plane of\npaper pointing from left to right as shown in\nFigure 13.3. In the field an electron and a proton\nmove as shown. The electron and the proton\nexperience\n(a) forces both pointing into the plane of paper\n(b) forces both pointing out of the plane of paper\n(c) forces pointing into the plane of paper and\nout of the plane of paper, respectively\n(d) force pointing opposite and along the\ndirection of the uniform magnetic field\nrespectively",
+      "answer": "a",
+      "hint": ""
     },
     {
       "qNo": 7,
@@ -176,7 +186,9 @@
           "text": "there are momentary galvanometer deflections that die out\nshortly; the deflections are in opposite directions"
         }
       ],
-      "fullText": "In the arrangement shown in Figure 13.4 there are\ntwo coils wound on a non-conducting cylindrical rod.\nInitially the key is not inserted. Then the key is\ninserted and later removed. Then\n(a) the deflection in the galvanometer remains zero\nthroughout\n(b) there is a momentary deflection in the\ngalvanometer but it dies out shortly and there is\nno effect when the key is removed\n(c) there are momentary galvanometer deflections that die out\nshortly; the deflections are in the same direction\n(d) there are momentary galvanometer deflections that die out\nshortly; the deflections are in opposite directions"
+      "fullText": "In the arrangement shown in Figure 13.4 there are\ntwo coils wound on a non-conducting cylindrical rod.\nInitially the key is not inserted. Then the key is\ninserted and later removed. Then\n(a) the deflection in the galvanometer remains zero\nthroughout\n(b) there is a momentary deflection in the\ngalvanometer but it dies out shortly and there is\nno effect when the key is removed\n(c) there are momentary galvanometer deflections that die out\nshortly; the deflections are in the same direction\n(d) there are momentary galvanometer deflections that die out\nshortly; the deflections are in opposite directions",
+      "answer": "d",
+      "hint": ""
     },
     {
       "qNo": 8,
@@ -186,7 +198,7 @@
       "options": [
         {
           "key": "a",
-          "text": "Fleming’s right-hand rule is a simple rule to know the direction\nof induced current"
+          "text": "Fleming\u2019s right-hand rule is a simple rule to know the direction\nof induced current"
         },
         {
           "key": "b",
@@ -201,7 +213,9 @@
           "text": "In India, the AC changes direction after every\n50  second"
         }
       ],
-      "fullText": "Choose the incorrect statement\n(a) Fleming’s right-hand rule is a simple rule to know the direction\nof induced current\n(b) The right-hand thumb rule is used to find the direction of\n(c) The difference between the direct and alternating currents is\nthat the direct current always flows in one direction, whereas\nthe alternating current reverses its direction periodically\n(d) In India, the AC changes direction after every\n50  second"
+      "fullText": "Choose the incorrect statement\n(a) Fleming\u2019s right-hand rule is a simple rule to know the direction\nof induced current\n(b) The right-hand thumb rule is used to find the direction of\n(c) The difference between the direct and alternating currents is\nthat the direct current always flows in one direction, whereas\nthe alternating current reverses its direction periodically\n(d) In India, the AC changes direction after every\n50  second",
+      "answer": "d",
+      "hint": ""
     },
     {
       "qNo": 9,
@@ -226,7 +240,9 @@
           "text": "at a point located in the plane of the paper, on the south\nside of the wire"
         }
       ],
-      "fullText": "A constant current flows in a horizontal wire in the plane of the\npaper from east to west as shown in Figure 13.5. The direction\nof magnetic field at a point will be North to South\n(a) directly above the wire\n(b) directly below the wire\n(c) at a point located in the plane of the paper, on the north side\nof the wire\n(d) at a point located in the plane of the paper, on the south\nside of the wire"
+      "fullText": "A constant current flows in a horizontal wire in the plane of the\npaper from east to west as shown in Figure 13.5. The direction\nof magnetic field at a point will be North to South\n(a) directly above the wire\n(b) directly below the wire\n(c) at a point located in the plane of the paper, on the north side\nof the wire\n(d) at a point located in the plane of the paper, on the south\nside of the wire",
+      "answer": "b",
+      "hint": ""
     },
     {
       "qNo": 10,
@@ -251,7 +267,9 @@
           "text": "found to increase from one end to the other"
         }
       ],
-      "fullText": "The strength of magnetic field inside a long current carrying\nstraight solenoid is\n(a) more at the ends than at the centre\n(b) minimum in the middle\n(c) same at all points\n(d) found to increase from one end to the other"
+      "fullText": "The strength of magnetic field inside a long current carrying\nstraight solenoid is\n(a) more at the ends than at the centre\n(b) minimum in the middle\n(c) same at all points\n(d) found to increase from one end to the other",
+      "answer": "c",
+      "hint": ""
     },
     {
       "qNo": 11,
@@ -276,7 +294,9 @@
           "text": "a rectangular wire loop has to be used"
         }
       ],
-      "fullText": "To convert an AC generator into DC generator\n(a) split-ring type commutator must be used\n(b) slip rings and brushes must be used\n(c) a stronger magnetic field has to be used\n(d) a rectangular wire loop has to be used"
+      "fullText": "To convert an AC generator into DC generator\n(a) split-ring type commutator must be used\n(b) slip rings and brushes must be used\n(c) a stronger magnetic field has to be used\n(d) a rectangular wire loop has to be used",
+      "answer": "a",
+      "hint": ""
     },
     {
       "qNo": 12,
@@ -301,7 +321,9 @@
           "text": "use of electric meter"
         }
       ],
-      "fullText": "The most important safety method used for protecting home\nappliances from short circuiting or overloading is\n(a) earthing\n(b) use of fuse\n(c) use of stabilizers\n(d) use of electric meter"
+      "fullText": "The most important safety method used for protecting home\nappliances from short circuiting or overloading is\n(a) earthing\n(b) use of fuse\n(c) use of stabilizers\n(d) use of electric meter",
+      "answer": "b",
+      "hint": ""
     },
     {
       "qNo": 13,
@@ -323,9 +345,9 @@
       "qNo": 18,
       "section": "Short Answer Questions",
       "type": "short_answer",
-      "stem": "What does the direction of thumb indicate in the right-hand thumb\nrule. In what way this rule is different from Fleming’s left-hand\nrule?",
+      "stem": "What does the direction of thumb indicate in the right-hand thumb\nrule. In what way this rule is different from Fleming\u2019s left-hand\nrule?",
       "options": [],
-      "fullText": "What does the direction of thumb indicate in the right-hand thumb\nrule. In what way this rule is different from Fleming’s left-hand\nrule?"
+      "fullText": "What does the direction of thumb indicate in the right-hand thumb\nrule. In what way this rule is different from Fleming\u2019s left-hand\nrule?"
     },
     {
       "qNo": 19,

@@ -26,7 +26,9 @@
           "text": "Forest"
         }
       ],
-      "fullText": "Which one of the following is an artificial ecosystem?\n(a) Pond\n(b) Crop field\n(c) Lake\n(d) Forest"
+      "fullText": "Which one of the following is an artificial ecosystem?\n(a) Pond\n(b) Crop field\n(c) Lake\n(d) Forest",
+      "answer": "b",
+      "hint": ""
     },
     {
       "qNo": 2,
@@ -51,7 +53,9 @@
           "text": "producers"
         }
       ],
-      "fullText": "In a food chain, the third trophic level is always occupied by\n(a) carnivores\n(b) herbivores\n(c) decomposers\n(d) producers"
+      "fullText": "In a food chain, the third trophic level is always occupied by\n(a) carnivores\n(b) herbivores\n(c) decomposers\n(d) producers",
+      "answer": "a",
+      "hint": ""
     },
     {
       "qNo": 3,
@@ -76,13 +80,15 @@
           "text": "sometimes living organisms and sometimes non-living objects"
         }
       ],
-      "fullText": "An ecosystem includes\n(a) all living organisms\n(b) non-living objects\n(c) both living organisms and non-living objects\n(d) sometimes living organisms and sometimes non-living objects"
+      "fullText": "An ecosystem includes\n(a) all living organisms\n(b) non-living objects\n(c) both living organisms and non-living objects\n(d) sometimes living organisms and sometimes non-living objects",
+      "answer": "c",
+      "hint": ""
     },
     {
       "qNo": 4,
       "section": "Multiple Choice Questions",
       "type": "mcq",
-      "stem": "In the given food chain, suppose the amount of energy at fourth\ntrophic level is 5 kJ, what will be the energy available at the\nproducer level?\nGrass → Grasshopper → Frog → Snake → Hawk",
+      "stem": "In the given food chain, suppose the amount of energy at fourth\ntrophic level is 5 kJ, what will be the energy available at the\nproducer level?\nGrass \u2192 Grasshopper \u2192 Frog \u2192 Snake \u2192 Hawk",
       "options": [
         {
           "key": "a",
@@ -101,7 +107,9 @@
           "text": "5000 k J"
         }
       ],
-      "fullText": "In the given food chain, suppose the amount of energy at fourth\ntrophic level is 5 kJ, what will be the energy available at the\nproducer level?\nGrass → Grasshopper → Frog → Snake → Hawk\n(a) 5 k J\n(b) 50 k J\n(c) 500 k J\n(d) 5000 k J"
+      "fullText": "In the given food chain, suppose the amount of energy at fourth\ntrophic level is 5 kJ, what will be the energy available at the\nproducer level?\nGrass \u2192 Grasshopper \u2192 Frog \u2192 Snake \u2192 Hawk\n(a) 5 k J\n(b) 50 k J\n(c) 500 k J\n(d) 5000 k J",
+      "answer": "d",
+      "hint": ""
     },
     {
       "qNo": 5,
@@ -126,7 +134,9 @@
           "text": "accumulation\n1WT 'PXKTQPOGPV\n%*#26'4"
         }
       ],
-      "fullText": "Accumulation of non-biodegradable pesticides in the food chain\nin increasing amount at each higher trophic level is known as\n(a) eutrophication\n(b) pollution\n(c) biomagnification\n(d) accumulation\n1WT 'PXKTQPOGPV\n%*#26'4"
+      "fullText": "Accumulation of non-biodegradable pesticides in the food chain\nin increasing amount at each higher trophic level is known as\n(a) eutrophication\n(b) pollution\n(c) biomagnification\n(d) accumulation\n1WT 'PXKTQPOGPV\n%*#26'4",
+      "answer": "c",
+      "hint": ""
     },
     {
       "qNo": 6,
@@ -151,7 +161,9 @@
           "text": "pesticides"
         }
       ],
-      "fullText": "Depletion of ozone is mainly due to\n(a) chlorofluorocarbon compounds\n(b) carbon monoxide\n(c) methane\n(d) pesticides"
+      "fullText": "Depletion of ozone is mainly due to\n(a) chlorofluorocarbon compounds\n(b) carbon monoxide\n(c) methane\n(d) pesticides",
+      "answer": "a",
+      "hint": ""
     },
     {
       "qNo": 7,
@@ -176,7 +188,9 @@
           "text": "carnivores"
         }
       ],
-      "fullText": "Organisms which synthesise carbohydrates from inorganic\ncompounds using radiant energy are called\n(a) decomposers\n(b) producers\n(c) herbivores\n(d) carnivores"
+      "fullText": "Organisms which synthesise carbohydrates from inorganic\ncompounds using radiant energy are called\n(a) decomposers\n(b) producers\n(c) herbivores\n(d) carnivores",
+      "answer": "b",
+      "hint": ""
     },
     {
       "qNo": 8,
@@ -201,7 +215,9 @@
           "text": "mechanical energy"
         }
       ],
-      "fullText": "In an ecosystem, the 10% of energy available for transfer from one\ntrophic level to the next is in the form of\n(a) heat energy\n(b) light energy\n(c) chemical energy\n(d) mechanical energy"
+      "fullText": "In an ecosystem, the 10% of energy available for transfer from one\ntrophic level to the next is in the form of\n(a) heat energy\n(b) light energy\n(c) chemical energy\n(d) mechanical energy",
+      "answer": "c",
+      "hint": ""
     },
     {
       "qNo": 9,
@@ -226,7 +242,9 @@
           "text": "food chain"
         }
       ],
-      "fullText": "Organisms of a higher trophic level which feed on several types of\norganisms belonging to a lower trophic level constitute the\n(a) food web\n(b) ecological pyramid\n(c) ecosystem\n(d) food chain"
+      "fullText": "Organisms of a higher trophic level which feed on several types of\norganisms belonging to a lower trophic level constitute the\n(a) food web\n(b) ecological pyramid\n(c) ecosystem\n(d) food chain",
+      "answer": "a",
+      "hint": ""
     },
     {
       "qNo": 10,
@@ -251,7 +269,9 @@
           "text": "no specific direction"
         }
       ],
-      "fullText": "Flow of energy in an ecosystem is always\n(a) unidirectional\n(b) bidirectional\n(c) multi directional\n(d) no specific direction"
+      "fullText": "Flow of energy in an ecosystem is always\n(a) unidirectional\n(b) bidirectional\n(c) multi directional\n(d) no specific direction",
+      "answer": "a",
+      "hint": ""
     },
     {
       "qNo": 11,
@@ -276,7 +296,9 @@
           "text": "(iii) and (iv)"
         }
       ],
-      "fullText": "Excessive exposure of humans to U V-rays results in\n(i) damage to immune system\n(ii) damage to lungs\n(iii) skin cancer\n(iv) peptic ulcers\n(a) (i) and (ii)\n(b) (ii) and (iv)\n(c) (i)  and (iii)\n(d) (iii) and (iv)"
+      "fullText": "Excessive exposure of humans to U V-rays results in\n(i) damage to immune system\n(ii) damage to lungs\n(iii) skin cancer\n(iv) peptic ulcers\n(a) (i) and (ii)\n(b) (ii) and (iv)\n(c) (i)  and (iii)\n(d) (iii) and (iv)",
+      "answer": "c",
+      "hint": ""
     },
     {
       "qNo": 12,
@@ -301,7 +323,9 @@
           "text": "(ii) and (iv)"
         }
       ],
-      "fullText": "In the following groups of materials, which group (s) contains only\nnon-biodegradable items?\n(i) Wood, paper, leather\n(ii) Polythene, detergent, PVC\n(iii) Plastic, detergent, grass\n(iv) Plastic, bakelite, DDT\n(a) (iii)\n(b) (iv)\n(c) (i) and (iii)\n(d) (ii) and (iv)"
+      "fullText": "In the following groups of materials, which group (s) contains only\nnon-biodegradable items?\n(i) Wood, paper, leather\n(ii) Polythene, detergent, PVC\n(iii) Plastic, detergent, grass\n(iv) Plastic, bakelite, DDT\n(a) (iii)\n(b) (iv)\n(c) (i) and (iii)\n(d) (ii) and (iv)",
+      "answer": "d",
+      "hint": ""
     },
     {
       "qNo": 13,
@@ -326,7 +350,9 @@
           "text": "Water"
         }
       ],
-      "fullText": "Which of the following limits the number of trophic levels in a food\nchain?\n(a) Decrease in energy at higher trophic levels\n(b) Dufficient food supply\n(c) Polluted air\n(d) Water"
+      "fullText": "Which of the following limits the number of trophic levels in a food\nchain?\n(a) Decrease in energy at higher trophic levels\n(b) Dufficient food supply\n(c) Polluted air\n(d) Water",
+      "answer": "a",
+      "hint": ""
     },
     {
       "qNo": 14,
@@ -351,7 +377,9 @@
           "text": "Plants convert solar energy into chemical energy"
         }
       ],
-      "fullText": "Which of the statement is incorrect?\n(a) All green plants and blue green algae are producers\n(b) Green plants get their food from organic compounds\n(c) Producers prepare their own food from inorganic compounds\n(d) Plants convert solar energy into chemical energy"
+      "fullText": "Which of the statement is incorrect?\n(a) All green plants and blue green algae are producers\n(b) Green plants get their food from organic compounds\n(c) Producers prepare their own food from inorganic compounds\n(d) Plants convert solar energy into chemical energy",
+      "answer": "b",
+      "hint": ""
     },
     {
       "qNo": 15,
@@ -376,7 +404,9 @@
           "text": "(i) and (iv)"
         }
       ],
-      "fullText": "Which group of organisms are not constituents of a food chain?\n(i) Grass, lion, rabbit, wolf\n(ii) Plankton, man, fish, grasshopper\n(iii) Wolf, grass, snake, tiger\n(iv) Frog, snake, eagle, grass, grasshopper\n(a) (i) and (iii)\n(b) (iii) and (iv)\n(c) (ii) and (iii)\n(d) (i) and (iv)"
+      "fullText": "Which group of organisms are not constituents of a food chain?\n(i) Grass, lion, rabbit, wolf\n(ii) Plankton, man, fish, grasshopper\n(iii) Wolf, grass, snake, tiger\n(iv) Frog, snake, eagle, grass, grasshopper\n(a) (i) and (iii)\n(b) (iii) and (iv)\n(c) (ii) and (iii)\n(d) (i) and (iv)",
+      "answer": "c",
+      "hint": ""
     },
     {
       "qNo": 16,
@@ -401,7 +431,9 @@
           "text": "10 %"
         }
       ],
-      "fullText": "The percentage of solar radiation absorbed by all the green plants\nfor the process of photosynthesis is about\n(a) 1 %\n(b) 5 %\n(c) 8 %\n(d) 10 %"
+      "fullText": "The percentage of solar radiation absorbed by all the green plants\nfor the process of photosynthesis is about\n(a) 1 %\n(b) 5 %\n(c) 8 %\n(d) 10 %",
+      "answer": "a",
+      "hint": ""
     },
     {
       "qNo": 17,
@@ -426,13 +458,15 @@
           "text": "T3\nFig. 15.1"
         }
       ],
-      "fullText": "In the given Figure 15.1 the various trophic levels are shown in a\npyramid. At which trophic level is maximum energy available?\n(a) T4\n(b) T2\n(c) T1\n(d) T3\nFig. 15.1"
+      "fullText": "In the given Figure 15.1 the various trophic levels are shown in a\npyramid. At which trophic level is maximum energy available?\n(a) T4\n(b) T2\n(c) T1\n(d) T3\nFig. 15.1",
+      "answer": "c",
+      "hint": ""
     },
     {
       "qNo": 18,
       "section": "Multiple Choice Questions",
       "type": "mcq",
-      "stem": "What will happen if  deer is missing in the  food chain given below?\nGrass →  Deer → Tiger",
+      "stem": "What will happen if  deer is missing in the  food chain given below?\nGrass \u2192  Deer \u2192 Tiger",
       "options": [
         {
           "key": "a",
@@ -451,7 +485,9 @@
           "text": "The population of tiger decreases and the population of grass\nincreases"
         }
       ],
-      "fullText": "What will happen if  deer is missing in the  food chain given below?\nGrass →  Deer → Tiger\n(a) The population of tiger increases\n(b) The population of grass decreases\n(c) Tiger will start eating grass\n(d) The population of tiger decreases and the population of grass\nincreases"
+      "fullText": "What will happen if  deer is missing in the  food chain given below?\nGrass \u2192  Deer \u2192 Tiger\n(a) The population of tiger increases\n(b) The population of grass decreases\n(c) Tiger will start eating grass\n(d) The population of tiger decreases and the population of grass\nincreases",
+      "answer": "d",
+      "hint": ""
     },
     {
       "qNo": 19,
@@ -476,7 +512,9 @@
           "text": "do not breakdown organic compounds"
         }
       ],
-      "fullText": "The decomposers in an ecosystem\n(a) convert inorganic material, to simpler forms\n(b) convert organic material to inorganic forms\n(c) convert inorganic materials into organic compounds\n(d) do not breakdown organic compounds"
+      "fullText": "The decomposers in an ecosystem\n(a) convert inorganic material, to simpler forms\n(b) convert organic material to inorganic forms\n(c) convert inorganic materials into organic compounds\n(d) do not breakdown organic compounds",
+      "answer": "b",
+      "hint": ""
     },
     {
       "qNo": 20,
@@ -501,7 +539,9 @@
           "text": "secondary consumer to primary consumer"
         }
       ],
-      "fullText": "If a grass hopper is eaten by a frog, then the energy transfer will\nbe from\n(a) producer to decomposer\n(b) producer to primary consumer\n(c) primary consumer to secondary consumer\n(d) secondary consumer to primary consumer"
+      "fullText": "If a grass hopper is eaten by a frog, then the energy transfer will\nbe from\n(a) producer to decomposer\n(b) producer to primary consumer\n(c) primary consumer to secondary consumer\n(d) secondary consumer to primary consumer",
+      "answer": "c",
+      "hint": ""
     },
     {
       "qNo": 21,
@@ -526,7 +566,9 @@
           "text": "they are made of non-biodegradable materials"
         }
       ],
-      "fullText": "Disposable plastic plates should not be used because\n(a) they are made of materials with light weight\n(b) they are made of toxic materials\n(c) they are made of biodegradable materials\n(d) they are made of non-biodegradable materials"
+      "fullText": "Disposable plastic plates should not be used because\n(a) they are made of materials with light weight\n(b) they are made of toxic materials\n(c) they are made of biodegradable materials\n(d) they are made of non-biodegradable materials",
+      "answer": "d",
+      "hint": ""
     },
     {
       "qNo": 22,
@@ -588,9 +630,9 @@
       "qNo": 29,
       "section": "Short Answer Questions",
       "type": "short_answer",
-      "stem": "Select the mis-matched pair in the following and correct it.\n(a) Biomagnification\n—     Accumulation of chemicals at\nthe successive trophic levels of\na food chain\n(b) Ecosystem\n—     Biotic components of\nenvironment\n(c) Aquarium\n—     A man-made ecosystem\n(d) Parasites\n—    Organisms which obtain food\nfrom other living organisms",
+      "stem": "Select the mis-matched pair in the following and correct it.\n(a) Biomagnification\n\u2014     Accumulation of chemicals at\nthe successive trophic levels of\na food chain\n(b) Ecosystem\n\u2014     Biotic components of\nenvironment\n(c) Aquarium\n\u2014     A man-made ecosystem\n(d) Parasites\n\u2014    Organisms which obtain food\nfrom other living organisms",
       "options": [],
-      "fullText": "Select the mis-matched pair in the following and correct it.\n(a) Biomagnification\n—     Accumulation of chemicals at\nthe successive trophic levels of\na food chain\n(b) Ecosystem\n—     Biotic components of\nenvironment\n(c) Aquarium\n—     A man-made ecosystem\n(d) Parasites\n—    Organisms which obtain food\nfrom other living organisms"
+      "fullText": "Select the mis-matched pair in the following and correct it.\n(a) Biomagnification\n\u2014     Accumulation of chemicals at\nthe successive trophic levels of\na food chain\n(b) Ecosystem\n\u2014     Biotic components of\nenvironment\n(c) Aquarium\n\u2014     A man-made ecosystem\n(d) Parasites\n\u2014    Organisms which obtain food\nfrom other living organisms"
     },
     {
       "qNo": 30,

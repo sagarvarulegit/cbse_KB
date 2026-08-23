@@ -26,7 +26,9 @@
           "text": "budding"
         }
       ],
-      "fullText": "Exchange of genetic material takes place in\n(a) vegetative reproduction\n(b) asexual reproduction\n(c) sexual reproduction\n(d) budding"
+      "fullText": "Exchange of genetic material takes place in\n(a) vegetative reproduction\n(b) asexual reproduction\n(c) sexual reproduction\n(d) budding",
+      "answer": "c",
+      "hint": ""
     },
     {
       "qNo": 2,
@@ -51,7 +53,9 @@
           "text": "no fertilisation"
         }
       ],
-      "fullText": "Two  pink coloured flowers on crossing resulted in 1 red, 2 pink\nand 1 white flower progeny. The nature of the cross will be\n(a) double fertilisation\n(b) self pollination\n(c) cross fertilisation\n(d) no fertilisation"
+      "fullText": "Two  pink coloured flowers on crossing resulted in 1 red, 2 pink\nand 1 white flower progeny. The nature of the cross will be\n(a) double fertilisation\n(b) self pollination\n(c) cross fertilisation\n(d) no fertilisation",
+      "answer": "b",
+      "hint": ""
     },
     {
       "qNo": 3,
@@ -73,10 +77,12 @@
         },
         {
           "key": "d",
-          "text": "height of pea plant is not governed by gene ‘T’ or ‘t’"
+          "text": "height of pea plant is not governed by gene \u2018T\u2019 or \u2018t\u2019"
         }
       ],
-      "fullText": "A cross between a tall plant (TT) and short pea plant (tt) resulted\nin progeny that were all tall plants because\n(a) tallness is the dominant trait\n(b) shortness is the dominant trait\n(c) tallness is the recessive trait\n(d) height of pea plant is not governed by gene ‘T’ or ‘t’"
+      "fullText": "A cross between a tall plant (TT) and short pea plant (tt) resulted\nin progeny that were all tall plants because\n(a) tallness is the dominant trait\n(b) shortness is the dominant trait\n(c) tallness is the recessive trait\n(d) height of pea plant is not governed by gene \u2018T\u2019 or \u2018t\u2019",
+      "answer": "a",
+      "hint": ""
     },
     {
       "qNo": 4,
@@ -101,7 +107,9 @@
           "text": "For every molecule of fat there is  a gene"
         }
       ],
-      "fullText": "Which of the following statement is incorrect?\n(a) For every hormone there is a gene.\n(b) For every protein there is a gene.\n(c) For production of every enzyme there is a gene.\n(d) For every molecule of fat there is  a gene"
+      "fullText": "Which of the following statement is incorrect?\n(a) For every hormone there is a gene.\n(b) For every protein there is a gene.\n(c) For production of every enzyme there is a gene.\n(d) For every molecule of fat there is  a gene",
+      "answer": "d",
+      "hint": ""
     },
     {
       "qNo": 5,
@@ -126,7 +134,9 @@
           "text": "wrinkled and yellow\n*GTGFKV[ CPF\n'XQNWVKQP\n%*#26'4"
         }
       ],
-      "fullText": "If a round, green seeded pea plant (RR yy) is crossed with wrinkled,\nyellow seeded pea plant, (rr YY) the seeds produced in F1 generation are\n(a) round and yellow\n(b) round and green\n(c) wrinkled and green\n(d) wrinkled and yellow\n*GTGFKV[ CPF\n'XQNWVKQP\n%*#26'4"
+      "fullText": "If a round, green seeded pea plant (RR yy) is crossed with wrinkled,\nyellow seeded pea plant, (rr YY) the seeds produced in F1 generation are\n(a) round and yellow\n(b) round and green\n(c) wrinkled and green\n(d) wrinkled and yellow\n*GTGFKV[ CPF\n'XQNWVKQP\n%*#26'4",
+      "answer": "a",
+      "hint": ""
     },
     {
       "qNo": 6,
@@ -151,7 +161,9 @@
           "text": "(ii) and (iv)"
         }
       ],
-      "fullText": "In human males all the chromosomes are paired perfectly except\none. This/these unpaired chromosome is/are\n(i) large chromosome\n(ii) small chromosome\n(iii) Y-chromosome\n(iv) X-chromosome\n(a) (i) and (ii)\n(b) (iii) only\n(c) (iii) and (iv)\n(d) (ii) and (iv)"
+      "fullText": "In human males all the chromosomes are paired perfectly except\none. This/these unpaired chromosome is/are\n(i) large chromosome\n(ii) small chromosome\n(iii) Y-chromosome\n(iv) X-chromosome\n(a) (i) and (ii)\n(b) (iii) only\n(c) (iii) and (iv)\n(d) (ii) and (iv)",
+      "answer": "c",
+      "hint": ""
     },
     {
       "qNo": 7,
@@ -176,7 +188,9 @@
           "text": "sex is determined by chance"
         }
       ],
-      "fullText": "The maleness of a child is determined by\n(a) the X chromosome in the zygote\n(b) the Y chromosome in zygote\n(c) the cytoplasm of germ cell which determines the sex\n(d) sex is determined by chance"
+      "fullText": "The maleness of a child is determined by\n(a) the X chromosome in the zygote\n(b) the Y chromosome in zygote\n(c) the cytoplasm of germ cell which determines the sex\n(d) sex is determined by chance",
+      "answer": "b",
+      "hint": ""
     },
     {
       "qNo": 8,
@@ -201,7 +215,9 @@
           "text": "either boy or girl"
         }
       ],
-      "fullText": "A zygote which has an X-chromosome inherited from the father\nwill develop into a\n(a) boy\n(b) girl\n(c) X- chromosome does not determine the sex of a child\n(d) either boy or girl"
+      "fullText": "A zygote which has an X-chromosome inherited from the father\nwill develop into a\n(a) boy\n(b) girl\n(c) X- chromosome does not determine the sex of a child\n(d) either boy or girl",
+      "answer": "b",
+      "hint": ""
     },
     {
       "qNo": 9,
@@ -226,7 +242,9 @@
           "text": "Traits which are not inherited over generations do not cause\nevolution"
         }
       ],
-      "fullText": "Select the incorrect statement\n(a) Frequency of certain genes in a population change  over several\ngenerations resulting in evolution\n(b) Reduction in weight of the organism due to starvation is\ngenetically controlled\n(c) Low weight parents can have heavy weight progeny\n(d) Traits which are not inherited over generations do not cause\nevolution"
+      "fullText": "Select the incorrect statement\n(a) Frequency of certain genes in a population change  over several\ngenerations resulting in evolution\n(b) Reduction in weight of the organism due to starvation is\ngenetically controlled\n(c) Low weight parents can have heavy weight progeny\n(d) Traits which are not inherited over generations do not cause\nevolution",
+      "answer": "b",
+      "hint": ""
     },
     {
       "qNo": 10,
@@ -251,7 +269,9 @@
           "text": "(i), (ii) and (iii)"
         }
       ],
-      "fullText": "New species may be formed if\n(i) DNA undergoes significant changes in germ cells\n(ii) chromosome number changes in the gamete\n(iii) there is no change in the genetic material\n(iv) mating does not take place\n(a) (i) and (ii)\n(b) (i) and (iii)\n(c) (ii), (iii) and (iv)\n(d) (i), (ii) and (iii)"
+      "fullText": "New species may be formed if\n(i) DNA undergoes significant changes in germ cells\n(ii) chromosome number changes in the gamete\n(iii) there is no change in the genetic material\n(iv) mating does not take place\n(a) (i) and (ii)\n(b) (i) and (iii)\n(c) (ii), (iii) and (iv)\n(d) (i), (ii) and (iii)",
+      "answer": "a",
+      "hint": ""
     },
     {
       "qNo": 11,
@@ -276,7 +296,9 @@
           "text": "(i) and (iii)"
         }
       ],
-      "fullText": "Two pea plants one with round green seeds (RRyy) and another\nwith wrinkled yellow (rrYY) seeds produce F1 progeny that have\nround, yellow (RrYy) seeds. When F1 plants are selfed, the F2\nprogeny will have new combination of characters. Choose the new\ncombination from the following\n(i) Round, yellow\n(ii) Round, green\n(iii) Wrinkled, yellow\n(iv) Wrinkled, green\n(a) (i) and (ii)\n(b) (i) and (iv)\n(c) (ii) and (iii)\n(d) (i) and (iii)"
+      "fullText": "Two pea plants one with round green seeds (RRyy) and another\nwith wrinkled yellow (rrYY) seeds produce F1 progeny that have\nround, yellow (RrYy) seeds. When F1 plants are selfed, the F2\nprogeny will have new combination of characters. Choose the new\ncombination from the following\n(i) Round, yellow\n(ii) Round, green\n(iii) Wrinkled, yellow\n(iv) Wrinkled, green\n(a) (i) and (ii)\n(b) (i) and (iv)\n(c) (ii) and (iii)\n(d) (i) and (iii)",
+      "answer": "b",
+      "hint": ""
     },
     {
       "qNo": 12,
@@ -301,7 +323,9 @@
           "text": "Radish and potato"
         }
       ],
-      "fullText": "A basket of vegetables contains carrot, potato, radish and tomato.\nWhich of them represent the correct homologous structures?\n(a) Carrot and potato\n(b) Carrot and tomato\n(c) Radish and carrot\n(d) Radish and potato"
+      "fullText": "A basket of vegetables contains carrot, potato, radish and tomato.\nWhich of them represent the correct homologous structures?\n(a) Carrot and potato\n(b) Carrot and tomato\n(c) Radish and carrot\n(d) Radish and potato",
+      "answer": "c",
+      "hint": ""
     },
     {
       "qNo": 13,
@@ -326,7 +350,9 @@
           "text": "Wings of birds and wings of bat are homologous"
         }
       ],
-      "fullText": "Select the correct statement\n(a) Tendril of a pea plant and phylloclade of Opuntia are\nhomologous\n(b) Tendril of a pea plant and phylloclade of Opuntia are analogous\n(c) Wings of birds and limbs of lizards are analogous\n(d) Wings of birds and wings of bat are homologous"
+      "fullText": "Select the correct statement\n(a) Tendril of a pea plant and phylloclade of Opuntia are\nhomologous\n(b) Tendril of a pea plant and phylloclade of Opuntia are analogous\n(c) Wings of birds and limbs of lizards are analogous\n(d) Wings of birds and wings of bat are homologous",
+      "answer": "a",
+      "hint": ""
     },
     {
       "qNo": 14,
@@ -351,7 +377,9 @@
           "text": "time of extinction cannot be determined"
         }
       ],
-      "fullText": "If the fossil of an organism is found in the deeper layers of earth,\nthen we can predict that\n(a) the extinction of organism has occurred recently\n(b) the extinction of organism has occurred thousands of years\nago\n(c) the fossil position in the layers of earth is not related to its time\nof extinction\n(d) time of extinction cannot be determined"
+      "fullText": "If the fossil of an organism is found in the deeper layers of earth,\nthen we can predict that\n(a) the extinction of organism has occurred recently\n(b) the extinction of organism has occurred thousands of years\nago\n(c) the fossil position in the layers of earth is not related to its time\nof extinction\n(d) time of extinction cannot be determined",
+      "answer": "b",
+      "hint": ""
     },
     {
       "qNo": 15,
@@ -376,7 +404,9 @@
           "text": "Variation is minimum in asexual reproduction"
         }
       ],
-      "fullText": "Which of the following statements is not true with respect to\nvariation?\n(a) All variations in a species have equal chance of survival\n(b) Change in genetic composition results in variation\n(c) Selection of variants by environmental factors forms the basis\nof evolutionary processes.\n(d) Variation is minimum in asexual reproduction"
+      "fullText": "Which of the following statements is not true with respect to\nvariation?\n(a) All variations in a species have equal chance of survival\n(b) Change in genetic composition results in variation\n(c) Selection of variants by environmental factors forms the basis\nof evolutionary processes.\n(d) Variation is minimum in asexual reproduction",
+      "answer": "a",
+      "hint": ""
     },
     {
       "qNo": 16,
@@ -401,7 +431,9 @@
           "text": "neither by paternal nor by maternal DNA"
         }
       ],
-      "fullText": "A trait in an organism is influenced by\n(a) paternal DNA only\n(b) maternal DNA only\n(c) both maternal and paternal DNA\n(d) neither by paternal nor by maternal DNA"
+      "fullText": "A trait in an organism is influenced by\n(a) paternal DNA only\n(b) maternal DNA only\n(c) both maternal and paternal DNA\n(d) neither by paternal nor by maternal DNA",
+      "answer": "c",
+      "hint": ""
     },
     {
       "qNo": 17,
@@ -426,7 +458,9 @@
           "text": "two genera of two families"
         }
       ],
-      "fullText": "Select the group which shares maximum number of common\ncharacters\n(a) two individuals of a species\n(b) two species of a genus\n(c) two genera of a family\n(d) two genera of two families"
+      "fullText": "Select the group which shares maximum number of common\ncharacters\n(a) two individuals of a species\n(b) two species of a genus\n(c) two genera of a family\n(d) two genera of two families",
+      "answer": "a",
+      "hint": ""
     },
     {
       "qNo": 18,
@@ -451,7 +485,9 @@
           "text": "movement of individuals from one habitat to another"
         }
       ],
-      "fullText": "According to the evolutionary theory, formation of a new species\nis generally due to\n(a) sudden creation by nature\n(b) accumulation of variations over several generations\n(c) clones formed during asexual reproduction\n(d) movement of individuals from one habitat to another"
+      "fullText": "According to the evolutionary theory, formation of a new species\nis generally due to\n(a) sudden creation by nature\n(b) accumulation of variations over several generations\n(c) clones formed during asexual reproduction\n(d) movement of individuals from one habitat to another",
+      "answer": "b",
+      "hint": ""
     },
     {
       "qNo": 19,
@@ -476,7 +512,9 @@
           "text": "nature of hair"
         }
       ],
-      "fullText": "From the list given below, select the character which can be\nacquired but not inherited\n(a) colour of eye\n(b) colour of skin\n(c) size of body\n(d) nature of hair"
+      "fullText": "From the list given below, select the character which can be\nacquired but not inherited\n(a) colour of eye\n(b) colour of skin\n(c) size of body\n(d) nature of hair",
+      "answer": "c",
+      "hint": ""
     },
     {
       "qNo": 20,
@@ -501,7 +539,9 @@
           "text": "any chromosome"
         }
       ],
-      "fullText": "The two versions of a trait (character) which are brought in by the\nmale and female gametes are situated on\n(a) copies of the same chromosome\n(b) two different chromosomes\n(c) sex chromosomes\n(d) any chromosome"
+      "fullText": "The two versions of a trait (character) which are brought in by the\nmale and female gametes are situated on\n(a) copies of the same chromosome\n(b) two different chromosomes\n(c) sex chromosomes\n(d) any chromosome",
+      "answer": "a",
+      "hint": ""
     },
     {
       "qNo": 21,
@@ -526,7 +566,9 @@
           "text": "(ii) and (iv)"
         }
       ],
-      "fullText": "Select the statements that describe characteristics of genes\n(i) genes are specific sequence of bases in a DNA molecule\n(ii) a gene does not code for proteins\n(iii) in individuals of a given species, a specific gene is located on a\nparticular chromosome\n(iv) each chromosome has only one gene\n(a) (i) and (ii)\n(b) (i) and (iii)\n(c) (i) and (iv)\n(d) (ii) and (iv)"
+      "fullText": "Select the statements that describe characteristics of genes\n(i) genes are specific sequence of bases in a DNA molecule\n(ii) a gene does not code for proteins\n(iii) in individuals of a given species, a specific gene is located on a\nparticular chromosome\n(iv) each chromosome has only one gene\n(a) (i) and (ii)\n(b) (i) and (iii)\n(c) (i) and (iv)\n(d) (ii) and (iv)",
+      "answer": "b",
+      "hint": ""
     },
     {
       "qNo": 22,
@@ -551,7 +593,9 @@
           "text": "2 : 1"
         }
       ],
-      "fullText": "In peas, a pure tall plant (TT) is crossed with a short plant (tt). The\nratio of pure tall plants to short plants in F2 is\n(a) 1 : 3\n(b) 3 : 1\n(c) 1 : 1\n(d) 2 : 1"
+      "fullText": "In peas, a pure tall plant (TT) is crossed with a short plant (tt). The\nratio of pure tall plants to short plants in F2 is\n(a) 1 : 3\n(b) 3 : 1\n(c) 1 : 1\n(d) 2 : 1",
+      "answer": "c",
+      "hint": ""
     },
     {
       "qNo": 23,
@@ -576,7 +620,9 @@
           "text": "four"
         }
       ],
-      "fullText": "The number of pair (s) of sex chromosomes in the zygote of humans is\n(a) one\n(b) two\n(c) three\n(d) four"
+      "fullText": "The number of pair (s) of sex chromosomes in the zygote of humans is\n(a) one\n(b) two\n(c) three\n(d) four",
+      "answer": "a",
+      "hint": ""
     },
     {
       "qNo": 24,
@@ -601,7 +647,9 @@
           "text": "Lamarck"
         }
       ],
-      "fullText": "The theory of evolution of species by natural selection was given by\n(a) Mendel\n(b) Darwin\n(c) Morgan\n(d) Lamarck"
+      "fullText": "The theory of evolution of species by natural selection was given by\n(a) Mendel\n(b) Darwin\n(c) Morgan\n(d) Lamarck",
+      "answer": "b",
+      "hint": ""
     },
     {
       "qNo": 25,
@@ -626,7 +674,9 @@
           "text": "birds have evolved from reptiles"
         }
       ],
-      "fullText": "Some dinosaurs had feathers although they could not fly but birds\nhave feathers that help them to fly. In the context of evolution this\nmeans that\n(a) reptiles have evolved from birds\n(b) there is no evolutionary connection between reptiles and birds\n(c) feathers are homologous structures in both the organisms\n(d) birds have evolved from reptiles"
+      "fullText": "Some dinosaurs had feathers although they could not fly but birds\nhave feathers that help them to fly. In the context of evolution this\nmeans that\n(a) reptiles have evolved from birds\n(b) there is no evolutionary connection between reptiles and birds\n(c) feathers are homologous structures in both the organisms\n(d) birds have evolved from reptiles",
+      "answer": "d",
+      "hint": ""
     },
     {
       "qNo": 26,
@@ -704,9 +754,9 @@
       "qNo": 35,
       "section": "Short Answer Questions",
       "type": "short_answer",
-      "stem": "Why did Mendel choose pea plant for his experiments?\n(;(03/$5  352%/(06 ă 6&,(1&(\n$ ZRPDQ KDV RQO\\ GDXJKWHUV $QDO\\VH WKH VLWXDWLRQ JHQHWLFDOO\\\nDQG SURYLGH D VXLWDEOH H[SODQDWLRQ",
+      "stem": "Why did Mendel choose pea plant for his experiments?\n(;(03/$5  352%/(06 \u0103 6&,(1&(\n$ ZRPDQ KDV RQO\\ GDXJKWHUV $QDO\\VH WKH VLWXDWLRQ JHQHWLFDOO\\\nDQG SURYLGH D VXLWDEOH H[SODQDWLRQ",
       "options": [],
-      "fullText": "Why did Mendel choose pea plant for his experiments?\n(;(03/$5  352%/(06 ă 6&,(1&(\n$ ZRPDQ KDV RQO\\ GDXJKWHUV $QDO\\VH WKH VLWXDWLRQ JHQHWLFDOO\\\nDQG SURYLGH D VXLWDEOH H[SODQDWLRQ"
+      "fullText": "Why did Mendel choose pea plant for his experiments?\n(;(03/$5  352%/(06 \u0103 6&,(1&(\n$ ZRPDQ KDV RQO\\ GDXJKWHUV $QDO\\VH WKH VLWXDWLRQ JHQHWLFDOO\\\nDQG SURYLGH D VXLWDEOH H[SODQDWLRQ"
     }
   ]
 }

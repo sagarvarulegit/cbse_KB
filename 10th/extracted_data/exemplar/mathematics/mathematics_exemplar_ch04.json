@@ -11,22 +11,24 @@
       "options": [
         {
           "key": "a",
-          "text": "x2 + 2x + 1 = (4 – x)2 + 3"
+          "text": "x2 + 2x + 1 = (4 \u2013 x)2 + 3"
         },
         {
           "key": "b",
-          "text": "–2x2 = (5 – x)\nx\n\n\n−\n\n\n\n"
+          "text": "\u20132x2 = (5 \u2013 x)\nx\n\uf001\n\uf002\n\u2212\n\uf003\n\uf004\n\uf005\n\uf006"
         },
         {
           "key": "c",
-          "text": "(k + 1)x2 + 3\n2 x  = 7, where k = –1"
+          "text": "(k + 1)x2 + 3\n2 x  = 7, where k = \u20131"
         },
         {
           "key": "d",
-          "text": "x3 – x2 = (x – 1)3"
+          "text": "x3 \u2013 x2 = (x \u2013 1)3"
         }
       ],
-      "fullText": "Which of the following is a quadratic equation?\n(A) x2 + 2x + 1 = (4 – x)2 + 3\n(B) –2x2 = (5 – x)\nx\n\n\n−\n\n\n\n\n(C) (k + 1)x2 + 3\n2 x  = 7, where k = –1\n(D) x3 – x2 = (x – 1)3"
+      "fullText": "Which of the following is a quadratic equation?\n(A) x2 + 2x + 1 = (4 \u2013 x)2 + 3\n(B) \u20132x2 = (5 \u2013 x)\nx\n\uf001\n\uf002\n\u2212\n\uf003\n\uf004\n\uf005\n\uf006\n(C) (k + 1)x2 + 3\n2 x  = 7, where k = \u20131\n(D) x3 \u2013 x2 = (x \u2013 1)3",
+      "answer": "d",
+      "hint": ""
     },
     {
       "qNo": 2,
@@ -36,22 +38,24 @@
       "options": [
         {
           "key": "a",
-          "text": "2(x – 1)2 = 4x2  – 2x + 1"
+          "text": "2(x \u2013 1)2 = 4x2  \u2013 2x + 1"
         },
         {
           "key": "b",
-          "text": "2x – x2 = x2 + 5"
+          "text": "2x \u2013 x2 = x2 + 5"
         },
         {
           "key": "c",
-          "text": "( 2\n3)\nx\nx\nx\nx\n+\n+\n=\n−"
+          "text": "( 2\n3)\nx\nx\nx\nx\n+\n+\n=\n\u2212"
         },
         {
           "key": "d",
           "text": "(x2 + 2x)2 = x4 + 3 + 4x3"
         }
       ],
-      "fullText": "Which of the following is not a quadratic equation?\n(A) 2(x – 1)2 = 4x2  – 2x + 1\n(B) 2x – x2 = x2 + 5\n(C)\n( 2\n3)\nx\nx\nx\nx\n+\n+\n=\n−\n(D) (x2 + 2x)2 = x4 + 3 + 4x3"
+      "fullText": "Which of the following is not a quadratic equation?\n(A) 2(x \u2013 1)2 = 4x2  \u2013 2x + 1\n(B) 2x \u2013 x2 = x2 + 5\n(C)\n( 2\n3)\nx\nx\nx\nx\n+\n+\n=\n\u2212\n(D) (x2 + 2x)2 = x4 + 3 + 4x3",
+      "answer": "c",
+      "hint": ""
     },
     {
       "qNo": 3,
@@ -61,28 +65,30 @@
       "options": [
         {
           "key": "a",
-          "text": "x2 – 4x + 5 = 0"
+          "text": "x2 \u2013 4x + 5 = 0"
         },
         {
           "key": "b",
-          "text": "x2 + 3x – 12 = 0"
+          "text": "x2 + 3x \u2013 12 = 0"
         },
         {
           "key": "c",
-          "text": "2x2 – 7x + 6 = 0"
+          "text": "2x2 \u2013 7x + 6 = 0"
         },
         {
           "key": "d",
-          "text": "3x2 – 6x – 2 = 0\n03/05/18"
+          "text": "3x2 \u2013 6x \u2013 2 = 0\n03/05/18"
         }
       ],
-      "fullText": "Which of the following equations has 2 as a root?\n(A) x2 – 4x + 5 = 0\n(B) x2 + 3x – 12 = 0\n(C) 2x2 – 7x + 6 = 0\n(D) 3x2 – 6x – 2 = 0\n03/05/18"
+      "fullText": "Which of the following equations has 2 as a root?\n(A) x2 \u2013 4x + 5 = 0\n(B) x2 + 3x \u2013 12 = 0\n(C) 2x2 \u2013 7x + 6 = 0\n(D) 3x2 \u2013 6x \u2013 2 = 0\n03/05/18",
+      "answer": "c",
+      "hint": ""
     },
     {
       "qNo": 4,
       "exercise": "EXERCISE 4.1",
       "type": "mcq",
-      "stem": "If 1\n2  is a root of the equation x2 + kx – 5\n4  = 0, then the value of k is",
+      "stem": "If 1\n2  is a root of the equation x2 + kx \u2013 5\n4  = 0, then the value of k is",
       "options": [
         {
           "key": "a",
@@ -90,7 +96,7 @@
         },
         {
           "key": "b",
-          "text": "– 2"
+          "text": "\u2013 2"
         },
         {
           "key": "c",
@@ -101,7 +107,9 @@
           "text": "1"
         }
       ],
-      "fullText": "If 1\n2  is a root of the equation x2 + kx – 5\n4  = 0, then the value of k is\n(A) 2\n(B) – 2\n(C) 1\n(D) 1"
+      "fullText": "If 1\n2  is a root of the equation x2 + kx \u2013 5\n4  = 0, then the value of k is\n(A) 2\n(B) \u2013 2\n(C) 1\n(D) 1",
+      "answer": "a",
+      "hint": ""
     },
     {
       "qNo": 5,
@@ -111,28 +119,30 @@
       "options": [
         {
           "key": "a",
-          "text": "2x2 – 3x + 6 = 0"
+          "text": "2x2 \u2013 3x + 6 = 0"
         },
         {
           "key": "b",
-          "text": "–x2 + 3x – 3 = 0"
+          "text": "\u2013x2 + 3x \u2013 3 = 0"
         },
         {
           "key": "c",
-          "text": "−\n+\n=\nx\nx"
+          "text": "\u2212\n+\n=\nx\nx"
         },
         {
           "key": "d",
-          "text": "3x2 – 3x + 3 = 0"
+          "text": "3x2 \u2013 3x + 3 = 0"
         }
       ],
-      "fullText": "Which of the following equations has the sum of its roots as 3?\n(A) 2x2 – 3x + 6 = 0\n(B) –x2 + 3x – 3 = 0\n(C)\n−\n+\n=\nx\nx\n(D) 3x2 – 3x + 3 = 0"
+      "fullText": "Which of the following equations has the sum of its roots as 3?\n(A) 2x2 \u2013 3x + 6 = 0\n(B) \u2013x2 + 3x \u2013 3 = 0\n(C)\n\u2212\n+\n=\nx\nx\n(D) 3x2 \u2013 3x + 3 = 0",
+      "answer": "b",
+      "hint": ""
     },
     {
       "qNo": 6,
       "exercise": "EXERCISE 4.1",
       "type": "mcq",
-      "stem": "Values of k for which the quadratic equation 2x2 – kx + k = 0 has equal roots is",
+      "stem": "Values of k for which the quadratic equation 2x2 \u2013 kx + k = 0 has equal roots is",
       "options": [
         {
           "key": "a",
@@ -151,13 +161,15 @@
           "text": "0, 8"
         }
       ],
-      "fullText": "Values of k for which the quadratic equation 2x2 – kx + k = 0 has equal roots is\n(A) 0 only\n(B) 4\n(C) 8 only\n(D) 0, 8"
+      "fullText": "Values of k for which the quadratic equation 2x2 \u2013 kx + k = 0 has equal roots is\n(A) 0 only\n(B) 4\n(C) 8 only\n(D) 0, 8",
+      "answer": "d",
+      "hint": ""
     },
     {
       "qNo": 7,
       "exercise": "EXERCISE 4.1",
       "type": "mcq",
-      "stem": "Which constant must be added and subtracted to solve the quadratic equation\n9x2 + 3\n4 x –\n2  = 0 by the method of completing the square?",
+      "stem": "Which constant must be added and subtracted to solve the quadratic equation\n9x2 + 3\n4 x \u2013\n2  = 0 by the method of completing the square?",
       "options": [
         {
           "key": "a",
@@ -176,13 +188,15 @@
           "text": "9"
         }
       ],
-      "fullText": "Which constant must be added and subtracted to solve the quadratic equation\n9x2 + 3\n4 x –\n2  = 0 by the method of completing the square?\n(A) 1\n(B) 1\n(C) 1\n(D) 9"
+      "fullText": "Which constant must be added and subtracted to solve the quadratic equation\n9x2 + 3\n4 x \u2013\n2  = 0 by the method of completing the square?\n(A) 1\n(B) 1\n(C) 1\n(D) 9",
+      "answer": "b",
+      "hint": ""
     },
     {
       "qNo": 8,
       "exercise": "EXERCISE 4.1",
       "type": "mcq",
-      "stem": "The quadratic equation 2x2 –\n5x  + 1 = 0 has",
+      "stem": "The quadratic equation 2x2 \u2013\n5x  + 1 = 0 has",
       "options": [
         {
           "key": "a",
@@ -201,7 +215,9 @@
           "text": "more than 2 real roots"
         }
       ],
-      "fullText": "The quadratic equation 2x2 –\n5x  + 1 = 0 has\n(A) two distinct real roots\n(B) two equal real roots\n(C) no real roots\n(D) more than 2 real roots"
+      "fullText": "The quadratic equation 2x2 \u2013\n5x  + 1 = 0 has\n(A) two distinct real roots\n(B) two equal real roots\n(C) no real roots\n(D) more than 2 real roots",
+      "answer": "c",
+      "hint": ""
     },
     {
       "qNo": 9,
@@ -211,11 +227,11 @@
       "options": [
         {
           "key": "a",
-          "text": "2x2 –\n3 2\nx +\n= 0"
+          "text": "2x2 \u2013\n3 2\nx +\n= 0"
         },
         {
           "key": "b",
-          "text": "x2 + x – 5 = 0"
+          "text": "x2 + x \u2013 5 = 0"
         },
         {
           "key": "c",
@@ -223,10 +239,12 @@
         },
         {
           "key": "d",
-          "text": "5x2 – 3x + 1 = 0"
+          "text": "5x2 \u2013 3x + 1 = 0"
         }
       ],
-      "fullText": "Which of the following equations has two distinct real roots?\n(A) 2x2 –\n3 2\nx +\n= 0\n(B) x2 + x – 5 = 0\n(C) x2 + 3x + 2 2  = 0\n(D) 5x2 – 3x + 1 = 0"
+      "fullText": "Which of the following equations has two distinct real roots?\n(A) 2x2 \u2013\n3 2\nx +\n= 0\n(B) x2 + x \u2013 5 = 0\n(C) x2 + 3x + 2 2  = 0\n(D) 5x2 \u2013 3x + 1 = 0",
+      "answer": "b",
+      "hint": ""
     },
     {
       "qNo": 10,
@@ -236,28 +254,30 @@
       "options": [
         {
           "key": "a",
-          "text": "x2 – 4x + 3 2  = 0"
+          "text": "x2 \u2013 4x + 3 2  = 0"
         },
         {
           "key": "b",
-          "text": "x2 + 4x – 3 2  = 0"
+          "text": "x2 + 4x \u2013 3 2  = 0"
         },
         {
           "key": "c",
-          "text": "x2 – 4x – 3 2  = 0"
+          "text": "x2 \u2013 4x \u2013 3 2  = 0"
         },
         {
           "key": "d",
           "text": "3x2 + 4 3 x + 4 = 0\n03/05/18"
         }
       ],
-      "fullText": "Which of the following equations has no real roots?\n(A) x2 – 4x + 3 2  = 0\n(B) x2 + 4x – 3 2  = 0\n(C) x2 – 4x – 3 2  = 0\n(D) 3x2 + 4 3 x + 4 = 0\n03/05/18"
+      "fullText": "Which of the following equations has no real roots?\n(A) x2 \u2013 4x + 3 2  = 0\n(B) x2 + 4x \u2013 3 2  = 0\n(C) x2 \u2013 4x \u2013 3 2  = 0\n(D) 3x2 + 4 3 x + 4 = 0\n03/05/18",
+      "answer": "a",
+      "hint": ""
     },
     {
       "qNo": 11,
       "exercise": "EXERCISE 4.1",
       "type": "mcq",
-      "stem": "(x2 + 1)2 – x2 = 0 has",
+      "stem": "(x2 + 1)2 \u2013 x2 = 0 has",
       "options": [
         {
           "key": "a",
@@ -277,18 +297,20 @@
         },
         {
           "key": "c",
-          "text": "Short Answer Questions with Reasoning\nSample Question 1 : Does (x – 1)2 + 2(x + 1) = 0 have a real root? Justify your answer.\nSolution : No, since the equation is simplified to x2 + 3 = 0 whose discriminant is –12.\nSample Question 2 : Is the following statement ‘True’ or ‘False’?Justify your answer.\nIf in a quadratic equation the coefficient of x is zero, then the quadratic equation has no\nreal roots.\nSolution : False, since the discriminant in this case is – 4ac which can still be non-\nnegative if a and c are of opposite signs or if one of a or c is zero."
+          "text": "Short Answer Questions with Reasoning\nSample Question 1 : Does (x \u2013 1)2 + 2(x + 1) = 0 have a real root? Justify your answer.\nSolution : No, since the equation is simplified to x2 + 3 = 0 whose discriminant is \u201312.\nSample Question 2 : Is the following statement \u2018True\u2019 or \u2018False\u2019?Justify your answer.\nIf in a quadratic equation the coefficient of x is zero, then the quadratic equation has no\nreal roots.\nSolution : False, since the discriminant in this case is \u2013 4ac which can still be non-\nnegative if a and c are of opposite signs or if one of a or c is zero."
         }
       ],
-      "fullText": "(x2 + 1)2 – x2 = 0 has\n(A) four real roots\n(B) two real roots\n(C) no real roots\n(D) one real root.\n(C) Short Answer Questions with Reasoning\nSample Question 1 : Does (x – 1)2 + 2(x + 1) = 0 have a real root? Justify your answer.\nSolution : No, since the equation is simplified to x2 + 3 = 0 whose discriminant is –12.\nSample Question 2 : Is the following statement ‘True’ or ‘False’?Justify your answer.\nIf in a quadratic equation the coefficient of x is zero, then the quadratic equation has no\nreal roots.\nSolution : False, since the discriminant in this case is – 4ac which can still be non-\nnegative if a and c are of opposite signs or if one of a or c is zero."
+      "fullText": "(x2 + 1)2 \u2013 x2 = 0 has\n(A) four real roots\n(B) two real roots\n(C) no real roots\n(D) one real root.\n(C) Short Answer Questions with Reasoning\nSample Question 1 : Does (x \u2013 1)2 + 2(x + 1) = 0 have a real root? Justify your answer.\nSolution : No, since the equation is simplified to x2 + 3 = 0 whose discriminant is \u201312.\nSample Question 2 : Is the following statement \u2018True\u2019 or \u2018False\u2019?Justify your answer.\nIf in a quadratic equation the coefficient of x is zero, then the quadratic equation has no\nreal roots.\nSolution : False, since the discriminant in this case is \u2013 4ac which can still be non-\nnegative if a and c are of opposite signs or if one of a or c is zero.",
+      "answer": "c",
+      "hint": ""
     },
     {
       "qNo": 1,
       "exercise": "EXERCISE 4.2",
       "type": "short_answer",
-      "stem": "State whether the following quadratic equations have two distinct real roots.\nJustify your answer.\n(i)   x2 – 3x + 4 = 0\n(ii)\n2x2 + x – 1 = 0\n(iii)   2x2 – 6x + 9\n2  = 0                           (iv)\n3x2 – 4x + 1 = 0\n(v)   (x + 4)2 – 8x = 0                            (vi)\n(x –\n2 )2 – 2(x + 1) = 0\n(vii)\n–\nx\nx +\n=\n(viii)\nx (1 – x) – 2 = 0\n(ix)   (x – 1) (x + 2) + 2 = 0                     (x) (x + 1) (x – 2) + x = 0",
+      "stem": "State whether the following quadratic equations have two distinct real roots.\nJustify your answer.\n(i)   x2 \u2013 3x + 4 = 0\n(ii)\n2x2 + x \u2013 1 = 0\n(iii)   2x2 \u2013 6x + 9\n2  = 0                           (iv)\n3x2 \u2013 4x + 1 = 0\n(v)   (x + 4)2 \u2013 8x = 0                            (vi)\n(x \u2013\n2 )2 \u2013 2(x + 1) = 0\n(vii)\n\u2013\nx\nx +\n=\n(viii)\nx (1 \u2013 x) \u2013 2 = 0\n(ix)   (x \u2013 1) (x + 2) + 2 = 0                     (x) (x + 1) (x \u2013 2) + x = 0",
       "options": [],
-      "fullText": "State whether the following quadratic equations have two distinct real roots.\nJustify your answer.\n(i)   x2 – 3x + 4 = 0\n(ii)\n2x2 + x – 1 = 0\n(iii)   2x2 – 6x + 9\n2  = 0                           (iv)\n3x2 – 4x + 1 = 0\n(v)   (x + 4)2 – 8x = 0                            (vi)\n(x –\n2 )2 – 2(x + 1) = 0\n(vii)\n–\nx\nx +\n=\n(viii)\nx (1 – x) – 2 = 0\n(ix)   (x – 1) (x + 2) + 2 = 0                     (x) (x + 1) (x – 2) + x = 0"
+      "fullText": "State whether the following quadratic equations have two distinct real roots.\nJustify your answer.\n(i)   x2 \u2013 3x + 4 = 0\n(ii)\n2x2 + x \u2013 1 = 0\n(iii)   2x2 \u2013 6x + 9\n2  = 0                           (iv)\n3x2 \u2013 4x + 1 = 0\n(v)   (x + 4)2 \u2013 8x = 0                            (vi)\n(x \u2013\n2 )2 \u2013 2(x + 1) = 0\n(vii)\n\u2013\nx\nx +\n=\n(viii)\nx (1 \u2013 x) \u2013 2 = 0\n(ix)   (x \u2013 1) (x + 2) + 2 = 0                     (x) (x + 1) (x \u2013 2) + x = 0"
     },
     {
       "qNo": 2,
@@ -326,49 +348,49 @@
       "qNo": 6,
       "exercise": "EXERCISE 4.2",
       "type": "short_answer",
-      "stem": "Is 0.2 a root of the equation x2 – 0.4 = 0? Justify.",
+      "stem": "Is 0.2 a root of the equation x2 \u2013 0.4 = 0? Justify.",
       "options": [],
-      "fullText": "Is 0.2 a root of the equation x2 – 0.4 = 0? Justify."
+      "fullText": "Is 0.2 a root of the equation x2 \u2013 0.4 = 0? Justify."
     },
     {
       "qNo": 7,
       "exercise": "EXERCISE 4.2",
       "type": "short_answer",
-      "stem": "If  b = 0, c < 0, is it true that the roots of x2 + bx + c = 0 are numerically equal and\nopposite in sign? Justify.\n(D) Short Answer Questions\nSample Question 1 : Find the roots of the quadratic equation 2x2 – 5x  – 2 = 0 using\nthe quadratic formula.\nSolution : b2 – 4ac = 5 – 4 × 2 × (–2) = 21\nTherefore, the roots are\n±\n, i.e.,\n+\nand\n−\nSample Question 2 : Find the roots of 6x2–\n2x  – 2 = 0 by the factorisation of the\ncorresponding quadratic polynomial.\nSolution :\n6x2 –\n2x  – 2 =\n6x2 – 3 2 x + 2 2 x – 2\n=\n3x (2x–\n2 ) +\n2  (2x –\n2 )\n=\n(3x +\n2 ) (2x –\n2 )\nNow, 6x2 –\n2x  – 2 = 0 gives (3x +\n2 ) (2x –\n2 ) = 0,  i.e.,  3x +\n2 = 0 or\n2x –\n2 = 0\nSo, the roots are\n−\nand\n2 .\n03/05/18",
+      "stem": "If  b = 0, c < 0, is it true that the roots of x2 + bx + c = 0 are numerically equal and\nopposite in sign? Justify.\n(D) Short Answer Questions\nSample Question 1 : Find the roots of the quadratic equation 2x2 \u2013 5x  \u2013 2 = 0 using\nthe quadratic formula.\nSolution : b2 \u2013 4ac = 5 \u2013 4 \u00d7 2 \u00d7 (\u20132) = 21\nTherefore, the roots are\n\u00b1\n, i.e.,\n+\nand\n\u2212\nSample Question 2 : Find the roots of 6x2\u2013\n2x  \u2013 2 = 0 by the factorisation of the\ncorresponding quadratic polynomial.\nSolution :\n6x2 \u2013\n2x  \u2013 2 =\n6x2 \u2013 3 2 x + 2 2 x \u2013 2\n=\n3x (2x\u2013\n2 ) +\n2  (2x \u2013\n2 )\n=\n(3x +\n2 ) (2x \u2013\n2 )\nNow, 6x2 \u2013\n2x  \u2013 2 = 0 gives (3x +\n2 ) (2x \u2013\n2 ) = 0,  i.e.,  3x +\n2 = 0 or\n2x \u2013\n2 = 0\nSo, the roots are\n\u2212\nand\n2 .\n03/05/18",
       "options": [],
-      "fullText": "If  b = 0, c < 0, is it true that the roots of x2 + bx + c = 0 are numerically equal and\nopposite in sign? Justify.\n(D) Short Answer Questions\nSample Question 1 : Find the roots of the quadratic equation 2x2 – 5x  – 2 = 0 using\nthe quadratic formula.\nSolution : b2 – 4ac = 5 – 4 × 2 × (–2) = 21\nTherefore, the roots are\n±\n, i.e.,\n+\nand\n−\nSample Question 2 : Find the roots of 6x2–\n2x  – 2 = 0 by the factorisation of the\ncorresponding quadratic polynomial.\nSolution :\n6x2 –\n2x  – 2 =\n6x2 – 3 2 x + 2 2 x – 2\n=\n3x (2x–\n2 ) +\n2  (2x –\n2 )\n=\n(3x +\n2 ) (2x –\n2 )\nNow, 6x2 –\n2x  – 2 = 0 gives (3x +\n2 ) (2x –\n2 ) = 0,  i.e.,  3x +\n2 = 0 or\n2x –\n2 = 0\nSo, the roots are\n−\nand\n2 .\n03/05/18"
+      "fullText": "If  b = 0, c < 0, is it true that the roots of x2 + bx + c = 0 are numerically equal and\nopposite in sign? Justify.\n(D) Short Answer Questions\nSample Question 1 : Find the roots of the quadratic equation 2x2 \u2013 5x  \u2013 2 = 0 using\nthe quadratic formula.\nSolution : b2 \u2013 4ac = 5 \u2013 4 \u00d7 2 \u00d7 (\u20132) = 21\nTherefore, the roots are\n\u00b1\n, i.e.,\n+\nand\n\u2212\nSample Question 2 : Find the roots of 6x2\u2013\n2x  \u2013 2 = 0 by the factorisation of the\ncorresponding quadratic polynomial.\nSolution :\n6x2 \u2013\n2x  \u2013 2 =\n6x2 \u2013 3 2 x + 2 2 x \u2013 2\n=\n3x (2x\u2013\n2 ) +\n2  (2x \u2013\n2 )\n=\n(3x +\n2 ) (2x \u2013\n2 )\nNow, 6x2 \u2013\n2x  \u2013 2 = 0 gives (3x +\n2 ) (2x \u2013\n2 ) = 0,  i.e.,  3x +\n2 = 0 or\n2x \u2013\n2 = 0\nSo, the roots are\n\u2212\nand\n2 .\n03/05/18"
     },
     {
       "qNo": 1,
       "exercise": "EXERCISE 4.3",
       "type": "short_answer",
-      "stem": "Find the roots of the quadratic equations by using the quadratic formula in each of\nthe following:\n(i)     2x2 – 3x – 5 = 0\n(ii)  5x2 + 13x + 8 = 0\n(iii)   –3x2 + 5x + 12 = 0\n(iv)  –x2 + 7x – 10 = 0\n(v)   x2 + 2 2 x – 6 = 0\n(vi)  x2 – 3 5 x + 10 = 0\n(vii)\n2 x  – 11 x + 1 = 0",
+      "stem": "Find the roots of the quadratic equations by using the quadratic formula in each of\nthe following:\n(i)     2x2 \u2013 3x \u2013 5 = 0\n(ii)  5x2 + 13x + 8 = 0\n(iii)   \u20133x2 + 5x + 12 = 0\n(iv)  \u2013x2 + 7x \u2013 10 = 0\n(v)   x2 + 2 2 x \u2013 6 = 0\n(vi)  x2 \u2013 3 5 x + 10 = 0\n(vii)\n2 x  \u2013 11 x + 1 = 0",
       "options": [],
-      "fullText": "Find the roots of the quadratic equations by using the quadratic formula in each of\nthe following:\n(i)     2x2 – 3x – 5 = 0\n(ii)  5x2 + 13x + 8 = 0\n(iii)   –3x2 + 5x + 12 = 0\n(iv)  –x2 + 7x – 10 = 0\n(v)   x2 + 2 2 x – 6 = 0\n(vi)  x2 – 3 5 x + 10 = 0\n(vii)\n2 x  – 11 x + 1 = 0"
+      "fullText": "Find the roots of the quadratic equations by using the quadratic formula in each of\nthe following:\n(i)     2x2 \u2013 3x \u2013 5 = 0\n(ii)  5x2 + 13x + 8 = 0\n(iii)   \u20133x2 + 5x + 12 = 0\n(iv)  \u2013x2 + 7x \u2013 10 = 0\n(v)   x2 + 2 2 x \u2013 6 = 0\n(vi)  x2 \u2013 3 5 x + 10 = 0\n(vii)\n2 x  \u2013 11 x + 1 = 0"
     },
     {
       "qNo": 2,
       "exercise": "EXERCISE 4.3",
       "type": "short_answer",
-      "stem": "Find the roots of the following quadratic equations by the factorisation method:\n(i)   2x2 + 5\n3 x  – 2 = 0\n(ii)\n5 x  – x – 3\n5  = 0\n(iii)\n3 2x  – 5x –\n2   = 0\n(iv)  3x2 + 5 5x  – 10 = 0\n(v)  21x2 – 2x + 1\n21  = 0\n(E) Long Answer Questions\nSample Question 1 : Check whether the equation 6x2 – 7x + 2 = 0 has real roots, and\nif it has, find them by the method of completing the squares.\nSolution : The discriminant = b2 – 4ac = 49 – 4 × 6 × 2 = 1 > 0\nSo, the given equation has two distinct real roots.\nNow,\n6x2 – 7x + 2 = 0\ni.e.,\n36x2 – 42x + 12 = 0\ni.e.,\nx\n−\n+ 12 – 49\n4  = 0\ni.e.,\nx\n−\n–\n= 0  or\n6 – 2\nx\n\n\n\n\n=\n\n\n\n\n\n\n\n\n03/05/18\nThe roots are given by\nx −\n= ±\ni.e.,\n6x = 4, 3\ni.e.,\nx  = 2\n,\n2 .\nSample Question 2 : Had Ajita scored 10 more marks in her mathematics test out of\n30 marks, 9 times these marks would have been the square of her actual marks. How\nmany marks did she get in the test?\nSolution :\nLet her actual marks be x\nTherefore,\n9 (x +10) = x2\ni.e.,\nx2 – 9x – 90 = 0\ni.e.,\nx2 – 15x + 6x – 90 = 0\ni.e.,\nx(x – 15) + 6(x –15) = 0\ni.e.,\n(x + 6) (x –15) = 0\nTherefore,\nx = – 6    or    x =15\nSince x is the marks obtained, x ≠ – 6. Therefore, x = 15.\nSo, Ajita got 15 marks in her mathematics test.\nSample Question 3 : A train travels at a certain average speed for a distance of\n63 km and then travels a distance of 72 km at an average speed of 6 km/h more than\nits original speed. If it takes 3 hours to complete the total journey, what is its original\naverage speed?\nSolution : Let its original average speed be x km/h. Therefore,\nx\nx\n+\n=\n+\ni.e.,\nx\nx\n+\n=\n=\n+\ni.e.,\n(\n)\n7(\n6) 8\nx\nx\nx x\n+\n+\n=\n+\n03/05/18\ni.e.,\n21 (x + 6) + 24x = x (x + 6)\ni.e.,\n21x + 126 + 24x = x2 + 6x\ni.e.,\nx2  – 39x – 126 = 0\ni.e.,\n(x + 3) (x – 42)  = 0\ni.e.,\nx = – 3  or   x = 42\nSince x is the average speed of the train, x cannot be negative.\nTherefore, x = 42.\nSo, the original average speed of the train is 42 km/h.",
+      "stem": "Find the roots of the following quadratic equations by the factorisation method:\n(i)   2x2 + 5\n3 x  \u2013 2 = 0\n(ii)\n5 x  \u2013 x \u2013 3\n5  = 0\n(iii)\n3 2x  \u2013 5x \u2013\n2   = 0\n(iv)  3x2 + 5 5x  \u2013 10 = 0\n(v)  21x2 \u2013 2x + 1\n21  = 0\n(E) Long Answer Questions\nSample Question 1 : Check whether the equation 6x2 \u2013 7x + 2 = 0 has real roots, and\nif it has, find them by the method of completing the squares.\nSolution : The discriminant = b2 \u2013 4ac = 49 \u2013 4 \u00d7 6 \u00d7 2 = 1 > 0\nSo, the given equation has two distinct real roots.\nNow,\n6x2 \u2013 7x + 2 = 0\ni.e.,\n36x2 \u2013 42x + 12 = 0\ni.e.,\nx\n\u2212\n+ 12 \u2013 49\n4  = 0\ni.e.,\nx\n\u2212\n\u2013\n= 0  or\n6 \u2013 2\nx\n\uf001\n\uf002\n\uf001\n\uf002\n=\n\uf003\n\uf004\n\uf003\n\uf004\n\uf005\n\uf006\n\uf005\n\uf006\n03/05/18\nThe roots are given by\nx \u2212\n= \u00b1\ni.e.,\n6x = 4, 3\ni.e.,\nx  = 2\n,\n2 .\nSample Question 2 : Had Ajita scored 10 more marks in her mathematics test out of\n30 marks, 9 times these marks would have been the square of her actual marks. How\nmany marks did she get in the test?\nSolution :\nLet her actual marks be x\nTherefore,\n9 (x +10) = x2\ni.e.,\nx2 \u2013 9x \u2013 90 = 0\ni.e.,\nx2 \u2013 15x + 6x \u2013 90 = 0\ni.e.,\nx(x \u2013 15) + 6(x \u201315) = 0\ni.e.,\n(x + 6) (x \u201315) = 0\nTherefore,\nx = \u2013 6    or    x =15\nSince x is the marks obtained, x \u2260 \u2013 6. Therefore, x = 15.\nSo, Ajita got 15 marks in her mathematics test.\nSample Question 3 : A train travels at a certain average speed for a distance of\n63 km and then travels a distance of 72 km at an average speed of 6 km/h more than\nits original speed. If it takes 3 hours to complete the total journey, what is its original\naverage speed?\nSolution : Let its original average speed be x km/h. Therefore,\nx\nx\n+\n=\n+\ni.e.,\nx\nx\n+\n=\n=\n+\ni.e.,\n(\n)\n7(\n6) 8\nx\nx\nx x\n+\n+\n=\n+\n03/05/18\ni.e.,\n21 (x + 6) + 24x = x (x + 6)\ni.e.,\n21x + 126 + 24x = x2 + 6x\ni.e.,\nx2  \u2013 39x \u2013 126 = 0\ni.e.,\n(x + 3) (x \u2013 42)  = 0\ni.e.,\nx = \u2013 3  or   x = 42\nSince x is the average speed of the train, x cannot be negative.\nTherefore, x = 42.\nSo, the original average speed of the train is 42 km/h.",
       "options": [],
-      "fullText": "Find the roots of the following quadratic equations by the factorisation method:\n(i)   2x2 + 5\n3 x  – 2 = 0\n(ii)\n5 x  – x – 3\n5  = 0\n(iii)\n3 2x  – 5x –\n2   = 0\n(iv)  3x2 + 5 5x  – 10 = 0\n(v)  21x2 – 2x + 1\n21  = 0\n(E) Long Answer Questions\nSample Question 1 : Check whether the equation 6x2 – 7x + 2 = 0 has real roots, and\nif it has, find them by the method of completing the squares.\nSolution : The discriminant = b2 – 4ac = 49 – 4 × 6 × 2 = 1 > 0\nSo, the given equation has two distinct real roots.\nNow,\n6x2 – 7x + 2 = 0\ni.e.,\n36x2 – 42x + 12 = 0\ni.e.,\nx\n−\n+ 12 – 49\n4  = 0\ni.e.,\nx\n−\n–\n= 0  or\n6 – 2\nx\n\n\n\n\n=\n\n\n\n\n\n\n\n\n03/05/18\nThe roots are given by\nx −\n= ±\ni.e.,\n6x = 4, 3\ni.e.,\nx  = 2\n,\n2 .\nSample Question 2 : Had Ajita scored 10 more marks in her mathematics test out of\n30 marks, 9 times these marks would have been the square of her actual marks. How\nmany marks did she get in the test?\nSolution :\nLet her actual marks be x\nTherefore,\n9 (x +10) = x2\ni.e.,\nx2 – 9x – 90 = 0\ni.e.,\nx2 – 15x + 6x – 90 = 0\ni.e.,\nx(x – 15) + 6(x –15) = 0\ni.e.,\n(x + 6) (x –15) = 0\nTherefore,\nx = – 6    or    x =15\nSince x is the marks obtained, x ≠ – 6. Therefore, x = 15.\nSo, Ajita got 15 marks in her mathematics test.\nSample Question 3 : A train travels at a certain average speed for a distance of\n63 km and then travels a distance of 72 km at an average speed of 6 km/h more than\nits original speed. If it takes 3 hours to complete the total journey, what is its original\naverage speed?\nSolution : Let its original average speed be x km/h. Therefore,\nx\nx\n+\n=\n+\ni.e.,\nx\nx\n+\n=\n=\n+\ni.e.,\n(\n)\n7(\n6) 8\nx\nx\nx x\n+\n+\n=\n+\n03/05/18\ni.e.,\n21 (x + 6) + 24x = x (x + 6)\ni.e.,\n21x + 126 + 24x = x2 + 6x\ni.e.,\nx2  – 39x – 126 = 0\ni.e.,\n(x + 3) (x – 42)  = 0\ni.e.,\nx = – 3  or   x = 42\nSince x is the average speed of the train, x cannot be negative.\nTherefore, x = 42.\nSo, the original average speed of the train is 42 km/h."
+      "fullText": "Find the roots of the following quadratic equations by the factorisation method:\n(i)   2x2 + 5\n3 x  \u2013 2 = 0\n(ii)\n5 x  \u2013 x \u2013 3\n5  = 0\n(iii)\n3 2x  \u2013 5x \u2013\n2   = 0\n(iv)  3x2 + 5 5x  \u2013 10 = 0\n(v)  21x2 \u2013 2x + 1\n21  = 0\n(E) Long Answer Questions\nSample Question 1 : Check whether the equation 6x2 \u2013 7x + 2 = 0 has real roots, and\nif it has, find them by the method of completing the squares.\nSolution : The discriminant = b2 \u2013 4ac = 49 \u2013 4 \u00d7 6 \u00d7 2 = 1 > 0\nSo, the given equation has two distinct real roots.\nNow,\n6x2 \u2013 7x + 2 = 0\ni.e.,\n36x2 \u2013 42x + 12 = 0\ni.e.,\nx\n\u2212\n+ 12 \u2013 49\n4  = 0\ni.e.,\nx\n\u2212\n\u2013\n= 0  or\n6 \u2013 2\nx\n\uf001\n\uf002\n\uf001\n\uf002\n=\n\uf003\n\uf004\n\uf003\n\uf004\n\uf005\n\uf006\n\uf005\n\uf006\n03/05/18\nThe roots are given by\nx \u2212\n= \u00b1\ni.e.,\n6x = 4, 3\ni.e.,\nx  = 2\n,\n2 .\nSample Question 2 : Had Ajita scored 10 more marks in her mathematics test out of\n30 marks, 9 times these marks would have been the square of her actual marks. How\nmany marks did she get in the test?\nSolution :\nLet her actual marks be x\nTherefore,\n9 (x +10) = x2\ni.e.,\nx2 \u2013 9x \u2013 90 = 0\ni.e.,\nx2 \u2013 15x + 6x \u2013 90 = 0\ni.e.,\nx(x \u2013 15) + 6(x \u201315) = 0\ni.e.,\n(x + 6) (x \u201315) = 0\nTherefore,\nx = \u2013 6    or    x =15\nSince x is the marks obtained, x \u2260 \u2013 6. Therefore, x = 15.\nSo, Ajita got 15 marks in her mathematics test.\nSample Question 3 : A train travels at a certain average speed for a distance of\n63 km and then travels a distance of 72 km at an average speed of 6 km/h more than\nits original speed. If it takes 3 hours to complete the total journey, what is its original\naverage speed?\nSolution : Let its original average speed be x km/h. Therefore,\nx\nx\n+\n=\n+\ni.e.,\nx\nx\n+\n=\n=\n+\ni.e.,\n(\n)\n7(\n6) 8\nx\nx\nx x\n+\n+\n=\n+\n03/05/18\ni.e.,\n21 (x + 6) + 24x = x (x + 6)\ni.e.,\n21x + 126 + 24x = x2 + 6x\ni.e.,\nx2  \u2013 39x \u2013 126 = 0\ni.e.,\n(x + 3) (x \u2013 42)  = 0\ni.e.,\nx = \u2013 3  or   x = 42\nSince x is the average speed of the train, x cannot be negative.\nTherefore, x = 42.\nSo, the original average speed of the train is 42 km/h."
     },
     {
       "qNo": 1,
       "exercise": "EXERCISE 4.4",
       "type": "long_answer",
-      "stem": "Find whether the following equations have real roots. If real roots exist, find\nthem.\n(i)   8x2 + 2x – 3 = 0\n(ii)   –2x2 + 3x + 2 = 0\n(iii) 5x2 – 2x – 10 = 0\n(iv)\n1,\n,5\nx\nx\nx\n+\n=\n≠\n−\n−\n(v)  x2 + 5 5 x – 70 = 0\n2. Find a natural number whose square diminished by 84 is equal to thrice of 8 more\nthan the given number.\n3. A natural number, when increased by 12, equals 160 times its reciprocal. Find the\nnumber.\n4. A train, travelling at a uniform speed for 360 km, would have taken 48 minutes\nless to travel the same distance if its speed were 5 km/h more. Find the original\nspeed of the train.\n5. If  Zeba were younger by 5 years than what she really is, then the square of her\nage (in years) would have been 11  more than five times her actual age. What is\nher age now?\n6. At present Asha’s age (in years) is 2 more than the square of her daughter\nNisha’s age. When Nisha grows to her mother’s present age, Asha’s age would\nbe one year less than 10 times the present age of Nisha. Find the present ages of\nboth Asha and Nisha.\n03/05/18",
+      "stem": "Find whether the following equations have real roots. If real roots exist, find\nthem.\n(i)   8x2 + 2x \u2013 3 = 0\n(ii)   \u20132x2 + 3x + 2 = 0\n(iii) 5x2 \u2013 2x \u2013 10 = 0\n(iv)\n1,\n,5\nx\nx\nx\n+\n=\n\u2260\n\u2212\n\u2212\n(v)  x2 + 5 5 x \u2013 70 = 0\n2. Find a natural number whose square diminished by 84 is equal to thrice of 8 more\nthan the given number.\n3. A natural number, when increased by 12, equals 160 times its reciprocal. Find the\nnumber.\n4. A train, travelling at a uniform speed for 360 km, would have taken 48 minutes\nless to travel the same distance if its speed were 5 km/h more. Find the original\nspeed of the train.\n5. If  Zeba were younger by 5 years than what she really is, then the square of her\nage (in years) would have been 11  more than five times her actual age. What is\nher age now?\n6. At present Asha\u2019s age (in years) is 2 more than the square of her daughter\nNisha\u2019s age. When Nisha grows to her mother\u2019s present age, Asha\u2019s age would\nbe one year less than 10 times the present age of Nisha. Find the present ages of\nboth Asha and Nisha.\n03/05/18",
       "options": [],
-      "fullText": "Find whether the following equations have real roots. If real roots exist, find\nthem.\n(i)   8x2 + 2x – 3 = 0\n(ii)   –2x2 + 3x + 2 = 0\n(iii) 5x2 – 2x – 10 = 0\n(iv)\n1,\n,5\nx\nx\nx\n+\n=\n≠\n−\n−\n(v)  x2 + 5 5 x – 70 = 0\n2. Find a natural number whose square diminished by 84 is equal to thrice of 8 more\nthan the given number.\n3. A natural number, when increased by 12, equals 160 times its reciprocal. Find the\nnumber.\n4. A train, travelling at a uniform speed for 360 km, would have taken 48 minutes\nless to travel the same distance if its speed were 5 km/h more. Find the original\nspeed of the train.\n5. If  Zeba were younger by 5 years than what she really is, then the square of her\nage (in years) would have been 11  more than five times her actual age. What is\nher age now?\n6. At present Asha’s age (in years) is 2 more than the square of her daughter\nNisha’s age. When Nisha grows to her mother’s present age, Asha’s age would\nbe one year less than 10 times the present age of Nisha. Find the present ages of\nboth Asha and Nisha.\n03/05/18"
+      "fullText": "Find whether the following equations have real roots. If real roots exist, find\nthem.\n(i)   8x2 + 2x \u2013 3 = 0\n(ii)   \u20132x2 + 3x + 2 = 0\n(iii) 5x2 \u2013 2x \u2013 10 = 0\n(iv)\n1,\n,5\nx\nx\nx\n+\n=\n\u2260\n\u2212\n\u2212\n(v)  x2 + 5 5 x \u2013 70 = 0\n2. Find a natural number whose square diminished by 84 is equal to thrice of 8 more\nthan the given number.\n3. A natural number, when increased by 12, equals 160 times its reciprocal. Find the\nnumber.\n4. A train, travelling at a uniform speed for 360 km, would have taken 48 minutes\nless to travel the same distance if its speed were 5 km/h more. Find the original\nspeed of the train.\n5. If  Zeba were younger by 5 years than what she really is, then the square of her\nage (in years) would have been 11  more than five times her actual age. What is\nher age now?\n6. At present Asha\u2019s age (in years) is 2 more than the square of her daughter\nNisha\u2019s age. When Nisha grows to her mother\u2019s present age, Asha\u2019s age would\nbe one year less than 10 times the present age of Nisha. Find the present ages of\nboth Asha and Nisha.\n03/05/18"
     },
     {
       "qNo": 7,
       "exercise": "EXERCISE 4.4",
       "type": "long_answer",
-      "stem": "In the centre of  a rectangular lawn of dimensions 50 m × 40 m, a rectangular\npond has to be constructed so that the area of the grass surrounding the pond\nwould be 1184 m2 [see Fig. 4.1]. Find the length and breadth of the pond.",
+      "stem": "In the centre of  a rectangular lawn of dimensions 50 m \u00d7 40 m, a rectangular\npond has to be constructed so that the area of the grass surrounding the pond\nwould be 1184 m2 [see Fig. 4.1]. Find the length and breadth of the pond.",
       "options": [],
-      "fullText": "In the centre of  a rectangular lawn of dimensions 50 m × 40 m, a rectangular\npond has to be constructed so that the area of the grass surrounding the pond\nwould be 1184 m2 [see Fig. 4.1]. Find the length and breadth of the pond."
+      "fullText": "In the centre of  a rectangular lawn of dimensions 50 m \u00d7 40 m, a rectangular\npond has to be constructed so that the area of the grass surrounding the pond\nwould be 1184 m2 [see Fig. 4.1]. Find the length and breadth of the pond."
     },
     {
       "qNo": 8,

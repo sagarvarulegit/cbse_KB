@@ -7,7 +7,7 @@
       "qNo": 1,
       "exercise": "EXERCISE 10.1",
       "type": "mcq",
-      "stem": "To divide a line segment AB in the ratio 5:7, first a ray AX is drawn so that\n∠BAX is an acute angle and then at  equal distances points are marked on\nthe ray AX such that the minimum number of these points is",
+      "stem": "To divide a line segment AB in the ratio 5:7, first a ray AX is drawn so that\n\u2220BAX is an acute angle and then at  equal distances points are marked on\nthe ray AX such that the minimum number of these points is",
       "options": [
         {
           "key": "a",
@@ -26,13 +26,15 @@
           "text": "12"
         }
       ],
-      "fullText": "To divide a line segment AB in the ratio 5:7, first a ray AX is drawn so that\n∠BAX is an acute angle and then at  equal distances points are marked on\nthe ray AX such that the minimum number of these points is\n(A) 8\n(B) 10\n(C) 11\n(D) 12"
+      "fullText": "To divide a line segment AB in the ratio 5:7, first a ray AX is drawn so that\n\u2220BAX is an acute angle and then at  equal distances points are marked on\nthe ray AX such that the minimum number of these points is\n(A) 8\n(B) 10\n(C) 11\n(D) 12",
+      "answer": "d",
+      "hint": ""
     },
     {
       "qNo": 2,
       "exercise": "EXERCISE 10.1",
       "type": "mcq",
-      "stem": "To divide a line segment AB in the ratio 4:7, a ray AX is drawn first such that\n∠BAX is an acute angle and then points A1, A2, A3, .... are located at equal\ndistances on the ray AX and the point B is joined to",
+      "stem": "To divide a line segment AB in the ratio 4:7, a ray AX is drawn first such that\n\u2220BAX is an acute angle and then points A1, A2, A3, .... are located at equal\ndistances on the ray AX and the point B is joined to",
       "options": [
         {
           "key": "a",
@@ -51,13 +53,15 @@
           "text": "A9"
         }
       ],
-      "fullText": "To divide a line segment AB in the ratio 4:7, a ray AX is drawn first such that\n∠BAX is an acute angle and then points A1, A2, A3, .... are located at equal\ndistances on the ray AX and the point B is joined to\n(A) A12\n(B) A11\n(C) A10\n(D) A9"
+      "fullText": "To divide a line segment AB in the ratio 4:7, a ray AX is drawn first such that\n\u2220BAX is an acute angle and then points A1, A2, A3, .... are located at equal\ndistances on the ray AX and the point B is joined to\n(A) A12\n(B) A11\n(C) A10\n(D) A9",
+      "answer": "b",
+      "hint": ""
     },
     {
       "qNo": 3,
       "exercise": "EXERCISE 10.1",
       "type": "mcq",
-      "stem": "To divide a line segment AB in the ratio 5 : 6, draw a ray AX such that ∠BAX\nis an acute angle, then draw a ray BY parallel to AX and the points\nA1, A2, A3, ... and B1, B2, B3, ... are located at equal distances on ray\nAX and BY, respectively. Then the points joined are",
+      "stem": "To divide a line segment AB in the ratio 5 : 6, draw a ray AX such that \u2220BAX\nis an acute angle, then draw a ray BY parallel to AX and the points\nA1, A2, A3, ... and B1, B2, B3, ... are located at equal distances on ray\nAX and BY, respectively. Then the points joined are",
       "options": [
         {
           "key": "a",
@@ -76,13 +80,15 @@
           "text": "A5 and B4"
         }
       ],
-      "fullText": "To divide a line segment AB in the ratio 5 : 6, draw a ray AX such that ∠BAX\nis an acute angle, then draw a ray BY parallel to AX and the points\nA1, A2, A3, ... and B1, B2, B3, ... are located at equal distances on ray\nAX and BY, respectively. Then the points joined are\n(A) A5 and B6\n(B) A6 and B5\n(C) A4 and B5\n(D) A5 and B4"
+      "fullText": "To divide a line segment AB in the ratio 5 : 6, draw a ray AX such that \u2220BAX\nis an acute angle, then draw a ray BY parallel to AX and the points\nA1, A2, A3, ... and B1, B2, B3, ... are located at equal distances on ray\nAX and BY, respectively. Then the points joined are\n(A) A5 and B6\n(B) A6 and B5\n(C) A4 and B5\n(D) A5 and B4",
+      "answer": "a",
+      "hint": ""
     },
     {
       "qNo": 4,
       "exercise": "EXERCISE 10.1",
       "type": "mcq",
-      "stem": "To construct a triangle similar to a given ∆ABC with its sides 3\n7  of the\ncorresponding sides of ∆ABC, first draw a ray BX such that ∠CBX is an\nacute angle and X lies on the opposite side of A with respect to BC. Then\nlocate points B1, B2, B3, ... on BX at equal distances and next step is to join",
+      "stem": "To construct a triangle similar to a given \u2206ABC with its sides 3\n7  of the\ncorresponding sides of \u2206ABC, first draw a ray BX such that \u2220CBX is an\nacute angle and X lies on the opposite side of A with respect to BC. Then\nlocate points B1, B2, B3, ... on BX at equal distances and next step is to join",
       "options": [
         {
           "key": "a",
@@ -101,13 +107,15 @@
           "text": "B4 to C"
         }
       ],
-      "fullText": "To construct a triangle similar to a given ∆ABC with its sides 3\n7  of the\ncorresponding sides of ∆ABC, first draw a ray BX such that ∠CBX is an\nacute angle and X lies on the opposite side of A with respect to BC. Then\nlocate points B1, B2, B3, ... on BX at equal distances and next step is to join\n(A) B10 to C\n(B) B3 to C\n(C) B7 to C\n(D) B4 to C"
+      "fullText": "To construct a triangle similar to a given \u2206ABC with its sides 3\n7  of the\ncorresponding sides of \u2206ABC, first draw a ray BX such that \u2220CBX is an\nacute angle and X lies on the opposite side of A with respect to BC. Then\nlocate points B1, B2, B3, ... on BX at equal distances and next step is to join\n(A) B10 to C\n(B) B3 to C\n(C) B7 to C\n(D) B4 to C",
+      "answer": "c",
+      "hint": ""
     },
     {
       "qNo": 5,
       "exercise": "EXERCISE 10.1",
       "type": "mcq",
-      "stem": "To construct a triangle similar to a given ∆ABC with its sides 8\n5  of the\ncorresponding sides of ∆ABC draw a ray BX such that ∠CBX is an acute\nangle and X is on the opposite side of A with respect to BC. The minimum\nnumber of points to be located at equal distances on ray BX is",
+      "stem": "To construct a triangle similar to a given \u2206ABC with its sides 8\n5  of the\ncorresponding sides of \u2206ABC draw a ray BX such that \u2220CBX is an acute\nangle and X is on the opposite side of A with respect to BC. The minimum\nnumber of points to be located at equal distances on ray BX is",
       "options": [
         {
           "key": "a",
@@ -126,36 +134,40 @@
           "text": "3"
         }
       ],
-      "fullText": "To construct a triangle similar to a given ∆ABC with its sides 8\n5  of the\ncorresponding sides of ∆ABC draw a ray BX such that ∠CBX is an acute\nangle and X is on the opposite side of A with respect to BC. The minimum\nnumber of points to be located at equal distances on ray BX is\n(A) 5\n(B) 8\n(C) 13\n(D) 3"
+      "fullText": "To construct a triangle similar to a given \u2206ABC with its sides 8\n5  of the\ncorresponding sides of \u2206ABC draw a ray BX such that \u2220CBX is an acute\nangle and X is on the opposite side of A with respect to BC. The minimum\nnumber of points to be located at equal distances on ray BX is\n(A) 5\n(B) 8\n(C) 13\n(D) 3",
+      "answer": "b",
+      "hint": ""
     },
     {
       "qNo": 6,
       "exercise": "EXERCISE 10.1",
       "type": "mcq",
-      "stem": "To draw a pair of tangents to a circle which are inclined to each other at an\nangle of 60°, it is required to draw tangents at end points of those two radii of\nthe circle, the angle between them should be",
+      "stem": "To draw a pair of tangents to a circle which are inclined to each other at an\nangle of 60\u00b0, it is required to draw tangents at end points of those two radii of\nthe circle, the angle between them should be",
       "options": [
         {
           "key": "a",
-          "text": "135°"
+          "text": "135\u00b0"
         },
         {
           "key": "b",
-          "text": "90°"
+          "text": "90\u00b0"
         },
         {
           "key": "c",
-          "text": "60°"
+          "text": "60\u00b0"
         },
         {
           "key": "d",
-          "text": "120°\n03/05/18\nCONSTRUCTION"
+          "text": "120\u00b0\n03/05/18\nCONSTRUCTION"
         },
         {
           "key": "c",
-          "text": "Short Answer Questions with Reasoning\nWrite True or False and give reasons for your answer.\nSample Questions 1 : By geometrical construction, it is possible to divide a line\nsegment in the ratio 2\n3 : 2\n+\n−\n.\nSolution : False. As 2\n3 : 2\n+\n−\ncan be simplified as 7\n4 3 :1\n+\nand 7\n4 3\n+\nis\nnot a positive integer, while 1 is."
+          "text": "Short Answer Questions with Reasoning\nWrite True or False and give reasons for your answer.\nSample Questions 1 : By geometrical construction, it is possible to divide a line\nsegment in the ratio 2\n3 : 2\n+\n\u2212\n.\nSolution : False. As 2\n3 : 2\n+\n\u2212\ncan be simplified as 7\n4 3 :1\n+\nand 7\n4 3\n+\nis\nnot a positive integer, while 1 is."
         }
       ],
-      "fullText": "To draw a pair of tangents to a circle which are inclined to each other at an\nangle of 60°, it is required to draw tangents at end points of those two radii of\nthe circle, the angle between them should be\n(A) 135°\n(B) 90°\n(C) 60°\n(D) 120°\n03/05/18\nCONSTRUCTION\n(C) Short Answer Questions with Reasoning\nWrite True or False and give reasons for your answer.\nSample Questions 1 : By geometrical construction, it is possible to divide a line\nsegment in the ratio 2\n3 : 2\n+\n−\n.\nSolution : False. As 2\n3 : 2\n+\n−\ncan be simplified as 7\n4 3 :1\n+\nand 7\n4 3\n+\nis\nnot a positive integer, while 1 is."
+      "fullText": "To draw a pair of tangents to a circle which are inclined to each other at an\nangle of 60\u00b0, it is required to draw tangents at end points of those two radii of\nthe circle, the angle between them should be\n(A) 135\u00b0\n(B) 90\u00b0\n(C) 60\u00b0\n(D) 120\u00b0\n03/05/18\nCONSTRUCTION\n(C) Short Answer Questions with Reasoning\nWrite True or False and give reasons for your answer.\nSample Questions 1 : By geometrical construction, it is possible to divide a line\nsegment in the ratio 2\n3 : 2\n+\n\u2212\n.\nSolution : False. As 2\n3 : 2\n+\n\u2212\ncan be simplified as 7\n4 3 :1\n+\nand 7\n4 3\n+\nis\nnot a positive integer, while 1 is.",
+      "answer": "d",
+      "hint": ""
     },
     {
       "qNo": 1,
@@ -169,9 +181,9 @@
       "qNo": 2,
       "exercise": "EXERCISE 10.2",
       "type": "short_answer",
-      "stem": "To construct a triangle similar to a given ∆ABC with its sides 7\n3  of the\ncorresponding sides of ∆ABC, draw a ray BX making acute angle with BC\nand X lies on the opposite side of A with respect to BC. The points B1, B2, ....,\nB7 are located at equal distances on BX, B3 is joined to C and then a line\nsegment B6C' is drawn parallel to B3C where C' lies on BC produced. Finally,\nline segment A'C' is drawn parallel to AC.",
+      "stem": "To construct a triangle similar to a given \u2206ABC with its sides 7\n3  of the\ncorresponding sides of \u2206ABC, draw a ray BX making acute angle with BC\nand X lies on the opposite side of A with respect to BC. The points B1, B2, ....,\nB7 are located at equal distances on BX, B3 is joined to C and then a line\nsegment B6C' is drawn parallel to B3C where C' lies on BC produced. Finally,\nline segment A'C' is drawn parallel to AC.",
       "options": [],
-      "fullText": "To construct a triangle similar to a given ∆ABC with its sides 7\n3  of the\ncorresponding sides of ∆ABC, draw a ray BX making acute angle with BC\nand X lies on the opposite side of A with respect to BC. The points B1, B2, ....,\nB7 are located at equal distances on BX, B3 is joined to C and then a line\nsegment B6C' is drawn parallel to B3C where C' lies on BC produced. Finally,\nline segment A'C' is drawn parallel to AC."
+      "fullText": "To construct a triangle similar to a given \u2206ABC with its sides 7\n3  of the\ncorresponding sides of \u2206ABC, draw a ray BX making acute angle with BC\nand X lies on the opposite side of A with respect to BC. The points B1, B2, ....,\nB7 are located at equal distances on BX, B3 is joined to C and then a line\nsegment B6C' is drawn parallel to B3C where C' lies on BC produced. Finally,\nline segment A'C' is drawn parallel to AC."
     },
     {
       "qNo": 3,
@@ -185,9 +197,9 @@
       "qNo": 4,
       "exercise": "EXERCISE 10.2",
       "type": "short_answer",
-      "stem": "A pair of tangents can be constructed to a circle inclined at an angle of 170°.\n(D) Short Answer Questions\nSample Question 1 : Draw an equilateral triangle ABC of each side 4 cm. Construct\na triangle similar to it and of scale factor 3\n5 . Is the new triangle also an equilateral?\nSolution : Follow the similar steps as given in Mathematics Textbook for Class X. Yes,\nthe new triangle  is also equilateral.\n03/05/18",
+      "stem": "A pair of tangents can be constructed to a circle inclined at an angle of 170\u00b0.\n(D) Short Answer Questions\nSample Question 1 : Draw an equilateral triangle ABC of each side 4 cm. Construct\na triangle similar to it and of scale factor 3\n5 . Is the new triangle also an equilateral?\nSolution : Follow the similar steps as given in Mathematics Textbook for Class X. Yes,\nthe new triangle  is also equilateral.\n03/05/18",
       "options": [],
-      "fullText": "A pair of tangents can be constructed to a circle inclined at an angle of 170°.\n(D) Short Answer Questions\nSample Question 1 : Draw an equilateral triangle ABC of each side 4 cm. Construct\na triangle similar to it and of scale factor 3\n5 . Is the new triangle also an equilateral?\nSolution : Follow the similar steps as given in Mathematics Textbook for Class X. Yes,\nthe new triangle  is also equilateral.\n03/05/18"
+      "fullText": "A pair of tangents can be constructed to a circle inclined at an angle of 170\u00b0.\n(D) Short Answer Questions\nSample Question 1 : Draw an equilateral triangle ABC of each side 4 cm. Construct\na triangle similar to it and of scale factor 3\n5 . Is the new triangle also an equilateral?\nSolution : Follow the similar steps as given in Mathematics Textbook for Class X. Yes,\nthe new triangle  is also equilateral.\n03/05/18"
     },
     {
       "qNo": 1,
@@ -201,9 +213,9 @@
       "qNo": 2,
       "exercise": "EXERCISE 10.3",
       "type": "short_answer",
-      "stem": "Draw a right triangle ABC in which BC = 12 cm, AB = 5 cm and ∠B = 90°.\nConstruct a triangle similar to it and of scale factor 2\n. Is the new triangle\nalso a right triangle?",
+      "stem": "Draw a right triangle ABC in which BC = 12 cm, AB = 5 cm and \u2220B = 90\u00b0.\nConstruct a triangle similar to it and of scale factor 2\n. Is the new triangle\nalso a right triangle?",
       "options": [],
-      "fullText": "Draw a right triangle ABC in which BC = 12 cm, AB = 5 cm and ∠B = 90°.\nConstruct a triangle similar to it and of scale factor 2\n. Is the new triangle\nalso a right triangle?"
+      "fullText": "Draw a right triangle ABC in which BC = 12 cm, AB = 5 cm and \u2220B = 90\u00b0.\nConstruct a triangle similar to it and of scale factor 2\n. Is the new triangle\nalso a right triangle?"
     },
     {
       "qNo": 3,
@@ -217,25 +229,25 @@
       "qNo": 4,
       "exercise": "EXERCISE 10.3",
       "type": "short_answer",
-      "stem": "Construct a tangent to a circle of radius 4 cm from a point which is at a\ndistance of 6 cm from its centre.\n(E) Long Answer Questions\nSample Questions 1 : Given a rhombus ABCD in which AB = 4 cm and\n∠ABC = 60°, divide it into two triangles say, ABC and ADC. Construct the triangle\nAB'C' similar to ∆ABC with scale factor 2\n3 . Draw a line segment C'D' parallel to CD\nwhere D' lies on AD. Is AB'C'D'\na rhombus? Give reasons.\nSolution : First draw the\nrhombus ABCD in which\nAB = 4 cm and ∠ABC = 60° as\ngiven in Fig. 10.1 and join AC.\nConstruct the triangle AB'C'\nsimilar to ∆ABC with scale\nfactor 2\n3  as instructed in the\nX (See Fig. 10.1).\nFinally draw the line segment\nC'D'  parallel to CD.\n03/05/18\nCONSTRUCTION\nNow\nAB '\nA 'C '\n=\n=\nAB\nAC\nAlso\nAC\nC D\nAD\n=\n=\nAC\nCD\nAD\n'\n' '\n'\n=\nTherefore, AB' = B'C' = C'D' = AD' = 2\n3  AB.\ni.e., AB'C'D' is a rhombus.",
+      "stem": "Construct a tangent to a circle of radius 4 cm from a point which is at a\ndistance of 6 cm from its centre.\n(E) Long Answer Questions\nSample Questions 1 : Given a rhombus ABCD in which AB = 4 cm and\n\u2220ABC = 60\u00b0, divide it into two triangles say, ABC and ADC. Construct the triangle\nAB'C' similar to \u2206ABC with scale factor 2\n3 . Draw a line segment C'D' parallel to CD\nwhere D' lies on AD. Is AB'C'D'\na rhombus? Give reasons.\nSolution : First draw the\nrhombus ABCD in which\nAB = 4 cm and \u2220ABC = 60\u00b0 as\ngiven in Fig. 10.1 and join AC.\nConstruct the triangle AB'C'\nsimilar to \u2206ABC with scale\nfactor 2\n3  as instructed in the\nX (See Fig. 10.1).\nFinally draw the line segment\nC'D'  parallel to CD.\n03/05/18\nCONSTRUCTION\nNow\nAB '\nA 'C '\n=\n=\nAB\nAC\nAlso\nAC\nC D\nAD\n=\n=\nAC\nCD\nAD\n'\n' '\n'\n=\nTherefore, AB' = B'C' = C'D' = AD' = 2\n3  AB.\ni.e., AB'C'D' is a rhombus.",
       "options": [],
-      "fullText": "Construct a tangent to a circle of radius 4 cm from a point which is at a\ndistance of 6 cm from its centre.\n(E) Long Answer Questions\nSample Questions 1 : Given a rhombus ABCD in which AB = 4 cm and\n∠ABC = 60°, divide it into two triangles say, ABC and ADC. Construct the triangle\nAB'C' similar to ∆ABC with scale factor 2\n3 . Draw a line segment C'D' parallel to CD\nwhere D' lies on AD. Is AB'C'D'\na rhombus? Give reasons.\nSolution : First draw the\nrhombus ABCD in which\nAB = 4 cm and ∠ABC = 60° as\ngiven in Fig. 10.1 and join AC.\nConstruct the triangle AB'C'\nsimilar to ∆ABC with scale\nfactor 2\n3  as instructed in the\nX (See Fig. 10.1).\nFinally draw the line segment\nC'D'  parallel to CD.\n03/05/18\nCONSTRUCTION\nNow\nAB '\nA 'C '\n=\n=\nAB\nAC\nAlso\nAC\nC D\nAD\n=\n=\nAC\nCD\nAD\n'\n' '\n'\n=\nTherefore, AB' = B'C' = C'D' = AD' = 2\n3  AB.\ni.e., AB'C'D' is a rhombus."
+      "fullText": "Construct a tangent to a circle of radius 4 cm from a point which is at a\ndistance of 6 cm from its centre.\n(E) Long Answer Questions\nSample Questions 1 : Given a rhombus ABCD in which AB = 4 cm and\n\u2220ABC = 60\u00b0, divide it into two triangles say, ABC and ADC. Construct the triangle\nAB'C' similar to \u2206ABC with scale factor 2\n3 . Draw a line segment C'D' parallel to CD\nwhere D' lies on AD. Is AB'C'D'\na rhombus? Give reasons.\nSolution : First draw the\nrhombus ABCD in which\nAB = 4 cm and \u2220ABC = 60\u00b0 as\ngiven in Fig. 10.1 and join AC.\nConstruct the triangle AB'C'\nsimilar to \u2206ABC with scale\nfactor 2\n3  as instructed in the\nX (See Fig. 10.1).\nFinally draw the line segment\nC'D'  parallel to CD.\n03/05/18\nCONSTRUCTION\nNow\nAB '\nA 'C '\n=\n=\nAB\nAC\nAlso\nAC\nC D\nAD\n=\n=\nAC\nCD\nAD\n'\n' '\n'\n=\nTherefore, AB' = B'C' = C'D' = AD' = 2\n3  AB.\ni.e., AB'C'D' is a rhombus."
     },
     {
       "qNo": 1,
       "exercise": "EXERCISE 10.4",
       "type": "long_answer",
-      "stem": "Two line segments AB and AC include an angle of 60° where AB = 5 cm and\nAC = 7 cm. Locate points P and Q on AB and AC, respectively such that\nAP = 3\n4 AB and AQ = 1\n4 AC. Join P and Q and measure the length PQ.",
+      "stem": "Two line segments AB and AC include an angle of 60\u00b0 where AB = 5 cm and\nAC = 7 cm. Locate points P and Q on AB and AC, respectively such that\nAP = 3\n4 AB and AQ = 1\n4 AC. Join P and Q and measure the length PQ.",
       "options": [],
-      "fullText": "Two line segments AB and AC include an angle of 60° where AB = 5 cm and\nAC = 7 cm. Locate points P and Q on AB and AC, respectively such that\nAP = 3\n4 AB and AQ = 1\n4 AC. Join P and Q and measure the length PQ."
+      "fullText": "Two line segments AB and AC include an angle of 60\u00b0 where AB = 5 cm and\nAC = 7 cm. Locate points P and Q on AB and AC, respectively such that\nAP = 3\n4 AB and AQ = 1\n4 AC. Join P and Q and measure the length PQ."
     },
     {
       "qNo": 2,
       "exercise": "EXERCISE 10.4",
       "type": "long_answer",
-      "stem": "Draw a parallelogram ABCD in which BC = 5 cm, AB = 3 cm and\n∠ABC = 60°, divide it into triangles BCD and ABD by the diagonal BD.\nConstruct the triangle BD' C' similar to ∆BDC with scale factor 4\n. Draw the\nline segment D'A' parallel to DA where A' lies on extended side BA. Is A'BC'D'\na parallelogram?",
+      "stem": "Draw a parallelogram ABCD in which BC = 5 cm, AB = 3 cm and\n\u2220ABC = 60\u00b0, divide it into triangles BCD and ABD by the diagonal BD.\nConstruct the triangle BD' C' similar to \u2206BDC with scale factor 4\n. Draw the\nline segment D'A' parallel to DA where A' lies on extended side BA. Is A'BC'D'\na parallelogram?",
       "options": [],
-      "fullText": "Draw a parallelogram ABCD in which BC = 5 cm, AB = 3 cm and\n∠ABC = 60°, divide it into triangles BCD and ABD by the diagonal BD.\nConstruct the triangle BD' C' similar to ∆BDC with scale factor 4\n. Draw the\nline segment D'A' parallel to DA where A' lies on extended side BA. Is A'BC'D'\na parallelogram?"
+      "fullText": "Draw a parallelogram ABCD in which BC = 5 cm, AB = 3 cm and\n\u2220ABC = 60\u00b0, divide it into triangles BCD and ABD by the diagonal BD.\nConstruct the triangle BD' C' similar to \u2206BDC with scale factor 4\n. Draw the\nline segment D'A' parallel to DA where A' lies on extended side BA. Is A'BC'D'\na parallelogram?"
     },
     {
       "qNo": 3,
@@ -249,33 +261,33 @@
       "qNo": 4,
       "exercise": "EXERCISE 10.4",
       "type": "long_answer",
-      "stem": "Draw an isosceles triangle ABC in which AB = AC = 6 cm and BC = 5 cm.\nConstruct a triangle PQR similar to\nABC\n∆\nin which PQ = 8 cm. Also justify the\nconstruction.",
+      "stem": "Draw an isosceles triangle ABC in which AB = AC = 6 cm and BC = 5 cm.\nConstruct a triangle PQR similar to\nABC\n\u2206\nin which PQ = 8 cm. Also justify the\nconstruction.",
       "options": [],
-      "fullText": "Draw an isosceles triangle ABC in which AB = AC = 6 cm and BC = 5 cm.\nConstruct a triangle PQR similar to\nABC\n∆\nin which PQ = 8 cm. Also justify the\nconstruction."
+      "fullText": "Draw an isosceles triangle ABC in which AB = AC = 6 cm and BC = 5 cm.\nConstruct a triangle PQR similar to\nABC\n\u2206\nin which PQ = 8 cm. Also justify the\nconstruction."
     },
     {
       "qNo": 5,
       "exercise": "EXERCISE 10.4",
       "type": "long_answer",
-      "stem": "Draw a triangle ABC in which AB = 5 cm, BC = 6 cm and\nABC=60º\n∠\n.\nConstruct a triangle similar to\nABC\n∆\nwith scale factor 5\n. Justify the\nconstruction.\n03/05/18",
+      "stem": "Draw a triangle ABC in which AB = 5 cm, BC = 6 cm and\nABC=60\u00ba\n\u2220\n.\nConstruct a triangle similar to\nABC\n\u2206\nwith scale factor 5\n. Justify the\nconstruction.\n03/05/18",
       "options": [],
-      "fullText": "Draw a triangle ABC in which AB = 5 cm, BC = 6 cm and\nABC=60º\n∠\n.\nConstruct a triangle similar to\nABC\n∆\nwith scale factor 5\n. Justify the\nconstruction.\n03/05/18"
+      "fullText": "Draw a triangle ABC in which AB = 5 cm, BC = 6 cm and\nABC=60\u00ba\n\u2220\n.\nConstruct a triangle similar to\nABC\n\u2206\nwith scale factor 5\n. Justify the\nconstruction.\n03/05/18"
     },
     {
       "qNo": 6,
       "exercise": "EXERCISE 10.4",
       "type": "long_answer",
-      "stem": "Draw a circle of radius 4 cm. Construct a pair of tangents to it, the angle\nbetween which is 60º. Also justify the construction. Measure the distance be-\ntween the centre of the circle and the point of intersection of tangents.",
+      "stem": "Draw a circle of radius 4 cm. Construct a pair of tangents to it, the angle\nbetween which is 60\u00ba. Also justify the construction. Measure the distance be-\ntween the centre of the circle and the point of intersection of tangents.",
       "options": [],
-      "fullText": "Draw a circle of radius 4 cm. Construct a pair of tangents to it, the angle\nbetween which is 60º. Also justify the construction. Measure the distance be-\ntween the centre of the circle and the point of intersection of tangents."
+      "fullText": "Draw a circle of radius 4 cm. Construct a pair of tangents to it, the angle\nbetween which is 60\u00ba. Also justify the construction. Measure the distance be-\ntween the centre of the circle and the point of intersection of tangents."
     },
     {
       "qNo": 7,
       "exercise": "EXERCISE 10.4",
       "type": "long_answer",
-      "stem": "Draw a triangle ABC in which AB = 4 cm, BC = 6 cm and AC = 9 cm. Construct\na triangle similar to ∆ABC with scale factor 3\n2 . Justify the construction. Are\nthe two triangles congruent? Note that all the three angles and two sides of the\ntwo triangles are equal.\n03/05/18",
+      "stem": "Draw a triangle ABC in which AB = 4 cm, BC = 6 cm and AC = 9 cm. Construct\na triangle similar to \u2206ABC with scale factor 3\n2 . Justify the construction. Are\nthe two triangles congruent? Note that all the three angles and two sides of the\ntwo triangles are equal.\n03/05/18",
       "options": [],
-      "fullText": "Draw a triangle ABC in which AB = 4 cm, BC = 6 cm and AC = 9 cm. Construct\na triangle similar to ∆ABC with scale factor 3\n2 . Justify the construction. Are\nthe two triangles congruent? Note that all the three angles and two sides of the\ntwo triangles are equal.\n03/05/18"
+      "fullText": "Draw a triangle ABC in which AB = 4 cm, BC = 6 cm and AC = 9 cm. Construct\na triangle similar to \u2206ABC with scale factor 3\n2 . Justify the construction. Are\nthe two triangles congruent? Note that all the three angles and two sides of the\ntwo triangles are equal.\n03/05/18"
     }
   ]
 }

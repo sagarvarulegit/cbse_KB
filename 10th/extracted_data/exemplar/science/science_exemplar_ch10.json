@@ -19,14 +19,16 @@
         },
         {
           "key": "c",
-          "text": "Two plane mirrors placed at 90° to each other"
+          "text": "Two plane mirrors placed at 90\u00b0 to each other"
         },
         {
           "key": "d",
           "text": "Concave mirror as well as concave lens"
         }
       ],
-      "fullText": "Which of the following can make a parallel beam of light when\n(a) Concave mirror as well as convex lens\n(b) Convex mirror as well as concave lens\n(c) Two plane mirrors placed at 90° to each other\n(d) Concave mirror as well as concave lens"
+      "fullText": "Which of the following can make a parallel beam of light when\n(a) Concave mirror as well as convex lens\n(b) Convex mirror as well as concave lens\n(c) Two plane mirrors placed at 90\u00b0 to each other\n(d) Concave mirror as well as concave lens",
+      "answer": "a",
+      "hint": ""
     },
     {
       "qNo": 2,
@@ -36,22 +38,24 @@
       "options": [
         {
           "key": "a",
-          "text": "– 30 cm"
+          "text": "\u2013 30 cm"
         },
         {
           "key": "b",
-          "text": "– 20 cm"
+          "text": "\u2013 20 cm"
         },
         {
           "key": "c",
-          "text": "– 40 cm"
+          "text": "\u2013 40 cm"
         },
         {
           "key": "d",
-          "text": "– 60 cm"
+          "text": "\u2013 60 cm"
         }
       ],
-      "fullText": "A 10 mm long awl pin is placed vertically in front of a concave\nmirror. A 5 mm long image of the awl pin is formed at 30 cm in\nfront of the mirror. The focal length of this mirror is\n(a) – 30 cm\n(b) – 20 cm\n(c) – 40 cm\n(d) – 60 cm"
+      "fullText": "A 10 mm long awl pin is placed vertically in front of a concave\nmirror. A 5 mm long image of the awl pin is formed at 30 cm in\nfront of the mirror. The focal length of this mirror is\n(a) \u2013 30 cm\n(b) \u2013 20 cm\n(c) \u2013 40 cm\n(d) \u2013 60 cm",
+      "answer": "b",
+      "hint": ""
     },
     {
       "qNo": 3,
@@ -76,7 +80,9 @@
           "text": "When object is kept at a distance greater than its radius of\ncurvature"
         }
       ],
-      "fullText": "Under which of the following conditions a concave mirror can form\nan image  larger than the actual object?\n(a) When the object is kept at a distance equal to its radius of\ncurvature\n(b) When object is kept at a distance less than its focal length\n(c) When object is placed between the focus and centre of curvature\n(d) When object is kept at a distance greater than its radius of\ncurvature"
+      "fullText": "Under which of the following conditions a concave mirror can form\nan image  larger than the actual object?\n(a) When the object is kept at a distance equal to its radius of\ncurvature\n(b) When object is kept at a distance less than its focal length\n(c) When object is placed between the focus and centre of curvature\n(d) When object is kept at a distance greater than its radius of\ncurvature",
+      "answer": "c",
+      "hint": ""
     },
     {
       "qNo": 4,
@@ -98,10 +104,12 @@
         },
         {
           "key": "d",
-          "text": ".KIJV Ō 4GHNGEVKQP CPF\n4GHTCEVKQP\n%*#26'4\nFig. 10.1\nFig. 10.2"
+          "text": ".KIJV \u014c 4GHNGEVKQP CPF\n4GHTCEVKQP\n%*#26'4\nFig. 10.1\nFig. 10.2"
         }
       ],
-      "fullText": "Figure 10.1 shows a ray of light as it travels from\nmedium A to medium B. Refractive index of the\nmedium B relative to medium A is\n(a)\n3 / 2\n(b)\n2 / 3\n(c) 1/ 2\n(d)\n.KIJV Ō 4GHNGEVKQP CPF\n4GHTCEVKQP\n%*#26'4\nFig. 10.1\nFig. 10.2"
+      "fullText": "Figure 10.1 shows a ray of light as it travels from\nmedium A to medium B. Refractive index of the\nmedium B relative to medium A is\n(a)\n3 / 2\n(b)\n2 / 3\n(c) 1/ 2\n(d)\n.KIJV \u014c 4GHNGEVKQP CPF\n4GHTCEVKQP\n%*#26'4\nFig. 10.1\nFig. 10.2",
+      "answer": "a",
+      "hint": ""
     },
     {
       "qNo": 5,
@@ -126,7 +134,9 @@
           "text": "zero"
         }
       ],
-      "fullText": "A light ray enters from medium A to medium\nB as shown in Figure 10.2. The refractive\nindex of medium B relative to A will be\n(a) greater than unity\n(b) less than unity\n(c) equal to unity\n(d) zero"
+      "fullText": "A light ray enters from medium A to medium\nB as shown in Figure 10.2. The refractive\nindex of medium B relative to A will be\n(a) greater than unity\n(b) less than unity\n(c) equal to unity\n(d) zero",
+      "answer": "a",
+      "hint": ""
     },
     {
       "qNo": 6,
@@ -151,7 +161,9 @@
           "text": "A prism"
         }
       ],
-      "fullText": "Beams of light are incident through the holes\nA and B and emerge out of box through the\nholes C and D respectively as shown in the\nFigure10.3. Which of the following could be\ninside the box?\n(a)\nA rectangular glass slab\n(b)\nA convex lens\n(c)\nA concave lens\n(d)\nA prism"
+      "fullText": "Beams of light are incident through the holes\nA and B and emerge out of box through the\nholes C and D respectively as shown in the\nFigure10.3. Which of the following could be\ninside the box?\n(a)\nA rectangular glass slab\n(b)\nA convex lens\n(c)\nA concave lens\n(d)\nA prism",
+      "answer": "a",
+      "hint": ""
     },
     {
       "qNo": 7,
@@ -176,7 +188,9 @@
           "text": "Convex lens"
         }
       ],
-      "fullText": "A beam of light is incident\nthrough the holes on side A and\nemerges out of the holes on the\nother face of the box as shown in\nthe Figure 10.4. Which of the\nfollowing could be inside the box?\n(a) Concave lens\n(b) Rectangular glass slab\n(c) Prism\n(d) Convex lens"
+      "fullText": "A beam of light is incident\nthrough the holes on side A and\nemerges out of the holes on the\nother face of the box as shown in\nthe Figure 10.4. Which of the\nfollowing could be inside the box?\n(a) Concave lens\n(b) Rectangular glass slab\n(c) Prism\n(d) Convex lens",
+      "answer": "d",
+      "hint": ""
     },
     {
       "qNo": 8,
@@ -190,7 +204,7 @@
         },
         {
           "key": "b",
-          "text": "A convex lens has –4 dioptre power having a focal length 0.25 m"
+          "text": "A convex lens has \u20134 dioptre power having a focal length 0.25 m"
         },
         {
           "key": "c",
@@ -198,10 +212,12 @@
         },
         {
           "key": "d",
-          "text": "A concave lens has –4 dioptre power having a focal length 0.25 m\nFig. 10.3\nFig. 10.4"
+          "text": "A concave lens has \u20134 dioptre power having a focal length 0.25 m\nFig. 10.3\nFig. 10.4"
         }
       ],
-      "fullText": "Which of the following statements is true?\n(a) A convex lens has  4 dioptre power having a focal length 0.25 m\n(b) A convex lens has –4 dioptre power having a focal length 0.25 m\n(c) A concave lens has 4 dioptre power having a focal length 0.25 m\n(d) A concave lens has –4 dioptre power having a focal length 0.25 m\nFig. 10.3\nFig. 10.4"
+      "fullText": "Which of the following statements is true?\n(a) A convex lens has  4 dioptre power having a focal length 0.25 m\n(b) A convex lens has \u20134 dioptre power having a focal length 0.25 m\n(c) A concave lens has 4 dioptre power having a focal length 0.25 m\n(d) A concave lens has \u20134 dioptre power having a focal length 0.25 m\nFig. 10.3\nFig. 10.4",
+      "answer": "a",
+      "hint": ""
     },
     {
       "qNo": 9,
@@ -226,7 +242,9 @@
           "text": "can be more than or less than one depending upon the position\nof the object in front of it"
         }
       ],
-      "fullText": "Magnification produced by a rear view mirror fitted in vehicles\n(a) is less than one\n(b) is more than one\n(c) is equal to one\n(d) can be more than or less than one depending upon the position\nof the object in front of it"
+      "fullText": "Magnification produced by a rear view mirror fitted in vehicles\n(a) is less than one\n(b) is more than one\n(c) is equal to one\n(d) can be more than or less than one depending upon the position\nof the object in front of it",
+      "answer": "a",
+      "hint": ""
     },
     {
       "qNo": 10,
@@ -251,7 +269,9 @@
           "text": "more than 30 cm in front of the mirror"
         }
       ],
-      "fullText": "Rays from Sun converge at a point 15 cm in front of a concave\nmirror. Where should an object be placed so that size of its image\nis equal to the size of the object?\n(a) 15 cm in front of the mirror\n(b) 30 cm in front of the mirror\n(c) between 15 cm and 30 cm in front of the mirror\n(d) more than 30 cm in front of the mirror"
+      "fullText": "Rays from Sun converge at a point 15 cm in front of a concave\nmirror. Where should an object be placed so that size of its image\nis equal to the size of the object?\n(a) 15 cm in front of the mirror\n(b) 30 cm in front of the mirror\n(c) between 15 cm and 30 cm in front of the mirror\n(d) more than 30 cm in front of the mirror",
+      "answer": "b",
+      "hint": ""
     },
     {
       "qNo": 11,
@@ -276,7 +296,9 @@
           "text": "both concave as well as plane mirror"
         }
       ],
-      "fullText": "A full length image of a distant tall building can definitely be\nseen by using\n(a) a concave mirror\n(b) a convex mirror\n(c) a plane mirror\n(d) both concave as well as plane mirror"
+      "fullText": "A full length image of a distant tall building can definitely be\nseen by using\n(a) a concave mirror\n(b) a convex mirror\n(c) a plane mirror\n(d) both concave as well as plane mirror",
+      "answer": "b",
+      "hint": ""
     },
     {
       "qNo": 12,
@@ -301,7 +323,9 @@
           "text": "at the centre of curvature of the reflector"
         }
       ],
-      "fullText": "In torches, search lights and headlights of vehicles the bulb is\nplaced\n(a) between the pole and the focus of the reflector\n(b) very near to the focus of the reflector\n(c) between the focus and centre of curvature of the reflector\n(d) at the centre of curvature of the reflector"
+      "fullText": "In torches, search lights and headlights of vehicles the bulb is\nplaced\n(a) between the pole and the focus of the reflector\n(b) very near to the focus of the reflector\n(c) between the focus and centre of curvature of the reflector\n(d) at the centre of curvature of the reflector",
+      "answer": "b",
+      "hint": ""
     },
     {
       "qNo": 13,
@@ -326,7 +350,9 @@
           "text": "all mirrors irrespective of their shape\nFig. 10.5"
         }
       ],
-      "fullText": "The laws of reflection hold good for\n(a) plane mirror only\n(b) concave mirror only\n(c) convex mirror only\n(d) all mirrors irrespective of their shape\nFig. 10.5"
+      "fullText": "The laws of reflection hold good for\n(a) plane mirror only\n(b) concave mirror only\n(c) convex mirror only\n(d) all mirrors irrespective of their shape\nFig. 10.5",
+      "answer": "d",
+      "hint": ""
     },
     {
       "qNo": 14,
@@ -351,7 +377,9 @@
           "text": "D\nFig. A\nFig. B\nFig. C\nFig. D\nFig. B\nFig. D"
         }
       ],
-      "fullText": "The path of a ray of light coming from air\npassing through a rectangular glass slab\ntraced by four students are shown as A,\nB, C and D in Figure 10.5. Which one of\nthem is correct?\n(a) A\n(b) B\n(c) C\n(d) D\nFig. A\nFig. B\nFig. C\nFig. D\nFig. B\nFig. D"
+      "fullText": "The path of a ray of light coming from air\npassing through a rectangular glass slab\ntraced by four students are shown as A,\nB, C and D in Figure 10.5. Which one of\nthem is correct?\n(a) A\n(b) B\n(c) C\n(d) D\nFig. A\nFig. B\nFig. C\nFig. D\nFig. B\nFig. D",
+      "answer": "b",
+      "hint": ""
     },
     {
       "qNo": 15,
@@ -376,7 +404,9 @@
           "text": "Glycerine"
         }
       ],
-      "fullText": "You are given water, mustard oil, glycerine and kerosene. In which\nof these media a ray of light incident obliquely at same angle would\nbend the most?\n(a) Kerosene\n(b) Water\n(c) Mustard oil\n(d) Glycerine"
+      "fullText": "You are given water, mustard oil, glycerine and kerosene. In which\nof these media a ray of light incident obliquely at same angle would\nbend the most?\n(a) Kerosene\n(b) Water\n(c) Mustard oil\n(d) Glycerine",
+      "answer": "d",
+      "hint": ""
     },
     {
       "qNo": 16,
@@ -401,7 +431,9 @@
           "text": "Fig. D"
         }
       ],
-      "fullText": "Which of the following ray diagrams is correct for the ray of light\nincident on a concave mirror as shown in Figure 10.6?\n(a) Fig. A\n(b) Fig. B\n(c) Fig. C\n(d) Fig. D"
+      "fullText": "Which of the following ray diagrams is correct for the ray of light\nincident on a concave mirror as shown in Figure 10.6?\n(a) Fig. A\n(b) Fig. B\n(c) Fig. C\n(d) Fig. D",
+      "answer": "d",
+      "hint": ""
     },
     {
       "qNo": 17,
@@ -426,7 +458,9 @@
           "text": "Fig. D.\nFig. 10.6"
         }
       ],
-      "fullText": "Which of the following ray diagrams is correct for the ray of light\nincident on a lens shown in Fig. 10.7?\nFig. 10.7\nFig. A\nFig. C\n(a) Fig. A.\n(b) Fig. B.\n(c) Fig. C.\n(d) Fig. D.\nFig. 10.6"
+      "fullText": "Which of the following ray diagrams is correct for the ray of light\nincident on a lens shown in Fig. 10.7?\nFig. 10.7\nFig. A\nFig. C\n(a) Fig. A.\n(b) Fig. B.\n(c) Fig. C.\n(d) Fig. D.\nFig. 10.6",
+      "answer": "a",
+      "hint": ""
     },
     {
       "qNo": 18,
@@ -451,7 +485,9 @@
           "text": "Convex, plane and concave"
         }
       ],
-      "fullText": "A child is standing in front of a magic mirror. She finds the image\nof her head bigger, the middle portion of her body  of the same size\nand that of the legs smaller. The following is the order of\ncombinations for the magic mirror from the top.\n(a) Plane, convex and concave\n(b) Convex, concave and plane\n(c) Concave, plane and convex\n(d) Convex, plane and concave"
+      "fullText": "A child is standing in front of a magic mirror. She finds the image\nof her head bigger, the middle portion of her body  of the same size\nand that of the legs smaller. The following is the order of\ncombinations for the magic mirror from the top.\n(a) Plane, convex and concave\n(b) Convex, concave and plane\n(c) Concave, plane and convex\n(d) Convex, plane and concave",
+      "answer": "c",
+      "hint": ""
     },
     {
       "qNo": 19,
@@ -476,7 +512,9 @@
           "text": "Concave mirror, convex mirror, concave lens and convex lens"
         }
       ],
-      "fullText": "In which of the following, the image of an object placed at infinity\nwill be highly diminished and point sized?\n(a) Concave mirror only\n(b) Convex mirror only\n(c) Convex lens only\n(d) Concave mirror, convex mirror, concave lens and convex lens"
+      "fullText": "In which of the following, the image of an object placed at infinity\nwill be highly diminished and point sized?\n(a) Concave mirror only\n(b) Convex mirror only\n(c) Convex lens only\n(d) Concave mirror, convex mirror, concave lens and convex lens",
+      "answer": "d",
+      "hint": ""
     },
     {
       "qNo": 20,
@@ -618,9 +656,9 @@
       "qNo": 37,
       "section": "Long Answer Questions",
       "type": "long_answer",
-      "stem": "Define power of a lens. What is its unit? One student uses a lens of\nfocal length 50 cm and another of –50 cm. What is the nature of\nthe lens and its power used by each of them?",
+      "stem": "Define power of a lens. What is its unit? One student uses a lens of\nfocal length 50 cm and another of \u201350 cm. What is the nature of\nthe lens and its power used by each of them?",
       "options": [],
-      "fullText": "Define power of a lens. What is its unit? One student uses a lens of\nfocal length 50 cm and another of –50 cm. What is the nature of\nthe lens and its power used by each of them?"
+      "fullText": "Define power of a lens. What is its unit? One student uses a lens of\nfocal length 50 cm and another of \u201350 cm. What is the nature of\nthe lens and its power used by each of them?"
     },
     {
       "qNo": 38,

@@ -26,7 +26,9 @@
           "text": "Air"
         }
       ],
-      "fullText": "From the list given below pick the item that is not a natural resource\n(a) Soil\n(b) Water\n(c) Electricity\n(d) Air"
+      "fullText": "From the list given below pick the item that is not a natural resource\n(a) Soil\n(b) Water\n(c) Electricity\n(d) Air",
+      "answer": "c",
+      "hint": ""
     },
     {
       "qNo": 2,
@@ -51,7 +53,9 @@
           "text": "sunlight"
         }
       ],
-      "fullText": "The most rapidly dwindling natural resource in the world is\n(a) water\n(b) forests\n(c) wind\n(d) sunlight"
+      "fullText": "The most rapidly dwindling natural resource in the world is\n(a) water\n(b) forests\n(c) wind\n(d) sunlight",
+      "answer": "b",
+      "hint": ""
     },
     {
       "qNo": 3,
@@ -76,7 +80,9 @@
           "text": "available only in the forest"
         }
       ],
-      "fullText": "The most appropriate definition of a natural resource is that it is\na substance/commodity that is\n(a) present only on land\n(b) a gift of nature which is very useful to mankind\n(c) a man-made substance placed in nature\n(d) available only in the forest"
+      "fullText": "The most appropriate definition of a natural resource is that it is\na substance/commodity that is\n(a) present only on land\n(b) a gift of nature which is very useful to mankind\n(c) a man-made substance placed in nature\n(d) available only in the forest",
+      "answer": "b",
+      "hint": ""
     },
     {
       "qNo": 4,
@@ -101,13 +107,15 @@
           "text": "immersion of ashes"
         }
       ],
-      "fullText": "The main cause for abundant coliform bacteria in the river Ganga is\n(a) disposal of unburnt corpses into water\n(b) discharge of effluents from electroplating industries\n(c) washing of clothes\n(d) immersion of ashes"
+      "fullText": "The main cause for abundant coliform bacteria in the river Ganga is\n(a) disposal of unburnt corpses into water\n(b) discharge of effluents from electroplating industries\n(c) washing of clothes\n(d) immersion of ashes",
+      "answer": "a",
+      "hint": ""
     },
     {
       "qNo": 5,
       "section": "Multiple Choice Questions",
       "type": "mcq",
-      "stem": "The pH of water sample collected from a river was found to be\nacidic in the range of 3.5 – 4.5, on the banks of the river were\nseveral factories that were discharging effluents into the river.\nThe effluents of which one of the following factories is the most\nlikely cause for lowering the pH of river water?",
+      "stem": "The pH of water sample collected from a river was found to be\nacidic in the range of 3.5 \u2013 4.5, on the banks of the river were\nseveral factories that were discharging effluents into the river.\nThe effluents of which one of the following factories is the most\nlikely cause for lowering the pH of river water?",
       "options": [
         {
           "key": "a",
@@ -126,7 +134,9 @@
           "text": "Alcohol distillery\n/CPCIGOGPV QH\n0CVWTCN 4GUQWTEGU\n%*#26'4"
         }
       ],
-      "fullText": "The pH of water sample collected from a river was found to be\nacidic in the range of 3.5 – 4.5, on the banks of the river were\nseveral factories that were discharging effluents into the river.\nThe effluents of which one of the following factories is the most\nlikely cause for lowering the pH of river water?\n(a) Soap and detergent factory\n(b) Lead battery manufacturing factory\n(c) Plastic cup manufacturing factory\n(d) Alcohol distillery\n/CPCIGOGPV QH\n0CVWTCN 4GUQWTEGU\n%*#26'4"
+      "fullText": "The pH of water sample collected from a river was found to be\nacidic in the range of 3.5 \u2013 4.5, on the banks of the river were\nseveral factories that were discharging effluents into the river.\nThe effluents of which one of the following factories is the most\nlikely cause for lowering the pH of river water?\n(a) Soap and detergent factory\n(b) Lead battery manufacturing factory\n(c) Plastic cup manufacturing factory\n(d) Alcohol distillery\n/CPCIGOGPV QH\n0CVWTCN 4GUQWTEGU\n%*#26'4",
+      "answer": "b",
+      "hint": ""
     },
     {
       "qNo": 6,
@@ -136,28 +146,30 @@
       "options": [
         {
           "key": "a",
-          "text": "6.5 – 7.5"
+          "text": "6.5 \u2013 7.5"
         },
         {
           "key": "b",
-          "text": "2.0 – 3.5"
+          "text": "2.0 \u2013 3.5"
         },
         {
           "key": "c",
-          "text": "3.5 – 5.0"
+          "text": "3.5 \u2013 5.0"
         },
         {
           "key": "d",
-          "text": "9.0 – 10.5"
+          "text": "9.0 \u2013 10.5"
         }
       ],
-      "fullText": "The pH range most conducive for life of fresh water plants and\nanimals is\n(a) 6.5 – 7.5\n(b) 2.0 – 3.5\n(c) 3.5 – 5.0\n(d) 9.0 – 10.5"
+      "fullText": "The pH range most conducive for life of fresh water plants and\nanimals is\n(a) 6.5 \u2013 7.5\n(b) 2.0 \u2013 3.5\n(c) 3.5 \u2013 5.0\n(d) 9.0 \u2013 10.5",
+      "answer": "a",
+      "hint": ""
     },
     {
       "qNo": 7,
       "section": "Multiple Choice Questions",
       "type": "mcq",
-      "stem": "The three R’s that will help us to conserve natural resources for\nlong term use are",
+      "stem": "The three R\u2019s that will help us to conserve natural resources for\nlong term use are",
       "options": [
         {
           "key": "a",
@@ -176,7 +188,9 @@
           "text": "reduce, recycle, reuse"
         }
       ],
-      "fullText": "The three R’s that will help us to conserve natural resources for\nlong term use are\n(a) recycle, regenerate, reuse\n(b) reduce, regenerate, reuse\n(c) reduce, reuse, redistribute\n(d) reduce, recycle, reuse"
+      "fullText": "The three R\u2019s that will help us to conserve natural resources for\nlong term use are\n(a) recycle, regenerate, reuse\n(b) reduce, regenerate, reuse\n(c) reduce, reuse, redistribute\n(d) reduce, recycle, reuse",
+      "answer": "d",
+      "hint": ""
     },
     {
       "qNo": 8,
@@ -201,7 +215,9 @@
           "text": "(ii) and (iii)"
         }
       ],
-      "fullText": "Given below are a few statements related to biodiversity. Pick\nthose that correctly describe the concept of biodiversity\n(i) Biodiversity refers to the different species of flora and fauna\npresent in an area\n(ii) Biodiversity refers to only the flora of a given area\n(iii) Biodiversity is greater in a forest\n(iv) Biodiversity refers to the total number of individuals of a\nparticular species living in an area\n(a) (i) and (ii)\n(b) (ii) and (iv)\n(c) (i) and (iii)\n(d) (ii) and (iii)"
+      "fullText": "Given below are a few statements related to biodiversity. Pick\nthose that correctly describe the concept of biodiversity\n(i) Biodiversity refers to the different species of flora and fauna\npresent in an area\n(ii) Biodiversity refers to only the flora of a given area\n(iii) Biodiversity is greater in a forest\n(iv) Biodiversity refers to the total number of individuals of a\nparticular species living in an area\n(a) (i) and (ii)\n(b) (ii) and (iv)\n(c) (i) and (iii)\n(d) (ii) and (iii)",
+      "answer": "c",
+      "hint": ""
     },
     {
       "qNo": 9,
@@ -226,7 +242,9 @@
           "text": "(iii) only"
         }
       ],
-      "fullText": "Among the statements given below select the ones that correctly\ndescribe the concept of sustainable development\n(i) Planned growth with minimum damage to the environment\n(ii) Growth irrespective of the extent of damage caused to the\nenvironment\n(iii) Stopping all developmental work to conserve the environment\n(iv) Growth that is acceptable to all the stakeholders\n(a) (i) and (iv)\n(b) (ii) and (iii)\n(c) (ii) and (iv)\n(d) (iii) only"
+      "fullText": "Among the statements given below select the ones that correctly\ndescribe the concept of sustainable development\n(i) Planned growth with minimum damage to the environment\n(ii) Growth irrespective of the extent of damage caused to the\nenvironment\n(iii) Stopping all developmental work to conserve the environment\n(iv) Growth that is acceptable to all the stakeholders\n(a) (i) and (iv)\n(b) (ii) and (iii)\n(c) (ii) and (iv)\n(d) (iii) only",
+      "answer": "a",
+      "hint": ""
     },
     {
       "qNo": 10,
@@ -251,7 +269,9 @@
           "text": "preserves the natural ecosystem in the area"
         }
       ],
-      "fullText": "In our country, vast tracts of forests are cleared and a single\nspecies of plant is cultivated. This practice promotes\n(a) biodiversity in the area\n(b) monoculture in the area\n(c) growth of natural forest\n(d) preserves the natural ecosystem in the area"
+      "fullText": "In our country, vast tracts of forests are cleared and a single\nspecies of plant is cultivated. This practice promotes\n(a) biodiversity in the area\n(b) monoculture in the area\n(c) growth of natural forest\n(d) preserves the natural ecosystem in the area",
+      "answer": "b",
+      "hint": ""
     },
     {
       "qNo": 11,
@@ -276,13 +296,15 @@
           "text": "comprehensive programme to protect all the physical and\nbiological components"
         }
       ],
-      "fullText": "A successful forest conservation strategy should involve\n(a) protection of animals at the highest trophic level\n(b) protection of only consumers\n(c) protection of only herbivores\n(d) comprehensive programme to protect all the physical and\nbiological components"
+      "fullText": "A successful forest conservation strategy should involve\n(a) protection of animals at the highest trophic level\n(b) protection of only consumers\n(c) protection of only herbivores\n(d) comprehensive programme to protect all the physical and\nbiological components",
+      "answer": "d",
+      "hint": ""
     },
     {
       "qNo": 12,
       "section": "Multiple Choice Questions",
       "type": "mcq",
-      "stem": "The important message conveyed by the ‘Chipko Movement’ is",
+      "stem": "The important message conveyed by the \u2018Chipko Movement\u2019 is",
       "options": [
         {
           "key": "a",
@@ -301,7 +323,9 @@
           "text": "government agencies have the unquestionable right to order\ndestruction of trees in forests"
         }
       ],
-      "fullText": "The important message conveyed by the ‘Chipko Movement’ is\n(a) to involve the community in forest conservation efforts\n(b) to ignore the community in forest conservation efforts\n(c) to cut down forest trees for developmental activities\n(d) government agencies have the unquestionable right to order\ndestruction of trees in forests"
+      "fullText": "The important message conveyed by the \u2018Chipko Movement\u2019 is\n(a) to involve the community in forest conservation efforts\n(b) to ignore the community in forest conservation efforts\n(c) to cut down forest trees for developmental activities\n(d) government agencies have the unquestionable right to order\ndestruction of trees in forests",
+      "answer": "a",
+      "hint": ""
     },
     {
       "qNo": 13,
@@ -326,7 +350,9 @@
           "text": "(i), (iii) and (iv)"
         }
       ],
-      "fullText": "In our country, there are attempts to increase the height of several\nexisting dams like Tehri and Almati, dams across Narmada.\nChoose the correct statements among the following that are a\nconsequence of raising the height of dams\n(i) Terrestrial flora and fauna of the area is destroyed completely\n(ii) Dislocation of people and domestic animals living in the area\n(iii) Valuable agricultural land may be permanently lost\n(iv) It will generate permanent employment for people\n(a) (i) and (ii)\n(b) (i), (ii) and (iii)\n(c) (ii) and (iv)\n(d) (i), (iii) and (iv)"
+      "fullText": "In our country, there are attempts to increase the height of several\nexisting dams like Tehri and Almati, dams across Narmada.\nChoose the correct statements among the following that are a\nconsequence of raising the height of dams\n(i) Terrestrial flora and fauna of the area is destroyed completely\n(ii) Dislocation of people and domestic animals living in the area\n(iii) Valuable agricultural land may be permanently lost\n(iv) It will generate permanent employment for people\n(a) (i) and (ii)\n(b) (i), (ii) and (iii)\n(c) (ii) and (iv)\n(d) (i), (iii) and (iv)",
+      "answer": "b",
+      "hint": ""
     },
     {
       "qNo": 14,
@@ -351,7 +377,9 @@
           "text": "Governmental Agency for Animal Protection"
         }
       ],
-      "fullText": "Expand the abbreviation GAP\n(a) Governmental Agency for Pollution Control\n(b) Gross Assimilation by Photosynthesis\n(c) Ganga Action Plan\n(d) Governmental Agency for Animal Protection"
+      "fullText": "Expand the abbreviation GAP\n(a) Governmental Agency for Pollution Control\n(b) Gross Assimilation by Photosynthesis\n(c) Ganga Action Plan\n(d) Governmental Agency for Animal Protection",
+      "answer": "c",
+      "hint": ""
     },
     {
       "qNo": 15,
@@ -376,7 +404,9 @@
           "text": "Sustainable development is a long planned and persistent\ndevelopment"
         }
       ],
-      "fullText": "Select the incorrect statement\n(a) Economic development is linked to environmental conservation\n(b) Sustainable development encourages development for current\ngeneration and conservation of resources for future generations\n(c) Sustainable development does not consider the view points\nof stakeholders\n(d) Sustainable development is a long planned and persistent\ndevelopment"
+      "fullText": "Select the incorrect statement\n(a) Economic development is linked to environmental conservation\n(b) Sustainable development encourages development for current\ngeneration and conservation of resources for future generations\n(c) Sustainable development does not consider the view points\nof stakeholders\n(d) Sustainable development is a long planned and persistent\ndevelopment",
+      "answer": "c",
+      "hint": ""
     },
     {
       "qNo": 16,
@@ -401,7 +431,9 @@
           "text": "Wooden house"
         }
       ],
-      "fullText": "Which of the following is not a natural resource?\n(a) Mango tree\n(b) Snake\n(c) Wind\n(d) Wooden house"
+      "fullText": "Which of the following is not a natural resource?\n(a) Mango tree\n(b) Snake\n(c) Wind\n(d) Wooden house",
+      "answer": "d",
+      "hint": ""
     },
     {
       "qNo": 17,
@@ -426,7 +458,9 @@
           "text": "Forests conserve water"
         }
       ],
-      "fullText": "Select the wrong statement\n(a) Forests provide variety of products\n(b) Forests have greater plant diversity\n(c) Forests do not conserve soil\n(d) Forests conserve water"
+      "fullText": "Select the wrong statement\n(a) Forests provide variety of products\n(b) Forests have greater plant diversity\n(c) Forests do not conserve soil\n(d) Forests conserve water",
+      "answer": "c",
+      "hint": ""
     },
     {
       "qNo": 18,
@@ -451,7 +485,9 @@
           "text": "Mangroove"
         }
       ],
-      "fullText": "Arabari forests of Bengal is dominated by\n(a) Teak\n(b) Sal\n(c) Bamboo\n(d) Mangroove"
+      "fullText": "Arabari forests of Bengal is dominated by\n(a) Teak\n(b) Sal\n(c) Bamboo\n(d) Mangroove",
+      "answer": "b",
+      "hint": ""
     },
     {
       "qNo": 19,
@@ -476,7 +512,9 @@
           "text": "cropping of high water demanding crops"
         }
       ],
-      "fullText": "Ground water will not be depleted due to\n(a) afforestation\n(b) thermal power plants\n(c) loss of forest, and decreased rainfall\n(d) cropping of high water demanding crops"
+      "fullText": "Ground water will not be depleted due to\n(a) afforestation\n(b) thermal power plants\n(c) loss of forest, and decreased rainfall\n(d) cropping of high water demanding crops",
+      "answer": "a",
+      "hint": ""
     },
     {
       "qNo": 20,
@@ -501,7 +539,9 @@
           "text": "all the above"
         }
       ],
-      "fullText": "Opposition to the constrution of large dams is due to\n(a) social reasons\n(b) economic reasons\n(c) enviromental reasons\n(d) all the above"
+      "fullText": "Opposition to the constrution of large dams is due to\n(a) social reasons\n(b) economic reasons\n(c) enviromental reasons\n(d) all the above",
+      "answer": "d",
+      "hint": ""
     },
     {
       "qNo": 21,
@@ -526,7 +566,9 @@
           "text": "soil conservation"
         }
       ],
-      "fullText": "Khadins, Bundhis, Ahars and Kattas are ancient structures that\nare examples for\n(a) grain storage\n(b) wood storage\n(c) water harvesting\n(d) soil conservation"
+      "fullText": "Khadins, Bundhis, Ahars and Kattas are ancient structures that\nare examples for\n(a) grain storage\n(b) wood storage\n(c) water harvesting\n(d) soil conservation",
+      "answer": "c",
+      "hint": ""
     },
     {
       "qNo": 22,
@@ -551,7 +593,9 @@
           "text": "Petroleum, wood, sun"
         }
       ],
-      "fullText": "Pick the right combination of terms which has no fossil fuel.\n(a) Wind, ocean and coal\n(b) Kerosene, wind and tide\n(c) Wind, wood, sun\n(d) Petroleum, wood, sun"
+      "fullText": "Pick the right combination of terms which has no fossil fuel.\n(a) Wind, ocean and coal\n(b) Kerosene, wind and tide\n(c) Wind, wood, sun\n(d) Petroleum, wood, sun",
+      "answer": "c",
+      "hint": ""
     },
     {
       "qNo": 23,
@@ -576,7 +620,9 @@
           "text": "Using windmills to generate power for irrigation"
         }
       ],
-      "fullText": "Select the eco-friendly activity among the following\n(a) Using car for transportation\n(b) Using polybags for shopping\n(c) Using dyes for colouring clothes\n(d) Using windmills to generate power for irrigation"
+      "fullText": "Select the eco-friendly activity among the following\n(a) Using car for transportation\n(b) Using polybags for shopping\n(c) Using dyes for colouring clothes\n(d) Using windmills to generate power for irrigation",
+      "answer": "d",
+      "hint": ""
     },
     {
       "qNo": 24,
@@ -601,7 +647,9 @@
           "text": "(ii) and (iv)"
         }
       ],
-      "fullText": "It is important to make small check dams across the flooded\ngullies because they\n(i) hold water for irrigation\n(ii) hold water and prevent soil erosion\n(iii) recharge ground water\n(iv) hold water permanently\n(a) (i) and (iv)\n(b) (ii) and (iii)\n(c) (iii) and (iv)\n(d) (ii) and (iv)"
+      "fullText": "It is important to make small check dams across the flooded\ngullies because they\n(i) hold water for irrigation\n(ii) hold water and prevent soil erosion\n(iii) recharge ground water\n(iv) hold water permanently\n(a) (i) and (iv)\n(b) (ii) and (iii)\n(c) (iii) and (iv)\n(d) (ii) and (iv)",
+      "answer": "b",
+      "hint": ""
     },
     {
       "qNo": 25,

@@ -26,7 +26,9 @@
           "text": "the same in all the cases"
         }
       ],
-      "fullText": "A cell, a resistor, a key and ammeter are arranged as shown in\nthe circuit diagrams of Figure12.1. The current recorded in the\nammeter will be\n(a) maximum in (i)\n(b) maximum in (ii)\n(c) maximum in (iii)\n(d) the same in all the cases"
+      "fullText": "A cell, a resistor, a key and ammeter are arranged as shown in\nthe circuit diagrams of Figure12.1. The current recorded in the\nammeter will be\n(a) maximum in (i)\n(b) maximum in (ii)\n(c) maximum in (iii)\n(d) the same in all the cases",
+      "answer": "d",
+      "hint": ""
     },
     {
       "qNo": 2,
@@ -51,7 +53,9 @@
           "text": "maximum in case (iii)"
         }
       ],
-      "fullText": "In the following circuits (Figure 12.2), heat produced in the resistor\nor combination of resistors connected to a 12 V battery will be\nFig. 12.1\n'NGEVTKEKV[\n%*#26'4\nFig. 12.2\n(a) same in all the cases\n(b) minimum in case (i)\n(c) maximum in case (ii)\n(d) maximum in case (iii)"
+      "fullText": "In the following circuits (Figure 12.2), heat produced in the resistor\nor combination of resistors connected to a 12 V battery will be\nFig. 12.1\n'NGEVTKEKV[\n%*#26'4\nFig. 12.2\n(a) same in all the cases\n(b) minimum in case (i)\n(c) maximum in case (ii)\n(d) maximum in case (iii)",
+      "answer": "a",
+      "hint": ""
     },
     {
       "qNo": 3,
@@ -76,7 +80,9 @@
           "text": "nature of the material"
         }
       ],
-      "fullText": "Electrical resistivity of a given metallic wire depends upon\n(a) its length\n(b) its thickness\n(c) its shape\n(d) nature of the material"
+      "fullText": "Electrical resistivity of a given metallic wire depends upon\n(a) its length\n(b) its thickness\n(c) its shape\n(d) nature of the material",
+      "answer": "d",
+      "hint": ""
     },
     {
       "qNo": 4,
@@ -101,7 +107,9 @@
           "text": "10"
         }
       ],
-      "fullText": "A current of 1 A is drawn by a filament of an electric bulb. Number\nof electrons passing through a cross section of the filament in 16\nseconds would be roughly\n(a) 10\n(b) 10\n(c) 10\n(d) 10"
+      "fullText": "A current of 1 A is drawn by a filament of an electric bulb. Number\nof electrons passing through a cross section of the filament in 16\nseconds would be roughly\n(a) 10\n(b) 10\n(c) 10\n(d) 10",
+      "answer": "a",
+      "hint": ""
     },
     {
       "qNo": 5,
@@ -126,57 +134,63 @@
           "text": "(iv)"
         }
       ],
-      "fullText": "Identify the circuit (Figure 12.3) in which the electrical components\nhave been properly connected.\nFig. 12.3\n(a) (i)\n(b) (ii)\n(c) (iii)\n(d) (iv)"
+      "fullText": "Identify the circuit (Figure 12.3) in which the electrical components\nhave been properly connected.\nFig. 12.3\n(a) (i)\n(b) (ii)\n(c) (iii)\n(d) (iv)",
+      "answer": "b",
+      "hint": ""
     },
     {
       "qNo": 6,
       "section": "Multiple Choice Questions",
       "type": "mcq",
-      "stem": "What is the maximum resistance which can be made using five\nresistors each of 1/5 Ω?",
+      "stem": "What is the maximum resistance which can be made using five\nresistors each of 1/5 \u03a9?",
       "options": [
         {
           "key": "a",
-          "text": "1/5 Ω"
+          "text": "1/5 \u03a9"
         },
         {
           "key": "b",
-          "text": "10 Ω"
+          "text": "10 \u03a9"
         },
         {
           "key": "c",
-          "text": "5 Ω"
+          "text": "5 \u03a9"
         },
         {
           "key": "d",
-          "text": "1 Ω"
+          "text": "1 \u03a9"
         }
       ],
-      "fullText": "What is the maximum resistance which can be made using five\nresistors each of 1/5 Ω?\n(a) 1/5 Ω\n(b) 10 Ω\n(c) 5 Ω\n(d) 1 Ω"
+      "fullText": "What is the maximum resistance which can be made using five\nresistors each of 1/5 \u03a9?\n(a) 1/5 \u03a9\n(b) 10 \u03a9\n(c) 5 \u03a9\n(d) 1 \u03a9",
+      "answer": "d",
+      "hint": ""
     },
     {
       "qNo": 7,
       "section": "Multiple Choice Questions",
       "type": "mcq",
-      "stem": "What is the minimum resistance which can be made using five\nresistors each of 1/5 Ω?",
+      "stem": "What is the minimum resistance which can be made using five\nresistors each of 1/5 \u03a9?",
       "options": [
         {
           "key": "a",
-          "text": "1/5 Ω"
+          "text": "1/5 \u03a9"
         },
         {
           "key": "b",
-          "text": "1/25 Ω"
+          "text": "1/25 \u03a9"
         },
         {
           "key": "c",
-          "text": "1/10 Ω"
+          "text": "1/10 \u03a9"
         },
         {
           "key": "d",
-          "text": "25 Ω"
+          "text": "25 \u03a9"
         }
       ],
-      "fullText": "What is the minimum resistance which can be made using five\nresistors each of 1/5 Ω?\n(a) 1/5 Ω\n(b) 1/25 Ω\n(c) 1/10 Ω\n(d) 25 Ω"
+      "fullText": "What is the minimum resistance which can be made using five\nresistors each of 1/5 \u03a9?\n(a) 1/5 \u03a9\n(b) 1/25 \u03a9\n(c) 1/10 \u03a9\n(d) 25 \u03a9",
+      "answer": "b",
+      "hint": ""
     },
     {
       "qNo": 8,
@@ -201,7 +215,9 @@
           "text": "(iv)"
         }
       ],
-      "fullText": "The proper representation of series combination of cells (Figure\n12.4) obtaining maximum potential is\n(a) (i)\n(b) (ii)\n(c) (iii)\n(d) (iv)"
+      "fullText": "The proper representation of series combination of cells (Figure\n12.4) obtaining maximum potential is\n(a) (i)\n(b) (ii)\n(c) (iii)\n(d) (iv)",
+      "answer": "a",
+      "hint": ""
     },
     {
       "qNo": 9,
@@ -211,22 +227,24 @@
       "options": [
         {
           "key": "a",
-          "text": "Work done\nCurrent × Time"
+          "text": "Work done\nCurrent \u00d7 Time"
         },
         {
           "key": "b",
-          "text": "Work done × Charge"
+          "text": "Work done \u00d7 Charge"
         },
         {
           "key": "c",
-          "text": "Work done × Time\nCurrent"
+          "text": "Work done \u00d7 Time\nCurrent"
         },
         {
           "key": "d",
-          "text": "Work done × Charge × Time"
+          "text": "Work done \u00d7 Charge \u00d7 Time"
         }
       ],
-      "fullText": "Which of the following represents voltage?\n(a)\nWork done\nCurrent × Time\n(b) Work done × Charge\n(c) Work done × Time\nCurrent\n(d) Work done × Charge × Time"
+      "fullText": "Which of the following represents voltage?\n(a)\nWork done\nCurrent \u00d7 Time\n(b) Work done \u00d7 Charge\n(c) Work done \u00d7 Time\nCurrent\n(d) Work done \u00d7 Charge \u00d7 Time",
+      "answer": "a",
+      "hint": ""
     },
     {
       "qNo": 10,
@@ -251,7 +269,9 @@
           "text": "3A\nFig. 12.4"
         }
       ],
-      "fullText": "A cylindrical conductor of length l and uniform area of cross-\nsection A has resistance R. Another conductor of length 2l and\nresistance R of the same material has area of cross section\n(a) A/2\n(b) 3A/2\n(c) 2A\n(d) 3A\nFig. 12.4"
+      "fullText": "A cylindrical conductor of length l and uniform area of cross-\nsection A has resistance R. Another conductor of length 2l and\nresistance R of the same material has area of cross section\n(a) A/2\n(b) 3A/2\n(c) 2A\n(d) 3A\nFig. 12.4",
+      "answer": "c",
+      "hint": ""
     },
     {
       "qNo": 11,
@@ -276,7 +296,9 @@
           "text": "R2 > R3 > R1"
         }
       ],
-      "fullText": "A student carries out an experiment and plots\nthe V-I graph of three samples of nichrome wire\nwith resistances R1, R2 and R3 respectively\n(Figure.12.5). Which of the following is true?\n(a) R1 = R2 = R3\n(b) R1 > R2 > R3\n(c) R3 > R2 > R1\n(d) R2 > R3 > R1"
+      "fullText": "A student carries out an experiment and plots\nthe V-I graph of three samples of nichrome wire\nwith resistances R1, R2 and R3 respectively\n(Figure.12.5). Which of the following is true?\n(a) R1 = R2 = R3\n(b) R1 > R2 > R3\n(c) R3 > R2 > R1\n(d) R2 > R3 > R1",
+      "answer": "c",
+      "hint": ""
     },
     {
       "qNo": 12,
@@ -301,7 +323,9 @@
           "text": "400 %"
         }
       ],
-      "fullText": "If the current I through a resistor is increased by\n100% (assume that temperature remains\nunchanged), the increase in power dissipated will be\n(a) 100 %\n(b) 200 %\n(c) 300 %\n(d) 400 %"
+      "fullText": "If the current I through a resistor is increased by\n100% (assume that temperature remains\nunchanged), the increase in power dissipated will be\n(a) 100 %\n(b) 200 %\n(c) 300 %\n(d) 400 %",
+      "answer": "c",
+      "hint": ""
     },
     {
       "qNo": 13,
@@ -326,7 +350,9 @@
           "text": "both material and temperature are changed"
         }
       ],
-      "fullText": "The resistivity does not change if\n(a) the material is changed\n(b) the temperature is changed\n(c) the shape of the resistor is changed\n(d) both material and temperature are changed"
+      "fullText": "The resistivity does not change if\n(a) the material is changed\n(b) the temperature is changed\n(c) the shape of the resistor is changed\n(d) both material and temperature are changed",
+      "answer": "c",
+      "hint": ""
     },
     {
       "qNo": 14,
@@ -351,13 +377,15 @@
           "text": "Brightness of bulb C will be less than that of B"
         }
       ],
-      "fullText": "In an electrical circuit three incandescent bulbs A, B and C of rating\n40 W, 60 W and 100 W respectively are connected in parallel to an\nelectric source. Which of the following is likely to happen regarding\ntheir brightness?\n(a) Brightness of all the bulbs will be the same\n(b) Brightness of bulb A will be the maximum\n(c) Brightness of bulb B will be more than that of A\n(d) Brightness of bulb C will be less than that of B"
+      "fullText": "In an electrical circuit three incandescent bulbs A, B and C of rating\n40 W, 60 W and 100 W respectively are connected in parallel to an\nelectric source. Which of the following is likely to happen regarding\ntheir brightness?\n(a) Brightness of all the bulbs will be the same\n(b) Brightness of bulb A will be the maximum\n(c) Brightness of bulb B will be more than that of A\n(d) Brightness of bulb C will be less than that of B",
+      "answer": "c",
+      "hint": ""
     },
     {
       "qNo": 15,
       "section": "Multiple Choice Questions",
       "type": "mcq",
-      "stem": "In an electrical circuit two resistors of 2 Ω and 4 Ω respectively\nare connected in series to a 6 V battery. The heat dissipated by\nthe 4 Ω resistor in 5 s will be",
+      "stem": "In an electrical circuit two resistors of 2 \u03a9 and 4 \u03a9 respectively\nare connected in series to a 6 V battery. The heat dissipated by\nthe 4 \u03a9 resistor in 5 s will be",
       "options": [
         {
           "key": "a",
@@ -376,7 +404,9 @@
           "text": "30 J"
         }
       ],
-      "fullText": "In an electrical circuit two resistors of 2 Ω and 4 Ω respectively\nare connected in series to a 6 V battery. The heat dissipated by\nthe 4 Ω resistor in 5 s will be\n(a) 5 J\n(b) 10 J\n(c) 20 J\n(d) 30 J"
+      "fullText": "In an electrical circuit two resistors of 2 \u03a9 and 4 \u03a9 respectively\nare connected in series to a 6 V battery. The heat dissipated by\nthe 4 \u03a9 resistor in 5 s will be\n(a) 5 J\n(b) 10 J\n(c) 20 J\n(d) 30 J",
+      "answer": "c",
+      "hint": ""
     },
     {
       "qNo": 16,
@@ -401,13 +431,15 @@
           "text": "5 A"
         }
       ],
-      "fullText": "An electric kettle consumes 1 kW of electric power when operated\nat 220 V. A fuse wire of what rating must be used for it?\n(a) 1 A\n(b) 2 A\n(c) 4 A\n(d) 5 A"
+      "fullText": "An electric kettle consumes 1 kW of electric power when operated\nat 220 V. A fuse wire of what rating must be used for it?\n(a) 1 A\n(b) 2 A\n(c) 4 A\n(d) 5 A",
+      "answer": "d",
+      "hint": ""
     },
     {
       "qNo": 17,
       "section": "Multiple Choice Questions",
       "type": "mcq",
-      "stem": "Two resistors of resistance 2 Ω and 4 Ω when connected to a\nbattery will have",
+      "stem": "Two resistors of resistance 2 \u03a9 and 4 \u03a9 when connected to a\nbattery will have",
       "options": [
         {
           "key": "a",
@@ -426,7 +458,9 @@
           "text": "different potential difference across them when connected in\nparallel"
         }
       ],
-      "fullText": "Two resistors of resistance 2 Ω and 4 Ω when connected to a\nbattery will have\n(a) same current flowing through them when connected in parallel\n(b) same current flowing through them when connected in series\n(c) same potential difference across them when connected in\nseries\n(d) different potential difference across them when connected in\nparallel"
+      "fullText": "Two resistors of resistance 2 \u03a9 and 4 \u03a9 when connected to a\nbattery will have\n(a) same current flowing through them when connected in parallel\n(b) same current flowing through them when connected in series\n(c) same potential difference across them when connected in\nseries\n(d) different potential difference across them when connected in\nparallel",
+      "answer": "b",
+      "hint": ""
     },
     {
       "qNo": 18,
@@ -451,31 +485,33 @@
           "text": "joule second"
         }
       ],
-      "fullText": "Unit of electric power may also be expressed as\n(a) volt ampere\n(b) kilowatt hour\n(c) watt second\n(d) joule second"
+      "fullText": "Unit of electric power may also be expressed as\n(a) volt ampere\n(b) kilowatt hour\n(c) watt second\n(d) joule second",
+      "answer": "a",
+      "hint": ""
     },
     {
       "qNo": 19,
       "section": "Short Answer Questions",
       "type": "short_answer",
-      "stem": "A child has drawn the electric circuit to study Ohm’s law\nas shown in Figure 12.6. His teacher told that the circuit\ndiagram needs correction. Study the circuit diagram and\nredraw it after making all corrections.",
+      "stem": "A child has drawn the electric circuit to study Ohm\u2019s law\nas shown in Figure 12.6. His teacher told that the circuit\ndiagram needs correction. Study the circuit diagram and\nredraw it after making all corrections.",
       "options": [],
-      "fullText": "A child has drawn the electric circuit to study Ohm’s law\nas shown in Figure 12.6. His teacher told that the circuit\ndiagram needs correction. Study the circuit diagram and\nredraw it after making all corrections."
+      "fullText": "A child has drawn the electric circuit to study Ohm\u2019s law\nas shown in Figure 12.6. His teacher told that the circuit\ndiagram needs correction. Study the circuit diagram and\nredraw it after making all corrections."
     },
     {
       "qNo": 20,
       "section": "Short Answer Questions",
       "type": "short_answer",
-      "stem": "Three 2 Ω resistors, A, B and C, are connected as shown\nin Figure 12.7. Each of them dissipates energy and can\nwithstand a maximum power of 18W without melting.\nFind the maximum current that can flow through the\nthree resistors?\n21. Should the resistance of an ammeter be low or high? Give\nreason.",
+      "stem": "Three 2 \u03a9 resistors, A, B and C, are connected as shown\nin Figure 12.7. Each of them dissipates energy and can\nwithstand a maximum power of 18W without melting.\nFind the maximum current that can flow through the\nthree resistors?\n21. Should the resistance of an ammeter be low or high? Give\nreason.",
       "options": [],
-      "fullText": "Three 2 Ω resistors, A, B and C, are connected as shown\nin Figure 12.7. Each of them dissipates energy and can\nwithstand a maximum power of 18W without melting.\nFind the maximum current that can flow through the\nthree resistors?\n21. Should the resistance of an ammeter be low or high? Give\nreason."
+      "fullText": "Three 2 \u03a9 resistors, A, B and C, are connected as shown\nin Figure 12.7. Each of them dissipates energy and can\nwithstand a maximum power of 18W without melting.\nFind the maximum current that can flow through the\nthree resistors?\n21. Should the resistance of an ammeter be low or high? Give\nreason."
     },
     {
       "qNo": 22,
       "section": "Short Answer Questions",
       "type": "short_answer",
-      "stem": "Draw a circuit diagram  of an electric circuit containing a cell, a\nkey, an ammeter, a resistor of 2 Ω in series with a combination\nof two resistors (4 Ω  each) in parallel and a voltmeter across the\nparallel combination. Will the potential difference across the 2 Ω\nresistor be the same as that across the parallel combination of\n4Ω resistors? Give reason.",
+      "stem": "Draw a circuit diagram  of an electric circuit containing a cell, a\nkey, an ammeter, a resistor of 2 \u03a9 in series with a combination\nof two resistors (4 \u03a9  each) in parallel and a voltmeter across the\nparallel combination. Will the potential difference across the 2 \u03a9\nresistor be the same as that across the parallel combination of\n4\u03a9 resistors? Give reason.",
       "options": [],
-      "fullText": "Draw a circuit diagram  of an electric circuit containing a cell, a\nkey, an ammeter, a resistor of 2 Ω in series with a combination\nof two resistors (4 Ω  each) in parallel and a voltmeter across the\nparallel combination. Will the potential difference across the 2 Ω\nresistor be the same as that across the parallel combination of\n4Ω resistors? Give reason."
+      "fullText": "Draw a circuit diagram  of an electric circuit containing a cell, a\nkey, an ammeter, a resistor of 2 \u03a9 in series with a combination\nof two resistors (4 \u03a9  each) in parallel and a voltmeter across the\nparallel combination. Will the potential difference across the 2 \u03a9\nresistor be the same as that across the parallel combination of\n4\u03a9 resistors? Give reason."
     },
     {
       "qNo": 23,
@@ -505,9 +541,9 @@
       "qNo": 26,
       "section": "Short Answer Questions",
       "type": "short_answer",
-      "stem": "A current of 1 ampere flows in a series circuit containing an electric\nlamp and a conductor of 5 Ω when connected to a 10 V battery.\nCalculate the resistance of the electric lamp.\nNow if a resistance of 10 Ω is connected in parallel with this\nseries combination, what change (if any) in current flowing through\n5 Ω conductor and potential difference across the lamp will take\nplace?  Give reason.",
+      "stem": "A current of 1 ampere flows in a series circuit containing an electric\nlamp and a conductor of 5 \u03a9 when connected to a 10 V battery.\nCalculate the resistance of the electric lamp.\nNow if a resistance of 10 \u03a9 is connected in parallel with this\nseries combination, what change (if any) in current flowing through\n5 \u03a9 conductor and potential difference across the lamp will take\nplace?  Give reason.",
       "options": [],
-      "fullText": "A current of 1 ampere flows in a series circuit containing an electric\nlamp and a conductor of 5 Ω when connected to a 10 V battery.\nCalculate the resistance of the electric lamp.\nNow if a resistance of 10 Ω is connected in parallel with this\nseries combination, what change (if any) in current flowing through\n5 Ω conductor and potential difference across the lamp will take\nplace?  Give reason."
+      "fullText": "A current of 1 ampere flows in a series circuit containing an electric\nlamp and a conductor of 5 \u03a9 when connected to a 10 V battery.\nCalculate the resistance of the electric lamp.\nNow if a resistance of 10 \u03a9 is connected in parallel with this\nseries combination, what change (if any) in current flowing through\n5 \u03a9 conductor and potential difference across the lamp will take\nplace?  Give reason."
     },
     {
       "qNo": 27,
@@ -537,9 +573,9 @@
       "qNo": 30,
       "section": "Long Answer Questions",
       "type": "long_answer",
-      "stem": "State Ohm’s law? How can it be verified experimentally? Does it\nhold good under all conditions? Comment.",
+      "stem": "State Ohm\u2019s law? How can it be verified experimentally? Does it\nhold good under all conditions? Comment.",
       "options": [],
-      "fullText": "State Ohm’s law? How can it be verified experimentally? Does it\nhold good under all conditions? Comment."
+      "fullText": "State Ohm\u2019s law? How can it be verified experimentally? Does it\nhold good under all conditions? Comment."
     },
     {
       "qNo": 31,
@@ -569,17 +605,17 @@
       "qNo": 34,
       "section": "Long Answer Questions",
       "type": "long_answer",
-      "stem": "What is Joule’s heating effect? How can it be demonstrated\nexperimentally? List its four applications in daily life.",
+      "stem": "What is Joule\u2019s heating effect? How can it be demonstrated\nexperimentally? List its four applications in daily life.",
       "options": [],
-      "fullText": "What is Joule’s heating effect? How can it be demonstrated\nexperimentally? List its four applications in daily life."
+      "fullText": "What is Joule\u2019s heating effect? How can it be demonstrated\nexperimentally? List its four applications in daily life."
     },
     {
       "qNo": 35,
       "section": "Long Answer Questions",
       "type": "long_answer",
-      "stem": "Find out the following in the electric circuit given in Figure 12.9\n(a) Effective resistance of two 8 Ω resistors in the combination\n(b) Current flowing through 4 Ω resistor\n(c) Potential difference across 4 Ω resistance\n(d) Power dissipated in 4 Ω resistor\n(e) Difference in ammeter readings, if any.\nFig. 12.9",
+      "stem": "Find out the following in the electric circuit given in Figure 12.9\n(a) Effective resistance of two 8 \u03a9 resistors in the combination\n(b) Current flowing through 4 \u03a9 resistor\n(c) Potential difference across 4 \u03a9 resistance\n(d) Power dissipated in 4 \u03a9 resistor\n(e) Difference in ammeter readings, if any.\nFig. 12.9",
       "options": [],
-      "fullText": "Find out the following in the electric circuit given in Figure 12.9\n(a) Effective resistance of two 8 Ω resistors in the combination\n(b) Current flowing through 4 Ω resistor\n(c) Potential difference across 4 Ω resistance\n(d) Power dissipated in 4 Ω resistor\n(e) Difference in ammeter readings, if any.\nFig. 12.9"
+      "fullText": "Find out the following in the electric circuit given in Figure 12.9\n(a) Effective resistance of two 8 \u03a9 resistors in the combination\n(b) Current flowing through 4 \u03a9 resistor\n(c) Potential difference across 4 \u03a9 resistance\n(d) Power dissipated in 4 \u03a9 resistor\n(e) Difference in ammeter readings, if any.\nFig. 12.9"
     }
   ]
 }

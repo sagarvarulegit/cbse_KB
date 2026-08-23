@@ -26,7 +26,9 @@
           "text": "03/05/18"
         }
       ],
-      "fullText": "If cos A = 4\n5 , then the value of tan A is\n(A)\n(B)\n(C)\n(D)\n03/05/18"
+      "fullText": "If cos A = 4\n5 , then the value of tan A is\n(A)\n(B)\n(C)\n(D)\n03/05/18",
+      "answer": "b",
+      "hint": ""
     },
     {
       "qNo": 2,
@@ -51,17 +53,19 @@
           "text": "[Diagram / Visual Option]"
         }
       ],
-      "fullText": "If sin A = 1\n2 , then the value of cot A is\n(A)\n(B)\n(C)\n(D)"
+      "fullText": "If sin A = 1\n2 , then the value of cot A is\n(A)\n(B)\n(C)\n(D)",
+      "answer": "a",
+      "hint": ""
     },
     {
       "qNo": 3,
       "exercise": "EXERCISE 8.1",
       "type": "mcq",
-      "stem": "The value of the expression [cosec (75° + θ) – sec (15° – θ) – tan (55° + θ) +\ncot (35° – θ)] is",
+      "stem": "The value of the expression [cosec (75\u00b0 + \u03b8) \u2013 sec (15\u00b0 \u2013 \u03b8) \u2013 tan (55\u00b0 + \u03b8) +\ncot (35\u00b0 \u2013 \u03b8)] is",
       "options": [
         {
           "key": "a",
-          "text": "– 1"
+          "text": "\u2013 1"
         },
         {
           "key": "b",
@@ -76,17 +80,19 @@
           "text": "[Diagram / Visual Option]"
         }
       ],
-      "fullText": "The value of the expression [cosec (75° + θ) – sec (15° – θ) – tan (55° + θ) +\ncot (35° – θ)] is\n(A)\n– 1\n(B)\n(C)\n(D)"
+      "fullText": "The value of the expression [cosec (75\u00b0 + \u03b8) \u2013 sec (15\u00b0 \u2013 \u03b8) \u2013 tan (55\u00b0 + \u03b8) +\ncot (35\u00b0 \u2013 \u03b8)] is\n(A)\n\u2013 1\n(B)\n(C)\n(D)",
+      "answer": "b",
+      "hint": ""
     },
     {
       "qNo": 4,
       "exercise": "EXERCISE 8.1",
       "type": "mcq",
-      "stem": "Given that sinθ = a\nb , then cosθ is equal to",
+      "stem": "Given that sin\u03b8 = a\nb , then cos\u03b8 is equal to",
       "options": [
         {
           "key": "a",
-          "text": "–\nb\nb\na"
+          "text": "\u2013\nb\nb\na"
         },
         {
           "key": "b",
@@ -94,45 +100,49 @@
         },
         {
           "key": "c",
-          "text": "–\nb\na\nb"
+          "text": "\u2013\nb\na\nb"
         },
         {
           "key": "d",
-          "text": "–\na\nb\na"
+          "text": "\u2013\na\nb\na"
         }
       ],
-      "fullText": "Given that sinθ = a\nb , then cosθ is equal to\n(A)\n–\nb\nb\na\n(B)\nb\na\n(C)\n–\nb\na\nb\n(D)\n–\na\nb\na"
+      "fullText": "Given that sin\u03b8 = a\nb , then cos\u03b8 is equal to\n(A)\n\u2013\nb\nb\na\n(B)\nb\na\n(C)\n\u2013\nb\na\nb\n(D)\n\u2013\na\nb\na",
+      "answer": "c",
+      "hint": ""
     },
     {
       "qNo": 5,
       "exercise": "EXERCISE 8.1",
       "type": "mcq",
-      "stem": "If cos (α + β) = 0, then sin (α – β) can be reduced to",
+      "stem": "If cos (\u03b1 + \u03b2) = 0, then sin (\u03b1 \u2013 \u03b2) can be reduced to",
       "options": [
         {
           "key": "a",
-          "text": "cos β"
+          "text": "cos \u03b2"
         },
         {
           "key": "b",
-          "text": "cos 2β"
+          "text": "cos 2\u03b2"
         },
         {
           "key": "c",
-          "text": "sin α"
+          "text": "sin \u03b1"
         },
         {
           "key": "d",
-          "text": "sin 2α"
+          "text": "sin 2\u03b1"
         }
       ],
-      "fullText": "If cos (α + β) = 0, then sin (α – β) can be reduced to\n(A)\ncos β\n(B)\ncos 2β\n(C)\nsin α\n(D)\nsin 2α"
+      "fullText": "If cos (\u03b1 + \u03b2) = 0, then sin (\u03b1 \u2013 \u03b2) can be reduced to\n(A)\ncos \u03b2\n(B)\ncos 2\u03b2\n(C)\nsin \u03b1\n(D)\nsin 2\u03b1",
+      "answer": "b",
+      "hint": ""
     },
     {
       "qNo": 6,
       "exercise": "EXERCISE 8.1",
       "type": "mcq",
-      "stem": "The value of (tan1° tan2° tan3° ... tan89°) is",
+      "stem": "The value of (tan1\u00b0 tan2\u00b0 tan3\u00b0 ... tan89\u00b0) is",
       "options": [
         {
           "key": "a",
@@ -151,13 +161,15 @@
           "text": "[Diagram / Visual Option]"
         }
       ],
-      "fullText": "The value of (tan1° tan2° tan3° ... tan89°) is\n(A)\n(B)\n(C)\n(D)"
+      "fullText": "The value of (tan1\u00b0 tan2\u00b0 tan3\u00b0 ... tan89\u00b0) is\n(A)\n(B)\n(C)\n(D)",
+      "answer": "b",
+      "hint": ""
     },
     {
       "qNo": 7,
       "exercise": "EXERCISE 8.1",
       "type": "mcq",
-      "stem": "If cos 9α = sinα and 9α < 90°  , then the value of tan5α is",
+      "stem": "If cos 9\u03b1 = sin\u03b1 and 9\u03b1 < 90\u00b0  , then the value of tan5\u03b1 is",
       "options": [
         {
           "key": "a",
@@ -176,13 +188,15 @@
           "text": "[Diagram / Visual Option]"
         }
       ],
-      "fullText": "If cos 9α = sinα and 9α < 90°  , then the value of tan5α is\n(A)\n(B)\n(C)\n(D)"
+      "fullText": "If cos 9\u03b1 = sin\u03b1 and 9\u03b1 < 90\u00b0  , then the value of tan5\u03b1 is\n(A)\n(B)\n(C)\n(D)",
+      "answer": "c",
+      "hint": ""
     },
     {
       "qNo": 8,
       "exercise": "EXERCISE 8.1",
       "type": "mcq",
-      "stem": "If ∆ABC is right angled at C, then the value of cos (A+B) is",
+      "stem": "If \u2206ABC is right angled at C, then the value of cos (A+B) is",
       "options": [
         {
           "key": "a",
@@ -201,7 +215,9 @@
           "text": "[Diagram / Visual Option]"
         }
       ],
-      "fullText": "If ∆ABC is right angled at C, then the value of cos (A+B) is\n(A)\n(B)\n(C)\n(D)"
+      "fullText": "If \u2206ABC is right angled at C, then the value of cos (A+B) is\n(A)\n(B)\n(C)\n(D)",
+      "answer": "a",
+      "hint": ""
     },
     {
       "qNo": 9,
@@ -223,39 +239,23 @@
         },
         {
           "key": "d",
-          "text": "10. Given that sinα = 1\n2  and cosβ = 1\n2 , then the value of (α + β) is"
+          "text": "10. Given that sin\u03b1 = 1\n2  and cos\u03b2 = 1\n2 , then the value of (\u03b1 + \u03b2) is"
         },
         {
           "key": "a",
-          "text": "0°"
+          "text": "0\u00b0"
         },
         {
           "key": "b",
-          "text": "30°"
+          "text": "30\u00b0"
         },
         {
           "key": "c",
-          "text": "60°"
+          "text": "60\u00b0"
         },
         {
           "key": "d",
-          "text": "90°\n03/05/18\n11. The value of the expression\nsin 22\nsin 68\nsin 63\ncos63 sin 27\ncos 22\ncos 68\n\n\n°+\n° +\n°+\n°\n°\n\n\n°+\n°\n\n\nis"
-        },
-        {
-          "key": "a",
-          "text": "[Diagram / Visual Option]"
-        },
-        {
-          "key": "b",
-          "text": "[Diagram / Visual Option]"
-        },
-        {
-          "key": "c",
-          "text": "[Diagram / Visual Option]"
-        },
-        {
-          "key": "d",
-          "text": "12. If 4 tanθ = 3, then\n4sin\ncos\n4sin\ncos\n\n\nθ−\nθ\n\n\nθ+\nθ\n\nis equal to"
+          "text": "90\u00b0\n03/05/18\n11. The value of the expression\nsin 22\nsin 68\nsin 63\ncos63 sin 27\ncos 22\ncos 68\n\uf001\n\uf002\n\u00b0+\n\u00b0 +\n\u00b0+\n\u00b0\n\u00b0\n\uf003\n\uf004\n\u00b0+\n\u00b0\n\uf005\n\uf006\nis"
         },
         {
           "key": "a",
@@ -271,7 +271,7 @@
         },
         {
           "key": "d",
-          "text": "13. If sinθ – cosθ = 0, then the value of (sin4θ + cos4θ) is"
+          "text": "12. If 4 tan\u03b8 = 3, then\n4sin\ncos\n4sin\ncos\n\uf007\n\uf008\n\u03b8\u2212\n\u03b8\n\uf009\n\uf00a\n\u03b8+\n\u03b8\n\uf00b\n\uf00cis equal to"
         },
         {
           "key": "a",
@@ -287,11 +287,11 @@
         },
         {
           "key": "d",
-          "text": "14. sin (45° + θ) – cos (45° – θ) is equal to"
+          "text": "13. If sin\u03b8 \u2013 cos\u03b8 = 0, then the value of (sin4\u03b8 + cos4\u03b8) is"
         },
         {
           "key": "a",
-          "text": "2cosθ"
+          "text": "[Diagram / Visual Option]"
         },
         {
           "key": "b",
@@ -299,62 +299,80 @@
         },
         {
           "key": "c",
-          "text": "2sinθ"
+          "text": "[Diagram / Visual Option]"
         },
         {
           "key": "d",
-          "text": "15. A pole 6 m high casts a shadow 2 3 m long on the ground, then the Sun’s\nelevation is\n(A\\)\n60°"
+          "text": "14. sin (45\u00b0 + \u03b8) \u2013 cos (45\u00b0 \u2013 \u03b8) is equal to"
+        },
+        {
+          "key": "a",
+          "text": "2cos\u03b8"
         },
         {
           "key": "b",
-          "text": "45°"
+          "text": "[Diagram / Visual Option]"
         },
         {
           "key": "c",
-          "text": "30°"
+          "text": "2sin\u03b8"
         },
         {
           "key": "d",
-          "text": "90°"
+          "text": "15. A pole 6 m high casts a shadow 2 3 m long on the ground, then the Sun\u2019s\nelevation is\n(A\\)\n60\u00b0"
+        },
+        {
+          "key": "b",
+          "text": "45\u00b0"
         },
         {
           "key": "c",
-          "text": "Short Answer Questions with Reasoning\nWrite ‘True’ or ‘False’ and justify your answer.\nSample Question 1 : The value of sinθ + cosθ is always greater than 1.\nSolution : False.\nThe value of (sinθ + cosθ) for θ = 0° is 1.\nSample Question 2 : The value of tanθ (θ < 90°) increases as θ\nincreases.\nSolution : True.\n03/05/18\nIn Fig. 8.2, B is moved closer to C along BC. It is observed that\n(i) θ increases (as θ1 > θ, θ2 > θ1, ...) and\n(ii) BC decreases (B1C < BC, B2C < B1C, ...)\nThus the perpendicular AC remains fixed and the base BC decreases. Hence tanθ\nincreases as θ increases.\nSample Question 3 : tanθ increases faster than sinθ as θ increases.\nSolution : True\nWe know that sinθ increases as θ increases but cosθ decreases as θ increases.\nWe have\nsin\ntan\ncos\nθ\nθ=\nθ\nNow as θ increases, sinθ increases but cosθ decreases. Therefore, in case of tanθ, the\nnumerator increases and the denominator decreases. But in case of sinθ which can be\nseen as sin\nθ , only the numerator increases but the denominator remains fixed at 1.\nHence tanθ increases faster than sinθ as θ increases.\nSample Question 4 : The value of sinθ is\na\na\n+\n, where ‘a’ is a positive number.\nSolution : False.\nWe know that\na\na\n−\n≥\nor\na\na\n+\n≥, but sinθ is not greater than 1.\nAlternatively, there exists the following three posibilities :\nCase 1.\nIf a < 1, then\na\na\n+\n>\nCase 2.\nIf a = 1, then\na\na\n+\n>\nCase 3.\nIf a > 1, then\na\na\n+\n>\nHowever, sin θ cannot be greater than 1.\n03/05/18"
+          "text": "30\u00b0"
+        },
+        {
+          "key": "d",
+          "text": "90\u00b0"
+        },
+        {
+          "key": "c",
+          "text": "Short Answer Questions with Reasoning\nWrite \u2018True\u2019 or \u2018False\u2019 and justify your answer.\nSample Question 1 : The value of sin\u03b8 + cos\u03b8 is always greater than 1.\nSolution : False.\nThe value of (sin\u03b8 + cos\u03b8) for \u03b8 = 0\u00b0 is 1.\nSample Question 2 : The value of tan\u03b8 (\u03b8 < 90\u00b0) increases as \u03b8\nincreases.\nSolution : True.\n03/05/18\nIn Fig. 8.2, B is moved closer to C along BC. It is observed that\n(i) \u03b8 increases (as \u03b81 > \u03b8, \u03b82 > \u03b81, ...) and\n(ii) BC decreases (B1C < BC, B2C < B1C, ...)\nThus the perpendicular AC remains fixed and the base BC decreases. Hence tan\u03b8\nincreases as \u03b8 increases.\nSample Question 3 : tan\u03b8 increases faster than sin\u03b8 as \u03b8 increases.\nSolution : True\nWe know that sin\u03b8 increases as \u03b8 increases but cos\u03b8 decreases as \u03b8 increases.\nWe have\nsin\ntan\ncos\n\u03b8\n\u03b8=\n\u03b8\nNow as \u03b8 increases, sin\u03b8 increases but cos\u03b8 decreases. Therefore, in case of tan\u03b8, the\nnumerator increases and the denominator decreases. But in case of sin\u03b8 which can be\nseen as sin\n\u03b8 , only the numerator increases but the denominator remains fixed at 1.\nHence tan\u03b8 increases faster than sin\u03b8 as \u03b8 increases.\nSample Question 4 : The value of sin\u03b8 is\na\na\n+\n, where \u2018a\u2019 is a positive number.\nSolution : False.\nWe know that\na\na\n\u2212\n\u2265\nor\na\na\n+\n\u2265, but sin\u03b8 is not greater than 1.\nAlternatively, there exists the following three posibilities :\nCase 1.\nIf a < 1, then\na\na\n+\n>\nCase 2.\nIf a = 1, then\na\na\n+\n>\nCase 3.\nIf a > 1, then\na\na\n+\n>\nHowever, sin \u03b8 cannot be greater than 1.\n03/05/18"
         }
       ],
-      "fullText": "If sinA + sin2A = 1, then the value of the expression (cos2A + cos4A) is\n(A)\n(B)\n(C)\n(D)\n10. Given that sinα = 1\n2  and cosβ = 1\n2 , then the value of (α + β) is\n(A)\n0°\n(B)\n30°\n(C)\n60°\n(D)\n90°\n03/05/18\n11. The value of the expression\nsin 22\nsin 68\nsin 63\ncos63 sin 27\ncos 22\ncos 68\n\n\n°+\n° +\n°+\n°\n°\n\n\n°+\n°\n\n\nis\n(A)\n(B)\n(C)\n(D)\n12. If 4 tanθ = 3, then\n4sin\ncos\n4sin\ncos\n\n\nθ−\nθ\n\n\nθ+\nθ\n\nis equal to\n(A)\n(B)\n(C)\n(D)\n13. If sinθ – cosθ = 0, then the value of (sin4θ + cos4θ) is\n(A)\n(B)\n(C)\n(D)\n14. sin (45° + θ) – cos (45° – θ) is equal to\n(A)\n2cosθ\n(B)\n(C)\n2sinθ\n(D)\n15. A pole 6 m high casts a shadow 2 3 m long on the ground, then the Sun’s\nelevation is\n(A\\)\n60°\n(B)\n45°\n(C)\n30°\n(D)\n90°\n(C) Short Answer Questions with Reasoning\nWrite ‘True’ or ‘False’ and justify your answer.\nSample Question 1 : The value of sinθ + cosθ is always greater than 1.\nSolution : False.\nThe value of (sinθ + cosθ) for θ = 0° is 1.\nSample Question 2 : The value of tanθ (θ < 90°) increases as θ\nincreases.\nSolution : True.\n03/05/18\nIn Fig. 8.2, B is moved closer to C along BC. It is observed that\n(i) θ increases (as θ1 > θ, θ2 > θ1, ...) and\n(ii) BC decreases (B1C < BC, B2C < B1C, ...)\nThus the perpendicular AC remains fixed and the base BC decreases. Hence tanθ\nincreases as θ increases.\nSample Question 3 : tanθ increases faster than sinθ as θ increases.\nSolution : True\nWe know that sinθ increases as θ increases but cosθ decreases as θ increases.\nWe have\nsin\ntan\ncos\nθ\nθ=\nθ\nNow as θ increases, sinθ increases but cosθ decreases. Therefore, in case of tanθ, the\nnumerator increases and the denominator decreases. But in case of sinθ which can be\nseen as sin\nθ , only the numerator increases but the denominator remains fixed at 1.\nHence tanθ increases faster than sinθ as θ increases.\nSample Question 4 : The value of sinθ is\na\na\n+\n, where ‘a’ is a positive number.\nSolution : False.\nWe know that\na\na\n−\n≥\nor\na\na\n+\n≥, but sinθ is not greater than 1.\nAlternatively, there exists the following three posibilities :\nCase 1.\nIf a < 1, then\na\na\n+\n>\nCase 2.\nIf a = 1, then\na\na\n+\n>\nCase 3.\nIf a > 1, then\na\na\n+\n>\nHowever, sin θ cannot be greater than 1.\n03/05/18"
+      "fullText": "If sinA + sin2A = 1, then the value of the expression (cos2A + cos4A) is\n(A)\n(B)\n(C)\n(D)\n10. Given that sin\u03b1 = 1\n2  and cos\u03b2 = 1\n2 , then the value of (\u03b1 + \u03b2) is\n(A)\n0\u00b0\n(B)\n30\u00b0\n(C)\n60\u00b0\n(D)\n90\u00b0\n03/05/18\n11. The value of the expression\nsin 22\nsin 68\nsin 63\ncos63 sin 27\ncos 22\ncos 68\n\uf001\n\uf002\n\u00b0+\n\u00b0 +\n\u00b0+\n\u00b0\n\u00b0\n\uf003\n\uf004\n\u00b0+\n\u00b0\n\uf005\n\uf006\nis\n(A)\n(B)\n(C)\n(D)\n12. If 4 tan\u03b8 = 3, then\n4sin\ncos\n4sin\ncos\n\uf007\n\uf008\n\u03b8\u2212\n\u03b8\n\uf009\n\uf00a\n\u03b8+\n\u03b8\n\uf00b\n\uf00cis equal to\n(A)\n(B)\n(C)\n(D)\n13. If sin\u03b8 \u2013 cos\u03b8 = 0, then the value of (sin4\u03b8 + cos4\u03b8) is\n(A)\n(B)\n(C)\n(D)\n14. sin (45\u00b0 + \u03b8) \u2013 cos (45\u00b0 \u2013 \u03b8) is equal to\n(A)\n2cos\u03b8\n(B)\n(C)\n2sin\u03b8\n(D)\n15. A pole 6 m high casts a shadow 2 3 m long on the ground, then the Sun\u2019s\nelevation is\n(A\\)\n60\u00b0\n(B)\n45\u00b0\n(C)\n30\u00b0\n(D)\n90\u00b0\n(C) Short Answer Questions with Reasoning\nWrite \u2018True\u2019 or \u2018False\u2019 and justify your answer.\nSample Question 1 : The value of sin\u03b8 + cos\u03b8 is always greater than 1.\nSolution : False.\nThe value of (sin\u03b8 + cos\u03b8) for \u03b8 = 0\u00b0 is 1.\nSample Question 2 : The value of tan\u03b8 (\u03b8 < 90\u00b0) increases as \u03b8\nincreases.\nSolution : True.\n03/05/18\nIn Fig. 8.2, B is moved closer to C along BC. It is observed that\n(i) \u03b8 increases (as \u03b81 > \u03b8, \u03b82 > \u03b81, ...) and\n(ii) BC decreases (B1C < BC, B2C < B1C, ...)\nThus the perpendicular AC remains fixed and the base BC decreases. Hence tan\u03b8\nincreases as \u03b8 increases.\nSample Question 3 : tan\u03b8 increases faster than sin\u03b8 as \u03b8 increases.\nSolution : True\nWe know that sin\u03b8 increases as \u03b8 increases but cos\u03b8 decreases as \u03b8 increases.\nWe have\nsin\ntan\ncos\n\u03b8\n\u03b8=\n\u03b8\nNow as \u03b8 increases, sin\u03b8 increases but cos\u03b8 decreases. Therefore, in case of tan\u03b8, the\nnumerator increases and the denominator decreases. But in case of sin\u03b8 which can be\nseen as sin\n\u03b8 , only the numerator increases but the denominator remains fixed at 1.\nHence tan\u03b8 increases faster than sin\u03b8 as \u03b8 increases.\nSample Question 4 : The value of sin\u03b8 is\na\na\n+\n, where \u2018a\u2019 is a positive number.\nSolution : False.\nWe know that\na\na\n\u2212\n\u2265\nor\na\na\n+\n\u2265, but sin\u03b8 is not greater than 1.\nAlternatively, there exists the following three posibilities :\nCase 1.\nIf a < 1, then\na\na\n+\n>\nCase 2.\nIf a = 1, then\na\na\n+\n>\nCase 3.\nIf a > 1, then\na\na\n+\n>\nHowever, sin \u03b8 cannot be greater than 1.\n03/05/18",
+      "answer": "a",
+      "hint": ""
     },
     {
       "qNo": 1,
       "exercise": "EXERCISE 8.2",
       "type": "short_answer",
-      "stem": "tan47\ncot 43\n° =\n°",
+      "stem": "tan47\ncot 43\n\u00b0 =\n\u00b0",
       "options": [],
-      "fullText": "tan47\ncot 43\n° =\n°"
+      "fullText": "tan47\ncot 43\n\u00b0 =\n\u00b0"
     },
     {
       "qNo": 2,
       "exercise": "EXERCISE 8.2",
       "type": "short_answer",
-      "stem": "The value of the expression (cos2 23° – sin2 67°) is positive.",
+      "stem": "The value of the expression (cos2 23\u00b0 \u2013 sin2 67\u00b0) is positive.",
       "options": [],
-      "fullText": "The value of the expression (cos2 23° – sin2 67°) is positive."
+      "fullText": "The value of the expression (cos2 23\u00b0 \u2013 sin2 67\u00b0) is positive."
     },
     {
       "qNo": 3,
       "exercise": "EXERCISE 8.2",
       "type": "short_answer",
-      "stem": "The value of the expression (sin 80° – cos 80°) is negative.",
+      "stem": "The value of the expression (sin 80\u00b0 \u2013 cos 80\u00b0) is negative.",
       "options": [],
-      "fullText": "The value of the expression (sin 80° – cos 80°) is negative."
+      "fullText": "The value of the expression (sin 80\u00b0 \u2013 cos 80\u00b0) is negative."
     },
     {
       "qNo": 4,
       "exercise": "EXERCISE 8.2",
       "type": "short_answer",
-      "stem": "(1–cos\n) sec\ntan\nθ\nθ =\nθ",
+      "stem": "(1\u2013cos\n) sec\ntan\n\u03b8\n\u03b8 =\n\u03b8",
       "options": [],
-      "fullText": "(1–cos\n) sec\ntan\nθ\nθ =\nθ"
+      "fullText": "(1\u2013cos\n) sec\ntan\n\u03b8\n\u03b8 =\n\u03b8"
     },
     {
       "qNo": 5,
@@ -368,9 +386,9 @@
       "qNo": 6,
       "exercise": "EXERCISE 8.2",
       "type": "short_answer",
-      "stem": "(tan θ + 2) (2 tan θ + 1) = 5 tan θ + sec2θ.",
+      "stem": "(tan \u03b8 + 2) (2 tan \u03b8 + 1) = 5 tan \u03b8 + sec2\u03b8.",
       "options": [],
-      "fullText": "(tan θ + 2) (2 tan θ + 1) = 5 tan θ + sec2θ."
+      "fullText": "(tan \u03b8 + 2) (2 tan \u03b8 + 1) = 5 tan \u03b8 + sec2\u03b8."
     },
     {
       "qNo": 7,
@@ -392,25 +410,25 @@
       "qNo": 9,
       "exercise": "EXERCISE 8.2",
       "type": "short_answer",
-      "stem": "The value of 2sinθ can be\na\na\n+\n, where a is a positive number, and a ≠1.\n10. cos θ =\na\nb\nab\n+\n, where a and b are two distinct numbers such that ab > 0.\n11. The angle of elevation of the top of a tower is 30°. If the height of the tower is\ndoubled, then the angle of elevation of its top will also be doubled.\n12. If the height of a tower and the distance of the point of observation from its foot,\nboth, are increased by 10%, then the angle of elevation of its top remains unchanged.\n(D) Short  Answer  Questions\nSample Question 1 : Prove that sin6θ + cos6θ + 3sin2θ cos2θ = 1\nSolution : We know that  sin2θ + cos2θ = 1\nTherefore,\n(sin2θ + cos2θ)3 = 1\nor, (sin2θ)3 + (cos2θ)3 + 3sin2θ cos2θ (sin2θ + cos2θ) = 1\nor,\nsin6θ + cos6 θ + 3sin2θ  cos2θ  = 1\nSample Question 2 : Prove that (sin4θ – cos4θ +1) cosec2θ = 2\n03/05/18\nSolution :\nL.H.S.\n= (sin4θ – cos4θ +1) cosec2θ\n= [(sin2θ – cos2θ) (sin2θ + cos2θ) + 1] cosec2θ\n= (sin2θ – cos2θ + 1) cosec2θ\n[Because sin 2θ + cos2θ =1]\n= 2sin2θ  cosec2θ          [Because 1– cos 2θ = sin2θ ]\n= 2 = RHS\nSample Question 3 : Given that α + β = 90°, show that\ncos\ncosec –cos\nsin\nsin\nα\nβ\nα\nβ =\nα\nSolution :\ncos\ncosec – cos\nsin\ncos\ncosec(90\n) –cos\nsin(90\n)\nα\nβ\nα\nβ =\nα\n°−α\nα\n°−α\n[Given α + β = 90°]\n=\ncos\nsec\n–cos\ncos\nα\nα\nα\nα\n=\n1 cos\n−\nα\n= sin α\nSample Question 4 : If sin θ + cos θ =\n3 , then prove that tan θ + cot θ = 1\nSolution :\nsin θ + cos θ =\n(Given)\nor\n(sin θ + cos θ)2 = 3\nor\nsin2 θ + cos2θ + 2sinθ cosθ  = 3\n2sinθ  cosθ = 2\n[sin2θ + cos2θ = 1]\nor\nsin θ cos θ  = 1 = sin2θ + cos2θ\nor\nsin\ncos\nsin cos\nθ+\nθ\n=\nθ\nθ\nTherefore,\ntanθ + cotθ = 1\n03/05/18",
+      "stem": "The value of 2sin\u03b8 can be\na\na\n+\n, where a is a positive number, and a \u22601.\n10. cos \u03b8 =\na\nb\nab\n+\n, where a and b are two distinct numbers such that ab > 0.\n11. The angle of elevation of the top of a tower is 30\u00b0. If the height of the tower is\ndoubled, then the angle of elevation of its top will also be doubled.\n12. If the height of a tower and the distance of the point of observation from its foot,\nboth, are increased by 10%, then the angle of elevation of its top remains unchanged.\n(D) Short  Answer  Questions\nSample Question 1 : Prove that sin6\u03b8 + cos6\u03b8 + 3sin2\u03b8 cos2\u03b8 = 1\nSolution : We know that  sin2\u03b8 + cos2\u03b8 = 1\nTherefore,\n(sin2\u03b8 + cos2\u03b8)3 = 1\nor, (sin2\u03b8)3 + (cos2\u03b8)3 + 3sin2\u03b8 cos2\u03b8 (sin2\u03b8 + cos2\u03b8) = 1\nor,\nsin6\u03b8 + cos6 \u03b8 + 3sin2\u03b8  cos2\u03b8  = 1\nSample Question 2 : Prove that (sin4\u03b8 \u2013 cos4\u03b8 +1) cosec2\u03b8 = 2\n03/05/18\nSolution :\nL.H.S.\n= (sin4\u03b8 \u2013 cos4\u03b8 +1) cosec2\u03b8\n= [(sin2\u03b8 \u2013 cos2\u03b8) (sin2\u03b8 + cos2\u03b8) + 1] cosec2\u03b8\n= (sin2\u03b8 \u2013 cos2\u03b8 + 1) cosec2\u03b8\n[Because sin 2\u03b8 + cos2\u03b8 =1]\n= 2sin2\u03b8  cosec2\u03b8          [Because 1\u2013 cos 2\u03b8 = sin2\u03b8 ]\n= 2 = RHS\nSample Question 3 : Given that \u03b1 + \u03b2 = 90\u00b0, show that\ncos\ncosec \u2013cos\nsin\nsin\n\u03b1\n\u03b2\n\u03b1\n\u03b2 =\n\u03b1\nSolution :\ncos\ncosec \u2013 cos\nsin\ncos\ncosec(90\n) \u2013cos\nsin(90\n)\n\u03b1\n\u03b2\n\u03b1\n\u03b2 =\n\u03b1\n\u00b0\u2212\u03b1\n\u03b1\n\u00b0\u2212\u03b1\n[Given \u03b1 + \u03b2 = 90\u00b0]\n=\ncos\nsec\n\u2013cos\ncos\n\u03b1\n\u03b1\n\u03b1\n\u03b1\n=\n1 cos\n\u2212\n\u03b1\n= sin \u03b1\nSample Question 4 : If sin \u03b8 + cos \u03b8 =\n3 , then prove that tan \u03b8 + cot \u03b8 = 1\nSolution :\nsin \u03b8 + cos \u03b8 =\n(Given)\nor\n(sin \u03b8 + cos \u03b8)2 = 3\nor\nsin2 \u03b8 + cos2\u03b8 + 2sin\u03b8 cos\u03b8  = 3\n2sin\u03b8  cos\u03b8 = 2\n[sin2\u03b8 + cos2\u03b8 = 1]\nor\nsin \u03b8 cos \u03b8  = 1 = sin2\u03b8 + cos2\u03b8\nor\nsin\ncos\nsin cos\n\u03b8+\n\u03b8\n=\n\u03b8\n\u03b8\nTherefore,\ntan\u03b8 + cot\u03b8 = 1\n03/05/18",
       "options": [],
-      "fullText": "The value of 2sinθ can be\na\na\n+\n, where a is a positive number, and a ≠1.\n10. cos θ =\na\nb\nab\n+\n, where a and b are two distinct numbers such that ab > 0.\n11. The angle of elevation of the top of a tower is 30°. If the height of the tower is\ndoubled, then the angle of elevation of its top will also be doubled.\n12. If the height of a tower and the distance of the point of observation from its foot,\nboth, are increased by 10%, then the angle of elevation of its top remains unchanged.\n(D) Short  Answer  Questions\nSample Question 1 : Prove that sin6θ + cos6θ + 3sin2θ cos2θ = 1\nSolution : We know that  sin2θ + cos2θ = 1\nTherefore,\n(sin2θ + cos2θ)3 = 1\nor, (sin2θ)3 + (cos2θ)3 + 3sin2θ cos2θ (sin2θ + cos2θ) = 1\nor,\nsin6θ + cos6 θ + 3sin2θ  cos2θ  = 1\nSample Question 2 : Prove that (sin4θ – cos4θ +1) cosec2θ = 2\n03/05/18\nSolution :\nL.H.S.\n= (sin4θ – cos4θ +1) cosec2θ\n= [(sin2θ – cos2θ) (sin2θ + cos2θ) + 1] cosec2θ\n= (sin2θ – cos2θ + 1) cosec2θ\n[Because sin 2θ + cos2θ =1]\n= 2sin2θ  cosec2θ          [Because 1– cos 2θ = sin2θ ]\n= 2 = RHS\nSample Question 3 : Given that α + β = 90°, show that\ncos\ncosec –cos\nsin\nsin\nα\nβ\nα\nβ =\nα\nSolution :\ncos\ncosec – cos\nsin\ncos\ncosec(90\n) –cos\nsin(90\n)\nα\nβ\nα\nβ =\nα\n°−α\nα\n°−α\n[Given α + β = 90°]\n=\ncos\nsec\n–cos\ncos\nα\nα\nα\nα\n=\n1 cos\n−\nα\n= sin α\nSample Question 4 : If sin θ + cos θ =\n3 , then prove that tan θ + cot θ = 1\nSolution :\nsin θ + cos θ =\n(Given)\nor\n(sin θ + cos θ)2 = 3\nor\nsin2 θ + cos2θ + 2sinθ cosθ  = 3\n2sinθ  cosθ = 2\n[sin2θ + cos2θ = 1]\nor\nsin θ cos θ  = 1 = sin2θ + cos2θ\nor\nsin\ncos\nsin cos\nθ+\nθ\n=\nθ\nθ\nTherefore,\ntanθ + cotθ = 1\n03/05/18"
+      "fullText": "The value of 2sin\u03b8 can be\na\na\n+\n, where a is a positive number, and a \u22601.\n10. cos \u03b8 =\na\nb\nab\n+\n, where a and b are two distinct numbers such that ab > 0.\n11. The angle of elevation of the top of a tower is 30\u00b0. If the height of the tower is\ndoubled, then the angle of elevation of its top will also be doubled.\n12. If the height of a tower and the distance of the point of observation from its foot,\nboth, are increased by 10%, then the angle of elevation of its top remains unchanged.\n(D) Short  Answer  Questions\nSample Question 1 : Prove that sin6\u03b8 + cos6\u03b8 + 3sin2\u03b8 cos2\u03b8 = 1\nSolution : We know that  sin2\u03b8 + cos2\u03b8 = 1\nTherefore,\n(sin2\u03b8 + cos2\u03b8)3 = 1\nor, (sin2\u03b8)3 + (cos2\u03b8)3 + 3sin2\u03b8 cos2\u03b8 (sin2\u03b8 + cos2\u03b8) = 1\nor,\nsin6\u03b8 + cos6 \u03b8 + 3sin2\u03b8  cos2\u03b8  = 1\nSample Question 2 : Prove that (sin4\u03b8 \u2013 cos4\u03b8 +1) cosec2\u03b8 = 2\n03/05/18\nSolution :\nL.H.S.\n= (sin4\u03b8 \u2013 cos4\u03b8 +1) cosec2\u03b8\n= [(sin2\u03b8 \u2013 cos2\u03b8) (sin2\u03b8 + cos2\u03b8) + 1] cosec2\u03b8\n= (sin2\u03b8 \u2013 cos2\u03b8 + 1) cosec2\u03b8\n[Because sin 2\u03b8 + cos2\u03b8 =1]\n= 2sin2\u03b8  cosec2\u03b8          [Because 1\u2013 cos 2\u03b8 = sin2\u03b8 ]\n= 2 = RHS\nSample Question 3 : Given that \u03b1 + \u03b2 = 90\u00b0, show that\ncos\ncosec \u2013cos\nsin\nsin\n\u03b1\n\u03b2\n\u03b1\n\u03b2 =\n\u03b1\nSolution :\ncos\ncosec \u2013 cos\nsin\ncos\ncosec(90\n) \u2013cos\nsin(90\n)\n\u03b1\n\u03b2\n\u03b1\n\u03b2 =\n\u03b1\n\u00b0\u2212\u03b1\n\u03b1\n\u00b0\u2212\u03b1\n[Given \u03b1 + \u03b2 = 90\u00b0]\n=\ncos\nsec\n\u2013cos\ncos\n\u03b1\n\u03b1\n\u03b1\n\u03b1\n=\n1 cos\n\u2212\n\u03b1\n= sin \u03b1\nSample Question 4 : If sin \u03b8 + cos \u03b8 =\n3 , then prove that tan \u03b8 + cot \u03b8 = 1\nSolution :\nsin \u03b8 + cos \u03b8 =\n(Given)\nor\n(sin \u03b8 + cos \u03b8)2 = 3\nor\nsin2 \u03b8 + cos2\u03b8 + 2sin\u03b8 cos\u03b8  = 3\n2sin\u03b8  cos\u03b8 = 2\n[sin2\u03b8 + cos2\u03b8 = 1]\nor\nsin \u03b8 cos \u03b8  = 1 = sin2\u03b8 + cos2\u03b8\nor\nsin\ncos\nsin cos\n\u03b8+\n\u03b8\n=\n\u03b8\n\u03b8\nTherefore,\ntan\u03b8 + cot\u03b8 = 1\n03/05/18"
     },
     {
       "qNo": 1,
       "exercise": "EXERCISE 8.3",
       "type": "short_answer",
-      "stem": "sin\n1 cos\n2cosec\n1 cos\nsin\nθ\n+\nθ\n+\n=\nθ\n+\nθ\nθ",
+      "stem": "sin\n1 cos\n2cosec\n1 cos\nsin\n\u03b8\n+\n\u03b8\n+\n=\n\u03b8\n+\n\u03b8\n\u03b8",
       "options": [],
-      "fullText": "sin\n1 cos\n2cosec\n1 cos\nsin\nθ\n+\nθ\n+\n=\nθ\n+\nθ\nθ"
+      "fullText": "sin\n1 cos\n2cosec\n1 cos\nsin\n\u03b8\n+\n\u03b8\n+\n=\n\u03b8\n+\n\u03b8\n\u03b8"
     },
     {
       "qNo": 2,
       "exercise": "EXERCISE 8.3",
       "type": "short_answer",
-      "stem": "tan A\ntan A\n2cosec A\n1 secA\n1 secA\n−\n=\n+\n−",
+      "stem": "tan A\ntan A\n2cosec A\n1 secA\n1 secA\n\u2212\n=\n+\n\u2212",
       "options": [],
-      "fullText": "tan A\ntan A\n2cosec A\n1 secA\n1 secA\n−\n=\n+\n−"
+      "fullText": "tan A\ntan A\n2cosec A\n1 secA\n1 secA\n\u2212\n=\n+\n\u2212"
     },
     {
       "qNo": 3,
@@ -424,25 +442,25 @@
       "qNo": 4,
       "exercise": "EXERCISE 8.3",
       "type": "short_answer",
-      "stem": "(sin α + cos α) (tan α + cot α) = sec α + cosec α\n5. (\n)\n3 1\n+\n(3 – cot 30°) = tan3 60° – 2 sin 60°",
+      "stem": "(sin \u03b1 + cos \u03b1) (tan \u03b1 + cot \u03b1) = sec \u03b1 + cosec \u03b1\n5. (\n)\n3 1\n+\n(3 \u2013 cot 30\u00b0) = tan3 60\u00b0 \u2013 2 sin 60\u00b0",
       "options": [],
-      "fullText": "(sin α + cos α) (tan α + cot α) = sec α + cosec α\n5. (\n)\n3 1\n+\n(3 – cot 30°) = tan3 60° – 2 sin 60°"
+      "fullText": "(sin \u03b1 + cos \u03b1) (tan \u03b1 + cot \u03b1) = sec \u03b1 + cosec \u03b1\n5. (\n)\n3 1\n+\n(3 \u2013 cot 30\u00b0) = tan3 60\u00b0 \u2013 2 sin 60\u00b0"
     },
     {
       "qNo": 6,
       "exercise": "EXERCISE 8.3",
       "type": "short_answer",
-      "stem": "cot\ncosec\n1 cosec\nα\n+\n=\nα\n+\nα",
+      "stem": "cot\ncosec\n1 cosec\n\u03b1\n+\n=\n\u03b1\n+\n\u03b1",
       "options": [],
-      "fullText": "cot\ncosec\n1 cosec\nα\n+\n=\nα\n+\nα"
+      "fullText": "cot\ncosec\n1 cosec\n\u03b1\n+\n=\n\u03b1\n+\n\u03b1"
     },
     {
       "qNo": 7,
       "exercise": "EXERCISE 8.3",
       "type": "short_answer",
-      "stem": "tan θ + tan (90° – θ) = sec θ  sec (90° – θ)",
+      "stem": "tan \u03b8 + tan (90\u00b0 \u2013 \u03b8) = sec \u03b8  sec (90\u00b0 \u2013 \u03b8)",
       "options": [],
-      "fullText": "tan θ + tan (90° – θ) = sec θ  sec (90° – θ)"
+      "fullText": "tan \u03b8 + tan (90\u00b0 \u2013 \u03b8) = sec \u03b8  sec (90\u00b0 \u2013 \u03b8)"
     },
     {
       "qNo": 8,
@@ -456,49 +474,49 @@
       "qNo": 9,
       "exercise": "EXERCISE 8.3",
       "type": "short_answer",
-      "stem": "If\n3  tan θ = 1, then find the value of sin2θ – cos2 θ.\n10. A ladder 15 metres long just reaches the top of a vertical wall. If the ladder makes\nan angle of 60° with the wall, find the height of the wall.\n11. Simplify (1 + tan2θ) (1 – sinθ) (1 + sinθ)\n12. If 2sin2θ – cos2θ = 2, then find the value of θ.\n13. Show that\ncos (45\n)\ncos (45 – )\ntan(60\n) tan(30\n)\n°+θ +\n° θ\n°+θ\n°−θ\n= 1\n14. An observer 1.5 metres tall is 20.5 metres away from a tower 22 metres high.\nDetermine the angle of elevation of the top of the tower from the eye of the\nobserver.\n15. Show that tan4θ + tan2θ = sec4θ – sec2θ.\n03/05/18\n(E) Long Answer Questions\nSample Question 1 : A spherical balloon of radius r subtends an angle θ at the eye of\nan observer. If the angle of elevation of its centre is φ, find the height of the centre of\nthe balloon.\nSolution :  In Fig. 8.3, O is the centre of balloon, whose radius OP = r and ∠PAQ = θ.\nAlso, ∠OAB = φ.\nLet the height of the centre of the balloon be h. Thus OB = h.\nNow, from ∆OAP, sin 2\nθ  = r\nd , where OA = d\n(1)\nAlso from ∆OAB, sin  = h\nd .\n(2)\nFrom (1) and (2), we get\nsin\nsin 2\nh\nh\nd\nr\nr\nd\nφ =\n=\nθ\nor\nh = r sin φ cosec 2\nθ .\nSample Question 2 : From a balloon vertically above a straight road, the angles of\ndepression of two cars at an instant are found to be 45° and 60°.  If the cars are 100 m\napart, find the height of the balloon.\n03/05/18\nSolution : Let the height of the balloon at P be h meters (see Fig. 8.4). Let A and B be\nthe two cars. Thus AB = 100 m. From ∆PAQ, AQ = PQ = h\nNow from ∆PBQ,\nPQ\nBQ = tan 60° =\n3    or\n–100\nh\nh\n=\nor\nh =\n3 (h –100)\nTherefore,   h =\n100 3\n3 –1 = 50 (3 +\n3 )\ni.e., the height of the balloon is 50 (3 +\n3 ) m.\nSample Question 3 : The angle of elevation of a cloud from a point h metres above\nthe surface of a lake is θ and the angle of depression of its reflection in the lake is φ.\nProve that the height of the cloud above the lake is\ntan\ntan\ntan\ntan\nh \n\nφ+\nθ\n\n\nφ−\nθ\n\n\n.\nSolution : Let P be the cloud and Q be its reflection in the lake (see Fig. 8.5). Let A be\nthe point of observation such that AB = h.\n03/05/18\nLet the height of the cloud above the lake be x. Let AL = d.\nNow from ∆PAL, x h\nd\n−\n= tan θ\n(1)\nFrom ∆QAL, x\nh\nd\n+\n= tanφ\n(2)\nFrom (1) and (2), we get\ntan\n–\ntan\nx\nh\nx\nh\n+\nφ\n=\nθ\nor\ntan\ntan\ntan\ntan\nx\nh\nφ+\nθ\n=\nφ−\nθ\nTherefore, x = h tan\ntan\ntan\ntan\n\n\nφ+\nθ\n\n\nφ−\nθ\n\n\n.\n03/05/18",
+      "stem": "If\n3  tan \u03b8 = 1, then find the value of sin2\u03b8 \u2013 cos2 \u03b8.\n10. A ladder 15 metres long just reaches the top of a vertical wall. If the ladder makes\nan angle of 60\u00b0 with the wall, find the height of the wall.\n11. Simplify (1 + tan2\u03b8) (1 \u2013 sin\u03b8) (1 + sin\u03b8)\n12. If 2sin2\u03b8 \u2013 cos2\u03b8 = 2, then find the value of \u03b8.\n13. Show that\ncos (45\n)\ncos (45 \u2013 )\ntan(60\n) tan(30\n)\n\u00b0+\u03b8 +\n\u00b0 \u03b8\n\u00b0+\u03b8\n\u00b0\u2212\u03b8\n= 1\n14. An observer 1.5 metres tall is 20.5 metres away from a tower 22 metres high.\nDetermine the angle of elevation of the top of the tower from the eye of the\nobserver.\n15. Show that tan4\u03b8 + tan2\u03b8 = sec4\u03b8 \u2013 sec2\u03b8.\n03/05/18\n(E) Long Answer Questions\nSample Question 1 : A spherical balloon of radius r subtends an angle \u03b8 at the eye of\nan observer. If the angle of elevation of its centre is \u03c6, find the height of the centre of\nthe balloon.\nSolution :  In Fig. 8.3, O is the centre of balloon, whose radius OP = r and \u2220PAQ = \u03b8.\nAlso, \u2220OAB = \u03c6.\nLet the height of the centre of the balloon be h. Thus OB = h.\nNow, from \u2206OAP, sin 2\n\u03b8  = r\nd , where OA = d\n(1)\nAlso from \u2206OAB, sin \uf066 = h\nd .\n(2)\nFrom (1) and (2), we get\nsin\nsin 2\nh\nh\nd\nr\nr\nd\n\u03c6 =\n=\n\u03b8\nor\nh = r sin \u03c6 cosec 2\n\u03b8 .\nSample Question 2 : From a balloon vertically above a straight road, the angles of\ndepression of two cars at an instant are found to be 45\u00b0 and 60\u00b0.  If the cars are 100 m\napart, find the height of the balloon.\n03/05/18\nSolution : Let the height of the balloon at P be h meters (see Fig. 8.4). Let A and B be\nthe two cars. Thus AB = 100 m. From \u2206PAQ, AQ = PQ = h\nNow from \u2206PBQ,\nPQ\nBQ = tan 60\u00b0 =\n3    or\n\u2013100\nh\nh\n=\nor\nh =\n3 (h \u2013100)\nTherefore,   h =\n100 3\n3 \u20131 = 50 (3 +\n3 )\ni.e., the height of the balloon is 50 (3 +\n3 ) m.\nSample Question 3 : The angle of elevation of a cloud from a point h metres above\nthe surface of a lake is \u03b8 and the angle of depression of its reflection in the lake is \u03c6.\nProve that the height of the cloud above the lake is\ntan\ntan\ntan\ntan\nh \uf007\n\uf008\n\u03c6+\n\u03b8\n\uf009\n\uf00a\n\u03c6\u2212\n\u03b8\n\uf00b\n\uf00c\n.\nSolution : Let P be the cloud and Q be its reflection in the lake (see Fig. 8.5). Let A be\nthe point of observation such that AB = h.\n03/05/18\nLet the height of the cloud above the lake be x. Let AL = d.\nNow from \u2206PAL, x h\nd\n\u2212\n= tan \u03b8\n(1)\nFrom \u2206QAL, x\nh\nd\n+\n= tan\u03c6\n(2)\nFrom (1) and (2), we get\ntan\n\u2013\ntan\nx\nh\nx\nh\n+\n\u03c6\n=\n\u03b8\nor\ntan\ntan\ntan\ntan\nx\nh\n\u03c6+\n\u03b8\n=\n\u03c6\u2212\n\u03b8\nTherefore, x = h tan\ntan\ntan\ntan\n\uf007\n\uf008\n\u03c6+\n\u03b8\n\uf009\n\uf00a\n\u03c6\u2212\n\u03b8\n\uf00b\n\uf00c\n.\n03/05/18",
       "options": [],
-      "fullText": "If\n3  tan θ = 1, then find the value of sin2θ – cos2 θ.\n10. A ladder 15 metres long just reaches the top of a vertical wall. If the ladder makes\nan angle of 60° with the wall, find the height of the wall.\n11. Simplify (1 + tan2θ) (1 – sinθ) (1 + sinθ)\n12. If 2sin2θ – cos2θ = 2, then find the value of θ.\n13. Show that\ncos (45\n)\ncos (45 – )\ntan(60\n) tan(30\n)\n°+θ +\n° θ\n°+θ\n°−θ\n= 1\n14. An observer 1.5 metres tall is 20.5 metres away from a tower 22 metres high.\nDetermine the angle of elevation of the top of the tower from the eye of the\nobserver.\n15. Show that tan4θ + tan2θ = sec4θ – sec2θ.\n03/05/18\n(E) Long Answer Questions\nSample Question 1 : A spherical balloon of radius r subtends an angle θ at the eye of\nan observer. If the angle of elevation of its centre is φ, find the height of the centre of\nthe balloon.\nSolution :  In Fig. 8.3, O is the centre of balloon, whose radius OP = r and ∠PAQ = θ.\nAlso, ∠OAB = φ.\nLet the height of the centre of the balloon be h. Thus OB = h.\nNow, from ∆OAP, sin 2\nθ  = r\nd , where OA = d\n(1)\nAlso from ∆OAB, sin  = h\nd .\n(2)\nFrom (1) and (2), we get\nsin\nsin 2\nh\nh\nd\nr\nr\nd\nφ =\n=\nθ\nor\nh = r sin φ cosec 2\nθ .\nSample Question 2 : From a balloon vertically above a straight road, the angles of\ndepression of two cars at an instant are found to be 45° and 60°.  If the cars are 100 m\napart, find the height of the balloon.\n03/05/18\nSolution : Let the height of the balloon at P be h meters (see Fig. 8.4). Let A and B be\nthe two cars. Thus AB = 100 m. From ∆PAQ, AQ = PQ = h\nNow from ∆PBQ,\nPQ\nBQ = tan 60° =\n3    or\n–100\nh\nh\n=\nor\nh =\n3 (h –100)\nTherefore,   h =\n100 3\n3 –1 = 50 (3 +\n3 )\ni.e., the height of the balloon is 50 (3 +\n3 ) m.\nSample Question 3 : The angle of elevation of a cloud from a point h metres above\nthe surface of a lake is θ and the angle of depression of its reflection in the lake is φ.\nProve that the height of the cloud above the lake is\ntan\ntan\ntan\ntan\nh \n\nφ+\nθ\n\n\nφ−\nθ\n\n\n.\nSolution : Let P be the cloud and Q be its reflection in the lake (see Fig. 8.5). Let A be\nthe point of observation such that AB = h.\n03/05/18\nLet the height of the cloud above the lake be x. Let AL = d.\nNow from ∆PAL, x h\nd\n−\n= tan θ\n(1)\nFrom ∆QAL, x\nh\nd\n+\n= tanφ\n(2)\nFrom (1) and (2), we get\ntan\n–\ntan\nx\nh\nx\nh\n+\nφ\n=\nθ\nor\ntan\ntan\ntan\ntan\nx\nh\nφ+\nθ\n=\nφ−\nθ\nTherefore, x = h tan\ntan\ntan\ntan\n\n\nφ+\nθ\n\n\nφ−\nθ\n\n\n.\n03/05/18"
+      "fullText": "If\n3  tan \u03b8 = 1, then find the value of sin2\u03b8 \u2013 cos2 \u03b8.\n10. A ladder 15 metres long just reaches the top of a vertical wall. If the ladder makes\nan angle of 60\u00b0 with the wall, find the height of the wall.\n11. Simplify (1 + tan2\u03b8) (1 \u2013 sin\u03b8) (1 + sin\u03b8)\n12. If 2sin2\u03b8 \u2013 cos2\u03b8 = 2, then find the value of \u03b8.\n13. Show that\ncos (45\n)\ncos (45 \u2013 )\ntan(60\n) tan(30\n)\n\u00b0+\u03b8 +\n\u00b0 \u03b8\n\u00b0+\u03b8\n\u00b0\u2212\u03b8\n= 1\n14. An observer 1.5 metres tall is 20.5 metres away from a tower 22 metres high.\nDetermine the angle of elevation of the top of the tower from the eye of the\nobserver.\n15. Show that tan4\u03b8 + tan2\u03b8 = sec4\u03b8 \u2013 sec2\u03b8.\n03/05/18\n(E) Long Answer Questions\nSample Question 1 : A spherical balloon of radius r subtends an angle \u03b8 at the eye of\nan observer. If the angle of elevation of its centre is \u03c6, find the height of the centre of\nthe balloon.\nSolution :  In Fig. 8.3, O is the centre of balloon, whose radius OP = r and \u2220PAQ = \u03b8.\nAlso, \u2220OAB = \u03c6.\nLet the height of the centre of the balloon be h. Thus OB = h.\nNow, from \u2206OAP, sin 2\n\u03b8  = r\nd , where OA = d\n(1)\nAlso from \u2206OAB, sin \uf066 = h\nd .\n(2)\nFrom (1) and (2), we get\nsin\nsin 2\nh\nh\nd\nr\nr\nd\n\u03c6 =\n=\n\u03b8\nor\nh = r sin \u03c6 cosec 2\n\u03b8 .\nSample Question 2 : From a balloon vertically above a straight road, the angles of\ndepression of two cars at an instant are found to be 45\u00b0 and 60\u00b0.  If the cars are 100 m\napart, find the height of the balloon.\n03/05/18\nSolution : Let the height of the balloon at P be h meters (see Fig. 8.4). Let A and B be\nthe two cars. Thus AB = 100 m. From \u2206PAQ, AQ = PQ = h\nNow from \u2206PBQ,\nPQ\nBQ = tan 60\u00b0 =\n3    or\n\u2013100\nh\nh\n=\nor\nh =\n3 (h \u2013100)\nTherefore,   h =\n100 3\n3 \u20131 = 50 (3 +\n3 )\ni.e., the height of the balloon is 50 (3 +\n3 ) m.\nSample Question 3 : The angle of elevation of a cloud from a point h metres above\nthe surface of a lake is \u03b8 and the angle of depression of its reflection in the lake is \u03c6.\nProve that the height of the cloud above the lake is\ntan\ntan\ntan\ntan\nh \uf007\n\uf008\n\u03c6+\n\u03b8\n\uf009\n\uf00a\n\u03c6\u2212\n\u03b8\n\uf00b\n\uf00c\n.\nSolution : Let P be the cloud and Q be its reflection in the lake (see Fig. 8.5). Let A be\nthe point of observation such that AB = h.\n03/05/18\nLet the height of the cloud above the lake be x. Let AL = d.\nNow from \u2206PAL, x h\nd\n\u2212\n= tan \u03b8\n(1)\nFrom \u2206QAL, x\nh\nd\n+\n= tan\u03c6\n(2)\nFrom (1) and (2), we get\ntan\n\u2013\ntan\nx\nh\nx\nh\n+\n\u03c6\n=\n\u03b8\nor\ntan\ntan\ntan\ntan\nx\nh\n\u03c6+\n\u03b8\n=\n\u03c6\u2212\n\u03b8\nTherefore, x = h tan\ntan\ntan\ntan\n\uf007\n\uf008\n\u03c6+\n\u03b8\n\uf009\n\uf00a\n\u03c6\u2212\n\u03b8\n\uf00b\n\uf00c\n.\n03/05/18"
     },
     {
       "qNo": 1,
       "exercise": "EXERCISE 8.4",
       "type": "long_answer",
-      "stem": "If cosecθ + cotθ = p, then prove that cosθ =\np\np\n−\n+ .",
+      "stem": "If cosec\u03b8 + cot\u03b8 = p, then prove that cos\u03b8 =\np\np\n\u2212\n+ .",
       "options": [],
-      "fullText": "If cosecθ + cotθ = p, then prove that cosθ =\np\np\n−\n+ ."
+      "fullText": "If cosec\u03b8 + cot\u03b8 = p, then prove that cos\u03b8 =\np\np\n\u2212\n+ ."
     },
     {
       "qNo": 2,
       "exercise": "EXERCISE 8.4",
       "type": "long_answer",
-      "stem": "Prove that\nsec\ncosec\ntan\ncot\nθ+\nθ =\nθ +\nθ",
+      "stem": "Prove that\nsec\ncosec\ntan\ncot\n\u03b8+\n\u03b8 =\n\u03b8 +\n\u03b8",
       "options": [],
-      "fullText": "Prove that\nsec\ncosec\ntan\ncot\nθ+\nθ =\nθ +\nθ"
+      "fullText": "Prove that\nsec\ncosec\ntan\ncot\n\u03b8+\n\u03b8 =\n\u03b8 +\n\u03b8"
     },
     {
       "qNo": 3,
       "exercise": "EXERCISE 8.4",
       "type": "long_answer",
-      "stem": "The angle of elevation of the top of a tower from certain point is 30°. If the\nobserver moves 20 metres towards the tower, the angle of elevation of the top\nincreases by 15°. Find the height of the tower.",
+      "stem": "The angle of elevation of the top of a tower from certain point is 30\u00b0. If the\nobserver moves 20 metres towards the tower, the angle of elevation of the top\nincreases by 15\u00b0. Find the height of the tower.",
       "options": [],
-      "fullText": "The angle of elevation of the top of a tower from certain point is 30°. If the\nobserver moves 20 metres towards the tower, the angle of elevation of the top\nincreases by 15°. Find the height of the tower."
+      "fullText": "The angle of elevation of the top of a tower from certain point is 30\u00b0. If the\nobserver moves 20 metres towards the tower, the angle of elevation of the top\nincreases by 15\u00b0. Find the height of the tower."
     },
     {
       "qNo": 4,
       "exercise": "EXERCISE 8.4",
       "type": "long_answer",
-      "stem": "If 1 + sin2θ = 3sinθ  cosθ , then prove that tanθ  = 1 or 1\n2 .",
+      "stem": "If 1 + sin2\u03b8 = 3sin\u03b8  cos\u03b8 , then prove that tan\u03b8  = 1 or 1\n2 .",
       "options": [],
-      "fullText": "If 1 + sin2θ = 3sinθ  cosθ , then prove that tanθ  = 1 or 1\n2 ."
+      "fullText": "If 1 + sin2\u03b8 = 3sin\u03b8  cos\u03b8 , then prove that tan\u03b8  = 1 or 1\n2 ."
     },
     {
       "qNo": 5,
       "exercise": "EXERCISE 8.4",
       "type": "long_answer",
-      "stem": "Given that sinθ + 2cosθ = 1, then prove that 2sinθ – cosθ = 2.",
+      "stem": "Given that sin\u03b8 + 2cos\u03b8 = 1, then prove that 2sin\u03b8 \u2013 cos\u03b8 = 2.",
       "options": [],
-      "fullText": "Given that sinθ + 2cosθ = 1, then prove that 2sinθ – cosθ = 2."
+      "fullText": "Given that sin\u03b8 + 2cos\u03b8 = 1, then prove that 2sin\u03b8 \u2013 cos\u03b8 = 2."
     },
     {
       "qNo": 6,
@@ -512,25 +530,25 @@
       "qNo": 7,
       "exercise": "EXERCISE 8.4",
       "type": "long_answer",
-      "stem": "The shadow of a tower standing on a level plane is found to be 50 m longer when\nSun’s elevation is 30° than when it is 60°. Find the height of the tower.",
+      "stem": "The shadow of a tower standing on a level plane is found to be 50 m longer when\nSun\u2019s elevation is 30\u00b0 than when it is 60\u00b0. Find the height of the tower.",
       "options": [],
-      "fullText": "The shadow of a tower standing on a level plane is found to be 50 m longer when\nSun’s elevation is 30° than when it is 60°. Find the height of the tower."
+      "fullText": "The shadow of a tower standing on a level plane is found to be 50 m longer when\nSun\u2019s elevation is 30\u00b0 than when it is 60\u00b0. Find the height of the tower."
     },
     {
       "qNo": 8,
       "exercise": "EXERCISE 8.4",
       "type": "long_answer",
-      "stem": "A vertical tower stands on a horizontal plane and is surmounted by a vertical flag\nstaff of height h. At a point on the plane, the angles of elevation of the bottom and\nthe top of the flag staff are α and β, respectively. Prove that the height of the\ntower is\ntan\ntan\ntan\nh\n\n\nα\n\n\nβ−\nα\n\n.",
+      "stem": "A vertical tower stands on a horizontal plane and is surmounted by a vertical flag\nstaff of height h. At a point on the plane, the angles of elevation of the bottom and\nthe top of the flag staff are \u03b1 and \u03b2, respectively. Prove that the height of the\ntower is\ntan\ntan\ntan\nh\n\uf007\n\uf008\n\u03b1\n\uf009\n\uf00a\n\u03b2\u2212\n\u03b1\n\uf00b\n\uf00c.",
       "options": [],
-      "fullText": "A vertical tower stands on a horizontal plane and is surmounted by a vertical flag\nstaff of height h. At a point on the plane, the angles of elevation of the bottom and\nthe top of the flag staff are α and β, respectively. Prove that the height of the\ntower is\ntan\ntan\ntan\nh\n\n\nα\n\n\nβ−\nα\n\n."
+      "fullText": "A vertical tower stands on a horizontal plane and is surmounted by a vertical flag\nstaff of height h. At a point on the plane, the angles of elevation of the bottom and\nthe top of the flag staff are \u03b1 and \u03b2, respectively. Prove that the height of the\ntower is\ntan\ntan\ntan\nh\n\uf007\n\uf008\n\u03b1\n\uf009\n\uf00a\n\u03b2\u2212\n\u03b1\n\uf00b\n\uf00c."
     },
     {
       "qNo": 9,
       "exercise": "EXERCISE 8.4",
       "type": "long_answer",
-      "stem": "If tanθ + secθ = l, then prove that secθ =\nl\nl\n+ .\n10. If sinθ + cosθ = p and secθ + cosecθ = q, then prove that q (p2 – 1) = 2p.\n11. If a sinθ + b cosθ = c, then prove that a cosθ – b sinθ =\n–\na\nb\nc\n+\n.\n12. Prove that\n1 sec – tan\n1 sec\ntan\n+\nθ\nθ\n+\nθ+\nθ = 1 –sin\ncos\nθ\nθ\n13. The angle of elevation of the top of a tower 30 m high from the foot of another\ntower in the same plane is 60° and the angle of elevation of the top of the second\ntower from the foot of the first tower is 30°. Find the distance between the two\ntowers and also the height of the other tower.\n03/05/18\n14. From the top of a tower h m high, the angles of depression of two objects, which\nare in line with the foot of the tower are α and β (β > α). Find the distance\nbetween the two objects.\n15. A ladder rests against a vertical wall at an inclination α to the horizontal. Its foot\nis pulled away from the wall through a distance p so that its upper end slides a\ndistance q down the wall and then the ladder makes an angle β to the horizontal.\nShow that\ncos\n– cos\nsin\n– sin\np\nq\nβ\nα\n=\nα\nβ .\n16. The angle of elevation of the top of a vertical tower from a point on the ground is\n60o . From another point 10 m vertically above the first, its angle of elevation is\n45o. Find the height of the tower.\n17. A window of a house is h metres above the ground. From the window, the angles\nof elevation and depression of the top and the bottom of another house situated on\nthe opposite side of the lane are found to be α and β,  respectively. Prove that the\nheight of the other house is h ( 1 + tan α  cot β ) metres.\n18. The lower window of a house is at a height of 2 m above the ground and its upper\nwindow is 4 m vertically above the lower window. At certain instant the angles of\nelevation of a balloon from these windows are observed to be 60o and 30o,\nrespectively. Find the height of the balloon above the ground.\n03/05/18",
+      "stem": "If tan\u03b8 + sec\u03b8 = l, then prove that sec\u03b8 =\nl\nl\n+ .\n10. If sin\u03b8 + cos\u03b8 = p and sec\u03b8 + cosec\u03b8 = q, then prove that q (p2 \u2013 1) = 2p.\n11. If a sin\u03b8 + b cos\u03b8 = c, then prove that a cos\u03b8 \u2013 b sin\u03b8 =\n\u2013\na\nb\nc\n+\n.\n12. Prove that\n1 sec \u2013 tan\n1 sec\ntan\n+\n\u03b8\n\u03b8\n+\n\u03b8+\n\u03b8 = 1 \u2013sin\ncos\n\u03b8\n\u03b8\n13. The angle of elevation of the top of a tower 30 m high from the foot of another\ntower in the same plane is 60\u00b0 and the angle of elevation of the top of the second\ntower from the foot of the first tower is 30\u00b0. Find the distance between the two\ntowers and also the height of the other tower.\n03/05/18\n14. From the top of a tower h m high, the angles of depression of two objects, which\nare in line with the foot of the tower are \u03b1 and \u03b2 (\u03b2 > \u03b1). Find the distance\nbetween the two objects.\n15. A ladder rests against a vertical wall at an inclination \u03b1 to the horizontal. Its foot\nis pulled away from the wall through a distance p so that its upper end slides a\ndistance q down the wall and then the ladder makes an angle \u03b2 to the horizontal.\nShow that\ncos\n\u2013 cos\nsin\n\u2013 sin\np\nq\n\u03b2\n\u03b1\n=\n\u03b1\n\u03b2 .\n16. The angle of elevation of the top of a vertical tower from a point on the ground is\n60o . From another point 10 m vertically above the first, its angle of elevation is\n45o. Find the height of the tower.\n17. A window of a house is h metres above the ground. From the window, the angles\nof elevation and depression of the top and the bottom of another house situated on\nthe opposite side of the lane are found to be \u03b1 and \u03b2,  respectively. Prove that the\nheight of the other house is h ( 1 + tan \u03b1  cot \u03b2 ) metres.\n18. The lower window of a house is at a height of 2 m above the ground and its upper\nwindow is 4 m vertically above the lower window. At certain instant the angles of\nelevation of a balloon from these windows are observed to be 60o and 30o,\nrespectively. Find the height of the balloon above the ground.\n03/05/18",
       "options": [],
-      "fullText": "If tanθ + secθ = l, then prove that secθ =\nl\nl\n+ .\n10. If sinθ + cosθ = p and secθ + cosecθ = q, then prove that q (p2 – 1) = 2p.\n11. If a sinθ + b cosθ = c, then prove that a cosθ – b sinθ =\n–\na\nb\nc\n+\n.\n12. Prove that\n1 sec – tan\n1 sec\ntan\n+\nθ\nθ\n+\nθ+\nθ = 1 –sin\ncos\nθ\nθ\n13. The angle of elevation of the top of a tower 30 m high from the foot of another\ntower in the same plane is 60° and the angle of elevation of the top of the second\ntower from the foot of the first tower is 30°. Find the distance between the two\ntowers and also the height of the other tower.\n03/05/18\n14. From the top of a tower h m high, the angles of depression of two objects, which\nare in line with the foot of the tower are α and β (β > α). Find the distance\nbetween the two objects.\n15. A ladder rests against a vertical wall at an inclination α to the horizontal. Its foot\nis pulled away from the wall through a distance p so that its upper end slides a\ndistance q down the wall and then the ladder makes an angle β to the horizontal.\nShow that\ncos\n– cos\nsin\n– sin\np\nq\nβ\nα\n=\nα\nβ .\n16. The angle of elevation of the top of a vertical tower from a point on the ground is\n60o . From another point 10 m vertically above the first, its angle of elevation is\n45o. Find the height of the tower.\n17. A window of a house is h metres above the ground. From the window, the angles\nof elevation and depression of the top and the bottom of another house situated on\nthe opposite side of the lane are found to be α and β,  respectively. Prove that the\nheight of the other house is h ( 1 + tan α  cot β ) metres.\n18. The lower window of a house is at a height of 2 m above the ground and its upper\nwindow is 4 m vertically above the lower window. At certain instant the angles of\nelevation of a balloon from these windows are observed to be 60o and 30o,\nrespectively. Find the height of the balloon above the ground.\n03/05/18"
+      "fullText": "If tan\u03b8 + sec\u03b8 = l, then prove that sec\u03b8 =\nl\nl\n+ .\n10. If sin\u03b8 + cos\u03b8 = p and sec\u03b8 + cosec\u03b8 = q, then prove that q (p2 \u2013 1) = 2p.\n11. If a sin\u03b8 + b cos\u03b8 = c, then prove that a cos\u03b8 \u2013 b sin\u03b8 =\n\u2013\na\nb\nc\n+\n.\n12. Prove that\n1 sec \u2013 tan\n1 sec\ntan\n+\n\u03b8\n\u03b8\n+\n\u03b8+\n\u03b8 = 1 \u2013sin\ncos\n\u03b8\n\u03b8\n13. The angle of elevation of the top of a tower 30 m high from the foot of another\ntower in the same plane is 60\u00b0 and the angle of elevation of the top of the second\ntower from the foot of the first tower is 30\u00b0. Find the distance between the two\ntowers and also the height of the other tower.\n03/05/18\n14. From the top of a tower h m high, the angles of depression of two objects, which\nare in line with the foot of the tower are \u03b1 and \u03b2 (\u03b2 > \u03b1). Find the distance\nbetween the two objects.\n15. A ladder rests against a vertical wall at an inclination \u03b1 to the horizontal. Its foot\nis pulled away from the wall through a distance p so that its upper end slides a\ndistance q down the wall and then the ladder makes an angle \u03b2 to the horizontal.\nShow that\ncos\n\u2013 cos\nsin\n\u2013 sin\np\nq\n\u03b2\n\u03b1\n=\n\u03b1\n\u03b2 .\n16. The angle of elevation of the top of a vertical tower from a point on the ground is\n60o . From another point 10 m vertically above the first, its angle of elevation is\n45o. Find the height of the tower.\n17. A window of a house is h metres above the ground. From the window, the angles\nof elevation and depression of the top and the bottom of another house situated on\nthe opposite side of the lane are found to be \u03b1 and \u03b2,  respectively. Prove that the\nheight of the other house is h ( 1 + tan \u03b1  cot \u03b2 ) metres.\n18. The lower window of a house is at a height of 2 m above the ground and its upper\nwindow is 4 m vertically above the lower window. At certain instant the angles of\nelevation of a balloon from these windows are observed to be 60o and 30o,\nrespectively. Find the height of the balloon above the ground.\n03/05/18"
     }
   ]
 }

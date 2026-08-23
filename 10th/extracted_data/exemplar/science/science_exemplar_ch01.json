@@ -26,13 +26,15 @@
           "text": "Combustion of Liquefied Petroleum Gas (LPG)"
         }
       ],
-      "fullText": "Which of the following is not a physical change?\n(a) Boiling of water to give water vapour\n(b) Melting of ice to give water\n(c) Dissolution of salt in water\n(d) Combustion of Liquefied Petroleum Gas (LPG)"
+      "fullText": "Which of the following is not a physical change?\n(a) Boiling of water to give water vapour\n(b) Melting of ice to give water\n(c) Dissolution of salt in water\n(d) Combustion of Liquefied Petroleum Gas (LPG)",
+      "answer": "d",
+      "hint": ""
     },
     {
       "qNo": 2,
       "section": "Multiple Choice Questions",
       "type": "mcq",
-      "stem": "The following reaction is an example of a\n4NH3(g) + 5O2(g) → 4NO(g) + 6H2O(g)\n(i) displacement reaction\n(ii) combination reaction\n(iii) redox reaction\n(iv) neutralisation reaction",
+      "stem": "The following reaction is an example of a\n4NH3(g) + 5O2(g) \u2192 4NO(g) + 6H2O(g)\n(i) displacement reaction\n(ii) combination reaction\n(iii) redox reaction\n(iv) neutralisation reaction",
       "options": [
         {
           "key": "a",
@@ -51,13 +53,15 @@
           "text": "(iii) and (iv)"
         }
       ],
-      "fullText": "The following reaction is an example of a\n4NH3(g) + 5O2(g) → 4NO(g) + 6H2O(g)\n(i) displacement reaction\n(ii) combination reaction\n(iii) redox reaction\n(iv) neutralisation reaction\n(a) (i) and (iv)\n(b) (ii) and (iii)\n(c) (i) and (iii)\n(d) (iii) and (iv)"
+      "fullText": "The following reaction is an example of a\n4NH3(g) + 5O2(g) \u2192 4NO(g) + 6H2O(g)\n(i) displacement reaction\n(ii) combination reaction\n(iii) redox reaction\n(iv) neutralisation reaction\n(a) (i) and (iv)\n(b) (ii) and (iii)\n(c) (i) and (iii)\n(d) (iii) and (iv)",
+      "answer": "c",
+      "hint": ""
     },
     {
       "qNo": 3,
       "section": "Multiple Choice Questions",
       "type": "mcq",
-      "stem": "Which of the following statements about the given reaction are correct?\n3Fe(s) + 4H2O(g) → Fe3O4(s) + 4H2(g)\n(i) Iron metal is getting oxidised\n(ii) Water is getting reduced\n(iii) Water is acting as reducing agent\n(iv) Water is acting as oxidising agent",
+      "stem": "Which of the following statements about the given reaction are correct?\n3Fe(s) + 4H2O(g) \u2192 Fe3O4(s) + 4H2(g)\n(i) Iron metal is getting oxidised\n(ii) Water is getting reduced\n(iii) Water is acting as reducing agent\n(iv) Water is acting as oxidising agent",
       "options": [
         {
           "key": "a",
@@ -76,7 +80,9 @@
           "text": "(ii) and (iv)"
         }
       ],
-      "fullText": "Which of the following statements about the given reaction are correct?\n3Fe(s) + 4H2O(g) → Fe3O4(s) + 4H2(g)\n(i) Iron metal is getting oxidised\n(ii) Water is getting reduced\n(iii) Water is acting as reducing agent\n(iv) Water is acting as oxidising agent\n(a) (i), (ii) and (iii)\n(b) (iii) and (iv)\n(c) (i), (ii) and (iv)\n(d) (ii) and (iv)"
+      "fullText": "Which of the following statements about the given reaction are correct?\n3Fe(s) + 4H2O(g) \u2192 Fe3O4(s) + 4H2(g)\n(i) Iron metal is getting oxidised\n(ii) Water is getting reduced\n(iii) Water is acting as reducing agent\n(iv) Water is acting as oxidising agent\n(a) (i), (ii) and (iii)\n(b) (iii) and (iv)\n(c) (i), (ii) and (iv)\n(d) (ii) and (iv)",
+      "answer": "c",
+      "hint": "The substance which oxidises the other substances in a chemical reaction is known as an oxidising agent. Likewise, the substance which reduces the other substance in a chemical reaction is known as reducing agent."
     },
     {
       "qNo": 4,
@@ -101,7 +107,9 @@
           "text": "(iii) and (iv)\n%JGOKECN 4GCEVKQPU\nCPF 'SWCVKQPU\n%*#26'4"
         }
       ],
-      "fullText": "Which of the following are exothermic processes?\n(i) Reaction of water with quick lime\n(ii) Dilution of an acid\n(iii) Evaporation of water\n(iv) Sublimation of camphor (crystals)\n(a) (i) and (ii)\n(b) (ii) and (iii)\n(c) (i) and (iv)\n(d) (iii) and (iv)\n%JGOKECN 4GCEVKQPU\nCPF 'SWCVKQPU\n%*#26'4"
+      "fullText": "Which of the following are exothermic processes?\n(i) Reaction of water with quick lime\n(ii) Dilution of an acid\n(iii) Evaporation of water\n(iv) Sublimation of camphor (crystals)\n(a) (i) and (ii)\n(b) (ii) and (iii)\n(c) (i) and (iv)\n(d) (iii) and (iv)\n%JGOKECN 4GCEVKQPU\nCPF 'SWCVKQPU\n%*#26'4",
+      "answer": "a",
+      "hint": ""
     },
     {
       "qNo": 5,
@@ -126,7 +134,9 @@
           "text": "(ii) and (iii)"
         }
       ],
-      "fullText": "Three beakers labelled as A, B and C each containing 25 mL\nof water were taken. A small amount of NaOH, anhydrous\nCuSO4 and NaCl were added to the beakers A, B and C\nrespectively. It was observed that there was an increase in\nthe temperature of the solutions contained in beakers A and\nB, whereas in case of beaker C, the temperature of the\nsolution falls. Which one of the following statement(s) is(are)\ncorrect?\n(i) In beakers A and B, exothermic process has occurred.\n(ii) In beakers A and B, endothermic process has occurred.\n(iii) In beaker C exothermic process has occurred.\n(iv) In beaker C endothermic process has occurred.\n(a) (i) only\n(b) (ii) only\n(c) (i) and (iv)\n(d) (ii) and (iii)"
+      "fullText": "Three beakers labelled as A, B and C each containing 25 mL\nof water were taken. A small amount of NaOH, anhydrous\nCuSO4 and NaCl were added to the beakers A, B and C\nrespectively. It was observed that there was an increase in\nthe temperature of the solutions contained in beakers A and\nB, whereas in case of beaker C, the temperature of the\nsolution falls. Which one of the following statement(s) is(are)\ncorrect?\n(i) In beakers A and B, exothermic process has occurred.\n(ii) In beakers A and B, endothermic process has occurred.\n(iii) In beaker C exothermic process has occurred.\n(iv) In beaker C endothermic process has occurred.\n(a) (i) only\n(b) (ii) only\n(c) (i) and (iv)\n(d) (ii) and (iii)",
+      "answer": "c",
+      "hint": ""
     },
     {
       "qNo": 6,
@@ -151,13 +161,15 @@
           "text": "KMnO4 is an unstable compound and decomposes in presence\nof FeSO4 to a colourless compound."
         }
       ],
-      "fullText": "A dilute ferrous sulphate solution was gradually added to the\nbeaker containing acidified permanganate solution. The light\npurple colour of the solution fades and finally disappears.\nWhich of the following is the correct explanation for the\nobservation?\n(a) KMnO4 is an oxidising agent, it oxidises  FeSO4\n(b) FeSO4  acts as an oxidising agent and oxidises KMnO4\n(c) The colour disappears due to dilution; no reaction is involved\n(d) KMnO4 is an unstable compound and decomposes in presence\nof FeSO4 to a colourless compound."
+      "fullText": "A dilute ferrous sulphate solution was gradually added to the\nbeaker containing acidified permanganate solution. The light\npurple colour of the solution fades and finally disappears.\nWhich of the following is the correct explanation for the\nobservation?\n(a) KMnO4 is an oxidising agent, it oxidises  FeSO4\n(b) FeSO4  acts as an oxidising agent and oxidises KMnO4\n(c) The colour disappears due to dilution; no reaction is involved\n(d) KMnO4 is an unstable compound and decomposes in presence\nof FeSO4 to a colourless compound.",
+      "answer": "a",
+      "hint": ""
     },
     {
       "qNo": 7,
       "section": "Multiple Choice Questions",
       "type": "mcq",
-      "stem": "Which among the following is(are) double displacement\nreaction(s)?\n(i) Pb + CuCl2 → PbCl2 + Cu\n(ii) Na2SO4 + BaCl2 → BaSO4 + 2NaCl\n(iii) C + O2 → CO2\n(iv) CH4 + 2O2 → CO2 + 2H2O",
+      "stem": "Which among the following is(are) double displacement\nreaction(s)?\n(i) Pb + CuCl2 \u2192 PbCl2 + Cu\n(ii) Na2SO4 + BaCl2 \u2192 BaSO4 + 2NaCl\n(iii) C + O2 \u2192 CO2\n(iv) CH4 + 2O2 \u2192 CO2 + 2H2O",
       "options": [
         {
           "key": "a",
@@ -176,7 +188,9 @@
           "text": "(iii) and (iv)"
         }
       ],
-      "fullText": "Which among the following is(are) double displacement\nreaction(s)?\n(i) Pb + CuCl2 → PbCl2 + Cu\n(ii) Na2SO4 + BaCl2 → BaSO4 + 2NaCl\n(iii) C + O2 → CO2\n(iv) CH4 + 2O2 → CO2 + 2H2O\n(a) (i) and (iv)\n(b) (ii) only\n(c) (i) and (ii)\n(d) (iii) and (iv)"
+      "fullText": "Which among the following is(are) double displacement\nreaction(s)?\n(i) Pb + CuCl2 \u2192 PbCl2 + Cu\n(ii) Na2SO4 + BaCl2 \u2192 BaSO4 + 2NaCl\n(iii) C + O2 \u2192 CO2\n(iv) CH4 + 2O2 \u2192 CO2 + 2H2O\n(a) (i) and (iv)\n(b) (ii) only\n(c) (i) and (ii)\n(d) (iii) and (iv)",
+      "answer": "b",
+      "hint": ""
     },
     {
       "qNo": 8,
@@ -201,7 +215,9 @@
           "text": "(iv) only"
         }
       ],
-      "fullText": "Which among the following statement(s) is(are) true? Exposure of\nsilver chloride  to sunlight for a long duration turns grey due to\n(i) the formation of silver by decomposition of silver chloride\n(ii)  sublimation of silver chloride\n(iii) decomposition of chlorine gas from silver chloride\n(iv) oxidation of silver chloride\n(a) (i) only\n(b) (i) and (iii)\n(c) (ii) and (iii)\n(d) (iv) only"
+      "fullText": "Which among the following statement(s) is(are) true? Exposure of\nsilver chloride  to sunlight for a long duration turns grey due to\n(i) the formation of silver by decomposition of silver chloride\n(ii)  sublimation of silver chloride\n(iii) decomposition of chlorine gas from silver chloride\n(iv) oxidation of silver chloride\n(a) (i) only\n(b) (i) and (iii)\n(c) (ii) and (iii)\n(d) (iv) only",
+      "answer": "a",
+      "hint": ""
     },
     {
       "qNo": 9,
@@ -226,7 +242,9 @@
           "text": "(iii) and (iv)"
         }
       ],
-      "fullText": "Solid calcium oxide  reacts vigorously with water to form calcium\nhydroxide  accompanied by liberation of heat. This process is\ncalled slaking of lime.  Calcium hydroxide dissolves in water to\nform its solution called lime water. Which among the following is\n(are) true about slaking of lime and the solution formed?\n(i) It is an endothermic reaction\n(ii) It is an exothermic reaction\n(iii) The pH of the resulting solution will be more than seven\n(iv) The pH of the resulting solution will be less than seven\n(a) (i) and (ii)\n(b) (ii) and (iii)\n(c) (i) and (iv)\n(d) (iii) and (iv)"
+      "fullText": "Solid calcium oxide  reacts vigorously with water to form calcium\nhydroxide  accompanied by liberation of heat. This process is\ncalled slaking of lime.  Calcium hydroxide dissolves in water to\nform its solution called lime water. Which among the following is\n(are) true about slaking of lime and the solution formed?\n(i) It is an endothermic reaction\n(ii) It is an exothermic reaction\n(iii) The pH of the resulting solution will be more than seven\n(iv) The pH of the resulting solution will be less than seven\n(a) (i) and (ii)\n(b) (ii) and (iii)\n(c) (i) and (iv)\n(d) (iii) and (iv)",
+      "answer": "b",
+      "hint": ""
     },
     {
       "qNo": 10,
@@ -251,7 +269,9 @@
           "text": "(ii) and (iv)"
         }
       ],
-      "fullText": "Barium chloride on reacting with ammonium sulphate forms\nbarium sulphate and ammonium chloride. Which of the following\ncorrectly represents the type of the reaction involved?\n(i) Displacement reaction\n(ii) Precipitation reaction\n(iii) Combination reaction\n(iv) Double displacement reaction\n(a) (i) only\n(b) (ii) only\n(c) (iv) only\n(d) (ii) and (iv)"
+      "fullText": "Barium chloride on reacting with ammonium sulphate forms\nbarium sulphate and ammonium chloride. Which of the following\ncorrectly represents the type of the reaction involved?\n(i) Displacement reaction\n(ii) Precipitation reaction\n(iii) Combination reaction\n(iv) Double displacement reaction\n(a) (i) only\n(b) (ii) only\n(c) (iv) only\n(d) (ii) and (iv)",
+      "answer": "d",
+      "hint": ""
     },
     {
       "qNo": 11,
@@ -276,7 +296,9 @@
           "text": "1:2"
         }
       ],
-      "fullText": "Electrolysis of water is a decomposition reaction. The mole ratio of\nhydrogen and oxygen gases liberated during electrolysis of water is\n(a) 1:1\n(b) 2:1\n(c) 4:1\n(d) 1:2"
+      "fullText": "Electrolysis of water is a decomposition reaction. The mole ratio of\nhydrogen and oxygen gases liberated during electrolysis of water is\n(a) 1:1\n(b) 2:1\n(c) 4:1\n(d) 1:2",
+      "answer": "b",
+      "hint": ""
     },
     {
       "qNo": 12,
@@ -301,7 +323,9 @@
           "text": "(ii) and (iv)"
         }
       ],
-      "fullText": "Which of the following is(are) an endothermic process(es)?\n(i) Dilution of sulphuric acid\n(ii) Sublimation of dry ice\n(iii) Condensation of water vapours\n(iv) Evaporation of water\n(a) (i) and (iii)\n(b) (ii) only\n(c) (iii) only\n(d) (ii) and (iv)"
+      "fullText": "Which of the following is(are) an endothermic process(es)?\n(i) Dilution of sulphuric acid\n(ii) Sublimation of dry ice\n(iii) Condensation of water vapours\n(iv) Evaporation of water\n(a) (i) and (iii)\n(b) (ii) only\n(c) (iii) only\n(d) (ii) and (iv)",
+      "answer": "d",
+      "hint": ""
     },
     {
       "qNo": 13,
@@ -326,7 +350,9 @@
           "text": "Potassium sulphate"
         }
       ],
-      "fullText": "In the double displacement reaction between aqueous potassium\niodide and aqueous lead nitrate, a yellow precipitate of lead iodide\nis formed. While performing the activity if lead nitrate is not\navailable, which of the following can be used in place of lead\nnitrate?\n(a) Lead sulphate (insoluble)\n(b) Lead acetate\n(c) Ammonium nitrate\n(d) Potassium sulphate"
+      "fullText": "In the double displacement reaction between aqueous potassium\niodide and aqueous lead nitrate, a yellow precipitate of lead iodide\nis formed. While performing the activity if lead nitrate is not\navailable, which of the following can be used in place of lead\nnitrate?\n(a) Lead sulphate (insoluble)\n(b) Lead acetate\n(c) Ammonium nitrate\n(d) Potassium sulphate",
+      "answer": "b",
+      "hint": "Lead sulphate being insoluble will not dissociate into Pb2+ ions."
     },
     {
       "qNo": 14,
@@ -351,13 +377,15 @@
           "text": "Helium or nitrogen"
         }
       ],
-      "fullText": "Which of the following gases can be used for storage of fresh\nsample of an oil for a long time?\n(a) Carbon  dioxide or oxygen\n(b) Nitrogen or oxygen\n(c) Carbon dioxide or helium\n(d) Helium or nitrogen"
+      "fullText": "Which of the following gases can be used for storage of fresh\nsample of an oil for a long time?\n(a) Carbon  dioxide or oxygen\n(b) Nitrogen or oxygen\n(c) Carbon dioxide or helium\n(d) Helium or nitrogen",
+      "answer": "d",
+      "hint": ""
     },
     {
       "qNo": 15,
       "section": "Multiple Choice Questions",
       "type": "mcq",
-      "stem": "The following reaction is used for the preparation of oxygen gas\nin the laboratory\n2KClO3 (s)\nHeat\nt\nCatalys\n⎯⎯⎯⎯⎯→ 2KCl (s) + 3O2 (g)\nWhich of the following statement(s) is(are) correct about the\nreaction?",
+      "stem": "The following reaction is used for the preparation of oxygen gas\nin the laboratory\n2KClO3 (s)\nHeat\nt\nCatalys\n\u23af\u23af\u23af\u23af\u23af\u2192 2KCl (s) + 3O2 (g)\nWhich of the following statement(s) is(are) correct about the\nreaction?",
       "options": [
         {
           "key": "a",
@@ -376,7 +404,9 @@
           "text": "It is a photochemical decomposition reaction and exothermic\nin nature"
         }
       ],
-      "fullText": "The following reaction is used for the preparation of oxygen gas\nin the laboratory\n2KClO3 (s)\nHeat\nt\nCatalys\n⎯⎯⎯⎯⎯→ 2KCl (s) + 3O2 (g)\nWhich of the following statement(s) is(are) correct about the\nreaction?\n(a) It is a decomposition reaction and endothermic in nature\n(b) It is a combination reaction\n(c) It is a decomposition reaction and accompanied by release of\nheat\n(d) It is a photochemical decomposition reaction and exothermic\nin nature"
+      "fullText": "The following reaction is used for the preparation of oxygen gas\nin the laboratory\n2KClO3 (s)\nHeat\nt\nCatalys\n\u23af\u23af\u23af\u23af\u23af\u2192 2KCl (s) + 3O2 (g)\nWhich of the following statement(s) is(are) correct about the\nreaction?\n(a) It is a decomposition reaction and endothermic in nature\n(b) It is a combination reaction\n(c) It is a decomposition reaction and accompanied by release of\nheat\n(d) It is a photochemical decomposition reaction and exothermic\nin nature",
+      "answer": "a",
+      "hint": ""
     },
     {
       "qNo": 16,
@@ -401,7 +431,9 @@
           "text": "Heating copper wire in presence of air at high temperature"
         }
       ],
-      "fullText": "Which one of the following processes involve chemical reactions?\n(a) Storing of oxygen gas under pressure in a gas cylinder\n(b) Liquefaction of air\n(c) Keeping petrol in a china dish in the open\n(d) Heating copper wire in presence of air at high temperature"
+      "fullText": "Which one of the following processes involve chemical reactions?\n(a) Storing of oxygen gas under pressure in a gas cylinder\n(b) Liquefaction of air\n(c) Keeping petrol in a china dish in the open\n(d) Heating copper wire in presence of air at high temperature",
+      "answer": "d",
+      "hint": ""
     },
     {
       "qNo": 17,
@@ -411,28 +443,30 @@
       "options": [
         {
           "key": "a",
-          "text": "2H2(l) + O2(l) → 2H2O(g)"
+          "text": "2H2(l) + O2(l) \u2192 2H2O(g)"
         },
         {
           "key": "b",
-          "text": "2H2(g) + O2(l) → 2H2O(l)"
+          "text": "2H2(g) + O2(l) \u2192 2H2O(l)"
         },
         {
           "key": "c",
-          "text": "2H2(g) + O2(g) → 2H2O(l)"
+          "text": "2H2(g) + O2(g) \u2192 2H2O(l)"
         },
         {
           "key": "d",
-          "text": "2H2(g) + O2(g) → 2H2O(g)"
+          "text": "2H2(g) + O2(g) \u2192 2H2O(g)"
         }
       ],
-      "fullText": "In which of the following chemical equations, the abbreviations\nrepresent the correct states of the reactants and products involved\nat reaction temperature?\n(a) 2H2(l) + O2(l) → 2H2O(g)\n(b) 2H2(g) + O2(l) → 2H2O(l)\n(c) 2H2(g) + O2(g) → 2H2O(l)\n(d) 2H2(g) + O2(g) → 2H2O(g)"
+      "fullText": "In which of the following chemical equations, the abbreviations\nrepresent the correct states of the reactants and products involved\nat reaction temperature?\n(a) 2H2(l) + O2(l) \u2192 2H2O(g)\n(b) 2H2(g) + O2(l) \u2192 2H2O(l)\n(c) 2H2(g) + O2(g) \u2192 2H2O(l)\n(d) 2H2(g) + O2(g) \u2192 2H2O(g)",
+      "answer": "d",
+      "hint": ""
     },
     {
       "qNo": 18,
       "section": "Multiple Choice Questions",
       "type": "mcq",
-      "stem": "Which of the following are combination reactions?\n(i) 2KClO3\nHeat\n⎯⎯⎯⎯→ 2KCl  + 3O2\n(ii) MgO + H2O  ⎯→ Mg(OH)2\n(iii) 4Al + 3O2   ⎯→ 2Al2 O3\n(iv) Zn + FeSO4   ⎯→ ZnSO4 + Fe",
+      "stem": "Which of the following are combination reactions?\n(i) 2KClO3\nHeat\n\u23af\u23af\u23af\u23af\u2192 2KCl  + 3O2\n(ii) MgO + H2O  \u23af\u2192 Mg(OH)2\n(iii) 4Al + 3O2   \u23af\u2192 2Al2 O3\n(iv) Zn + FeSO4   \u23af\u2192 ZnSO4 + Fe",
       "options": [
         {
           "key": "a",
@@ -451,7 +485,9 @@
           "text": "(ii) and (iii)"
         }
       ],
-      "fullText": "Which of the following are combination reactions?\n(i) 2KClO3\nHeat\n⎯⎯⎯⎯→ 2KCl  + 3O2\n(ii) MgO + H2O  ⎯→ Mg(OH)2\n(iii) 4Al + 3O2   ⎯→ 2Al2 O3\n(iv) Zn + FeSO4   ⎯→ ZnSO4 + Fe\n(a) (i) and (iii)\n(b) (iii) and (iv)\n(c) (ii) and (iv)\n(d) (ii) and (iii)"
+      "fullText": "Which of the following are combination reactions?\n(i) 2KClO3\nHeat\n\u23af\u23af\u23af\u23af\u2192 2KCl  + 3O2\n(ii) MgO + H2O  \u23af\u2192 Mg(OH)2\n(iii) 4Al + 3O2   \u23af\u2192 2Al2 O3\n(iv) Zn + FeSO4   \u23af\u2192 ZnSO4 + Fe\n(a) (i) and (iii)\n(b) (iii) and (iv)\n(c) (ii) and (iv)\n(d) (ii) and (iii)",
+      "answer": "d",
+      "hint": ""
     },
     {
       "qNo": 19,
@@ -473,25 +509,25 @@
       "qNo": 21,
       "section": "Short Answer Questions",
       "type": "short_answer",
-      "stem": "Complete the missing components/variables given as x and y in\nthe following reactions\n(a) Pb(NO3)2 (aq) + 2KI(aq) ⎯→ PbI2 (x) + 2KNO3(y)\n(b) Cu(s) + 2Ag NO3(aq) ⎯→ Cu(NO3)2(aq) + x(s)\n(c) Zn(s) + H2SO4(aq) ⎯→ ZnSO4(x) + H2(y)\n(d) CaCO3(s)\nx\n⎯⎯⎯\n→ CaO(s) + CO2(g)",
+      "stem": "Complete the missing components/variables given as x and y in\nthe following reactions\n(a) Pb(NO3)2 (aq) + 2KI(aq) \u23af\u2192 PbI2 (x) + 2KNO3(y)\n(b) Cu(s) + 2Ag NO3(aq) \u23af\u2192 Cu(NO3)2(aq) + x(s)\n(c) Zn(s) + H2SO4(aq) \u23af\u2192 ZnSO4(x) + H2(y)\n(d) CaCO3(s)\nx\n\u23af\u23af\u23af\n\u2192 CaO(s) + CO2(g)",
       "options": [],
-      "fullText": "Complete the missing components/variables given as x and y in\nthe following reactions\n(a) Pb(NO3)2 (aq) + 2KI(aq) ⎯→ PbI2 (x) + 2KNO3(y)\n(b) Cu(s) + 2Ag NO3(aq) ⎯→ Cu(NO3)2(aq) + x(s)\n(c) Zn(s) + H2SO4(aq) ⎯→ ZnSO4(x) + H2(y)\n(d) CaCO3(s)\nx\n⎯⎯⎯\n→ CaO(s) + CO2(g)"
+      "fullText": "Complete the missing components/variables given as x and y in\nthe following reactions\n(a) Pb(NO3)2 (aq) + 2KI(aq) \u23af\u2192 PbI2 (x) + 2KNO3(y)\n(b) Cu(s) + 2Ag NO3(aq) \u23af\u2192 Cu(NO3)2(aq) + x(s)\n(c) Zn(s) + H2SO4(aq) \u23af\u2192 ZnSO4(x) + H2(y)\n(d) CaCO3(s)\nx\n\u23af\u23af\u23af\n\u2192 CaO(s) + CO2(g)"
     },
     {
       "qNo": 22,
       "section": "Short Answer Questions",
       "type": "short_answer",
-      "stem": "Which among the following changes are exothermic or\nendothermic in nature?\n(a) Decomposition of ferrous sulphate\n(b) Dilution of sulphuric acid\n(c) Dissolution of sodium hydroxide in water\n(d) Dissolution of ammonium chloride in water\n23. Identify the reducing agent in the following reactions\n(a) 4NH3 + 5O2  ⎯→ 4NO + 6H2O\n(b) H2O + F2  ⎯→ HF  + HOF\n(c) Fe2O3 + 3CO ⎯→ 2Fe + 3CO2\n(d) 2H2 + O2 ⎯→ 2H2O",
+      "stem": "Which among the following changes are exothermic or\nendothermic in nature?\n(a) Decomposition of ferrous sulphate\n(b) Dilution of sulphuric acid\n(c) Dissolution of sodium hydroxide in water\n(d) Dissolution of ammonium chloride in water\n23. Identify the reducing agent in the following reactions\n(a) 4NH3 + 5O2  \u23af\u2192 4NO + 6H2O\n(b) H2O + F2  \u23af\u2192 HF  + HOF\n(c) Fe2O3 + 3CO \u23af\u2192 2Fe + 3CO2\n(d) 2H2 + O2 \u23af\u2192 2H2O",
       "options": [],
-      "fullText": "Which among the following changes are exothermic or\nendothermic in nature?\n(a) Decomposition of ferrous sulphate\n(b) Dilution of sulphuric acid\n(c) Dissolution of sodium hydroxide in water\n(d) Dissolution of ammonium chloride in water\n23. Identify the reducing agent in the following reactions\n(a) 4NH3 + 5O2  ⎯→ 4NO + 6H2O\n(b) H2O + F2  ⎯→ HF  + HOF\n(c) Fe2O3 + 3CO ⎯→ 2Fe + 3CO2\n(d) 2H2 + O2 ⎯→ 2H2O"
+      "fullText": "Which among the following changes are exothermic or\nendothermic in nature?\n(a) Decomposition of ferrous sulphate\n(b) Dilution of sulphuric acid\n(c) Dissolution of sodium hydroxide in water\n(d) Dissolution of ammonium chloride in water\n23. Identify the reducing agent in the following reactions\n(a) 4NH3 + 5O2  \u23af\u2192 4NO + 6H2O\n(b) H2O + F2  \u23af\u2192 HF  + HOF\n(c) Fe2O3 + 3CO \u23af\u2192 2Fe + 3CO2\n(d) 2H2 + O2 \u23af\u2192 2H2O"
     },
     {
       "qNo": 24,
       "section": "Short Answer Questions",
       "type": "short_answer",
-      "stem": "Identify the oxidising agent (oxidant) in the following reactions\n(a) Pb3O4 + 8HCl ⎯→ 3PbCl2 + Cl2 + 4H2O\n(b) 2Mg + O2 ⎯→ 2MgO\n(c) CuSO4  + Zn ⎯→ Cu + ZnSO4\n(d) V2O5 + 5Ca ⎯→ 2V + 5CaO\n(e) 3Fe + 4H2O ⎯→ Fe3O4 + 4H2\n(f) CuO + H2  ⎯→ Cu + H2O",
+      "stem": "Identify the oxidising agent (oxidant) in the following reactions\n(a) Pb3O4 + 8HCl \u23af\u2192 3PbCl2 + Cl2 + 4H2O\n(b) 2Mg + O2 \u23af\u2192 2MgO\n(c) CuSO4  + Zn \u23af\u2192 Cu + ZnSO4\n(d) V2O5 + 5Ca \u23af\u2192 2V + 5CaO\n(e) 3Fe + 4H2O \u23af\u2192 Fe3O4 + 4H2\n(f) CuO + H2  \u23af\u2192 Cu + H2O",
       "options": [],
-      "fullText": "Identify the oxidising agent (oxidant) in the following reactions\n(a) Pb3O4 + 8HCl ⎯→ 3PbCl2 + Cl2 + 4H2O\n(b) 2Mg + O2 ⎯→ 2MgO\n(c) CuSO4  + Zn ⎯→ Cu + ZnSO4\n(d) V2O5 + 5Ca ⎯→ 2V + 5CaO\n(e) 3Fe + 4H2O ⎯→ Fe3O4 + 4H2\n(f) CuO + H2  ⎯→ Cu + H2O"
+      "fullText": "Identify the oxidising agent (oxidant) in the following reactions\n(a) Pb3O4 + 8HCl \u23af\u2192 3PbCl2 + Cl2 + 4H2O\n(b) 2Mg + O2 \u23af\u2192 2MgO\n(c) CuSO4  + Zn \u23af\u2192 Cu + ZnSO4\n(d) V2O5 + 5Ca \u23af\u2192 2V + 5CaO\n(e) 3Fe + 4H2O \u23af\u2192 Fe3O4 + 4H2\n(f) CuO + H2  \u23af\u2192 Cu + H2O"
     },
     {
       "qNo": 25,
@@ -577,9 +613,9 @@
       "qNo": 35,
       "section": "Short Answer Questions",
       "type": "short_answer",
-      "stem": "Balance the following chemical equations and identify the type of\nchemical reaction.\n(a) Mg(s) + Cl2(g) ⎯→ MgCl2(s)\n(b) HgO(s)\nHeat\n⎯⎯⎯⎯→ Hg(l) + O2(g)\n(c) Na(s) + S(s)\nuse\nF\n⎯⎯⎯⎯→ Na2S(s)\n(d) TiCl4(l) + Mg(s) ⎯→ Ti(s) + MgCl2(s)\n(e) CaO(s) + SiO2(s) ⎯→ CaSiO3(s)\n(f) H2O2(l)\nU V\n⎯⎯⎯⎯→ H2O(l) + O2(g)",
+      "stem": "Balance the following chemical equations and identify the type of\nchemical reaction.\n(a) Mg(s) + Cl2(g) \u23af\u2192 MgCl2(s)\n(b) HgO(s)\nHeat\n\u23af\u23af\u23af\u23af\u2192 Hg(l) + O2(g)\n(c) Na(s) + S(s)\nuse\nF\n\u23af\u23af\u23af\u23af\u2192 Na2S(s)\n(d) TiCl4(l) + Mg(s) \u23af\u2192 Ti(s) + MgCl2(s)\n(e) CaO(s) + SiO2(s) \u23af\u2192 CaSiO3(s)\n(f) H2O2(l)\nU V\n\u23af\u23af\u23af\u23af\u2192 H2O(l) + O2(g)",
       "options": [],
-      "fullText": "Balance the following chemical equations and identify the type of\nchemical reaction.\n(a) Mg(s) + Cl2(g) ⎯→ MgCl2(s)\n(b) HgO(s)\nHeat\n⎯⎯⎯⎯→ Hg(l) + O2(g)\n(c) Na(s) + S(s)\nuse\nF\n⎯⎯⎯⎯→ Na2S(s)\n(d) TiCl4(l) + Mg(s) ⎯→ Ti(s) + MgCl2(s)\n(e) CaO(s) + SiO2(s) ⎯→ CaSiO3(s)\n(f) H2O2(l)\nU V\n⎯⎯⎯⎯→ H2O(l) + O2(g)"
+      "fullText": "Balance the following chemical equations and identify the type of\nchemical reaction.\n(a) Mg(s) + Cl2(g) \u23af\u2192 MgCl2(s)\n(b) HgO(s)\nHeat\n\u23af\u23af\u23af\u23af\u2192 Hg(l) + O2(g)\n(c) Na(s) + S(s)\nuse\nF\n\u23af\u23af\u23af\u23af\u2192 Na2S(s)\n(d) TiCl4(l) + Mg(s) \u23af\u2192 Ti(s) + MgCl2(s)\n(e) CaO(s) + SiO2(s) \u23af\u2192 CaSiO3(s)\n(f) H2O2(l)\nU V\n\u23af\u23af\u23af\u23af\u2192 H2O(l) + O2(g)"
     },
     {
       "qNo": 36,

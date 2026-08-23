@@ -15,7 +15,7 @@
         },
         {
           "key": "b",
-          "text": "– 0.5 D"
+          "text": "\u2013 0.5 D"
         },
         {
           "key": "c",
@@ -23,10 +23,12 @@
         },
         {
           "key": "d",
-          "text": "– 0.2 D"
+          "text": "\u2013 0.2 D"
         }
       ],
-      "fullText": "A person cannot see distinctly objects kept beyond 2 m. This defect\ncan be corrected by using a lens of power\n(a) + 0.5 D\n(b) – 0.5 D\n(c) + 0.2 D\n(d) – 0.2 D"
+      "fullText": "A person cannot see distinctly objects kept beyond 2 m. This defect\ncan be corrected by using a lens of power\n(a) + 0.5 D\n(b) \u2013 0.5 D\n(c) + 0.2 D\n(d) \u2013 0.2 D",
+      "answer": "b",
+      "hint": ""
     },
     {
       "qNo": 2,
@@ -51,7 +53,9 @@
           "text": "The far point of his eyes has receded away"
         }
       ],
-      "fullText": "A student sitting on the last bench can read the letters written on\nthe blackboard but is not able to read the letters written in his text\nbook. Which of the following statements is correct?\n(a) The near point of his eyes has receded away\n(b) The near point of his eyes has come closer to him\n(c) The far point of his eyes has come closer to him\n(d) The far point of his eyes has receded away"
+      "fullText": "A student sitting on the last bench can read the letters written on\nthe blackboard but is not able to read the letters written in his text\nbook. Which of the following statements is correct?\n(a) The near point of his eyes has receded away\n(b) The near point of his eyes has come closer to him\n(c) The far point of his eyes has come closer to him\n(d) The far point of his eyes has receded away",
+      "answer": "a",
+      "hint": ""
     },
     {
       "qNo": 3,
@@ -76,7 +80,9 @@
           "text": "(iv)\n$W QRRQ WKH VXQ DSSHDUV ZKLWH DV\nD  OLJKW LV OHDVW VFDWWHUHG\nE  DOO WKH FRORXUV RI WKH ZKLWH OLJKW DUH VFDWWHUHG DZD\\\nF  EOXH FRORXU LV VFDWWHUHG WKH PRVW\nG  UHG FRORXU LV VFDWWHUHG WKH PRVW\n:KLFK  RI  WKH  IROORZLQJ  SKHQRPHQD  RI  OLJKW  DUH  LQYROYHG  LQ  WKH\nIRUPDWLRQ RI D UDLQERZ\"\nD  5HIOHFWLRQ UHIUDFWLRQ DQG GLVSHUVLRQ\nE  5HIUDFWLRQ GLVSHUVLRQ DQG WRWDO LQWHUQDO UHIOHFWLRQ\nF  5HIUDFWLRQ GLVSHUVLRQ DQG LQWHUQDO UHIOHFWLRQ\nG  'LVSHUVLRQ VFDWWHULQJ DQG WRWDO LQWHUQDO UHIOHFWLRQ\n7ZLQNOLQJ RI VWDUV LV GXH WR DWPRVSKHULF\nD  GLVSHUVLRQ RI OLJKW E\\ ZDWHU GURSOHWV\nE  UHIUDFWLRQ RI OLJKW E\\ GLIIHUHQW OD\\HUV RI YDU\\LQJ UHIUDFWLYH LQGLFHV\nF  VFDWWHULQJ RI OLJKW E\\ GXVW SDUWLFOHV\nG  LQWHUQDO UHIOHFWLRQ RI OLJKW E\\ FORXGV\n7KH FOHDU VN\\ DSSHDUV EOXH EHFDXVH\nD  EOXH OLJKW JHWV DEVRUEHG LQ WKH DWPRVSKHUH\nE  XOWUDYLROHW UDGLDWLRQV DUH DEVRUEHG LQ WKH DWPRVSKHUH\nF  YLROHW DQG EOXH OLJKWV JHW VFDWWHUHG PRUH WKDQ OLJKWV RI DOO RWKHU\nFRORXUV E\\ WKH DWPRVSKHUH\nG  OLJKW RI DOO RWKHU FRORXUV LV VFDWWHUHG PRUH WKDQ WKH YLROHW DQG\nEOXH FRORXU OLJKWV E\\ WKH DWPRVSKHUH\n:KLFK  RI  WKH  IROORZLQJ  VWDWHPHQWV  LV  FRUUHFW  UHJDUGLQJ  WKH\nSURSDJDWLRQ RI OLJKW RI GLIIHUHQW FRORXUV RI ZKLWH OLJKW LQ DLU\"\nD  5HG OLJKW PRYHV IDVWHVW\nE  %OXH OLJKW PRYHV IDVWHU WKDQ JUHHQ OLJKW\nF  $OO WKH FRORXUV RI WKH ZKLWH OLJKW PRYH ZLWK WKH VDPH VSHHG\nG  <HOORZ OLJKW PRYHV ZLWK WKH PHDQ VSHHG DV WKDW RI WKH UHG DQG\nWKH YLROHW OLJKW\n7KH GDQJHU VLJQDOV LQVWDOOHG DW WKH WRS RI WDOO EXLOGLQJV DUH UHG LQ\nFRORXU 7KHVH FDQ EH HDVLO\\ VHHQ IURP D GLVWDQFH EHFDXVH DPRQJ DOO\nRWKHU FRORXUV WKH UHG OLJKW\nD  LV VFDWWHUHG WKH PRVW E\\ VPRNH RU IRJ\nE  LV VFDWWHUHG WKH OHDVW E\\ VPRNH RU IRJ\nF  LV DEVRUEHG WKH PRVW E\\ VPRNH RU IRJ\nG  PRYHV IDVWHVW LQ DLU\n7+( +80$1 (<( $1' 7+( &2/285)8/ :25/'"
         }
       ],
-      "fullText": "A prism ABC (with BC as base) is placed in different orientations.\nA narrow beam of white light is incident on the prism as shown in\nFigure 11.1. In which of the following cases, after dispersion, the\nthird colour from the top corresponds to the colour of the sky?\n6JG *WOCP '[G CPF\nVJG %QNQWTHWN 9QTNF\n%*#26'4\nFig.11.1\n(a) (i)\n(b) (ii)\n(c) (iii)\n(d) (iv)\n$W QRRQ WKH VXQ DSSHDUV ZKLWH DV\nD  OLJKW LV OHDVW VFDWWHUHG\nE  DOO WKH FRORXUV RI WKH ZKLWH OLJKW DUH VFDWWHUHG DZD\\\nF  EOXH FRORXU LV VFDWWHUHG WKH PRVW\nG  UHG FRORXU LV VFDWWHUHG WKH PRVW\n:KLFK  RI  WKH  IROORZLQJ  SKHQRPHQD  RI  OLJKW  DUH  LQYROYHG  LQ  WKH\nIRUPDWLRQ RI D UDLQERZ\"\nD  5HIOHFWLRQ UHIUDFWLRQ DQG GLVSHUVLRQ\nE  5HIUDFWLRQ GLVSHUVLRQ DQG WRWDO LQWHUQDO UHIOHFWLRQ\nF  5HIUDFWLRQ GLVSHUVLRQ DQG LQWHUQDO UHIOHFWLRQ\nG  'LVSHUVLRQ VFDWWHULQJ DQG WRWDO LQWHUQDO UHIOHFWLRQ\n7ZLQNOLQJ RI VWDUV LV GXH WR DWPRVSKHULF\nD  GLVSHUVLRQ RI OLJKW E\\ ZDWHU GURSOHWV\nE  UHIUDFWLRQ RI OLJKW E\\ GLIIHUHQW OD\\HUV RI YDU\\LQJ UHIUDFWLYH LQGLFHV\nF  VFDWWHULQJ RI OLJKW E\\ GXVW SDUWLFOHV\nG  LQWHUQDO UHIOHFWLRQ RI OLJKW E\\ FORXGV\n7KH FOHDU VN\\ DSSHDUV EOXH EHFDXVH\nD  EOXH OLJKW JHWV DEVRUEHG LQ WKH DWPRVSKHUH\nE  XOWUDYLROHW UDGLDWLRQV DUH DEVRUEHG LQ WKH DWPRVSKHUH\nF  YLROHW DQG EOXH OLJKWV JHW VFDWWHUHG PRUH WKDQ OLJKWV RI DOO RWKHU\nFRORXUV E\\ WKH DWPRVSKHUH\nG  OLJKW RI DOO RWKHU FRORXUV LV VFDWWHUHG PRUH WKDQ WKH YLROHW DQG\nEOXH FRORXU OLJKWV E\\ WKH DWPRVSKHUH\n:KLFK  RI  WKH  IROORZLQJ  VWDWHPHQWV  LV  FRUUHFW  UHJDUGLQJ  WKH\nSURSDJDWLRQ RI OLJKW RI GLIIHUHQW FRORXUV RI ZKLWH OLJKW LQ DLU\"\nD  5HG OLJKW PRYHV IDVWHVW\nE  %OXH OLJKW PRYHV IDVWHU WKDQ JUHHQ OLJKW\nF  $OO WKH FRORXUV RI WKH ZKLWH OLJKW PRYH ZLWK WKH VDPH VSHHG\nG  <HOORZ OLJKW PRYHV ZLWK WKH PHDQ VSHHG DV WKDW RI WKH UHG DQG\nWKH YLROHW OLJKW\n7KH GDQJHU VLJQDOV LQVWDOOHG DW WKH WRS RI WDOO EXLOGLQJV DUH UHG LQ\nFRORXU 7KHVH FDQ EH HDVLO\\ VHHQ IURP D GLVWDQFH EHFDXVH DPRQJ DOO\nRWKHU FRORXUV WKH UHG OLJKW\nD  LV VFDWWHUHG WKH PRVW E\\ VPRNH RU IRJ\nE  LV VFDWWHUHG WKH OHDVW E\\ VPRNH RU IRJ\nF  LV DEVRUEHG WKH PRVW E\\ VPRNH RU IRJ\nG  PRYHV IDVWHVW LQ DLU\n7+( +80$1 (<( $1' 7+( &2/285)8/ :25/'"
+      "fullText": "A prism ABC (with BC as base) is placed in different orientations.\nA narrow beam of white light is incident on the prism as shown in\nFigure 11.1. In which of the following cases, after dispersion, the\nthird colour from the top corresponds to the colour of the sky?\n6JG *WOCP '[G CPF\nVJG %QNQWTHWN 9QTNF\n%*#26'4\nFig.11.1\n(a) (i)\n(b) (ii)\n(c) (iii)\n(d) (iv)\n$W QRRQ WKH VXQ DSSHDUV ZKLWH DV\nD  OLJKW LV OHDVW VFDWWHUHG\nE  DOO WKH FRORXUV RI WKH ZKLWH OLJKW DUH VFDWWHUHG DZD\\\nF  EOXH FRORXU LV VFDWWHUHG WKH PRVW\nG  UHG FRORXU LV VFDWWHUHG WKH PRVW\n:KLFK  RI  WKH  IROORZLQJ  SKHQRPHQD  RI  OLJKW  DUH  LQYROYHG  LQ  WKH\nIRUPDWLRQ RI D UDLQERZ\"\nD  5HIOHFWLRQ UHIUDFWLRQ DQG GLVSHUVLRQ\nE  5HIUDFWLRQ GLVSHUVLRQ DQG WRWDO LQWHUQDO UHIOHFWLRQ\nF  5HIUDFWLRQ GLVSHUVLRQ DQG LQWHUQDO UHIOHFWLRQ\nG  'LVSHUVLRQ VFDWWHULQJ DQG WRWDO LQWHUQDO UHIOHFWLRQ\n7ZLQNOLQJ RI VWDUV LV GXH WR DWPRVSKHULF\nD  GLVSHUVLRQ RI OLJKW E\\ ZDWHU GURSOHWV\nE  UHIUDFWLRQ RI OLJKW E\\ GLIIHUHQW OD\\HUV RI YDU\\LQJ UHIUDFWLYH LQGLFHV\nF  VFDWWHULQJ RI OLJKW E\\ GXVW SDUWLFOHV\nG  LQWHUQDO UHIOHFWLRQ RI OLJKW E\\ FORXGV\n7KH FOHDU VN\\ DSSHDUV EOXH EHFDXVH\nD  EOXH OLJKW JHWV DEVRUEHG LQ WKH DWPRVSKHUH\nE  XOWUDYLROHW UDGLDWLRQV DUH DEVRUEHG LQ WKH DWPRVSKHUH\nF  YLROHW DQG EOXH OLJKWV JHW VFDWWHUHG PRUH WKDQ OLJKWV RI DOO RWKHU\nFRORXUV E\\ WKH DWPRVSKHUH\nG  OLJKW RI DOO RWKHU FRORXUV LV VFDWWHUHG PRUH WKDQ WKH YLROHW DQG\nEOXH FRORXU OLJKWV E\\ WKH DWPRVSKHUH\n:KLFK  RI  WKH  IROORZLQJ  VWDWHPHQWV  LV  FRUUHFW  UHJDUGLQJ  WKH\nSURSDJDWLRQ RI OLJKW RI GLIIHUHQW FRORXUV RI ZKLWH OLJKW LQ DLU\"\nD  5HG OLJKW PRYHV IDVWHVW\nE  %OXH OLJKW PRYHV IDVWHU WKDQ JUHHQ OLJKW\nF  $OO WKH FRORXUV RI WKH ZKLWH OLJKW PRYH ZLWK WKH VDPH VSHHG\nG  <HOORZ OLJKW PRYHV ZLWK WKH PHDQ VSHHG DV WKDW RI WKH UHG DQG\nWKH YLROHW OLJKW\n7KH GDQJHU VLJQDOV LQVWDOOHG DW WKH WRS RI WDOO EXLOGLQJV DUH UHG LQ\nFRORXU 7KHVH FDQ EH HDVLO\\ VHHQ IURP D GLVWDQFH EHFDXVH DPRQJ DOO\nRWKHU FRORXUV WKH UHG OLJKW\nD  LV VFDWWHUHG WKH PRVW E\\ VPRNH RU IRJ\nE  LV VFDWWHUHG WKH OHDVW E\\ VPRNH RU IRJ\nF  LV DEVRUEHG WKH PRVW E\\ VPRNH RU IRJ\nG  PRYHV IDVWHVW LQ DLU\n7+( +80$1 (<( $1' 7+( &2/285)8/ :25/'",
+      "answer": "b",
+      "hint": ""
     },
     {
       "qNo": 10,
@@ -101,7 +107,9 @@
           "text": "Reflection of light from the earth"
         }
       ],
-      "fullText": "Which of the following phenomena contributes significantly to the\nreddish appearance of the sun at sunrise or sunset?\n(a) Dispersion of light\n(b) Scattering of light\n(c) Total internal reflection of light\n(d) Reflection of light from the earth"
+      "fullText": "Which of the following phenomena contributes significantly to the\nreddish appearance of the sun at sunrise or sunset?\n(a) Dispersion of light\n(b) Scattering of light\n(c) Total internal reflection of light\n(d) Reflection of light from the earth",
+      "answer": "b",
+      "hint": ""
     },
     {
       "qNo": 11,
@@ -126,7 +134,9 @@
           "text": "absorption of light by the sea"
         }
       ],
-      "fullText": "The bluish colour of water in deep sea is due to\n(a) the presence of algae and other plants found in water\n(b) reflection of sky in water\n(c) scattering of light\n(d) absorption of light by the sea"
+      "fullText": "The bluish colour of water in deep sea is due to\n(a) the presence of algae and other plants found in water\n(b) reflection of sky in water\n(c) scattering of light\n(d) absorption of light by the sea",
+      "answer": "c",
+      "hint": ""
     },
     {
       "qNo": 12,
@@ -151,7 +161,9 @@
           "text": "pupil"
         }
       ],
-      "fullText": "When light rays enter the eye, most of the refraction occurs at the\n(a) crystalline lens\n(b) outer surface of the cornea\n(c) iris\n(d) pupil"
+      "fullText": "When light rays enter the eye, most of the refraction occurs at the\n(a) crystalline lens\n(b) outer surface of the cornea\n(c) iris\n(d) pupil",
+      "answer": "b",
+      "hint": ""
     },
     {
       "qNo": 13,
@@ -176,7 +188,9 @@
           "text": "contract and lens becomes thinner"
         }
       ],
-      "fullText": "The focal length of the eye lens increases when eye muscles\n(a) are relaxed and lens becomes thinner\n(b) contract and lens becomes thicker\n(c) are relaxed and lens becomes thicker\n(d) contract and lens becomes thinner"
+      "fullText": "The focal length of the eye lens increases when eye muscles\n(a) are relaxed and lens becomes thinner\n(b) contract and lens becomes thicker\n(c) are relaxed and lens becomes thicker\n(d) contract and lens becomes thinner",
+      "answer": "a",
+      "hint": ""
     },
     {
       "qNo": 14,
@@ -201,7 +215,9 @@
           "text": "A person with hypermetropia cannot see distant objects clearly"
         }
       ],
-      "fullText": "Which  of the following statement is correct?\n(a) A person with myopia can see distant objects clearly\n(b) A person with hypermetropia can see nearby objects clearly\n(c) A person with myopia can see nearby objects clearly\n(d) A person with hypermetropia cannot see distant objects clearly"
+      "fullText": "Which  of the following statement is correct?\n(a) A person with myopia can see distant objects clearly\n(b) A person with hypermetropia can see nearby objects clearly\n(c) A person with myopia can see nearby objects clearly\n(d) A person with hypermetropia cannot see distant objects clearly",
+      "answer": "c",
+      "hint": ""
     },
     {
       "qNo": 15,
@@ -223,9 +239,9 @@
       "qNo": 17,
       "section": "Short Answer Questions",
       "type": "short_answer",
-      "stem": "How are we able to see nearby and also the distant objects clearly?\n7+( +80$1 (<( $1' 7+( &2/285)8/ :25/'\n$ SHUVRQ QHHGV D OHQV RI SRZHU ă ' IRU FRUUHFWLRQ RI KHU YLVLRQ\nD  :KDW NLQG RI GHIHFW LQ YLVLRQ LV VKH VXIIHULQJ IURP\"\nE  :KDW LV WKH IRFDO OHQJWK RI WKH FRUUHFWLYH OHQV\"\nF  :KDW LV WKH QDWXUH RI WKH FRUUHFWLYH OHQV\"\n+RZ ZLOO \\RX XVH WZR LGHQWLFDO SULVPV VR WKDW D QDUURZ EHDP RI\nZKLWH OLJKW LQFLGHQW RQ RQH SULVP HPHUJHV RXW RI WKH VHFRQG SULVP\nDV ZKLWH OLJKW\" 'UDZ WKH GLDJUDP\n'UDZ D UD\\ GLDJUDP VKRZLQJ WKH GLVSHUVLRQ WKURXJK D SULVP ZKHQ\nD QDUURZ EHDP RI ZKLWH OLJKW LV LQFLGHQW RQ RQH RI LWV UHIUDFWLQJ\nVXUIDFHV $OVR LQGLFDWH WKH RUGHU RI WKH FRORXUV RI WKH VSHFWUXP\nREWDLQHG\n,V WKH SRVLWLRQ RI D VWDU DV VHHQ E\\ XV LWV WUXH SRVLWLRQ\" -XVWLI\\\n\\RXU DQVZHU\n:K\\ GR ZH VHH D UDLQERZ LQ WKH VN\\ RQO\\ DIWHU UDLQIDOO\"\n:K\\ LV WKH FRORXU RI WKH FOHDU VN\\ EOXH\"\n:KDW  LV  WKH  GLIIHUHQFH  LQ  FRORXUV  RI  WKH  6XQ  REVHUYHG  GXULQJ\nVXQULVH VXQVHW DQG QRRQ\" *LYH H[SODQDWLRQ IRU HDFK",
+      "stem": "How are we able to see nearby and also the distant objects clearly?\n7+( +80$1 (<( $1' 7+( &2/285)8/ :25/'\n$ SHUVRQ QHHGV D OHQV RI SRZHU \u0103 ' IRU FRUUHFWLRQ RI KHU YLVLRQ\nD  :KDW NLQG RI GHIHFW LQ YLVLRQ LV VKH VXIIHULQJ IURP\"\nE  :KDW LV WKH IRFDO OHQJWK RI WKH FRUUHFWLYH OHQV\"\nF  :KDW LV WKH QDWXUH RI WKH FRUUHFWLYH OHQV\"\n+RZ ZLOO \\RX XVH WZR LGHQWLFDO SULVPV VR WKDW D QDUURZ EHDP RI\nZKLWH OLJKW LQFLGHQW RQ RQH SULVP HPHUJHV RXW RI WKH VHFRQG SULVP\nDV ZKLWH OLJKW\" 'UDZ WKH GLDJUDP\n'UDZ D UD\\ GLDJUDP VKRZLQJ WKH GLVSHUVLRQ WKURXJK D SULVP ZKHQ\nD QDUURZ EHDP RI ZKLWH OLJKW LV LQFLGHQW RQ RQH RI LWV UHIUDFWLQJ\nVXUIDFHV $OVR LQGLFDWH WKH RUGHU RI WKH FRORXUV RI WKH VSHFWUXP\nREWDLQHG\n,V WKH SRVLWLRQ RI D VWDU DV VHHQ E\\ XV LWV WUXH SRVLWLRQ\" -XVWLI\\\n\\RXU DQVZHU\n:K\\ GR ZH VHH D UDLQERZ LQ WKH VN\\ RQO\\ DIWHU UDLQIDOO\"\n:K\\ LV WKH FRORXU RI WKH FOHDU VN\\ EOXH\"\n:KDW  LV  WKH  GLIIHUHQFH  LQ  FRORXUV  RI  WKH  6XQ  REVHUYHG  GXULQJ\nVXQULVH VXQVHW DQG QRRQ\" *LYH H[SODQDWLRQ IRU HDFK",
       "options": [],
-      "fullText": "How are we able to see nearby and also the distant objects clearly?\n7+( +80$1 (<( $1' 7+( &2/285)8/ :25/'\n$ SHUVRQ QHHGV D OHQV RI SRZHU ă ' IRU FRUUHFWLRQ RI KHU YLVLRQ\nD  :KDW NLQG RI GHIHFW LQ YLVLRQ LV VKH VXIIHULQJ IURP\"\nE  :KDW LV WKH IRFDO OHQJWK RI WKH FRUUHFWLYH OHQV\"\nF  :KDW LV WKH QDWXUH RI WKH FRUUHFWLYH OHQV\"\n+RZ ZLOO \\RX XVH WZR LGHQWLFDO SULVPV VR WKDW D QDUURZ EHDP RI\nZKLWH OLJKW LQFLGHQW RQ RQH SULVP HPHUJHV RXW RI WKH VHFRQG SULVP\nDV ZKLWH OLJKW\" 'UDZ WKH GLDJUDP\n'UDZ D UD\\ GLDJUDP VKRZLQJ WKH GLVSHUVLRQ WKURXJK D SULVP ZKHQ\nD QDUURZ EHDP RI ZKLWH OLJKW LV LQFLGHQW RQ RQH RI LWV UHIUDFWLQJ\nVXUIDFHV $OVR LQGLFDWH WKH RUGHU RI WKH FRORXUV RI WKH VSHFWUXP\nREWDLQHG\n,V WKH SRVLWLRQ RI D VWDU DV VHHQ E\\ XV LWV WUXH SRVLWLRQ\" -XVWLI\\\n\\RXU DQVZHU\n:K\\ GR ZH VHH D UDLQERZ LQ WKH VN\\ RQO\\ DIWHU UDLQIDOO\"\n:K\\ LV WKH FRORXU RI WKH FOHDU VN\\ EOXH\"\n:KDW  LV  WKH  GLIIHUHQFH  LQ  FRORXUV  RI  WKH  6XQ  REVHUYHG  GXULQJ\nVXQULVH VXQVHW DQG QRRQ\" *LYH H[SODQDWLRQ IRU HDFK"
+      "fullText": "How are we able to see nearby and also the distant objects clearly?\n7+( +80$1 (<( $1' 7+( &2/285)8/ :25/'\n$ SHUVRQ QHHGV D OHQV RI SRZHU \u0103 ' IRU FRUUHFWLRQ RI KHU YLVLRQ\nD  :KDW NLQG RI GHIHFW LQ YLVLRQ LV VKH VXIIHULQJ IURP\"\nE  :KDW LV WKH IRFDO OHQJWK RI WKH FRUUHFWLYH OHQV\"\nF  :KDW LV WKH QDWXUH RI WKH FRUUHFWLYH OHQV\"\n+RZ ZLOO \\RX XVH WZR LGHQWLFDO SULVPV VR WKDW D QDUURZ EHDP RI\nZKLWH OLJKW LQFLGHQW RQ RQH SULVP HPHUJHV RXW RI WKH VHFRQG SULVP\nDV ZKLWH OLJKW\" 'UDZ WKH GLDJUDP\n'UDZ D UD\\ GLDJUDP VKRZLQJ WKH GLVSHUVLRQ WKURXJK D SULVP ZKHQ\nD QDUURZ EHDP RI ZKLWH OLJKW LV LQFLGHQW RQ RQH RI LWV UHIUDFWLQJ\nVXUIDFHV $OVR LQGLFDWH WKH RUGHU RI WKH FRORXUV RI WKH VSHFWUXP\nREWDLQHG\n,V WKH SRVLWLRQ RI D VWDU DV VHHQ E\\ XV LWV WUXH SRVLWLRQ\" -XVWLI\\\n\\RXU DQVZHU\n:K\\ GR ZH VHH D UDLQERZ LQ WKH VN\\ RQO\\ DIWHU UDLQIDOO\"\n:K\\ LV WKH FRORXU RI WKH FOHDU VN\\ EOXH\"\n:KDW  LV  WKH  GLIIHUHQFH  LQ  FRORXUV  RI  WKH  6XQ  REVHUYHG  GXULQJ\nVXQULVH VXQVHW DQG QRRQ\" *LYH H[SODQDWLRQ IRU HDFK"
     }
   ]
 }

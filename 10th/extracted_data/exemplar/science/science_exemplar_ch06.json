@@ -26,7 +26,9 @@
           "text": "They constitute the first trophic level in food chains"
         }
       ],
-      "fullText": "Which of the following statements about the autotrophs is incorrect?\n(a) They synthesise carbohydrates from carbon dioxide and water\nin the presence of sunlight and chlorophyll\n(b) They store carbohydrates in the form of starch\n(c) They convert carbon dioxide and water into carbohydrates in\nthe absence of sunlight\n(d) They constitute the first trophic level in food chains"
+      "fullText": "Which of the following statements about the autotrophs is incorrect?\n(a) They synthesise carbohydrates from carbon dioxide and water\nin the presence of sunlight and chlorophyll\n(b) They store carbohydrates in the form of starch\n(c) They convert carbon dioxide and water into carbohydrates in\nthe absence of sunlight\n(d) They constitute the first trophic level in food chains",
+      "answer": "c",
+      "hint": ""
     },
     {
       "qNo": 2,
@@ -51,7 +53,9 @@
           "text": "Cuscuta, lice, tapeworm"
         }
       ],
-      "fullText": "In which of the following groups of organisms, food material is\nbroken down outside the body and absorbed?\n(a) Mushroom, green plants, Amoeba\n(b) Yeast, mushroom, bread mould\n(c) Paramecium, Amoeba, Cuscuta\n(d) Cuscuta, lice, tapeworm"
+      "fullText": "In which of the following groups of organisms, food material is\nbroken down outside the body and absorbed?\n(a) Mushroom, green plants, Amoeba\n(b) Yeast, mushroom, bread mould\n(c) Paramecium, Amoeba, Cuscuta\n(d) Cuscuta, lice, tapeworm",
+      "answer": "b",
+      "hint": ""
     },
     {
       "qNo": 3,
@@ -76,7 +80,9 @@
           "text": "Heterotrophs are capable of converting carbon dioxide and\nwater into carbohydrates"
         }
       ],
-      "fullText": "Select the correct statement\n(a) Heterotrophs do not synthesise their own food\n(b) Heterotrophs utilise solar energy for photosynthesis\n(c) Heterotrophs synthesise their own food\n(d) Heterotrophs are capable of converting carbon dioxide and\nwater into carbohydrates"
+      "fullText": "Select the correct statement\n(a) Heterotrophs do not synthesise their own food\n(b) Heterotrophs utilise solar energy for photosynthesis\n(c) Heterotrophs synthesise their own food\n(d) Heterotrophs are capable of converting carbon dioxide and\nwater into carbohydrates",
+      "answer": "a",
+      "hint": ""
     },
     {
       "qNo": 4,
@@ -86,22 +92,24 @@
       "options": [
         {
           "key": "a",
-          "text": "Mouth → stomach → small intestine → oesophagus\n→large intestine"
+          "text": "Mouth \u2192 stomach \u2192 small intestine \u2192 oesophagus\n\u2192large intestine"
         },
         {
           "key": "b",
-          "text": "Mouth →oesophagus → stomach → large intestine\n→small intestine"
+          "text": "Mouth \u2192oesophagus \u2192 stomach \u2192 large intestine\n\u2192small intestine"
         },
         {
           "key": "c",
-          "text": "Mouth → stomach → oesophagus → small intestine\n→large intestine"
+          "text": "Mouth \u2192 stomach \u2192 oesophagus \u2192 small intestine\n\u2192large intestine"
         },
         {
           "key": "d",
-          "text": "Mouth → oesophagus  → stomach → small intestine\n→large intestine\n.KHG 2TQEGUUGU\n%*#26'4"
+          "text": "Mouth \u2192 oesophagus  \u2192 stomach \u2192 small intestine\n\u2192large intestine\n.KHG 2TQEGUUGU\n%*#26'4"
         }
       ],
-      "fullText": "Which is the correct sequence of parts in human alimentary canal?\n(a) Mouth → stomach → small intestine → oesophagus\n→large intestine\n(b) Mouth →oesophagus → stomach → large intestine\n→small intestine\n(c) Mouth → stomach → oesophagus → small intestine\n→large intestine\n(d) Mouth → oesophagus  → stomach → small intestine\n→large intestine\n.KHG 2TQEGUUGU\n%*#26'4"
+      "fullText": "Which is the correct sequence of parts in human alimentary canal?\n(a) Mouth \u2192 stomach \u2192 small intestine \u2192 oesophagus\n\u2192large intestine\n(b) Mouth \u2192oesophagus \u2192 stomach \u2192 large intestine\n\u2192small intestine\n(c) Mouth \u2192 stomach \u2192 oesophagus \u2192 small intestine\n\u2192large intestine\n(d) Mouth \u2192 oesophagus  \u2192 stomach \u2192 small intestine\n\u2192large intestine\n.KHG 2TQEGUUGU\n%*#26'4",
+      "answer": "d",
+      "hint": ""
     },
     {
       "qNo": 5,
@@ -126,7 +134,9 @@
           "text": "Absorption of vitamins"
         }
       ],
-      "fullText": "If salivary amylase is lacking in the saliva, which of the following\nevents in the mouth cavity will be affected?\n(a) Proteins breaking down into amino acids\n(b) Starch breaking down into sugars\n(c) Fats breaking down into fatty acids and glycerol\n(d) Absorption of vitamins"
+      "fullText": "If salivary amylase is lacking in the saliva, which of the following\nevents in the mouth cavity will be affected?\n(a) Proteins breaking down into amino acids\n(b) Starch breaking down into sugars\n(c) Fats breaking down into fatty acids and glycerol\n(d) Absorption of vitamins",
+      "answer": "b",
+      "hint": ""
     },
     {
       "qNo": 6,
@@ -151,7 +161,9 @@
           "text": "Bile"
         }
       ],
-      "fullText": "The inner lining of stomach is protected by one of the following\nfrom hydrochloric acid. Choose the correct one\n(a) Pepsin\n(b) Mucus\n(c) Salivary amylase\n(d) Bile"
+      "fullText": "The inner lining of stomach is protected by one of the following\nfrom hydrochloric acid. Choose the correct one\n(a) Pepsin\n(b) Mucus\n(c) Salivary amylase\n(d) Bile",
+      "answer": "b",
+      "hint": ""
     },
     {
       "qNo": 7,
@@ -176,7 +188,9 @@
           "text": "Oesophagus"
         }
       ],
-      "fullText": "Which part of alimentary canal receives bile from the liver?\n(a) Stomach\n(b) Small intestine\n(c) Large intestine\n(d) Oesophagus"
+      "fullText": "Which part of alimentary canal receives bile from the liver?\n(a) Stomach\n(b) Small intestine\n(c) Large intestine\n(d) Oesophagus",
+      "answer": "b",
+      "hint": ""
     },
     {
       "qNo": 8,
@@ -201,7 +215,9 @@
           "text": "starch"
         }
       ],
-      "fullText": "A few drops of iodine solution were added to rice water. The solution\nturned blue-black in colour. This indicates that rice water contains\n(a) complex proteins\n(b) simple proteins\n(c) fats\n(d) starch"
+      "fullText": "A few drops of iodine solution were added to rice water. The solution\nturned blue-black in colour. This indicates that rice water contains\n(a) complex proteins\n(b) simple proteins\n(c) fats\n(d) starch",
+      "answer": "d",
+      "hint": ""
     },
     {
       "qNo": 9,
@@ -226,7 +242,9 @@
           "text": "Small intestine"
         }
       ],
-      "fullText": "In which part of the alimentary canal food is finally digested?\n(a) Stomach\n(b) Mouth cavity\n(c) Large intestine\n(d) Small intestine"
+      "fullText": "In which part of the alimentary canal food is finally digested?\n(a) Stomach\n(b) Mouth cavity\n(c) Large intestine\n(d) Small intestine",
+      "answer": "d",
+      "hint": ""
     },
     {
       "qNo": 10,
@@ -251,7 +269,9 @@
           "text": "trypsin digests proteins and lipase emulsified fats"
         }
       ],
-      "fullText": "Choose the function of the pancreatic juice from the following\n(a) trypsin digests proteins and lipase carbohydrates\n(b) trypsin digests emulsified fats and lipase proteins\n(c) trypsin and lipase digest fats\n(d) trypsin digests proteins and lipase emulsified fats"
+      "fullText": "Choose the function of the pancreatic juice from the following\n(a) trypsin digests proteins and lipase carbohydrates\n(b) trypsin digests emulsified fats and lipase proteins\n(c) trypsin and lipase digest fats\n(d) trypsin digests proteins and lipase emulsified fats",
+      "answer": "d",
+      "hint": ""
     },
     {
       "qNo": 11,
@@ -273,10 +293,12 @@
         },
         {
           "key": "d",
-          "text": "water vapour\n(;(03/$5  352%/(06 ă 6&,(1&(\n7KH FRUUHFW VHTXHQFH RI DQDHURELF UHDFWLRQV LQ \\HDVW LV\nD  *OXFRVH\n3\\UXYDWH\n(WKDQRO\n&DUERQGLR[LGH\nE  *OXFRVH\n3\\UXYDWH\n/DFWLF DFLG\nF  *OXFRVH\n3\\UXYDWH\n/DFWLF DFLG\nG  *OXFRVH\n3\\UXYDWH\n(WKDQRO\n&DUERQGLR[LGH\n:KLFK RI WKH IROORZLQJ LV PRVW DSSURSULDWH IRU DHURELF UHVSLUDWLRQ\"\nD  *OXFRVH\n3\\UXYDWH\n&2 + 2 (QHUJ\\\nE  *OXFRVH\n3\\UXYDWH\n&2 + 2 (QHUJ\\\nF  *OXFRVH\n3\\UXYDWH    (QHUJ\\\n&2 + 2\nG  *OXFRVH\n3\\UXYDWH    (QHUJ\\\n&2 + 2 (QHUJ\\\n:KLFK RI WKH IROORZLQJ VWDWHPHQW V LV DUH WUXH DERXW UHVSLUDWLRQ\"\nL  'XULQJ LQKDODWLRQ ULEV PRYH LQZDUG DQG GLDSKUDJP LV UDLVHG\nLL  ,Q WKH DOYHROL H[FKDQJH RI JDVHV WDNHV SODFH L H R[\\JHQ IURP\nDOYHRODU DLU GLIIXVHV LQWR EORRG DQG FDUERQ GLR[LGH IURP EORRG\nLQWR DOYHRODU DLU\nLLL  +DHPRJORELQ  KDV  JUHDWHU  DIILQLW\\  IRU  FDUERQ  GLR[LGH  WKDQ\nR[\\JHQ\nLY  $OYHROL LQFUHDVH VXUIDFH DUHD IRU H[FKDQJH RI JDVHV\nD   L DQG LY\nE   LL DQG LLL\nF   L DQG LLL\nG   LL DQG LY\n:KLFK LV WKH FRUUHFW VHTXHQFH RI DLU SDVVDJH GXULQJ LQKDODWLRQ\"\nD  1RVWULOV o ODU\\Q[ o SKDU\\Q[ o WUDFKHD o OXQJV\nE  1DVDO SDVVDJH o WUDFKHD o SKDU\\Q[ o ODU\\Q[ o DOYHROL\nF  ODU\\Q[ o QRVWULOV o SKDU\\Q[ o OXQJV\nG  1RVWULOV o SKDU\\Q[ o ODU\\Q[ o WUDFKHD o DOYHROL\n'XULQJ UHVSLUDWLRQ H[FKDQJH RI JDVHV WDNH SODFH LQ\nD  WUDFKHD DQG ODU\\Q[\nE  DOYHROL RI OXQJV\nF  DOYHROL DQG WKURDW\nG  WKURDW DQG ODU\\Q["
+          "text": "water vapour\n(;(03/$5  352%/(06 \u0103 6&,(1&(\n7KH FRUUHFW VHTXHQFH RI DQDHURELF UHDFWLRQV LQ \\HDVW LV\nD  *OXFRVH\n3\\UXYDWH\n(WKDQRO\n&DUERQGLR[LGH\nE  *OXFRVH\n3\\UXYDWH\n/DFWLF DFLG\nF  *OXFRVH\n3\\UXYDWH\n/DFWLF DFLG\nG  *OXFRVH\n3\\UXYDWH\n(WKDQRO\n&DUERQGLR[LGH\n:KLFK RI WKH IROORZLQJ LV PRVW DSSURSULDWH IRU DHURELF UHVSLUDWLRQ\"\nD  *OXFRVH\n3\\UXYDWH\n&2 + 2 (QHUJ\\\nE  *OXFRVH\n3\\UXYDWH\n&2 + 2 (QHUJ\\\nF  *OXFRVH\n3\\UXYDWH    (QHUJ\\\n&2 + 2\nG  *OXFRVH\n3\\UXYDWH    (QHUJ\\\n&2 + 2 (QHUJ\\\n:KLFK RI WKH IROORZLQJ VWDWHPHQW V LV DUH WUXH DERXW UHVSLUDWLRQ\"\nL  'XULQJ LQKDODWLRQ ULEV PRYH LQZDUG DQG GLDSKUDJP LV UDLVHG\nLL  ,Q WKH DOYHROL H[FKDQJH RI JDVHV WDNHV SODFH L H R[\\JHQ IURP\nDOYHRODU DLU GLIIXVHV LQWR EORRG DQG FDUERQ GLR[LGH IURP EORRG\nLQWR DOYHRODU DLU\nLLL  +DHPRJORELQ  KDV  JUHDWHU  DIILQLW\\  IRU  FDUERQ  GLR[LGH  WKDQ\nR[\\JHQ\nLY  $OYHROL LQFUHDVH VXUIDFH DUHD IRU H[FKDQJH RI JDVHV\nD   L DQG LY\nE   LL DQG LLL\nF   L DQG LLL\nG   LL DQG LY\n:KLFK LV WKH FRUUHFW VHTXHQFH RI DLU SDVVDJH GXULQJ LQKDODWLRQ\"\nD  1RVWULOV o ODU\\Q[ o SKDU\\Q[ o WUDFKHD o OXQJV\nE  1DVDO SDVVDJH o WUDFKHD o SKDU\\Q[ o ODU\\Q[ o DOYHROL\nF  ODU\\Q[ o QRVWULOV o SKDU\\Q[ o OXQJV\nG  1RVWULOV o SKDU\\Q[ o ODU\\Q[ o WUDFKHD o DOYHROL\n'XULQJ UHVSLUDWLRQ H[FKDQJH RI JDVHV WDNH SODFH LQ\nD  WUDFKHD DQG ODU\\Q[\nE  DOYHROL RI OXQJV\nF  DOYHROL DQG WKURDW\nG  WKURDW DQG ODU\\Q["
         }
       ],
-      "fullText": "When air is blown from mouth into a test-tube containing lime\nwater, the lime water turned milky due to the presence of\n(a) oxygen\n(b) carbon dioxide\n(c) nitrogen\n(d) water vapour\n(;(03/$5  352%/(06 ă 6&,(1&(\n7KH FRUUHFW VHTXHQFH RI DQDHURELF UHDFWLRQV LQ \\HDVW LV\nD  *OXFRVH\n3\\UXYDWH\n(WKDQRO\n&DUERQGLR[LGH\nE  *OXFRVH\n3\\UXYDWH\n/DFWLF DFLG\nF  *OXFRVH\n3\\UXYDWH\n/DFWLF DFLG\nG  *OXFRVH\n3\\UXYDWH\n(WKDQRO\n&DUERQGLR[LGH\n:KLFK RI WKH IROORZLQJ LV PRVW DSSURSULDWH IRU DHURELF UHVSLUDWLRQ\"\nD  *OXFRVH\n3\\UXYDWH\n&2 + 2 (QHUJ\\\nE  *OXFRVH\n3\\UXYDWH\n&2 + 2 (QHUJ\\\nF  *OXFRVH\n3\\UXYDWH    (QHUJ\\\n&2 + 2\nG  *OXFRVH\n3\\UXYDWH    (QHUJ\\\n&2 + 2 (QHUJ\\\n:KLFK RI WKH IROORZLQJ VWDWHPHQW V LV DUH WUXH DERXW UHVSLUDWLRQ\"\nL  'XULQJ LQKDODWLRQ ULEV PRYH LQZDUG DQG GLDSKUDJP LV UDLVHG\nLL  ,Q WKH DOYHROL H[FKDQJH RI JDVHV WDNHV SODFH L H R[\\JHQ IURP\nDOYHRODU DLU GLIIXVHV LQWR EORRG DQG FDUERQ GLR[LGH IURP EORRG\nLQWR DOYHRODU DLU\nLLL  +DHPRJORELQ  KDV  JUHDWHU  DIILQLW\\  IRU  FDUERQ  GLR[LGH  WKDQ\nR[\\JHQ\nLY  $OYHROL LQFUHDVH VXUIDFH DUHD IRU H[FKDQJH RI JDVHV\nD   L DQG LY\nE   LL DQG LLL\nF   L DQG LLL\nG   LL DQG LY\n:KLFK LV WKH FRUUHFW VHTXHQFH RI DLU SDVVDJH GXULQJ LQKDODWLRQ\"\nD  1RVWULOV o ODU\\Q[ o SKDU\\Q[ o WUDFKHD o OXQJV\nE  1DVDO SDVVDJH o WUDFKHD o SKDU\\Q[ o ODU\\Q[ o DOYHROL\nF  ODU\\Q[ o QRVWULOV o SKDU\\Q[ o OXQJV\nG  1RVWULOV o SKDU\\Q[ o ODU\\Q[ o WUDFKHD o DOYHROL\n'XULQJ UHVSLUDWLRQ H[FKDQJH RI JDVHV WDNH SODFH LQ\nD  WUDFKHD DQG ODU\\Q[\nE  DOYHROL RI OXQJV\nF  DOYHROL DQG WKURDW\nG  WKURDW DQG ODU\\Q["
+      "fullText": "When air is blown from mouth into a test-tube containing lime\nwater, the lime water turned milky due to the presence of\n(a) oxygen\n(b) carbon dioxide\n(c) nitrogen\n(d) water vapour\n(;(03/$5  352%/(06 \u0103 6&,(1&(\n7KH FRUUHFW VHTXHQFH RI DQDHURELF UHDFWLRQV LQ \\HDVW LV\nD  *OXFRVH\n3\\UXYDWH\n(WKDQRO\n&DUERQGLR[LGH\nE  *OXFRVH\n3\\UXYDWH\n/DFWLF DFLG\nF  *OXFRVH\n3\\UXYDWH\n/DFWLF DFLG\nG  *OXFRVH\n3\\UXYDWH\n(WKDQRO\n&DUERQGLR[LGH\n:KLFK RI WKH IROORZLQJ LV PRVW DSSURSULDWH IRU DHURELF UHVSLUDWLRQ\"\nD  *OXFRVH\n3\\UXYDWH\n&2 + 2 (QHUJ\\\nE  *OXFRVH\n3\\UXYDWH\n&2 + 2 (QHUJ\\\nF  *OXFRVH\n3\\UXYDWH    (QHUJ\\\n&2 + 2\nG  *OXFRVH\n3\\UXYDWH    (QHUJ\\\n&2 + 2 (QHUJ\\\n:KLFK RI WKH IROORZLQJ VWDWHPHQW V LV DUH WUXH DERXW UHVSLUDWLRQ\"\nL  'XULQJ LQKDODWLRQ ULEV PRYH LQZDUG DQG GLDSKUDJP LV UDLVHG\nLL  ,Q WKH DOYHROL H[FKDQJH RI JDVHV WDNHV SODFH L H R[\\JHQ IURP\nDOYHRODU DLU GLIIXVHV LQWR EORRG DQG FDUERQ GLR[LGH IURP EORRG\nLQWR DOYHRODU DLU\nLLL  +DHPRJORELQ  KDV  JUHDWHU  DIILQLW\\  IRU  FDUERQ  GLR[LGH  WKDQ\nR[\\JHQ\nLY  $OYHROL LQFUHDVH VXUIDFH DUHD IRU H[FKDQJH RI JDVHV\nD   L DQG LY\nE   LL DQG LLL\nF   L DQG LLL\nG   LL DQG LY\n:KLFK LV WKH FRUUHFW VHTXHQFH RI DLU SDVVDJH GXULQJ LQKDODWLRQ\"\nD  1RVWULOV o ODU\\Q[ o SKDU\\Q[ o WUDFKHD o OXQJV\nE  1DVDO SDVVDJH o WUDFKHD o SKDU\\Q[ o ODU\\Q[ o DOYHROL\nF  ODU\\Q[ o QRVWULOV o SKDU\\Q[ o OXQJV\nG  1RVWULOV o SKDU\\Q[ o ODU\\Q[ o WUDFKHD o DOYHROL\n'XULQJ UHVSLUDWLRQ H[FKDQJH RI JDVHV WDNH SODFH LQ\nD  WUDFKHD DQG ODU\\Q[\nE  DOYHROL RI OXQJV\nF  DOYHROL DQG WKURDW\nG  WKURDW DQG ODU\\Q[",
+      "answer": "b",
+      "hint": ""
     },
     {
       "qNo": 17,
@@ -301,7 +323,9 @@
           "text": "(i) and (iii)"
         }
       ],
-      "fullText": "Which of the following statement (s) is (are) true about heart?\n(i) Left atrium receives oxygenated blood from different parts of\nbody while right atrium receives deoxygenated blood from lungs\n(ii) Left ventricle pumps oxygenated blood to different body parts\nwhile right ventricle pumps deoxygenated blood to lungs\n(iii) Left atrium transfers oxygenated blood to right ventricle which\nsends it to different body parts\n(iv) Right atrium receives deoxygenated blood from different parts\nof the body while left ventricle pumps oxygenated blood to\ndifferent parts of the body\n(a) (i)\n(b) (ii)\n(c) (ii) and (iv)\n(d) (i) and (iii)"
+      "fullText": "Which of the following statement (s) is (are) true about heart?\n(i) Left atrium receives oxygenated blood from different parts of\nbody while right atrium receives deoxygenated blood from lungs\n(ii) Left ventricle pumps oxygenated blood to different body parts\nwhile right ventricle pumps deoxygenated blood to lungs\n(iii) Left atrium transfers oxygenated blood to right ventricle which\nsends it to different body parts\n(iv) Right atrium receives deoxygenated blood from different parts\nof the body while left ventricle pumps oxygenated blood to\ndifferent parts of the body\n(a) (i)\n(b) (ii)\n(c) (ii) and (iv)\n(d) (i) and (iii)",
+      "answer": "c",
+      "hint": ""
     },
     {
       "qNo": 18,
@@ -326,7 +350,9 @@
           "text": "All of the above"
         }
       ],
-      "fullText": "What prevents backflow of blood inside the heart during\ncontraction?\n(a) Valves in heart\n(b) Thick muscular walls of ventricles\n(c) Thin walls of atria\n(d) All of the above"
+      "fullText": "What prevents backflow of blood inside the heart during\ncontraction?\n(a) Valves in heart\n(b) Thick muscular walls of ventricles\n(c) Thin walls of atria\n(d) All of the above",
+      "answer": "a",
+      "hint": ""
     },
     {
       "qNo": 19,
@@ -351,7 +377,9 @@
           "text": "Whale, Dolphin, Turtle"
         }
       ],
-      "fullText": "Single circulation i.e., blood flows through the heart only once\nduring one cycle of passage through the body, is exhibited by\n(a) Labeo, Chameleon, Salamander\n(b) Hippocampus, Exocoetus, Anabas\n(c) Hyla, Rana, Draco\n(d) Whale, Dolphin, Turtle"
+      "fullText": "Single circulation i.e., blood flows through the heart only once\nduring one cycle of passage through the body, is exhibited by\n(a) Labeo, Chameleon, Salamander\n(b) Hippocampus, Exocoetus, Anabas\n(c) Hyla, Rana, Draco\n(d) Whale, Dolphin, Turtle",
+      "answer": "b",
+      "hint": ""
     },
     {
       "qNo": 20,
@@ -376,7 +404,9 @@
           "text": "Pisces only"
         }
       ],
-      "fullText": "In which of the following vertebrate group/groups, heart does\nnot pump oxygenated blood to different parts of the body?\n(a) Pisces and amphibians\n(b) Amphibians and reptiles\n(c) Amphibians only\n(d) Pisces only"
+      "fullText": "In which of the following vertebrate group/groups, heart does\nnot pump oxygenated blood to different parts of the body?\n(a) Pisces and amphibians\n(b) Amphibians and reptiles\n(c) Amphibians only\n(d) Pisces only",
+      "answer": "d",
+      "hint": ""
     },
     {
       "qNo": 21,
@@ -401,7 +431,9 @@
           "text": "They have thick elastic walls without valves inside, blood flows\nunder high pressure and carry blood away from the heart to\ndifferent parts of the body."
         }
       ],
-      "fullText": "Choose the correct statement that describes arteries.\n(a) They have thick elastic walls, blood flows under high pressure;\ncollect blood from different organs and bring it back to the heart\n(b) They have thin walls with valves inside, blood flows under\nlow pressure and carry blood away from the heart to various\norgans of the body\n(c) They have thick elastic walls, blood flows under low pressure;\ncarry blood from the heart to various organs of the body\n(d) They have thick elastic walls without valves inside, blood flows\nunder high pressure and carry blood away from the heart to\ndifferent parts of the body."
+      "fullText": "Choose the correct statement that describes arteries.\n(a) They have thick elastic walls, blood flows under high pressure;\ncollect blood from different organs and bring it back to the heart\n(b) They have thin walls with valves inside, blood flows under\nlow pressure and carry blood away from the heart to various\norgans of the body\n(c) They have thick elastic walls, blood flows under low pressure;\ncarry blood from the heart to various organs of the body\n(d) They have thick elastic walls without valves inside, blood flows\nunder high pressure and carry blood away from the heart to\ndifferent parts of the body.",
+      "answer": "d",
+      "hint": ""
     },
     {
       "qNo": 22,
@@ -426,7 +458,9 @@
           "text": "nephrons"
         }
       ],
-      "fullText": "The filtration units of kidneys are called\n(a) ureter\n(b) urethra\n(c) neurons\n(d) nephrons"
+      "fullText": "The filtration units of kidneys are called\n(a) ureter\n(b) urethra\n(c) neurons\n(d) nephrons",
+      "answer": "d",
+      "hint": ""
     },
     {
       "qNo": 23,
@@ -451,7 +485,9 @@
           "text": "glucose"
         }
       ],
-      "fullText": "Oxygen liberated during photosynthesis comes from\n(a) water\n(b) chlorophyll\n(c) carbon dioxide\n(d) glucose"
+      "fullText": "Oxygen liberated during photosynthesis comes from\n(a) water\n(b) chlorophyll\n(c) carbon dioxide\n(d) glucose",
+      "answer": "a",
+      "hint": ""
     },
     {
       "qNo": 24,
@@ -476,7 +512,9 @@
           "text": "oxygen"
         }
       ],
-      "fullText": "The blood leaving the tissues becomes richer in\n(a) carbon dioxide\n(b) water\n(c) heamoglobin\n(d) oxygen"
+      "fullText": "The blood leaving the tissues becomes richer in\n(a) carbon dioxide\n(b) water\n(c) heamoglobin\n(d) oxygen",
+      "answer": "a",
+      "hint": ""
     },
     {
       "qNo": 25,
@@ -501,7 +539,9 @@
           "text": "Energy is essential for life processes"
         }
       ],
-      "fullText": "Which of the following is an incorrect statement?\n(a) Organisms grow with time\n(b) Organisms must repair and maintain their structure\n(c) Movement of molecules does not take place among cells\n(d) Energy is essential for life processes"
+      "fullText": "Which of the following is an incorrect statement?\n(a) Organisms grow with time\n(b) Organisms must repair and maintain their structure\n(c) Movement of molecules does not take place among cells\n(d) Energy is essential for life processes",
+      "answer": "c",
+      "hint": ""
     },
     {
       "qNo": 26,
@@ -526,7 +566,9 @@
           "text": "fatty acid"
         }
       ],
-      "fullText": "The internal (cellular) energy reserve in autotrophs is\n(a) glycogen\n(b) protein\n(c) starch\n(d) fatty acid"
+      "fullText": "The internal (cellular) energy reserve in autotrophs is\n(a) glycogen\n(b) protein\n(c) starch\n(d) fatty acid",
+      "answer": "c",
+      "hint": ""
     },
     {
       "qNo": 27,
@@ -536,22 +578,24 @@
       "options": [
         {
           "key": "a",
-          "text": "6CO2 + 12H2O  → C6H12O6 + 6O2+ 6H2O"
+          "text": "6CO2 + 12H2O  \u2192 C6H12O6 + 6O2+ 6H2O"
         },
         {
           "key": "b",
-          "text": "6CO2 + H2O  + Sunlight→ C6H12O6 + O2+ 6H2O"
+          "text": "6CO2 + H2O  + Sunlight\u2192 C6H12O6 + O2+ 6H2O"
         },
         {
           "key": "c",
-          "text": "6CO2 + 12H2O + Chlorophyll + Sunlight→ C6H12O6 + 6O2+ 6H2O"
+          "text": "6CO2 + 12H2O + Chlorophyll + Sunlight\u2192 C6H12O6 + 6O2+ 6H2O"
         },
         {
           "key": "d",
-          "text": "6CO2 + 12H2O  + Chlorophyll + Sunlight→ C6H12O6 + 6CO2+ 6H2O"
+          "text": "6CO2 + 12H2O  + Chlorophyll + Sunlight\u2192 C6H12O6 + 6CO2+ 6H2O"
         }
       ],
-      "fullText": "Which of the following equations is the summary of\nphotosynthesis?\n(a) 6CO2 + 12H2O  → C6H12O6 + 6O2+ 6H2O\n(b) 6CO2 + H2O  + Sunlight→ C6H12O6 + O2+ 6H2O\n(c) 6CO2 + 12H2O + Chlorophyll + Sunlight→ C6H12O6 + 6O2+ 6H2O\n(d) 6CO2 + 12H2O  + Chlorophyll + Sunlight→ C6H12O6 + 6CO2+ 6H2O"
+      "fullText": "Which of the following equations is the summary of\nphotosynthesis?\n(a) 6CO2 + 12H2O  \u2192 C6H12O6 + 6O2+ 6H2O\n(b) 6CO2 + H2O  + Sunlight\u2192 C6H12O6 + O2+ 6H2O\n(c) 6CO2 + 12H2O + Chlorophyll + Sunlight\u2192 C6H12O6 + 6O2+ 6H2O\n(d) 6CO2 + 12H2O  + Chlorophyll + Sunlight\u2192 C6H12O6 + 6CO2+ 6H2O",
+      "answer": "c",
+      "hint": ""
     },
     {
       "qNo": 28,
@@ -576,7 +620,9 @@
           "text": "Conversion of light energy to chemical energy"
         }
       ],
-      "fullText": "Choose the event that does not occur in photosynthesis\n(a) Absorption of light energy by chlorophyll\n(b) Reduction of carbon dioxide to carbohydrates\n(c) Oxidation of carbon to carbon dioxide\n(d) Conversion of light energy to chemical energy"
+      "fullText": "Choose the event that does not occur in photosynthesis\n(a) Absorption of light energy by chlorophyll\n(b) Reduction of carbon dioxide to carbohydrates\n(c) Oxidation of carbon to carbon dioxide\n(d) Conversion of light energy to chemical energy",
+      "answer": "c",
+      "hint": ""
     },
     {
       "qNo": 29,
@@ -601,7 +647,9 @@
           "text": "concentration of CO2 in stomata"
         }
       ],
-      "fullText": "The opening and closing of the stomatal pore depends upon\n(a) oxygen\n(b) temperature\n(c) water in guard cells\n(d) concentration of CO2 in stomata"
+      "fullText": "The opening and closing of the stomatal pore depends upon\n(a) oxygen\n(b) temperature\n(c) water in guard cells\n(d) concentration of CO2 in stomata",
+      "answer": "c",
+      "hint": ""
     },
     {
       "qNo": 30,
@@ -626,7 +674,9 @@
           "text": "(i) and (iv)"
         }
       ],
-      "fullText": "Choose the forms in which most plants absorb nitrogen\n(i) Proteins\n(ii) Nitrates and Nitrites\n(iii) Urea\n(iv) Atmospheric nitrogen\n(a) (i) and (ii)\n(b) (ii) and (iii)\n(c) (iii) and (iv)\n(d) (i) and (iv)"
+      "fullText": "Choose the forms in which most plants absorb nitrogen\n(i) Proteins\n(ii) Nitrates and Nitrites\n(iii) Urea\n(iv) Atmospheric nitrogen\n(a) (i) and (ii)\n(b) (ii) and (iii)\n(c) (iii) and (iv)\n(d) (i) and (iv)",
+      "answer": "b",
+      "hint": ""
     },
     {
       "qNo": 31,
@@ -651,7 +701,9 @@
           "text": "Trypsin"
         }
       ],
-      "fullText": "Which is the first enzyme to mix with food in the digestive tract?\n(a) Pepsin\n(b) Cellulase\n(c) Amylase\n(d) Trypsin"
+      "fullText": "Which is the first enzyme to mix with food in the digestive tract?\n(a) Pepsin\n(b) Cellulase\n(c) Amylase\n(d) Trypsin",
+      "answer": "c",
+      "hint": ""
     },
     {
       "qNo": 32,
@@ -676,7 +728,9 @@
           "text": "(ii) and (iii)"
         }
       ],
-      "fullText": "Which of the following statement(s) is (are) correct?\n(i) Pyruvate can be converted into ethanol and carbon dioxide\nby yeast\n(ii) Fermentation takes place in aerobic bacteria\n(iii) Fermentation takes place in mitochondria\n(iv) Fermentation is a form of anaerobic respiration\n(a) (i)  and (iii)\n(b) (ii) and (iv)\n(c) (i) and (iv)\n(d) (ii) and (iii)"
+      "fullText": "Which of the following statement(s) is (are) correct?\n(i) Pyruvate can be converted into ethanol and carbon dioxide\nby yeast\n(ii) Fermentation takes place in aerobic bacteria\n(iii) Fermentation takes place in mitochondria\n(iv) Fermentation is a form of anaerobic respiration\n(a) (i)  and (iii)\n(b) (ii) and (iv)\n(c) (i) and (iv)\n(d) (ii) and (iii)",
+      "answer": "c",
+      "hint": ""
     },
     {
       "qNo": 33,
@@ -701,7 +755,9 @@
           "text": "conversion of pyruvate to lactic acid"
         }
       ],
-      "fullText": "Lack of oxygen in muscles often leads to cramps among cricketers.\nThis results due to\n(a) conversion of pyruvate to ethanol\n(b) conversion of pyruvate to glucose\n(c) non conversion of glucose to pyruvate\n(d) conversion of pyruvate to lactic acid"
+      "fullText": "Lack of oxygen in muscles often leads to cramps among cricketers.\nThis results due to\n(a) conversion of pyruvate to ethanol\n(b) conversion of pyruvate to glucose\n(c) non conversion of glucose to pyruvate\n(d) conversion of pyruvate to lactic acid",
+      "answer": "d",
+      "hint": ""
     },
     {
       "qNo": 34,
@@ -711,22 +767,24 @@
       "options": [
         {
           "key": "a",
-          "text": "kidney → ureter → urethra  → urinary bladder"
+          "text": "kidney \u2192 ureter \u2192 urethra  \u2192 urinary bladder"
         },
         {
           "key": "b",
-          "text": "kidney → urinary bladder → urethra  → ureter"
+          "text": "kidney \u2192 urinary bladder \u2192 urethra  \u2192 ureter"
         },
         {
           "key": "c",
-          "text": "kidney → ureters → urinary bladder  → urethra"
+          "text": "kidney \u2192 ureters \u2192 urinary bladder  \u2192 urethra"
         },
         {
           "key": "d",
-          "text": "urinary bladder → kidney → ureter → urethra"
+          "text": "urinary bladder \u2192 kidney \u2192 ureter \u2192 urethra"
         }
       ],
-      "fullText": "Choose the correct path of urine in our body\n(a) kidney → ureter → urethra  → urinary bladder\n(b) kidney → urinary bladder → urethra  → ureter\n(c) kidney → ureters → urinary bladder  → urethra\n(d) urinary bladder → kidney → ureter → urethra"
+      "fullText": "Choose the correct path of urine in our body\n(a) kidney \u2192 ureter \u2192 urethra  \u2192 urinary bladder\n(b) kidney \u2192 urinary bladder \u2192 urethra  \u2192 ureter\n(c) kidney \u2192 ureters \u2192 urinary bladder  \u2192 urethra\n(d) urinary bladder \u2192 kidney \u2192 ureter \u2192 urethra",
+      "answer": "c",
+      "hint": ""
     },
     {
       "qNo": 35,
@@ -751,7 +809,9 @@
           "text": "golgi body"
         }
       ],
-      "fullText": "During deficiency of oxygen in tissues of human beings, pyruvic\nacid is converted into lactic acid in the\n(a) cytoplasm\n(b) chloroplast\n(c) mitochondria\n(d) golgi body"
+      "fullText": "During deficiency of oxygen in tissues of human beings, pyruvic\nacid is converted into lactic acid in the\n(a) cytoplasm\n(b) chloroplast\n(c) mitochondria\n(d) golgi body",
+      "answer": "a",
+      "hint": ""
     },
     {
       "qNo": 36,
@@ -765,9 +825,9 @@
       "qNo": 37,
       "section": "Short Answer Questions",
       "type": "short_answer",
-      "stem": "“All plants give out oxygen during day and carbon dioxide during\nnight”. Do you agree with this statement? Give reason.",
+      "stem": "\u201cAll plants give out oxygen during day and carbon dioxide during\nnight\u201d. Do you agree with this statement? Give reason.",
       "options": [],
-      "fullText": "“All plants give out oxygen during day and carbon dioxide during\nnight”. Do you agree with this statement? Give reason."
+      "fullText": "\u201cAll plants give out oxygen during day and carbon dioxide during\nnight\u201d. Do you agree with this statement? Give reason."
     },
     {
       "qNo": 38,
@@ -813,9 +873,9 @@
       "qNo": 43,
       "section": "Short Answer Questions",
       "type": "short_answer",
-      "stem": "Is ‘nutrition’ a necessity for an organism? Discuss.",
+      "stem": "Is \u2018nutrition\u2019 a necessity for an organism? Discuss.",
       "options": [],
-      "fullText": "Is ‘nutrition’ a necessity for an organism? Discuss."
+      "fullText": "Is \u2018nutrition\u2019 a necessity for an organism? Discuss."
     },
     {
       "qNo": 44,
@@ -957,9 +1017,9 @@
       "qNo": 61,
       "section": "Short Answer Questions",
       "type": "short_answer",
-      "stem": "Name the energy currency in the living organisms. When and\nwhere is it produced?\n(a) Autotrophic nutrition\n(b) Heterotrophic nutrition\n(c) Parasitic nutrition\n(d) Digestion in food vacuoles\nColumn (A)\nColumn (B)\n(a)\nPhloem\n(b) Nephron\n(c)\nVeins\n(d) Platelets\n(i)\nExcretion\n(ii) Translocation of food\n(iii) Clotting of blood\n(iv) Deoxygenated blood\n(;(03/$5  352%/(06 ă 6&,(1&(\n&ROXPQ $\n&ROXPQ %\nL\n3DQFUHDV\nLL\n/LYHU\nLLL  *DVWULF JODQGV\nLY  6DOLYD\n:KDW LV FRPPRQ IRU FXVFXWD WLFNV DQG OHHFKHV\"\n([SODLQ WKH UROH RI PRXWK LQ GLJHVWLRQ RI IRRG\n:KDW DUH WKH IXQFWLRQV RI JDVWULF JODQGV SUHVHQW LQ WKH ZDOO RI WKH\nVWRPDFK\"\n0DWFK WKH WHUPV LQ &ROXPQ $ ZLWK WKRVH LQ &ROXPQ %\n1DPH WKH FRUUHFW VXEVWUDWHV IRU WKH IROORZLQJ HQ]\\PHV\nD  7U\\SVLQ\nE  $P\\ODVH\nF  3HSVLQ\nG  /LSDVH\n:K\\ GR YHLQV KDYH WKLQ ZDOOV DV FRPSDUHG WR DUWHULHV\"\n:KDW ZLOO KDSSHQ LI SODWHOHWV ZHUH DEVHQW LQ WKH EORRG\"\n3ODQWV KDYH ORZ HQHUJ\\ QHHGV DV FRPSDUHG WR DQLPDOV ([SODLQ\n:K\\ DQG KRZ GRHV ZDWHU HQWHU FRQWLQXRXVO\\ LQWR WKH URRW [\\OHP\"\n:K\\ LV WUDQVSLUDWLRQ LPSRUWDQW IRU SODQWV\"\n+RZ GR OHDYHV RI SODQWV KHOS LQ H[FUHWLRQ\"",
+      "stem": "Name the energy currency in the living organisms. When and\nwhere is it produced?\n(a) Autotrophic nutrition\n(b) Heterotrophic nutrition\n(c) Parasitic nutrition\n(d) Digestion in food vacuoles\nColumn (A)\nColumn (B)\n(a)\nPhloem\n(b) Nephron\n(c)\nVeins\n(d) Platelets\n(i)\nExcretion\n(ii) Translocation of food\n(iii) Clotting of blood\n(iv) Deoxygenated blood\n(;(03/$5  352%/(06 \u0103 6&,(1&(\n&ROXPQ $\n&ROXPQ %\nL\n3DQFUHDV\nLL\n/LYHU\nLLL  *DVWULF JODQGV\nLY  6DOLYD\n:KDW LV FRPPRQ IRU FXVFXWD WLFNV DQG OHHFKHV\"\n([SODLQ WKH UROH RI PRXWK LQ GLJHVWLRQ RI IRRG\n:KDW DUH WKH IXQFWLRQV RI JDVWULF JODQGV SUHVHQW LQ WKH ZDOO RI WKH\nVWRPDFK\"\n0DWFK WKH WHUPV LQ &ROXPQ $ ZLWK WKRVH LQ &ROXPQ %\n1DPH WKH FRUUHFW VXEVWUDWHV IRU WKH IROORZLQJ HQ]\\PHV\nD  7U\\SVLQ\nE  $P\\ODVH\nF  3HSVLQ\nG  /LSDVH\n:K\\ GR YHLQV KDYH WKLQ ZDOOV DV FRPSDUHG WR DUWHULHV\"\n:KDW ZLOO KDSSHQ LI SODWHOHWV ZHUH DEVHQW LQ WKH EORRG\"\n3ODQWV KDYH ORZ HQHUJ\\ QHHGV DV FRPSDUHG WR DQLPDOV ([SODLQ\n:K\\ DQG KRZ GRHV ZDWHU HQWHU FRQWLQXRXVO\\ LQWR WKH URRW [\\OHP\"\n:K\\ LV WUDQVSLUDWLRQ LPSRUWDQW IRU SODQWV\"\n+RZ GR OHDYHV RI SODQWV KHOS LQ H[FUHWLRQ\"",
       "options": [],
-      "fullText": "Name the energy currency in the living organisms. When and\nwhere is it produced?\n(a) Autotrophic nutrition\n(b) Heterotrophic nutrition\n(c) Parasitic nutrition\n(d) Digestion in food vacuoles\nColumn (A)\nColumn (B)\n(a)\nPhloem\n(b) Nephron\n(c)\nVeins\n(d) Platelets\n(i)\nExcretion\n(ii) Translocation of food\n(iii) Clotting of blood\n(iv) Deoxygenated blood\n(;(03/$5  352%/(06 ă 6&,(1&(\n&ROXPQ $\n&ROXPQ %\nL\n3DQFUHDV\nLL\n/LYHU\nLLL  *DVWULF JODQGV\nLY  6DOLYD\n:KDW LV FRPPRQ IRU FXVFXWD WLFNV DQG OHHFKHV\"\n([SODLQ WKH UROH RI PRXWK LQ GLJHVWLRQ RI IRRG\n:KDW DUH WKH IXQFWLRQV RI JDVWULF JODQGV SUHVHQW LQ WKH ZDOO RI WKH\nVWRPDFK\"\n0DWFK WKH WHUPV LQ &ROXPQ $ ZLWK WKRVH LQ &ROXPQ %\n1DPH WKH FRUUHFW VXEVWUDWHV IRU WKH IROORZLQJ HQ]\\PHV\nD  7U\\SVLQ\nE  $P\\ODVH\nF  3HSVLQ\nG  /LSDVH\n:K\\ GR YHLQV KDYH WKLQ ZDOOV DV FRPSDUHG WR DUWHULHV\"\n:KDW ZLOO KDSSHQ LI SODWHOHWV ZHUH DEVHQW LQ WKH EORRG\"\n3ODQWV KDYH ORZ HQHUJ\\ QHHGV DV FRPSDUHG WR DQLPDOV ([SODLQ\n:K\\ DQG KRZ GRHV ZDWHU HQWHU FRQWLQXRXVO\\ LQWR WKH URRW [\\OHP\"\n:K\\ LV WUDQVSLUDWLRQ LPSRUWDQW IRU SODQWV\"\n+RZ GR OHDYHV RI SODQWV KHOS LQ H[FUHWLRQ\""
+      "fullText": "Name the energy currency in the living organisms. When and\nwhere is it produced?\n(a) Autotrophic nutrition\n(b) Heterotrophic nutrition\n(c) Parasitic nutrition\n(d) Digestion in food vacuoles\nColumn (A)\nColumn (B)\n(a)\nPhloem\n(b) Nephron\n(c)\nVeins\n(d) Platelets\n(i)\nExcretion\n(ii) Translocation of food\n(iii) Clotting of blood\n(iv) Deoxygenated blood\n(;(03/$5  352%/(06 \u0103 6&,(1&(\n&ROXPQ $\n&ROXPQ %\nL\n3DQFUHDV\nLL\n/LYHU\nLLL  *DVWULF JODQGV\nLY  6DOLYD\n:KDW LV FRPPRQ IRU FXVFXWD WLFNV DQG OHHFKHV\"\n([SODLQ WKH UROH RI PRXWK LQ GLJHVWLRQ RI IRRG\n:KDW DUH WKH IXQFWLRQV RI JDVWULF JODQGV SUHVHQW LQ WKH ZDOO RI WKH\nVWRPDFK\"\n0DWFK WKH WHUPV LQ &ROXPQ $ ZLWK WKRVH LQ &ROXPQ %\n1DPH WKH FRUUHFW VXEVWUDWHV IRU WKH IROORZLQJ HQ]\\PHV\nD  7U\\SVLQ\nE  $P\\ODVH\nF  3HSVLQ\nG  /LSDVH\n:K\\ GR YHLQV KDYH WKLQ ZDOOV DV FRPSDUHG WR DUWHULHV\"\n:KDW ZLOO KDSSHQ LI SODWHOHWV ZHUH DEVHQW LQ WKH EORRG\"\n3ODQWV KDYH ORZ HQHUJ\\ QHHGV DV FRPSDUHG WR DQLPDOV ([SODLQ\n:K\\ DQG KRZ GRHV ZDWHU HQWHU FRQWLQXRXVO\\ LQWR WKH URRW [\\OHP\"\n:K\\ LV WUDQVSLUDWLRQ LPSRUWDQW IRU SODQWV\"\n+RZ GR OHDYHV RI SODQWV KHOS LQ H[FUHWLRQ\""
     }
   ]
 }
