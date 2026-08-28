@@ -3,9 +3,9 @@ import glob
 import os
 import re
 
-KB_ROOT = "/home/sagarv/Projects/cbse_KB/10th"
+KB_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "10th"))
 MS_DIR = os.path.join(KB_ROOT, "extracted_data", "marking_schemes", "science_086", "2026")
-WEB_PYQ_OUT = "/home/sagarv/Projects/cbse_byCodex/apps/web/lib/chapter-pyqs.generated.json"
+WEB_PYQ_OUT = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..", "cbse_byCodex", "apps", "web", "lib", "chapter-pyqs.generated.json"))
 
 json_files = sorted(glob.glob(os.path.join(MS_DIR, "science_086_2026_set_*.json")))
 all_questions = []

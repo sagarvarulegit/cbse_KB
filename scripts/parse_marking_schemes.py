@@ -10,7 +10,7 @@ import re
 import json
 import fitz  # PyMuPDF
 
-KB_ROOT = "/home/sagarv/Projects/cbse_KB/10th"
+KB_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "10th"))
 OUTPUT_BASE = os.path.join(KB_ROOT, "extracted_data", "marking_schemes")
 
 def clean_text(text: str) -> str:

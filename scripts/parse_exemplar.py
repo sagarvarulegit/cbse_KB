@@ -9,7 +9,7 @@ import re
 import json
 import fitz
 
-KB_ROOT = "/home/sagarv/Projects/cbse_KB/10th"
+KB_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "10th"))
 EXEMPLAR_DIR = os.path.join(KB_ROOT, "NCERTExemplar")
 OUTPUT_BASE = os.path.join(KB_ROOT, "extracted_data", "exemplar")
 

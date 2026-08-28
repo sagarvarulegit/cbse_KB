@@ -7,7 +7,7 @@ Comprehensive Quality Gate & Schema Validator for all extracted datasets in cbse
 import os
 import json
 
-KB_ROOT = "/home/sagarv/Projects/cbse_KB/10th"
+KB_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "10th"))
 EXTRACTED_DATA_DIR = os.path.join(KB_ROOT, "extracted_data")
 
 def validate_marking_schemes():

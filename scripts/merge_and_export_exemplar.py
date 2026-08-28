@@ -3,10 +3,10 @@ import re
 import json
 import fitz
 
-KB_ROOT = "/home/sagarv/Projects/cbse_KB/10th"
+KB_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "10th"))
 EXEMPLAR_DIR = os.path.join(KB_ROOT, "NCERTExemplar")
 DATA_DIR = os.path.join(KB_ROOT, "extracted_data", "exemplar")
-WEB_OUT = "/home/sagarv/Projects/cbse_byCodex/apps/web/lib/exemplar-questions.generated.json"
+WEB_OUT = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..", "cbse_byCodex", "apps", "web", "lib", "exemplar-questions.generated.json"))
 
 # Extract Science Answers
 doc_sci = fitz.open(os.path.join(EXEMPLAR_DIR, "science-exemplar-answers.pdf"))

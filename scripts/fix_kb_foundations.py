@@ -13,7 +13,7 @@ import shutil
 import urllib.request
 import fitz # PyMuPDF
 
-KB_ROOT = "/home/sagarv/Projects/cbse_KB/10th"
+KB_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "10th"))
 TEXTBOOKS_DIR = os.path.join(KB_ROOT, "textbooks")
 NCERT_TEXTBOOKS_DIR = os.path.join(KB_ROOT, "NCERTTextbooks")
 EXEMPLAR_DIR = os.path.join(KB_ROOT, "NCERTExemplar")
