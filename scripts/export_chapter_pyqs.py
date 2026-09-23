@@ -7,10 +7,27 @@ KB_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "10th"))
 MS_DIR = os.path.join(KB_ROOT, "extracted_data", "marking_schemes", "science_086", "2026")
 WEB_PYQ_OUT = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..", "cbse_byCodex", "apps", "web", "lib", "chapter-pyqs.generated.json"))
 
+QUESTION_SIDECAR = os.path.join(os.path.dirname(__file__), "question_texts_2026_science.json")
+with open(QUESTION_SIDECAR, 'r', encoding="utf-8") as f:
+    QUESTION_TEXTS = json.load(f)
+
+# Chapters whose drill cards show the verbatim board question. Every exported
+# item in these chapters MUST have sidecar wording; the export fails otherwise
+# so a question-less card can never ship again. Add slugs as transcription
+# passes complete them.
+QUESTION_COMPLETE_CHAPTERS = {"life-processes"}
+
+# Explicit chapter filing for mixed-part questions the keyword screen
+# misfiles. q26 is two parts chemistry (rancidity, silver-chloride
+# photolysis) plus one respiration sub-part; it belongs with Chemistry.
+CHAPTER_OVERRIDES = {
+    "cbse-2026-s31-3-2-q26": "chemical-reactions-and-equations",
+}
+
 json_files = sorted(glob.glob(os.path.join(MS_DIR, "science_086_2026_set_*.json")))
 all_questions = []
 for jf in json_files:
-    with open(jf, 'r') as f:
+    with open(jf, 'r', encoding="utf-8") as f:
         data = json.load(f)
         paper_set = data.get("paperSet", "31/1/1")
         year = data.get("year", 2026)
@@ -101,6 +118,8 @@ for q in all_questions:
         continue
         
     slug = classify_question(q)
+    override_id = f"cbse-2026-s{q['paperSet'].replace('/', '-')}-q{q['qNo']}"
+    slug = CHAPTER_OVERRIDES.get(override_id, slug)
     ans_key = main_ans[:80].lower()
     
     if ans_key in seen_answers:
@@ -113,17 +132,27 @@ for q in all_questions:
     if slug not in pyqs_by_chapter:
         pyqs_by_chapter[slug] = []
     
-    # Format value points from step marks and mainAnswer
+    # Lines beyond the allocated step marks are continuations of the previous
+    # point (a line wrap in the source key), NOT new points — giving them
+    # invented marks made badges sum past the question total.
     lines = [l.strip() for l in main_ans.split('\n') if l.strip()]
     step_marks = q.get("stepMarksAllocated", [])
-    
+
     value_points = []
     for idx, line in enumerate(lines):
-        allocated = step_marks[idx] if idx < len(step_marks) else (marks / len(lines) if len(lines) else 1.0)
-        value_points.append(f"[+{allocated:.1f} Mark] {line}")
-        
+        if idx < len(step_marks):
+            value_points.append(f"[+{step_marks[idx]:.1f} Mark] {line}")
+        elif value_points:
+            value_points[-1] = f"{value_points[-1]} {line}"
+        else:
+            value_points.append(line)
+
+    item_id = f"cbse-2026-s{q['paperSet'].replace('/', '-')}-q{q['qNo']}"
+    # A cross-set duplicate merges into the first-seen entry; its wording
+    # lives under that entry's id.
+    wording = QUESTION_TEXTS.get(item_id)
     entry = {
-        "id": f"cbse-2026-s{q['paperSet'].replace('/', '-')}-q{q['qNo']}",
+        "id": item_id,
         "year": q["year"],
         "paperSet": q["paperSet"],
         "sets": [f"2026 Set {q['paperSet']}"],
@@ -131,6 +160,9 @@ for q in all_questions:
         "section": q["section"],
         "marks": marks,
         "questionType": q.get("questionType", "short_answer"),
+        "question": wording["question"] if wording else None,
+        "questionRefs": wording["questionRefs"] if wording else {},
+        "questionSource": wording["source"] if wording else None,
         "mainAnswer": main_ans,
         "valuePoints": value_points,
         "examinerNotes": q.get("examinerNotes", []),
@@ -139,11 +171,21 @@ for q in all_questions:
     seen_answers[ans_key] = entry
     pyqs_by_chapter[slug].append(entry)
 
+missing = [
+    e["id"] for slug in QUESTION_COMPLETE_CHAPTERS
+    for e in pyqs_by_chapter.get(slug, [])
+    if not e.get("question")
+]
+if missing:
+    raise SystemExit(
+        f"Export refused: {len(missing)} drill item(s) in {sorted(QUESTION_COMPLETE_CHAPTERS)} "
+        f"lack verbatim question wording: {missing}. Add them to question_texts_2026_science.json."
+    )
 print("\nUnique Extracted Board Questions by Chapter:")
 for slug, q_list in pyqs_by_chapter.items():
     print(f"- {slug}: {len(q_list)} authentic Board questions")
 
-with open(WEB_PYQ_OUT, 'w') as f:
+with open(WEB_PYQ_OUT, 'w', encoding="utf-8") as f:
     json.dump(pyqs_by_chapter, f, indent=2)
 
 print(f"\n✅ Successfully exported {sum(len(l) for l in pyqs_by_chapter.values())} CBSE Board PYQs to {WEB_PYQ_OUT}")

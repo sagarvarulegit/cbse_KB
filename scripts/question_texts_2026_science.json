@@ -1,0 +1,28 @@
+{
+  "_note": "Verbatim CBSE question-paper wording for drill items, transcribed from the official 2026 Science QPs (Series LKN3M). questionRefs maps paper set -> QP question number (numbering differs per set). Sources archived under 10th/PreviousYearExamPapers/2026/086-science/086_Science/.",
+  "cbse-2026-s31-3-1-q11": {
+    "question": "What kind of respiration provides more energy and why?",
+    "questionRefs": {"31/3/1": 11, "31/3/2": 10, "31/3/3": 12},
+    "source": "CBSE Class 10 Science 2026, Series LKN3M"
+  },
+  "cbse-2026-s31-3-1-q13": {
+    "question": "In xylem tissue, vessels and tracheids of the roots, stems and leaves are interconnected to form a continuous system of water-conducting channels reaching all parts of the plant. Explain how this is achieved.",
+    "questionRefs": {"31/3/1": 13},
+    "source": "CBSE Class 10 Science 2026, Series LKN3M"
+  },
+  "cbse-2026-s31-3-1-q15": {
+    "question": "Read the following passage and answer the questions that follow:\n\nNot all plants carry out photosynthesis by the same mechanism. In most plants, it depends directly on gaseous carbon dioxide that diffuses into the leaf. However, some plants can store carbon dioxide in the vacuole of the leaf cells as part of a complex carbon compound. This compound is transported to the chloroplast and releases carbon dioxide when required for photosynthesis. This special mechanism is believed to have evolved as an adaptation in such plants which do not open stomata during the daytime to conserve water for survival in dry conditions (desert conditions).\n\nAttempt either (a) or (b):\n(a) (i) Which process in these plants is minimised to help the plants survive in dry conditions?\n(ii) Which part of the leaf is responsible for exchange of gases during photosynthesis?\n\nOR\n\n(b) (i) List the events that occur during the process of photosynthesis.\n(ii) When are such desert plants likely to take in carbon dioxide from the environment, unlike other plants?\n(iii) Draw a labelled diagram of stomata with open stomatal pore.",
+    "questionRefs": {"31/3/1": 15, "31/3/2": 15},
+    "source": "CBSE Class 10 Science 2026, Series LKN3M"
+  },
+  "cbse-2026-s31-3-2-q14": {
+    "question": "In xylem tissue, vessels and tracheids of the roots, stems and leaves are interconnected to form a continuous system of water-conducting channels reaching all parts of the plant. Explain how this is achieved.",
+    "questionRefs": {"31/3/2": 14},
+    "source": "CBSE Class 10 Science 2026, Series LKN3M"
+  },
+  "cbse-2026-s31-3-3-q15": {
+    "question": "Read the following passage and answer the questions that follow:\n\nNot all plants carry out photosynthesis by the same mechanism. In most plants, it depends directly on gaseous carbon dioxide that diffuses into the leaf. However, some plants can store carbon dioxide in the vacuole of the leaf cells as part of a complex carbon compound. This compound is transported to the chloroplast and releases carbon dioxide when required for photosynthesis. This special mechanism is believed to have evolved as an adaptation in such plants which do not open stomata during the daytime to conserve water for survival in dry conditions (desert conditions).\n\nAttempt either (a) or (b):\n(a) (i) Which process in these plants is minimised to help the plants survive in dry conditions?\n(ii) Which part of the leaf is responsible for exchange of gases during photosynthesis?\n\nOR\n\n(b) (i) List the events that occur during the process of photosynthesis.\n(ii) When are such desert plants likely to take in carbon dioxide from the environment, unlike other plants?\n(iii) Draw a labelled diagram of stomata with open stomatal pore.",
+    "questionRefs": {"31/3/3": 15},
+    "source": "CBSE Class 10 Science 2026, Series LKN3M"
+  }
+}
